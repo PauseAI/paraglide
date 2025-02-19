@@ -41,7 +41,7 @@ Het zijn gewoon bytes, dus het is niet gebonden aan één locatie.
 GPT-4 kan al [autonoom websites hacken](https://arxiv.org/html/2402.06664v1), [87% van de geteste kwetsbaarheden exploiteren](https://arxiv.org/abs/2404.08144) en [88% van de concurrerende hackers verslaan](https://arxiv.org/pdf/2402.11814.pdf).
 Hoe slim denk je dat GPT-6 zal zijn?
 
-Lees meer over de [cybersecurity-risico's](/cybersecurity-risico's).
+Lees meer over de [cybersecurity-risico's](/cybersecurity-risks).
 
 ## Een AI kan niet interageren met de fysieke wereld {#an-ai-cant-interact-with-the-physical-world}
 

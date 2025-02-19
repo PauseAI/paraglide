@@ -83,7 +83,7 @@ Het blijkt erg moeilijk te zijn om precies te voorspellen wat deze capaciteiten 
 Daarom noemt Google ze [_Emergente capaciteiten_](https://research.google/pubs/emergent-abilities-of-large-language-models/).
 Voor de meeste capaciteiten is dit geen probleem.
 Er zijn echter enkele [gevaarlijke capaciteiten](/gevaarlijke-capaciteiten) (zoals hacking of biowapenontwerp) die we niet willen dat AI-modellen bezitten.
-Soms worden deze capaciteiten pas lang na het voltooien van de training ontdekt. Bijvoorbeeld, 18 maanden nadat GPT-4 de training had voltooid, ontdekten onderzoekers dat het [autonoom websites kan hacken](/cybersecurity-risico's).
+Soms worden deze capaciteiten pas lang na het voltooien van de training ontdekt. Bijvoorbeeld, 18 maanden nadat GPT-4 de training had voltooid, ontdekten onderzoekers dat het [autonoom websites kan hacken](/cybersecurity-risks).
 
 > Totdat we dat model trainen, is het een leuk gokspel voor ons
 >
