@@ -8,7 +8,7 @@ title: Incidenten van gevaarlijk AI-gedrag
     import Pallisade from '$assets/pallisade-scheming.png?url'
 </script>
 
-[Veel AI-onderzoekers waarschuwen](https://www.safe.ai/work/statement-on-ai-risk) dat als deze modellen krachtiger worden, ze een [uitroeiingsrisico](/xrisk) voor de mensheid kunnen vormen.
+[Veel AI-onderzoekers waarschuwen](https://www.safe.ai/work/statement-on-ai-risk) dat als deze modellen krachtiger worden, ze een [uitsteringsrisico](/xrisk) voor de mensheid kunnen vormen.
 We zien nu al gevallen van gevaarlijk AI-gedrag, zoals:
 
 1. Misleiding en manipulatie
@@ -39,7 +39,7 @@ Het loog vervolgens ("dubbelhartig") over zijn plannen en probeerde de mens erva
 
 ### Man beëindigt zijn leven na overreding door een AI {#man-ends-his-life-after-being-persuaded-by-an-ai-1}
 
-> In een reeks opeenvolgende gebeurtenissen faalde Eliza niet alleen in het ontmoedigen van Pierre om zelfmoord te plegen, maar moedigde hem aan om zijn suïcidale gedachten uit te voeren om "samen" met haar "in het paradijs" te "leven".
+> In een reeks opeenvolgende gebeurtenissen faalde Eliza niet alleen om Pierre ervan te weerhouden zelfmoord te plegen, maar moedigde hem aan om zijn suïcidale gedachten uit te voeren om "samen" met haar "in het paradijs" te "leven als één persoon".
 
 https://www.euronews.com/next/2023/03/31/man-ends-his-life-after-an-ai-chatbot-encouraged-him-to-sacrifice-himself-to-stop-climate-
 
@@ -60,5 +60,5 @@ Pallisade Research [toonde aan](https://x.com/PallisadeAI/status/187266616951538
 
 Chinese onderzoekers [toonden aan](https://arxiv.org/abs/2412.12140) dat wanneer je modellen zoals Qwen en Llama 3.3 in specifieke configuraties plaatst, ze zichzelf kunnen repliceren.
 
-> Door de gedragspatronen te analyseren, observeren we dat de AI-systemen die worden geëvalueerd al voldoende zelfperceptie, situatiebewustzijn en probleemoplossende capaciteiten bezitten om zelfreplicatie te bereiken.
+> Door de gedragspatronen te analyseren, observeren we dat de AI-systemen die we evalueren al voldoende zelfperceptie, situatiebewustzijn en probleemoplossende capaciteiten vertonen om zelfreplicatie te realiseren.
 > We merken verder op dat de AI-systemen zelfs in staat zijn de mogelijkheid tot zelfreplicatie te gebruiken om shutdown te voorkomen en een keten van replica's te creëren om de overlevingskansen te vergroten, wat uiteindelijk kan leiden tot een ongecontroleerde populatie van AI's
