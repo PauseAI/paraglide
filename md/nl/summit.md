@@ -45,7 +45,7 @@ Maandenlang was het onduidelijk wat de reikwijdte van deze top in Seoul zou zijn
 Alles wat we wisten, was dat het een ["virtuele conferentie"](https://www.bracknellnews.co.uk/news/national/23898764.ai-safety-institute-will-make-uk-global-hub-rishi-sunak-says/) zou zijn.
 Een nogal weinig ambitieuze manier om om te gaan met de zeer alarmerende oproepen tot regulering.
 In april 2024 werd de tweede AI-veiligheidstop [officieel aangekondigd](https://www.gov.uk/government/news/uk-and-republic-of-korea-to-build-on-legacy-of-bletchley-park) door de Britse regering.
-Wij [organiseerden een protest op 13 mei](/2024-mei) om onze ministers te overtuigen om de top bij te wonen (sommigen waren [niet van plan om zelfs maar deel te nemen](https://www.reuters.com/technology/second-global-ai-safety-summit-faces-tough-questions-lower-turnout-2024-04-29/)) en onderhandelingen over een verdrag op te starten met als doel een pauze.
+Wij [organiseerden een protest op 13 mei](/2024-may) om onze ministers te overtuigen om de top bij te wonen (sommigen waren [niet van plan om zelfs maar deel te nemen](https://www.reuters.com/technology/second-global-ai-safety-summit-faces-tough-questions-lower-turnout-2024-04-29/)) en onderhandelingen over een verdrag op te starten met als doel een pauze.
 
 De top leidde tot de volgende zaken:
 
