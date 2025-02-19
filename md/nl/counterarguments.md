@@ -80,7 +80,7 @@ Een jaar later won een Chinese professor een schrijfwedstrijd met een door AI ge
 
 We weten niet hoe lang we nog hebben, maar laten we aan de veilige kant blijven.
 
-Lees meer over [urgentie](/urgentie)
+Lees meer over [urgentie](/urgency)
 
 ## Als je het hier verbiedt, zal China het gewoon bouwen {#if-you-ban-it-here-china-will-just-build-it}
 
@@ -88,7 +88,7 @@ We vragen niet om het alleen hier te verbieden.
 We hebben een internationale pauze nodig via een verdrag.
 Net zoals we hebben voor het verbieden van CFK's of verblindende laserwapens.
 
-Lees meer over [ons voorstel](/voorstel)
+Lees meer over [ons voorstel](/proposal)
 
 ## Het is onmogelijk om technologie te vertragen. {#its-impossible-to-slow-down-technology}
 
@@ -97,7 +97,7 @@ Het trainen van AI-modellen vereist zeer gespecialiseerde hardware, die alleen d
 Dat bedrijf gebruikt machines die door nog een ander bedrijf, ASML, worden gemaakt.
 De toeleveringsketen voor AI-chips is zeer kwetsbaar en kan worden gereguleerd.
 
-Lees meer over [haalbaarheid](/haalbaarheid).
+Lees meer over [haalbaarheid](/feasibility).
 
 ## Een pauze zou slecht zijn, omdat... {#a-pause-would-be-bad-because}
 

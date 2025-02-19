@@ -31,7 +31,7 @@ Ook wel een "dode internet" genoemd.
 
 Dit leidt tot polarisatie tussen verschillende groepen mensen die in verschillende informatiebronnen en verhalen geloven en, door het consumeren van vervormde voorstellingen van wat er gebeurt, hun verschillen escaleren tot gewelddadige en antidemocratische reacties.
 
-Een pauze in de ontwikkeling van de krachtigste KI-modellen (onze [voorstel](/voorstel)) zou de modellen die tegenwoordig worden gebruikt om nepmedia te creëren niet stoppen, maar het zou kunnen helpen om toekomstige cutting-edge-modellen te voorkomen.
+Een pauze in de ontwikkeling van de krachtigste KI-modellen (onze [voorstel](/proposal)) zou de modellen die tegenwoordig worden gebruikt om nepmedia te creëren niet stoppen, maar het zou kunnen helpen om toekomstige cutting-edge-modellen te voorkomen.
 Ook zou het de basis leggen voor toekomstige regulering gericht op het verminderen van nepmedia en andere specifieke problemen veroorzaakt door KI. Niet te vergeten het vergroten van de publieke aandacht en bewustwording van deze gevaren en het bewijs dat ze kunnen worden aangepakt.
 
 ### Deepfakes-gebaseerde intimidatie en oplichting {#deepfakes-powered-harrasment-and-scams}
