@@ -45,7 +45,7 @@ Monatelang war unklar, was der Umfang dieses Seoul-Gipfels sein würde.
 Alles, was wir wussten, war, dass es ein ["virtuelles Minigipfeltreffen"](https://www.bracknellnews.co.uk/news/national/23898764.ai-safety-institute-will-make-uk-global-hub-rishi-sunak-says/) sein würde.
 Eine eher unambitionierte Art, mit den hoch alarmierenden Forderungen nach Regulierung umzugehen.
 Im April 2024 wurde der zweite KI-Sicherheitsgipfel von der britischen Regierung [offiziell angekündigt](https://www.gov.uk/government/news/uk-and-republic-of-korea-to-build-on-legacy-of-bletchley-park).
-Wir [organisierten einen Protest am 13. Mai](/2024-mai), um unsere Minister davon zu überzeugen, am Gipfel teilzunehmen (einige hatten [nicht vor, teilzunehmen](https://www.reuters.com/technology/second-global-ai-safety-summit-faces-tough-questions-lower-turnout-2024-04-29/)) und Verhandlungen über einen Vertrag zur Pause aufzunehmen.
+Wir [organisierten einen Protest am 13. Mai](/2024-may), um unsere Minister davon zu überzeugen, am Gipfel teilzunehmen (einige hatten [nicht vor, teilzunehmen](https://www.reuters.com/technology/second-global-ai-safety-summit-faces-tough-questions-lower-turnout-2024-04-29/)) und Verhandlungen über einen Vertrag zur Pause aufzunehmen.
 
 Der Gipfel führte zu folgenden Ergebnissen:
 
