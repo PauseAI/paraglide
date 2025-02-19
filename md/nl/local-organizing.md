@@ -5,6 +5,10 @@ title: 'Een lokale PauseAI-gemeenschap opzetten: Een gids voor lokaal organisere
 description: Hoe kun je een gemeenschap opzetten en impact maken op lokaal niveau?
 ---
 
+<script>
+  import SimpleToc from '$lib/components/simple-toc/SimpleToc.svelte'
+</script>
+
 ## Waarom is lokaal organiseren belangrijk? {#why-is-local-organizing-important}
 
 Lokaal organiseren - werken met groepen vrijwilligers in lokale gemeenschappen om een zaak te bevorderen - is de kern en de ziel van de PauseAI-beweging.
