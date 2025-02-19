@@ -103,7 +103,7 @@ In september 2024 bouwde een groep studenten [een app](https://x.com/AnhPhuNguye
 
 ### Milieugevaren {#environmental-risks}
 
-Milieuschade begint significant te worden, en de grootste KI-bedrijven zijn van plan om hun energieverbruik aanzienlijk te verhogen. Je kunt lezen over hoe KI het milieu negatief zal beïnvloeden [hier](/milieu).
+Milieuschade begint significant te worden, en de grootste KI-bedrijven zijn van plan om hun energieverbruik aanzienlijk te verhogen. Je kunt lezen over hoe KI het milieu negatief zal beïnvloeden [hier](/environment).
 
 ### Autonome wapens {#autonomous-weapons}
 
@@ -160,7 +160,7 @@ Naarmate de mogelijkheden van KI groeien, zullen ook de mogelijkheden van de exp
 Hoogpotente computervirussen zijn altijd extreem moeilijk te creëren geweest, maar KI kan dat veranderen.
 In plaats van een team van geschoolde beveiligingsexperts/hackers in te huren om zero-day-exploits te vinden, kun je gewoon een veel goedkopere KI gebruiken om het voor je te doen. Natuurlijk kan KI ook helpen bij cyberdefensie, en het is onduidelijk aan welke kant het voordeel ligt.
 
-[Lees meer over KI en cybersecurity-risico's](/cybersecurity-risico's)
+[Lees meer over KI en cybersecurity-risico's](/cybersecurity-risks)
 
 ### Bestaansrisico {#existential-risk}
 
