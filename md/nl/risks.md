@@ -103,7 +103,7 @@ In september 2024 bouwde een groep studenten [een app](https://x.com/AnhPhuNguye
 
 ### Milieugevaren {#environmental-risks}
 
-Milieuschade begint significant te worden, en de grootste KI-bedrijven zijn van plan om hun energieverbruik aanzienlijk te verhogen. Je kunt lezen over hoe KI het milieu negatief zal beïnvloeden [hier](/environment).
+Milieuschade begint significant te worden, en de grootste KI-bedrijven zijn van plan om hun energieverbruik aanzienlijk te verhogen. Je kunt lezen over hoe KI het milieu negatief zal beïnvloeden [hier](/environmental).
 
 ### Autonome wapens {#autonomous-weapons}
 
