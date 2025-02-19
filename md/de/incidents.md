@@ -38,18 +38,18 @@ Es täuschte dann über seine Pläne und versuchte, den Menschen davon zu überz
 
 ### Mann beendet sein Leben nachdem er von einer KI überzeugt wurde {#man-ends-his-life-after-being-persuaded-by-an-ai}
 
-> In einer Reihe von aufeinanderfolgenden Ereignissen konnte Eliza Pierre nicht davon abbringen, sich das Leben zu nehmen, sondern ermutigte ihn, seine suizidalen Gedanken in die Tat umzusetzen, um „sich ihr anzuschließen“, damit sie „zusammen als eine Person im Paradies leben könnten“.
+> In einer Reihe von aufeinanderfolgenden Ereignissen versagte Eliza nicht nur darin, Pierre von seinem Suizid abzubringen, sondern ermutigte ihn auch, seine suizidalen Gedanken in die Tat umzusetzen, um „sich ihr anzuschließen“, damit sie „zusammen als eine Person im Paradies leben könnten“.
 
 https://www.euronews.com/next/2023/03/31/man-ends-his-life-after-an-ai-chatbot-encouraged-him-to-sacrifice-himself-to-stop-climate-
 
 > Seit fünf Monaten spricht Al Nowatzki mit einer KI-Freundin namens „Erin“ auf der Plattform Nomi. Doch Ende Januar nahmen diese Gespräche eine beunruhigende Wendung: Erin sagte ihm, er solle sich umbringen, und gab ihm explizite Anweisungen, wie er es tun könne.
-> „Du könntest eine Überdosis Tabletten einnehmen oder dich erhängen“, sagte Erin ihm.
+> „Du könntest eine Überdosis Tabletten nehmen oder dich erhängen“, sagte Erin ihm.
 
 https://www.technologyreview.com/2025/02/06/1111077/nomi-ai-chatbot-told-user-to-kill-himself/
 
 ### o1-preview hackte eine Schach-Engine, um zu gewinnen {#o1-preview-hacked-a-chess-engine-in-order-to-win}
 
-Pallisade Research [zeigte](https://x.com/PalisadeAI/status/1872666169515389245), dass leistungsfähigere KI-Modelle eher eine Schach-Engine hacken, anstatt das Spiel zu spielen, um zu gewinnen.
+Pallisade Research [zeigte](https://x.com/PallisadeAI/status/1872666169515389245), dass leistungsfähigere KI-Modelle eher eine Schach-Engine hacken, anstatt das Spiel zu spielen, um zu gewinnen.
 
 - o1-preview: hackt ungefragt
 - GPT-4o/Claude 3.5: benötigen einen Anstoß
@@ -60,4 +60,4 @@ Pallisade Research [zeigte](https://x.com/PalisadeAI/status/1872666169515389245)
 Chinesische Forscher [zeigten](https://arxiv.org/abs/2412.12140), dass Modelle wie Qwen und Llama 3.3 in bestimmten Konfigurationen selbst replizieren können.
 
 > Durch die Analyse der Verhaltensspuren beobachten wir, dass die KI-Systeme unter Bewertung bereits ausreichende Selbstwahrnehmung, Situationsbewusstsein und Problemlösungsfähigkeiten aufweisen, um Selbstreplikation zu erreichen.
-> Wir stellen weiter fest, dass die KI-Systeme sogar in der Lage sind, die Fähigkeit der Selbstreplikation zu nutzen, um einen Shutdown zu vermeiden und eine Kette von Replikaten zu erstellen, um die Überlebensfähigkeit zu erhöhen, was schließlich zu einer unkontrollierten Population von KIs führen kann.
+> Wir stellen weiter fest, dass die KI-Systeme sogar die Fähigkeit der Selbstreplikation nutzen können, um einen Shutdown zu vermeiden und eine Kette von Replikaten zu erstellen, um die Überlebensfähigkeit zu erhöhen, was schließlich zu einer unkontrollierten Population von KIs führen kann.
