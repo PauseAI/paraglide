@@ -117,6 +117,6 @@ Zelfs OpenAI verwacht niet dat deze aanpak zal opschalen naar supermenselijke mo
 Naarmate we deze digitale hersenen groter en krachtiger maken, kunnen ze moeilijker te controleren worden. Wat gebeurt er als een van deze superintelligente AI-systemen besluit dat het niet wil worden uitgeschakeld? Dit is geen fantasieprobleem - 86% van de AI-onderzoekers gelooft dat het controleprobleem [echt en belangrijk](https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai) is.
 Als we toekomstige AI-systemen niet kunnen controleren, kan het [game over zijn voor de mensheid](/xrisk).
 
-Maar er zijn verschillende [acties](/actie) die we kunnen ondernemen om dit te voorkomen!
+Maar er zijn verschillende [acties](/action) die we kunnen ondernemen om dit te voorkomen!
 
-Laten we samenwerken om [dit te voorkomen](/actie)!
+Laten we samenwerken om [dit te voorkomen](/action)!

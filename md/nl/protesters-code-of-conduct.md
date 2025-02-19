@@ -17,4 +17,4 @@ Als deelnemer aan een PauseAI-demonstratie verbind ik mij ertoe de volgende Gedr
 
 Door deze Gedragscode na te leven, beloof ik een ambassadeur te zijn voor de PauseAI-beweging en haar missie om verantwoordelijke ontwikkeling en gebruik van kunstmatige intelligentie te bevorderen. Samen kunnen we een krachtige en positieve kracht voor verandering creëren.
 
-_Gerelateerd: onze [Waarden](/waarden)_
+_Gerelateerd: onze [Waarden](/values)_
