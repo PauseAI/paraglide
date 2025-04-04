@@ -1,16 +1,15 @@
-
-
 ---
-title: 'PauseAI Persmateriaal & media-aandacht'
+title: PauseAI Persmateriaal & media-aandacht
 ---
-## Contact {#contact-7}
+<!-- einde van frontmatter metadata, streepjes hierboven moeten blijven -->
+## Contact {#contact-2}
 
 Joep Meindertsma ([joep@pauseai.info](mailto:joep@pauseai.info))
 
 ## Logo en materiaal {#logo-materials}
 
 Ons logo en ander materiaal zijn te vinden in [deze Google Drive-map](https://drive.google.com/drive/folders/1bQ_MZ8giK-Mee4ABkO0BgcFInaXruNpa?usp=sharing).
-Als u zelf PauseAI-gerelateerd materiaal wilt maken, kunt u onze huisstijlkleur _#FF9416_ en de lettertypen _Saira Condensed_ (700), _Montserrat Black_ en _Roboto Slab_ (300, 700) gebruiken.
+Als u zelf PauseAI-gerelateerd materiaal wilt maken, kunt u onze huisstijlkleur _\#FF9416_ en de lettertypen _Saira Condensed_ (700), _Montserrat Black_ en _Roboto Slab_ (300, 700) gebruiken.
 
 ## Internationale media-aandacht {#international-media-coverage}
 
@@ -39,8 +38,8 @@ Als u zelf PauseAI-gerelateerd materiaal wilt maken, kunt u onze huisstijlkleur 
 
 ## Podcasts & Talks {#podcasts--talks}
 
-- [**Overzicht**](https://www.youtube.com/playlist?list=PLI46NoubGtIJvSAWkC7VOmfWrLD2u1ZPA) van **15+** podcasts en talks waarin meerdere mensen van PauseAI deelnamen.
-- [**Franse podcasts**](https://www.youtube.com/playlist?list=PLLUfQBgG_MvHh3b9Pedf139eVLsLs5zAs). **20+** podcasts waarin Maxime Forunes, directeur van PauseAI Frankrijk, deelnam.
+- **[Compilatie](https://www.youtube.com/playlist?list=PLI46NoubGtIJvSAWkC7VOmfWrLD2u1ZPA)** van **20+** podcasts en talks waar meerdere mensen van PauseAI aan deelnamen.
+- **[Franse podcasts](https://www.youtube.com/playlist?list=PLLUfQBgG_MvHh3b9Pedf139eVLsLs5zAs)**. **20+** podcasts waar Maxime Fournes, directeur van PauseAI Frankrijk, aan deelnam.
 
 Buiten YouTube:
 
@@ -57,6 +56,7 @@ Buiten YouTube:
 - [Camden New Journal](https://www.camdennewjournal.co.uk/article/:protesters-tell-tech-quarter-companies-to-press-pause-on-artificial-intelligence-research): DeepMind-protest
 - [Islington Tribune](https://www.islingtontribune.co.uk/article/what-happens-in-bletchley-stays-in): Bletchley Park-protest
 - [Peeps](https://www.youtube.com/watch?v=a3HRYOIhfFI): Bletchley Park-protest video-interview
+- [Westminster Extra](https://www.westminsterextra.co.uk/article/warning-governments-are-racing-ahead-with-ai): Protest in februari 2025
 
 ### NL {#nl}
 
@@ -90,3 +90,11 @@ Buiten YouTube:
 - Le Monde ([2023](https://www.lemonde.fr/en/economy/article/2023/11/27/openai-the-beginnings-of-the-sam-altman-drama_6291282_19.html), [2024](https://www.lemonde.fr/economie/article/2024/09/11/a-l-approche-du-sommet-de-paris-les-militants-inquiets-quant-a-la-securite-de-l-ia-cherchent-a-se-faire-entendre_6312979_3234.html))
 - [La Tribune](https://www.latribune.fr/technos-medias/informatique/a-paris-et-dans-le-monde-les-inquiets-de-l-intelligence-artificielle-appellent-a-une-pause-997475.html)
 - [Verschillende podcast-optredens van Maxime Fournes](https://www.youtube.com/results?search_query=maxime+fournes+pauseai)
+
+### Australië {#australia}
+
+- [The Age](https://www.theage.com.au/technology/most-dangerous-technology-ever-protesters-urge-ai-pause-20250207-p5laaq.html)
+
+### Denemarken {#denmark}
+
+- [Weekendavisen](https://www.weekendavisen.dk/samfund/kunstig-intelligens-aegte-frygt)
