@@ -2,7 +2,8 @@
 title: PauseAI-Finanzierung & Spender
 description: Eine Liste unserer größten Unterstützer.
 ---
- _Letzte Aktualisierung: 2024-11-29_
+<!-- end of frontmatter metadata, dashes above need to stay -->
+_letzte Aktualisierung: 2024-11-29_
 
 PauseAI hat bisher etwa 300.552 € an Spenden erhalten.
 
@@ -16,10 +17,11 @@ PauseAI hat bisher etwa 300.552 € an Spenden erhalten.
 - 9.463 € (Survival & Flourishing Fund)
 - 8.221 € ([Manifund](https://manifund.org/projects/pauseai-local-communities---volunteer-stipends), verschiedene Personen)
 - 7.542 € (anonyme Person)
+- 2.100 € (Adam Dingle)
 - 1.000 € (anonyme Person)
 - 1.000 € (anonyme Person)
 
-_Beträge sind in Euro angegeben. Wenn dieselbe Person mehrere Spenden getätigt hat, werden diese zusammengefasst._
+_Beträge sind in Euro angegeben. Wenn dieselbe Person mehrere Spenden getätigt hat, werden diese addiert._
 
 ## Weitere Informationen {#related}
 
