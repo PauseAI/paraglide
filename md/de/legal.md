@@ -1,5 +1,3 @@
-
-
 ---
 title: Rechtliche Informationen
 description: Gesetzlich vorgeschriebene Informationen über PauseAI.
@@ -25,21 +23,21 @@ Im Folgenden finden Sie Informationen über die niederländische juristische Per
 ### ANBI-Status {#anbi-status}
 
 Der ANBI-Status ist ein niederländischer Steuerstatus für gemeinnützige Organisationen.
-Er ermöglicht steuerfreie und steuerabzugsfähige Spenden sowie andere Vorteile für die Organisation und ihre Spender.
+Er ermöglicht steuerfreie und steuerabzugsfähige Spenden und andere Vorteile für die Organisation und ihre Spender.
 Stichting PauseAI ist seit 13. Februar 2024 ein registrierter ANBI. Überprüfen Sie den Status [hier](https://www.belastingdienst.nl/wps/wcm/connect/nl/aftrek-en-kortingen/content/anbi-status-controleren) (Seite auf Niederländisch).
 
 Um den ANBI-Status zu erlangen, muss die Organisation bestimmte [Anforderungen](https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/belastingdienst/business/business-public-benefit-organisations/public_benefit_organisations/conditions_pbos/which_conditions_must_be_met_by_pbo) erfüllen:
 
 - Sie muss dem öffentlichen Interesse dienen.
-- Es darf kein Gewinnmotiv geben, das Geld muss für das Ziel der Organisation verwendet werden.
-- Verschiedene Veröffentlichungspflichten (wie diese Seite).
+- Es darf kein Gewinnmotiv geben; das Geld muss für das Ziel der Organisation verwendet werden.
+- Verschiedene Veröffentlichungspflichten (wie diese Seite) müssen erfüllt werden.
 
 ### Politikplan 2024-2025 ("Beleidsplan") {#policy-plan-2024-2025-beleidsplan}
 
 Unser Ziel ist es, katastrophale Risiken durch künstliche Intelligenz zu verhindern. Wir möchten dies erreichen, indem wir folgende Maßnahmen ergreifen:
 
-- Eine Gemeinschaft von Freiwilligen aufbauen, um für KI-Sicherheit zu werben.
-- Die Öffentlichkeit durch soziale Medien, Artikel, Teilnahme an [Interviews/Podcasts](/press) und Organisation von Veranstaltungen informieren.
+- Eine Gemeinschaft von Freiwilligen aufbauen, um für die Sicherheit von künstlicher Intelligenz zu werben.
+- Die Öffentlichkeit durch soziale Medien, das Schreiben von Artikeln, die Teilnahme an [Interviews/Podcasts](/press) und die Organisation von Veranstaltungen informieren.
 - Die Gemeinschaft durch die Organisation von sozialen Veranstaltungen [wachsen](/growth-strategy) lassen.
 - [Spenden](/donate) an Projekte verteilen, die mit unseren Zielen übereinstimmen.
 - [Proteste](/protests) und andere Formen des Aktivismus organisieren, um das Bewusstsein für die Risiken von künstlicher Intelligenz zu schärfen.
@@ -48,12 +46,12 @@ Unser Ziel ist es, katastrophale Risiken durch künstliche Intelligenz zu verhin
 
 #### Finanzielle Rechenschaftspflicht ("Financieele paragraaf") {#financial-accountability-financieele-paragraaf}
 
-Wir sammeln Geld, um unsere Aktivitäten durch [Spenden](/donate), den Verkauf von Merchandise (über [den Shop](https://pauseai-shop.fourthwall.com/)) und die Beantragung von Zuschüssen zu unterstützen.
-Die Mittel werden verwendet, um die Kosten unserer Aktivitäten zu decken, wie z.B. die Anstellung von Personal, Reisekosten, Materialien für Veranstaltungen, Marketingkosten und andere Kosten im Zusammenhang mit unserer Mission.
+Wir sammeln Gelder, um unsere Aktivitäten durch [Spenden](/donate), den Verkauf von Merchandise (über [den Shop](https://pauseai-shop.fourthwall.com/)) und die Beantragung von Zuschüssen zu unterstützen.
+Die Gelder werden verwendet, um die Kosten unserer Aktivitäten zu decken, wie z.B. die Einstellung von Personal, Reisekosten, Materialien für Veranstaltungen, Marketingkosten und andere Kosten im Zusammenhang mit unserer Mission.
 Wir planen auch, Zuschüsse ("PauseAI MicroGrants") an Freiwillige zu vergeben, die Veranstaltungen organisieren, Inhalte erstellen oder auf andere Weise zu unserer Mission beitragen möchten.
-Unser erstes Buchhaltungsjahr ist länger als ein Jahr - es beginnt mit unserem Gründungsdatum (13. Februar 2024) und endet am 31. Dezember 2025, nach dem wir einen Jahresbericht veröffentlichen werden.
-Eingegangene Mittel werden vom Vorstand verwaltet und verwendet, um die Kosten unserer Aktivitäten zu decken.
-Wenn wir mehr Mittel erhalten, als wir ausgeben können, werden wir die überschüssigen Mittel für zukünftige Aktivitäten sparen.
+Unser erstes Buchhaltungsjahr ist länger als ein Jahr - es beginnt am Gründungsdatum (13. Februar 2024) und endet am 31. Dezember 2025, nach dem wir einen Jahresbericht veröffentlichen werden.
+Eingegangene Gelder werden vom Vorstand verwaltet und verwendet, um die Kosten unserer Aktivitäten zu decken.
+Wenn wir mehr Gelder erhalten, als wir ausgeben können, werden wir die überschüssigen Gelder für zukünftige Aktivitäten sparen.
 
 ### Bericht über Aktivitäten {#report-of-activities}
 
@@ -97,7 +95,7 @@ Unser erster Jahresbericht wird nach dem Ende des ersten Geschäftsjahres am 31.
 ## PauseIA (Frankreich) {#pauseia-france}
 
 - Name: PauseIA
-- Wird bald gegründet
+- Sie wird bald gegründet
 - Direktor: [Maxime Fournes](mailto:maxime@pauseai.info)
 
 ## Beziehung zwischen den Einheiten {#relationship-between-entities}
@@ -109,7 +107,7 @@ PauseAI Global ist verantwortlich für:
 - Diese Website und die Verwaltung der Online-Discord-Gemeinschaft.
 - Die Verwaltung und das Wachstum von Freiwilligen.
 - Globale soziale Medien.
-- Die Organisation von digitalen Veranstaltungen.
+- Die Organisation digitaler Veranstaltungen.
 - Die globale Strategie und Theorie des Wandels.
 - Die globalen Finanzen und die Beschaffung von Mitteln.
 - [Microgrants](/microgrants).
