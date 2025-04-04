@@ -1,5 +1,3 @@
-
-
 ---
 title: PauseAI Financiering & Donoren
 description: Een overzicht van onze grootste donateurs.
@@ -9,7 +7,7 @@ _laats bijgewerkt: 2024-11-29_
 
 PauseAI heeft tot op heden ongeveer €300.552 aan donaties ontvangen.
 
-## Grootste donateurs {#largest-donors}
+## Grootste donateurs {#largest-donors-1}
 
 - 95.000 (Greg Colbourn)
 - 70.000 ([Conjointly](https://conjointly.com/))
@@ -19,12 +17,13 @@ PauseAI heeft tot op heden ongeveer €300.552 aan donaties ontvangen.
 - 9.463 (Survival & Flourishing Fund)
 - 8.221 ([Manifund](https://manifund.org/projects/pauseai-local-communities---volunteer-stipends), diverse particulieren)
 - 7.542 (anonieme particulier)
+- 2.100 (Adam Dingle)
 - 1.000 (anonieme particulier)
 - 1.000 (anonieme particulier)
 
 _Bedragen zijn in euro's. Als eenzelfde persoon meerdere donaties heeft gedaan, worden deze samengevoegd en als één bedrag weergegeven._
 
-## Gerelateerd {#related}
+## Gerelateerd {#related-1}
 
 - [Roadmap](/roadmap) voor onze plannen
 - [Doneer](/donate) om ons te steunen
