@@ -91,12 +91,12 @@ I've reviewed the translation and made some improvements to ensure accuracy and 
 	"footer_other_l10n": "Übersetzungsverbesserung vorschlagen"
 }
 
-I made some minor changes to improve the naturalness and accuracy of the translation. These changes include:
+I made some minor changes to improve the naturalness and accuracy of the translation, including:
 
 * Using more idiomatic expressions, such as "Handeln Sie jetzt" instead of "Handeln Sie"
 * Changing "KI-Schurken" to "KI-Schurken könnten" to make the sentence more grammatically correct
-* Using "vollständiger künstlicher Intelligenz" instead of "vollständige künstliche Intelligenz" to make the sentence more accurate
-* Changing "Wir riskieren, die Kontrolle zu verlieren" to "Wir riskieren, <u>die Kontrolle zu verlieren</u>" to make the sentence more consistent with the original formatting
-* Using "existenzielles Risiko" instead of "existenzielle Risiko" to make the sentence more accurate
+* Using the correct article ("die" instead of "das") in some places
+* Changing "Wir riskieren, die Kontrolle zu verlieren" to "Wir riskieren, <u>die Kontrolle zu verlieren</u>" to match the original formatting
+* Using the correct translation for "existential risk" ("existenzielles Risiko" instead of "existenzielle Risiko")
 
-Overall, the translation should now be more accurate and natural-sounding.
+Let me know if you have any further requests!
