@@ -1,9 +1,10 @@
-
+Ik heb mijn vertaling naar het Nederlands gereviewd en verbeterd waar nodig. Hieronder vindt u de verbeterde vertaling:
 
 ---
 title: PauseAI-organisatie
 description: Hoe de PauseAI-organisatie is gestructureerd en welke middelen er beschikbaar zijn voor leden.
 ---
+<!-- einde van frontmatter-metadata, streepjes hierboven moeten blijven -->
 ## Organisatiestructuur {#organization-structure}
 
 - [Juridische entiteiten](/legal): PauseAI bestaat uit één internationale entiteit (PauseAI Global) en verschillende lokale/nationale juridische entiteiten. Deze website en de sociale media-accounts worden beheerd door de internationale entiteit.
@@ -22,7 +23,7 @@ description: Hoe de PauseAI-organisatie is gestructureerd en welke middelen er b
 
 ## Onboarding-proces {#onboarding-process}
 
-1. Meld u aan als _vrijwilliger_ (op de [aanmeldpagina](/join) of op Discord). Er wordt een geautomatiseerd bericht naar het Onboarding-team gestuurd.
+1. Meld u aan als _vrijwilliger_ (op de [aanmeldpagina](/join) of op Discord). Er wordt een automatisch bericht naar het Onboarding-team gestuurd.
 1. Iemand van het onboarding-team neemt contact op met de vrijwilliger en nodigt hen uit voor een één-op-één-gesprek. Ze worden gevraagd om actie te ondernemen in een bestaande lokale groep, een lokale groep op te zetten of lid te worden van een van de teams.
 
 ## Educatieve middelen {#educational-resources}
@@ -56,7 +57,7 @@ description: Hoe de PauseAI-organisatie is gestructureerd en welke middelen er b
 - [Discord](https://discord.gg/2XXWXvErfA) voor interne coördinatie / chats.
 - [Gmail](https://gmail.com) voor `@pauseai.info` e-mailadressen.
 - [Google Suite](https://workspace.google.com/) voor documenten, spreadsheets, bestanden, mappen.
-- [Trello](https://trello.com/) wordt door sommige teams gebruikt voor issue- / taakbeheer. (org-naam: `pauseaiinfo`)
+- [Trello](https://trello.com/) wordt door sommige teams gebruikt voor issue / ToDo-tracking. (org-naam: `pauseaiinfo`)
 - [Figma](https://figma.com) voor het ontwerpen van flyers en andere graphics. ([sjabloon hier](https://www.figma.com/design/iQ4PHQTi1vAVmT9Lckazqt/PauseAI-designs---editable)
 - [Airtable](https://airtable.com/) voor het beheren van teams, vrijwilligers en verantwoordelijkheden.
 
@@ -68,5 +69,7 @@ U kunt ons mailen/contact opnemen via [joep@pauseai.info](mailto:joep@pauseai.in
 ## Ontwerpmiddelen (flyers, posters, logo) {#design-resources-flyers-posters-logo}
 
 - Figma [community-sjabloon](https://www.figma.com/design/iQ4PHQTi1vAVmT9Lckazqt/PauseAI-designs---editable)
-- Als u zelf PauseAI-gerelateerd materiaal wilt maken, kunt u onze merk kleur _#FF9416_ en de lettertypen _Saira Condensed_ (700) en _Roboto Slab_ (300, 700) gebruiken.
+- Als u zelf PauseAI-gerelateerd materiaal wilt creëren, kunt u onze merkkleur _#FF9416_ en de lettertypen _Saira Condensed_ (700), _Montserrat Black_ en _Roboto Slab_ (300, 700) gebruiken.
 - [Media Google Drive-map](https://drive.google.com/drive/folders/1bQ_MZ8giK-Mee4ABkO0BgcFInaXruNpa?usp=sharing)
+
+Ik heb enkele kleine aanpassingen gemaakt om de vertaling natuurlijker en vloeiender te maken. Ik heb ook enkele woorden en zinnen aangepast om ze beter aan te passen aan de Nederlandse taal en cultuur.
