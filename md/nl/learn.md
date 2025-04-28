@@ -1,3 +1,5 @@
+Ik heb mijn vertaling naar het Nederlands gereviewd en verbeterd waar nodig. Hieronder vindt u de verbeterde vertaling:
+
 ---
 title: Leer waarom AI-veiligheid belangrijk is
 description: Educatieve bronnen (video's, artikelen, boeken) over AI-risico's en AI-alignering
@@ -11,7 +13,7 @@ description: Educatieve bronnen (video's, artikelen, boeken) over AI-risico's en
 - [Citaten](/quotes). Citaten over AI-risico's en bestuur.
 - [Haalbaarheid van een pauze](/feasibility). De haalbaarheid van een pauze in AI-ontwikkeling.
 - [De pauzeknop bouwen](/building-the-pause-button). Wat nodig is om AI te pauzeren.
-- [Veelgestelde vragen](/faq). Veelgestelde vragen over AI-veiligheid en PauseAI.
+- [FAQ](/faq). Veelgestelde vragen over AI-veiligheid en PauseAI.
 - [Actie](/action). Wat je kunt doen om te helpen (met links naar veel actiegerelateerde gidsen)
 
 ## Andere websites {#other-websites}
@@ -46,7 +48,7 @@ description: Educatieve bronnen (video's, artikelen, boeken) over AI-risico's en
 - [Future of Life Institute | Connor Leahy over AI-veiligheid en waarom de wereld fragiel is](https://youtu.be/cSL3Zau1X8g?si=0X3EKoxZ80_HN9Rl&t=1803). Interview met Connor over de AI-veiligheidsstrategieën.
 - [Lex Fridman | Max Tegmark: Het geval voor het stoppen van AI-ontwikkeling](https://youtu.be/VcVfceTsD0A?t=1547). Interview dat dieper ingaat op de details van onze huidige gevaarlijke situatie.
 - [Sam Harris | Eliezer Yudkowsky: AI, racen naar de rand](https://samharris.org/episode/SE60B0CF4B8). Gesprek over de aard van intelligentie, verschillende soorten AI, het aligneringsprobleem, Is vs Ought, en meer. Een van de vele afleveringen van Making Sense over AI-veiligheid.
-- [Connor Leahy, AI-brandalarm](https://youtu.be/pGjyiqJZPJo?t=2510). Praatje over de intelligentie-explosie en waarom het de belangrijkste gebeurtenis zou zijn die ooit zou kunnen gebeuren.
+- [Connor Leahy, AI Fire Alarm](https://youtu.be/pGjyiqJZPJo?t=2510). Praatje over de intelligentie-explosie en waarom het de belangrijkste gebeurtenis zou zijn die ooit zou kunnen gebeuren.
 - [De 80.000 uur Podcast aanbevolen afleveringen over AI](https://80000hours.org/podcast/on-artificial-intelligence/). Niet 80.000 uur lang, maar een compilatie van afleveringen van de 80.000 uur Podcast over AI-veiligheid.
 - [Future of Life Institute Podcast-afleveringen over AI](https://futureoflife.org/podcast/?_category_browser=ai). Alle afleveringen van de FLI Podcast over de toekomst van kunstmatige intelligentie.
 
@@ -71,7 +73,7 @@ Als je wilt lezen wat journalisten over PauseAI hebben geschreven, bekijk dan de
 ## Boeken {#books}
 
 - [Oncontroleerbaar: De dreiging van kunstmatige superintelligentie en de race om de wereld te redden](https://www.goodreads.com/book/show/202416160-uncontrollable) (Darren McKee, 2023). Krijg het gratis [hier](https://impactbooks.store/cart/47288196366640:1?discount=UNCON-P3SFRS)!
-- [De afgrond: Existentieel risico en de toekomst van de mensheid](https://www.goodreads.com/en/book/show/50963653) (Toby Ord, 2020)
+- [De Precipice: Existentieel risico en de toekomst van de mensheid](https://www.goodreads.com/en/book/show/50485582-the-precipice) (Toby Ord, 2020)
 - [Het aligneringsprobleem](https://www.goodreads.com/book/show/50489349-the-alignment-probleem) (Brian Christian, 2020)
 - [Menselijk compatibel: Kunstmatige intelligentie en het probleem van controle](https://www.goodreads.com/en/book/show/44767248) (Stuart Russell, 2019)
 - [Leven 3.0: Mens zijn in het tijdperk van kunstmatige intelligentie](https://www.goodreads.com/en/book/show/34272565) (Max Tegmark, 2017)
@@ -87,14 +89,15 @@ Als je wilt lezen wat journalisten over PauseAI hebben geschreven, bekijk dan de
 
 ## Cursussen {#courses}
 
-- [AGI-veiligheid fundamenten](https://www.agisafetyfundamentals.com/) (30 uur)
+- [Introductie tot transformatieve AI](https://aisafetyfundamentals.com/intro-to-tai/) (15 uur)
+- [AGI-veiligheidsfundamentals](https://www.agisafetyfundamentals.com/) (30 uur)
 - [CHAI-bibliografie van aanbevolen materialen](https://humancompatible.ai/bibliography) (50 uur+)
 - [AISafety.training](https://aisafety.training/): Overzicht van trainingsprogramma's, conferenties en andere evenementen
 
 ## Organisaties {#organizations}
 
 - [Future of Life Institute](https://futureoflife.org/cause-area/artificial-intelligence/) startte de [open brief](https://futureoflife.org/open-letter/pause-giant-ai-experiments/), geleid door Max Tegmark.
-- [Center for AI Safety](https://www.safe.ai/) (CAIS) is een onderzoekscentrum aan de Tsjechische Technische Universiteit in Praag, geleid door
+- [Center for AI Safety](https://www.safe.ai/) (CAIS) is een onderzoekscentrum aan de Tsjechische Technische Universiteit in Praag, geleid door Dan Hendrycks.
 - [Conjecture](https://www.conjecture.dev/). Start-up die werkt aan AI-alignering en AI-beleid, geleid door Connor Leahy.
 - [Existential Risk Observatory](https://existentialriskobservatory.org/). Nederlandse organisatie die het publiek informeert over x-risico's en communicatiestrategieën bestudeert.
 - [Centre for the Governance of AI](https://www.governance.ai/)
@@ -113,8 +116,10 @@ Als je wilt lezen wat journalisten over PauseAI hebben geschreven, bekijk dan de
 Er zijn veel [dingen die je kunt doen](/action).
 Een brief schrijven, naar een protest gaan, wat geld doneren of lid worden van een gemeenschap is niet zo moeilijk!
 En deze acties hebben een echte impact.
-Zelfs als we tegen het einde van de wereld aankijken, kan er nog steeds hoop zijn en zeer lonend werk te doen.
+Zelfs als we tegen het einde van de wereld aan kijken, kan er nog steeds hoop zijn en zeer lonend werk te doen.
 
 ## Of als je nog steeds niet helemaal zeker bent {#or-if-you-still-dont-feel-quite-sure-of-it}
 
 Leren over de [psychologie van x-risico](/psychology-of-x-risk) kan je helpen.
+
+Ik heb enkele kleine aanpassingen gemaakt om de vertaling natuurlijker en vloeiender te maken. Ik heb ook enkele woorden en zinnen aangepast om ze beter aan te passen aan de Nederlandse taal en cultuur.
