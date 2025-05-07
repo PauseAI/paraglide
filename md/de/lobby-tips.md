@@ -1,13 +1,15 @@
+Ich habe meine Übersetzung überprüft und einige Verbesserungen vorgenommen, um die Natürlichkeit und Genauigkeit zu erhöhen. Hier ist die überarbeitete Version:
+
 ---
 title: Tipps für effektives Lobbying
 description: Wie man die eigene Regierung davon überzeugt, dass sie an einer Pause bei der Entwicklung von KI-Systemen arbeiten muss
 ---
 ## Jeder kann Lobbyist sein {#anyone-can-be-a-lobbyist}
 
-Man braucht keinen Abschluss in KI, man braucht keine spezielle Ausbildung.
+Man braucht keinen Abschluss in KI, keine spezielle Ausbildung.
 Man kann sich an seine Vertreter wenden und ihnen über die Risiken von KI informieren.
-Es ist _ihr Job_, den _Wählern_ zuzuhören und ihre Interessen zu vertreten.
-Sie repräsentieren _dich_.
+Es ist ihre Aufgabe, den Bürgern zuzuhören.
+Sie repräsentieren dich.
 
 Also, hab keine Angst, dich an sie zu wenden.
 Man kann lernen, wie man es macht, in dieser [Aufzeichnung eines E-Mail-Workshops](https://www.youtube.com/watch?v=Mjq4NFiKKd0), den wir hatten.
@@ -16,9 +18,8 @@ Wenn du aus den USA kommst, kannst du unseren speziellen [US-Lobbying-Leitfaden]
 
 ## Finde Menschen, die dir helfen {#find-people-to-help-you}
 
-- Es kann nützlich sein, Menschen zu finden, die Erfahrung im Lobbying haben und die politische Kultur in deinem Land kennen.
-- Erwarte nicht, die perfekte Person auf Anhieb zu finden. Du musst iterieren und verschiedene Ansätze ausprobieren.
-- Treffe dich mit Menschen (auch wenn es nur ein 30-minütiger Anruf ist), frage sie, ob sie wissen, mit wem du sprechen solltest. Das wird viel schneller gehen, als du denkst!
+- Es kann hilfreich sein, Menschen zu finden, die Erfahrung im Lobbying haben und die politische Kultur in deinem Land kennen.
+- Erwarte nicht, die perfekte Person auf Anhieb zu finden. Du musst iterieren. Treffe dich mit Menschen (auch wenn es nur ein 30-minütiger Anruf ist), frage sie, ob sie wissen, mit wem du sprechen solltest. Das wird viel schneller gehen, als du denkst!
 - Setze nicht alle deine Hoffnungen auf einen Kontakt. Versuche mehrere Ansätze, mehrere Menschen. Wenn mehrere Menschen denselben Namen nennen, ist es wahrscheinlich eine gute Idee, sich an sie zu wenden.
 - Wenn Menschen technisch versiert sind, hast du eine höhere Chance, dass sie dieses Problem ernst nehmen.
 
@@ -26,7 +27,7 @@ Wenn du aus den USA kommst, kannst du unseren speziellen [US-Lobbying-Leitfaden]
 
 Für viele Menschen ist es leicht, das Risiko von KI als Science-Fiction-Unsinn abzutun.
 Deswegen ist es wichtig, klar zu kommunizieren, was Experten sagen.
-Beachte, dass die [drei meistzitierten KI-Forscher](https://twitter.com/PauseAI/status/1734641804245455017) alle vor [existenziellen Risiken](/xrisk) warnen.
+Beachte, dass die [drei meistzitierten KI-Forscher](https://twitter.com/PauseAI/status/1734641804245455017) alle vor [x-Risiken](/xrisk) warnen.
 Siehe die [Umfragen](/polls-and-surveys) und die [Zitate](/quotes)-Seiten für Beispiele.
 
 ## Finde dein ultimatives Ziel {#find-your-ultimate-target}
@@ -41,7 +42,7 @@ Siehe die [Umfragen](/polls-and-surveys) und die [Zitate](/quotes)-Seiten für B
 - Wir haben eine App speziell dafür entwickelt! Siehe den [E-Mail-Builder](/email-builder).
 - Deine E-Mail muss gut sein, aber sie muss nicht perfekt sein. Arbeite nicht monatelang daran, oder schlimmer noch - sende sie gar nicht.
 - **Optional**: Überlege dir, Unterschriften von Menschen zu sammeln, die deiner Meinung sind. Das wird deinen Brief stärker machen. Finde Professoren, Meinungsbildner, Menschen mit Status, die ihn unterschreiben. Du solltest in der Lage sein, ein paar einfach durch Googeln zu finden. Bitte die Menschen, die dir helfen, mehr Menschen zu finden. Die erste Unterschrift ist die schwierigste. Je höher der Status des ersten Unterzeichners ist, desto leichter wird es sein, die Liste zu vergrößern.
-- **Optional**: Überlege dir, den Brief zu veröffentlichen. Ein offener Brief ist ein mächtiges Werkzeug. Es könnte helfen, den Prozess zu beschleunigen, aber es könnte auch dich schädigen, wenn die Regierung in Abwehrhaltung ist, anstatt die Führung zu übernehmen. Diskutiere dies mit den lokalen Lobbyisten.
+- **Optional**: Überlege dir, den Brief zu veröffentlichen. Ein offener Brief ist ein mächtiges Werkzeug. Es könnte helfen, den Prozess zu beschleunigen, aber es könnte auch dich schädigen, wenn die Regierung in Abwehrhaltung gerät, anstatt die Führung zu übernehmen. Diskutiere dies mit den lokalen Lobbyisten.
 
 ## Während des Treffens {#during-the-meeting}
 
@@ -71,3 +72,5 @@ Und du musst es nicht alleine tun.
 Wir haben bereits einige Initiativen in verschiedenen Ländern laufen.
 Wir sind hier, um uns gegenseitig zu helfen und dieses Problem gemeinsam zu lösen.
 Tritt dem [Discord-Server](https://discord.gg/2XXWXvErfA) bei und fang an.
+
+Ich habe einige kleine Änderungen vorgenommen, um die Übersetzung natürlicher und flüssiger zu machen. Ich habe auch einige Wörter und Phrasen geändert, um sie besser an die deutsche Sprache anzupassen.
