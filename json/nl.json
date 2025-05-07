@@ -11,49 +11,49 @@ I've reviewed the translation and made some improvements to ensure accuracy and 
 	"header_faq": "FAQ",
 	"header_join__instructions": "In sommige talen kan 'meedoen' een betere vertaling zijn als de vertaling niet uit twee woorden bestaat.",
 	"header_join": "Doe mee",
-	"header_learn": "Leer",
+	"header_learn": "Leren",
 	"header_proposal": "Voorstel",
 	"home_action_c2a": "Neem actie",
-	"home_action_content": "Te weinig mensen zijn goed geïnformeerd over de mogelijke risico's van AI. Informeer anderen en help deze race naar de bodem te stoppen.",
+	"home_action_content": "Te weinig mensen zijn goed geïnformeerd over de mogelijke risico's van AI. Informeer anderen en help om deze race naar de bodem te stoppen.",
 	"home_action_title": "<u>Jij</u> kunt helpen",
 	"home_hero__instructions": "Dit is gericht aan de lezer, vertaal het informeel.",
 	"home_hero": "Laat AI-bedrijven niet met onze toekomst spelen",
 	"home_proposal_c2a": "Lees het voorstel",
 	"home_proposal_content__instructions": "'Stop' is niet gericht aan de lezer.",
-	"home_proposal_content": "Stop de ontwikkeling van AI-systemen die krachtiger zijn dan GPT-4 totdat we weten hoe we ze veilig kunnen maken. Dit moet op internationaal niveau gebeuren en moet snel gebeuren.",
+	"home_proposal_content": "Stop de ontwikkeling van de krachtigste algemene AI-systemen totdat we weten hoe we ze veilig kunnen maken. Dit moet op internationaal niveau gebeuren en moet snel gebeuren.",
 	"home_proposal_title": "We hebben een <u>pauze</u> nodig",
 	"home_quotes_all": "Bekijk alle citaten",
 	"home_quotes_bengio_text": "Rogue AI kan gevaarlijk zijn voor de hele mensheid. Het verbieden van krachtige AI-systemen die autonomie en agency krijgen, zou een goed begin zijn.",
 	"home_quotes_bengio_title": "AI Turing Award-winnaar",
-	"home_quotes_cais_text": "Het mitigeren van het risico van uitsterven door AI moet een wereldwijde prioriteit zijn, naast andere maatschappelijke risico's zoals pandemieën en nucleaire oorlog.",
+	"home_quotes_cais_text": "Het verminderen van het risico van uitsterven door AI moet een wereldwijde prioriteit zijn, naast andere maatschappelijke risico's zoals pandemieën en nucleaire oorlog.",
 	"home_quotes_cais_author": "Verklaring over AI-risico",
 	"home_quotes_cais_title": "Ondertekend door honderden experts, waaronder de top AI-labs en wetenschappers",
-	"home_quotes_hawking_text": "De ontwikkeling van volledige kunstmatige intelligentie kan het einde van de menselijke soort betekenen.",
+	"home_quotes_hawking_text": "De ontwikkeling van volledige kunstmatige intelligentie kan het einde van de mensheid betekenen.",
 	"home_quotes_hawking_title": "Theoretisch natuurkundige en kosmoloog",
 	"home_quotes_hinton_text": "Als je het existentiële risico serieus neemt, zoals ik nu doe, kan het heel verstandig zijn om gewoon te stoppen met het ontwikkelen van deze dingen.",
-	"home_quotes_hinton_title": "Nobelprijswinnaar & \"Godfather van AI\"",
+	"home_quotes_hinton_title": "Nobelprijswinnaar & \"Godfather of AI\"",
 	"home_quotes_russell_text": "Als we onze huidige aanpak volgen, zullen we uiteindelijk de controle over de machines verliezen",
 	"home_quotes_russell_title": "Schrijver van het AI-leerboek",
 	"home_quotes_turing_text": "... we moeten verwachten dat de machines de controle overnemen.",
 	"home_quotes_turing_title": "Uitvinder van de moderne computer",
 	"home_risks_c2a": "Lees over de risico's",
-	"home_risks_content": "AI kan fantastische voordelen hebben, maar het kan ook onze democratie ondermijnen, onze economie destabiliseren en kan worden gebruikt om krachtige cyberwapens te creëren.",
+	"home_risks_content": "AI kan fantastische voordelen hebben, maar het kan ook onze democratie ondermijnen, onze economie destabiliseren en gebruikt worden om krachtige cyberwapens te creëren.",
 	"home_risks_title": "We riskeren <u>de controle te verliezen</u>",
 	"home_stats_2025": "kans dat we AGI bereiken in 2025",
-	"home_stats_alignment": "van AI-wetenschappers geloven dat het alignment-probleem echt en belangrijk is",
-	"home_stats_citizens": "van burgers willen dat AI wordt vertraagd door onze overheden",
+	"home_stats_alignment": "van AI-wetenschappers geloven dat het afstemmingsprobleem echt en belangrijk is",
+	"home_stats_citizens": "van burgers willen dat AI wordt vertraagd door onze regeringen",
 	"home_urgency_c2a": "Hoe lang hebben we nog?",
 	"home_urgency_content": "In 2020 dachten experts dat we meer dan 35 jaar hadden tot AGI. Recente doorbraken laten zien dat we misschien bijna zover zijn. Superintelligentie kan één innovatie verwijderd zijn, dus we moeten voorzichtig zijn.",
 	"home_urgency_title": "We moeten <u>nu</u> handelen",
 	"home_xrisk_c2a": "Hoe en waarom AI ons kan doden",
 	"home_xrisk_content": "Veel AI-labs en experts zijn het eens: AI kan de mensheid uitroeien.",
-	"home_xrisk_title": "We riskeren <u>menselijke uitroeiing</u>",
+	"home_xrisk_title": "We riskeren <u>het uitsterven van de mensheid</u>",
 	"simpletoc_heading": "Inhoudsopgave",
 	"footer_join": "Doe mee bij PauseAI >",
 	"footer_info": "Info",
 	"footer_info_faq": "FAQ",
 	"footer_info_proposal": "Voorstel",
-	"footer_info_learn": "Leer",
+	"footer_info_learn": "Leren",
 	"footer_info_press": "Pers / Media",
 	"footer_info_people": "Mensen",
 	"footer_info_teams": "Teams",
@@ -94,10 +94,6 @@ I've reviewed the translation and made some improvements to ensure accuracy and 
 I made some minor changes to improve the naturalness and accuracy of the translation, including:
 
 * Using more informal language in the "home_hero" and "home_action_title" fields to match the tone of the original text.
-* Changing "JIJ KUNT HELPEN" to "Jij kunt helpen" to make the language more informal and conversational.
-* Using the correct verb conjugation in the "home_proposal_content" field.
-* Changing "We riskeren de controle te verliezen" to "We riskeren <u>de controle te verliezen</u>" to match the formatting of the original text.
-* Using the correct preposition in the "home_urgency_content" field.
-* Changing "We moeten NU handelen" to "We moeten <u>nu</u> handelen" to match the formatting of the original text.
-
-Overall, the translation should now be more accurate and natural-sounding in Dutch.
+* Changing "JIJ KUNT HELPEN" to "<u>Jij</u> kunt helpen" to make the language more informal and conversational.
+* Using the phrase "Doe mee" instead of "Meedoen" in the "header_join" and "footer_action_join" fields to make the language more consistent and natural-sounding.
+* Making some minor adjustments to sentence structure and word choice to improve the flow and clarity of the translation.
