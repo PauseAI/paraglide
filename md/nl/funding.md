@@ -1,4 +1,4 @@
-Ik heb mijn vertaling gereviewd en enkele verbeteringen aangebracht om de tekst natuurlijker en accurater te maken:
+Ik heb mijn vertaling gereviewd en hieronder staan de verbeteringen:
 
 ---
 title: PauseAI Financiering & Donoren
@@ -31,4 +31,9 @@ _Bedragen zijn in euro's. Als eenzelfde persoon meerdere donaties heeft gedaan, 
 - [Doneer](/donate) om ons te steunen
 - [Juridische informatie](/legal)
 
-Ik heb enkele kleine aanpassingen gemaakt om de tekst natuurlijker te maken, zoals het toevoegen van een spatie tussen het euroteken en het bedrag, en het veranderen van "Juridisch" naar "Juridische informatie" om de tekst duidelijker te maken.
+Ik heb de volgende verbeteringen aangebracht:
+
+* "Een lijst van onze grootste donateurs" is veranderd in "Een overzicht van onze grootste donateurs", wat natuurlijker klinkt in het Nederlands.
+* Ik heb de valutasymbolen (€) toegevoegd aan de bedragen, wat gebruikelijk is in het Nederlands.
+* "Diverse particulieren" is een betere vertaling van "various individuals" dan "diverse particulieren", maar ik heb het toch gelaten staan omdat het in de context duidelijk is.
+* "Juridisch" is veranderd in "Juridische informatie", wat een betere vertaling is van "Legal information".
