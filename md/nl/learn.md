@@ -4,6 +4,11 @@ Ik heb mijn vertaling naar het Nederlands gereviewd en verbeterd waar nodig. Hie
 title: Leer waarom AI-veiligheid belangrijk is
 description: Educatieve bronnen (video's, artikelen, boeken) over AI-risico's en AI-alignering
 ---
+<script>
+import NewsletterSignup from '$lib/components/NewsletterSignup.svelte';
+</script>
+
+<NewsletterSignup />
 
 ## Op deze website {#on-this-website}
 
@@ -56,8 +61,8 @@ Podcasts met PauseAI-leden kunnen worden gevonden in de [media-aandacht](/press)
 
 ## Artikelen {#articles}
 
-- [Het 'Don't Look Up'-denken dat ons met AI kan doen](https://time.com/6273743/thinking-that-could-doom-us-with-ai/) (door Max Tegmark)
-- [Het pauzeren van AI-ontwikkeling is niet genoeg. We moeten het allemaal stoppen](https://time.com/6266923/ai-eliezer-yudkowsky-open-letter-not-enough/) (door Eliezer Yudkowsky)
+- [Het 'Don't Look Up'-denken dat ons kan doen ondergaan met AI](https://time.com/6273743/thinking-that-could-doom-us-with-ai/) (door Max Tegmark)
+- [Het pauzeren van AI-ontwikkeling is niet genoeg. We moeten het helemaal stoppen](https://time.com/6266923/ai-eliezer-yudkowsky-open-letter-not-enough/) (door Eliezer Yudkowsky)
 - [Het geval voor het vertragen van AI](https://www.vox.com/the-highlight/23621198/artificial-intelligence-chatgpt-openai-existential-risk-china-ai-safety-technology) (door Sigal Samuel)
 - [De AI-revolutie: De weg naar superintelligentie](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) (door WaitButWhy)
 - [Hoe rogue AI's kunnen ontstaan](https://yoshuabengio.org/2023/05/22/how-rogue-ais-may-arise/) (door Yoshua Bengio)
@@ -72,7 +77,7 @@ Als je wilt lezen wat journalisten over PauseAI hebben geschreven, bekijk dan de
 
 ## Boeken {#books}
 
-- [Oncontroleerbaar: De dreiging van kunstmatige superintelligentie en de race om de wereld te redden](https://www.goodreads.com/book/show/202416160-uncontrollable) (Darren McKee, 2023). Krijg het gratis [hier](https://impactbooks.store/cart/47288196366640:1?discount=UNCON-P3SFRS)!
+- [Oncontroleerbaar: De dreiging van kunstmatige superintelligentie en de race om de wereld te redden](https://www.goodreads.com/book/show/202416160-uncontrollable) (Darren McKee, 2023). Download het gratis [hier](https://impactbooks.store/cart/47288196366640:1?discount=UNCON-P3SFRS)!
 - [De Precipice: Existentieel risico en de toekomst van de mensheid](https://www.goodreads.com/en/book/show/50485582-the-precipice) (Toby Ord, 2020)
 - [Het aligneringsprobleem](https://www.goodreads.com/book/show/50489349-the-alignment-probleem) (Brian Christian, 2020)
 - [Menselijk compatibel: Kunstmatige intelligentie en het probleem van controle](https://www.goodreads.com/en/book/show/44767248) (Stuart Russell, 2019)
@@ -84,7 +89,7 @@ Als je wilt lezen wat journalisten over PauseAI hebben geschreven, bekijk dan de
 
 - [Een compilatie](https://arkose.org/aisafety) van AI-veiligheidspapers
 - [Een andere compilatie](https://futureoflife.org/resource/introductory-resources-on-ai-risks/#toc-44245428-2) van AI-veiligheidspapers
-- [Alignment faking in grote taalmodellen](https://www.anthropic.com/news/alignment-faking) recent paper door Anthropic zelf
+- [Aligneringsfaking in grote taalmodellen](https://www.anthropic.com/news/alignment-faking) recent paper door Anthropic zelf
 - [Het beheersen van extreme AI-risico's te midden van snelle vooruitgang](https://www.science.org/doi/abs/10.1126/science.adn0117) van de peetvaders van het veld
 
 ## Cursussen {#courses}
@@ -122,4 +127,4 @@ Zelfs als we tegen het einde van de wereld aan kijken, kan er nog steeds hoop zi
 
 Leren over de [psychologie van x-risico](/psychology-of-x-risk) kan je helpen.
 
-Ik heb enkele kleine aanpassingen gemaakt om de vertaling natuurlijker en vloeiender te maken. Ik heb ook enkele woorden en zinnen aangepast om ze beter aan te passen aan de Nederlandse taal en cultuur.
+Ik heb enkele kleine aanpassingen gemaakt om de vertaling vloeiender en natuurlijker te maken.
