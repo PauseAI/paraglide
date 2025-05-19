@@ -1,8 +1,7 @@
-Ik heb mijn vertaling naar het Nederlands gereviewd en enkele verbeteringen aangebracht om de tekst natuurlijker en accurater te maken. Hieronder vindt u de herziene vertaling:
-
 ---
 title: Neem actie
 description: Manieren om het risico van AI te verminderen.
+git-touch: 2025-05-18T14:58:43Z
 ---
 AI wordt niet veiliger tenzij we beslissend handelen om veiligheid te bevorderen.
 Kies een activiteit hieronder afhankelijk van uw interesses of vaardigheden.
@@ -12,7 +11,7 @@ Kies een activiteit hieronder afhankelijk van uw interesses of vaardigheden.
 ### Eis overheidsactie {#demand-government-action}
 
 - **Schrijf naar uw politici**: We hebben ontdekt dat e-mails verrassend effectief zijn en relatief weinig moeite kosten. Als u niet zeker weet wat u moet schrijven, [begin dan met onze e-mailbouwer](/email-builder). Wanneer u een afspraak krijgt, moet u onze [lobbytips](/lobby-tips) bekijken.
-- **Bel uw politici**: Probeer de kantoren van wetgevers te bellen terwijl u een set praatpunten in het zicht heeft, zodat u op onderwerp blijft.
+- **Bel uw politici**: Probeer de kantoren van wetgevers te bellen terwijl u een set praatpunten in beeld heeft, zodat u op onderwerp blijft.
 - **Protesteer**: Sluit u aan bij [een van de protesten](https://pauseai.info/protests) of [organiseer er zelf een](https://pauseai.info/organizing-a-protest).
 - **Teken petities**: [Internationaal AI-verdrag](https://aitreaty.org), [Ban Superintelligence](https://chng.it/Djjfj2Gmpk), [Eis verantwoordelijke AI](https://www.change.org/p/artificial-intelligence-time-is-running-out-for-responsible-ai-development-91f0a02c-130a-46e1-9e55-70d6b274f4df), of een van de **nationale petities**: [VK](https://petition.parliament.uk/petitions/639956), [AUS](https://www.aph.gov.au/e-petitions/petition/EN5163), [NL](https://aipetitie.nl).
 
@@ -25,21 +24,21 @@ Kies een activiteit hieronder afhankelijk van uw interesses of vaardigheden.
 
 ### Ondersteun PauseAI {#support-pauseai}
 
-- **Word lid van of creëer een [lokale PauseAI-gemeenschap](/communities)**.
+- **Word lid of creëer een [lokale PauseAI-gemeenschap](/communities)**.
 - **Word lid van de [Discord](https://discord.gg/2XXWXvErfA)**, waar de meeste samenwerking plaatsvindt.
-- **Protesteer of neem deel aan [evenementen](/events)**. Als er geen protest in de buurt is, overweeg dan [er een te starten](/organizing-a-protest).
+- **Protesteer of neem deel aan [evenementen](/events)**. Als er geen protest bij u in de buurt is, overweeg dan [er een te starten](/organizing-a-protest).
 - **Bekijk onze [vacatures](/vacancies)** om te zien of een van uw vaardigheden overeenkomt met onze organisatorische behoeften. We zoeken vaak mensen met ervaring in sociale media, communicatie, organisatie, outreach en software. Sommige posities worden gecompenseerd.
 - **[Meld u aan als vrijwilliger](https://airtable.com/appWPTGqZmUcs3NWu/pag7ztLh27Omj5s2n/form)** zodat we projecten in uw interessegebieden kunnen vinden).
 - **[Doneer](/donate)** aan PauseAI of koop wat merchandise in onze [winkel](https://pauseai-shop.fourthwall.com/).
-- **Volg onze [sociale media-kanalen](https://linktr.ee/pauseai)** en blijf op de hoogte. Uw lokale PauseAI-hoofdstuk heeft mogelijk ook speciale sociale media-pagina's.
+- **Volg onze [sociale media-kanalen](https://linktr.ee/pauseai)** en blijf op de hoogte. Uw lokale PauseAI-hoofdstuk kan ook eigen sociale media-pagina's hebben.
 
 ## Voor specifieke mensen {#for-specific-people}
 
 ### Als u in AI werkt {#if-you-work-in-ai}
 
 - **Werk niet aan betere AI**: Werk niet voor AI-bedrijven of onderzoek naar capaciteiten. En verspreid geen ideeën over hoe we AI-systemen sneller of slimmer kunnen maken.
-- **Praat met uw management en collega's** over de risico's. Zorg ervoor dat ze een institutionele positie innemen om risico's te mitigeren boven winst. Moedig de implementatie van standaard risicomitigerende procedures en anonieme rapportage aan.
-- **Houd een seminar** over AI-veiligheid op uw werkplek. Bekijk deze [slides](https://drive.google.com/drive/u/1/folders/1p9VtopzMV6Xpk4p6EGYUTna4fLE6G8hd) en [praatjes en video's](https://www.youtube.com/playlist?list=PLI46NoubGtIJa0JVCBR-9CayxCOmU0EJt) voor inspiratie.
+- **Praat met uw management en collega's** over de risico's. Zorg ervoor dat ze een institutionele positie innemen om risico's te mitigeren boven winst. Moedig de implementatie van standaard risicobeperkende procedures en anonieme rapportage aan.
+- **Houd een seminar** over AI-veiligheid op uw werkplek. Bekijk deze [slides](https://drive.google.com/drive/u/1/folders/1p9VtopzMV6Xpk4p6EGYUTna4fLE6G8hd) en [lezingen en video's](https://www.youtube.com/playlist?list=PLI46NoubGtIJa0JVCBR-9CayxCOmU0EJt) voor inspiratie.
 - **Teken** de [Verklaring over AI-risico's](https://www.safe.ai/statement-on-ai-risk).
 
 ### Als u een politicus bent of in de overheid werkt {#if-you-are-a-politician-or-work-in-government}
@@ -53,11 +52,11 @@ Kies een activiteit hieronder afhankelijk van uw interesses of vaardigheden.
 ### Als u ervaring heeft met (internationaal) recht {#if-you-have-experience-with-international-law}
 
 - **Help bij het opstellen van beleid**. [Voorbeelden van ontwerpen](https://www.campaignforaisafety.org/celebrating-the-winners-law-student-moratorium-treaty-competition/). ([sommige](https://futureoflife.org/wp-content/uploads/2023/04/FLI_Policymaking_In_The_Pause.pdf) [kaders](https://www.openphilanthropy.org/research/12-tentative-ideas-for-us-ai-policy/))
-- **Dien inzendingen** in voor overheidsverzoeken om commentaar op AI-beleid ([voorbeeld](https://ntia.gov/issues/artificial-intelligence/request-for-comments)).
+- **Dien inzendingen** in voor overheid verzoeken om commentaar op AI-beleid ([voorbeeld](https://ntia.gov/issues/artificial-intelligence/request-for-comments)).
 
 ### Als u een universiteitsprofessor bent of in een academische instelling werkt {#if-you-are-a-university-professor-or-work-in-an-academic-institution}
 
-- **Schrijf opinieartikelen** en artikelen voor mediakanalen
+- **Schrijf opinie-artikelen** en artikelen voor mediakanalen
 - **Begeleid studenten** die geïnteresseerd zijn in dit onderwerp
 - **Organiseer een evenement op de campus** over AI-risico's, of een academische conferentie, panel of symposium
 - **Dien een faculteitsresolutie** in over AI-risico's, of stel een universiteitsstandpuntverklaring op
@@ -65,5 +64,3 @@ Kies een activiteit hieronder afhankelijk van uw interesses of vaardigheden.
 ### Als u als journalist werkt of een sociale media-aanhang heeft {#if-you-work-as-a-journalist-or-have-a-social-media-following}
 
 - **Maak content** over AI-gevaren of PauseAI. Voor meer informatie, neem contact met ons op via een van onze [communicatiekanalen](/faq#do-you-have-social-media).
-
-Ik heb enkele kleine aanpassingen gemaakt om de tekst natuurlijker en vloeiender te maken, maar de betekenis is identiek gebleven.

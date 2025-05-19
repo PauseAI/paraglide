@@ -1,11 +1,10 @@
-Ik heb mijn vertaling naar het Nederlands gereviewd en enkele verbeteringen aangebracht om de tekst natuurlijker en accurater te maken. Hieronder vindt u de herziene vertaling:
-
 ---
 title: Cyberbeveiligingsrisico's van geavanceerde AI-modellen
 description: Hoe AI gebruikt kan worden om alle apparaten te hacken.
+git-touch: 2025-05-18T14:58:49Z
 ---
 Vrijwel alles wat we tegenwoordig doen, is op de een of andere manier afhankelijk van computers.
-We betalen onze boodschappen, plannen onze dagen, contacteren onze dierbaren en zelfs rijden onze auto's met behulp van computers.
+We betalen onze boodschappen, plannen onze dagen, contacteren onze dierbaren en zelfs rijden onze auto's met computers.
 En vrijwel alle computers zijn met elkaar verbonden.
 Dit maakt ons allemaal kwetsbaar voor cyberaanvallen.
 
@@ -29,7 +28,7 @@ Echter, de mogelijkheden nemen snel toe en kunnen plotseling een grote sprong ma
 
 Houd er rekening mee dat AI ook volledig nieuwe soorten aanvallen mogelijk maakt.
 Bijvoorbeeld, AI kan worden gebruikt om [het wachtwoord dat je typt te horen vanuit een online gesprek](https://beebom.com/ai-crack-password-listening-keyboard-sounds/)
-of om [Wi-Fi te gebruiken om mensen door muren te zien](https://www.marktechpost.com/2023/02/15/cmu-researchers-create-an-ai-model-that-can-detect-the-pose-of-multiple-humans-in-a-room-using-only-the-signals-from-wifi/).
+of om [Wi-Fi te gebruiken om mensen door muren heen te zien](https://www.marktechpost.com/2023/02/15/cmu-researchers-create-an-ai-model-that-can-detect-the-pose-of-multiple-humans-in-a-room-using-only-the-signals-from-wifi/).
 AI kan ook worden gebruikt om [zelfmodificerende malware](https://www.hyas.com/blog/blackmamba-using-ai-to-generate-polymorphic-malware) te maken, wat het veel moeilijker maakt om te detecteren.
 
 Er zal waarschijnlijk een moment komen waarop een AI beter is in hacken dan de beste menselijke hackers.
@@ -49,10 +48,10 @@ Dit kan volledige controle geven over deze machines en de controller in staat st
 Een virus als dit kan worden gemaakt als een tool door criminelen om geld te stelen, of als een zeer destructief cyberwapen door een natie of terroristische organisatie.
 Echter, naarmate AI meer agentisch wordt, kan het ook autonoom worden gecreëerd en ingezet door [misaligned AI](/xrisk).
 
-Als het doel van een cyberaanval is om apparaten en infrastructuur uit te schakelen, kan de schade enorm zijn.
+Als het doel van een cyberaanval was om apparaten en infrastructuur uit te schakelen, kan de schade enorm zijn.
 Onze samenleving is steeds meer afhankelijk van computers en het internet.
 Betalingen, transport, communicatie, planning, toeleveringsketens, stroomnetwerken...
-Als onze apparaten niet meer goed functioneren, zullen veel delen van onze samenleving ook niet meer functioneren.
+Als onze apparaten niet meer goed functioneren, falen veel delen van onze samenleving ook.
 
 Meer dan [93% van de cybersecurity-experts](https://www.weforum.org/publications/global-cybersecurity-outlook-2023/) gelooft dat "een verreikende, catastrofale cybergebeurtenis waarschijnlijk is in de komende twee jaar".
 
@@ -64,7 +63,7 @@ Het verhaal hierboven kan alleen gebeuren als:
 2. Het **model in handen valt van slechte actoren**. Dit kan gebeuren als de modelgewichten worden gelekt, als het model open-source wordt gemaakt, of als het wordt ontwikkeld door een malafide actor.
 3. De **beveiligingskwetsbaarheden niet worden gepatcht** voordat zo'n cyberwapen wordt ingezet. Helaas zijn de verdedigers in het nadeel als het model breed wordt verspreid om twee redenen:
    1. Patchen + vrijgeven + implementeren duurt veel langer dan aanvallen. Het venster van kwetsbaarheid is groter dan de tijd die nodig is om de aanval te creëren.
-   2. De aanvallers hoeven alleen maar één kwetsbaarheid te vinden, terwijl de verdedigers alle kwetsbaarheden moeten vinden.
+   2. De aanvallers hoeven maar één kwetsbaarheid te vinden, terwijl de verdedigers alle kwetsbaarheden moeten vinden.
 
 Er zijn verschillende maatregelen die we kunnen nemen om dit aan te pakken:
 
@@ -72,5 +71,3 @@ Er zijn verschillende maatregelen die we kunnen nemen om dit aan te pakken:
 - **Laat modellen alleen worden ingezet of open-source worden gemaakt na uitgebreide tests**. Als ze gevaarlijke mogelijkheden hebben, laat ze dan niet vrij.
 - **Leg strenge cybersecurity-regels op om te voorkomen dat modelgewichten worden gelekt**. Als je gevaarlijke modellen toestaat, zorg er dan voor dat ze niet in verkeerde handen vallen.
 - **Verplicht AI-bedrijven om de AI te gebruiken om kwetsbaarheden te repareren**. Als een model wordt getraind dat nieuwe beveiligingskwetsbaarheden kan vinden, gebruik dit dan om software-onderhouders te contacteren om deze kwetsbaarheden te patchen. Geef het patchproces voldoende tijd voordat het model wordt vrijgegeven. Zorg ervoor dat de gewichten niet worden gelekt en bescherm het model alsof het de lanceercode voor een nucleaire aanval is. Als dit goed wordt gedaan, kan AI de cybersecurity overal dramatisch verbeteren.
-
-Ik heb enkele kleine aanpassingen gemaakt om de tekst natuurlijker en accurater te maken, maar de betekenis is identiek aan de oorspronkelijke tekst.

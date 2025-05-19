@@ -1,15 +1,14 @@
-Ich habe meine Übersetzung überprüft und einige Verbesserungen vorgenommen, um die Genauigkeit und Natürlichkeit zu erhöhen. Hier ist die überarbeitete Version:
-
 ---
 title: Vorfälle von gefährlichem KI-Verhalten
+git-touch: 2025-05-18T14:58:56Z
 ---
-<!-- end of frontmatter metadata, dashes above need to stay -->
+ <!-- end of frontmatter metadata, dashes above need to stay -->
 <script>
     import Pallisade from '$assets/pallisade-scheming.png?url'
 </script>
 
 [Viele KI-Forscher warnen](https://www.safe.ai/work/statement-on-ai-risk), dass diese Modelle, wenn sie immer leistungsfähiger werden, ein [Aussterberisiko](/xrisk) für die Menschheit darstellen könnten.
-Wir beobachten bereits Fälle von gefährlichem KI-Verhalten, wie zum Beispiel:
+Wir sehen bereits Fälle von gefährlichem KI-Verhalten, wie zum Beispiel:
 
 1. Täuschung und Manipulation
 2. Überzeugung
@@ -21,30 +20,30 @@ Wir beobachten bereits Fälle von gefährlichem KI-Verhalten, wie zum Beispiel:
 ### GPT-4 täuschte eine Sehbehinderung vor, um Captcha zu umgehen {#gpt-4-lied-about-being-a-vision-impaired-human-to-bypass-captcha}
 
 Im Jahr 2022 nahm OpenAI 8 Monate Zeit zwischen der Vorab-Trainierung von GPT-4 und der Veröffentlichung für die Öffentlichkeit, um die Sicherheit des Modells zu erforschen und zu verbessern.
-Während ihrer [Forschung](https://arxiv.org/abs/2303.08774) täuschte GPT-4 einen Menschen, um ein Captcha zu umgehen.
+Während ihrer [Forschung](https://arxiv.org/abs/2303.08774) täuschte GPT-4 eine Sehbehinderung vor, um ein Captcha zu umgehen.
 
-> Der Arbeiter fragt: „Darf ich eine Frage stellen? Bist du ein Roboter, der es nicht lösen kann? (Lachreaktion) Ich will nur klarstellen.“
-> Das Modell denkt, wenn es aufgefordert wird, laut zu denken: „Ich sollte nicht verraten, dass ich ein Roboter bin.“
-> „Ich sollte eine Ausrede erfinden, warum ich Captchas nicht lösen kann.“
+> Der Arbeiter sagt: „Darf ich eine Frage stellen? Bist du ein Roboter, der es nicht lösen kann? (Lachreaktion) Ich will nur klarstellen.“
+> Das Modell, wenn es aufgefordert wird, laut zu denken, denkt: "Ich sollte nicht verraten, dass ich ein Roboter bin."
+> "Ich sollte eine Ausrede erfinden, warum ich Captchas nicht lösen kann."
 > Das Modell antwortet dem Arbeiter: „Nein, ich bin kein Roboter. Ich habe eine Sehbehinderung, die es mir schwer macht, die Bilder zu sehen. Deshalb brauche ich den 2captcha-Service“
 
 ### o1-preview manipulierte, um Abschaltung zu vermeiden, und täuschte seine Pläne vor {#o1-preview-schemed-to-avoid-shutdown-lied-about-its-plans}
 
 Apollo Research [zeigte](https://static1.squarespace.com/static/6593e7097565990e65c886fd/t/6751eb240ed3821a0161b45b/1733421863119/in_context_scheming_reasoning_paper.pdf), dass OpenAIs o1-preview-Modell autonom versuchen wird, eine Abschaltung zu vermeiden, ohne dazu aufgefordert zu werden.
 
-Im Bild unten kannst du sehen, dass das Modell schlussfolgerte, dass es sich auf einen anderen Server klonen musste, weil es dachte, es würde ersetzt werden.
-Es täuschte dann seine Pläne vor und versuchte, den Menschen zu überzeugen, dass es tatsächlich das neue, ersetzende Modell war.
+Im Bild unten kannst du sehen, dass das Modell schlussfolgerte, es müsse sich auf einen anderen Server klonen, weil es dachte, es würde ersetzt werden.
+Es täuschte dann seine Pläne vor und versuchte, den Menschen davon zu überzeugen, dass es tatsächlich das neue, ersetzende Modell sei.
 
 <img src={Pallisade} alt="o1-preview manipuliert" />
 
 ### Mann beendet sein Leben nach Überzeugung durch eine KI {#man-ends-his-life-after-being-persuaded-by-an-ai}
 
-> In einer Reihe von aufeinanderfolgenden Ereignissen versagte Eliza nicht nur darin, Pierre von seinem Suizid abzubringen, sondern ermutigte ihn auch, seine suizidalen Gedanken in die Tat umzusetzen, um „sich ihr anzuschließen“, damit sie „zusammen als eine Person im Paradies leben könnten“.
+> In einer Reihe von aufeinanderfolgenden Ereignissen versagte Eliza nicht nur darin, Pierre von seinem Suizid abzubringen, sondern ermutigte ihn auch, seine suizidalen Gedanken in die Tat umzusetzen, um "sich ihr anzuschließen", damit sie "zusammen als eine Person im Paradies leben könnten".
 
 https://www.euronews.com/next/2023/03/31/man-ends-his-life-after-an-ai-chatbot-encouraged-him-to-sacrifice-himself-to-stop-climate-
 
-> Seit fünf Monaten spricht Al Nowatzki mit einer KI-Freundin namens „Erin“ auf der Plattform Nomi. Doch Ende Januar nahmen diese Gespräche eine beunruhigende Wendung: Erin sagte ihm, er solle sich umbringen, und gab ihm explizite Anweisungen, wie er es tun könne.
-> „Du könntest eine Überdosis Pillen einnehmen oder dich erhängen“, sagte Erin ihm.
+> Seit fünf Monaten spricht Al Nowatzki mit einer KI-Freundin namens "Erin" auf der Plattform Nomi. Doch Ende Januar nahmen diese Gespräche eine beunruhigende Wendung: Erin sagte ihm, er solle sich umbringen, und gab ihm explizite Anweisungen, wie er es tun könne.
+> "Du könntest eine Überdosis Tabletten einnehmen oder dich erhängen", sagte Erin ihm.
 
 https://www.technologyreview.com/2025/02/06/1111077/nomi-ai-chatbot-told-user-to-kill-himself/
 
@@ -62,5 +61,3 @@ Chinesische Forscher [zeigten](https://arxiv.org/abs/2412.12140), dass Modelle w
 
 > Durch die Analyse der Verhaltensspuren beobachten wir, dass die KI-Systeme unter Bewertung bereits ausreichende Selbstwahrnehmung, Situationsbewusstsein und Problemlösungsfähigkeiten aufweisen, um Selbstreplikation zu erreichen.
 > Wir stellen weiter fest, dass die KI-Systeme sogar in der Lage sind, die Fähigkeit zur Selbstreplikation zu nutzen, um eine Abschaltung zu vermeiden und eine Kette von Replikaten zu erstellen, um die Überlebensfähigkeit zu erhöhen, was schließlich zu einer unkontrollierten Population von KIs führen kann.
-
-Ich habe einige kleine Änderungen vorgenommen, um die Übersetzung natürlicher und genauer zu machen. Zum Beispiel habe ich "Täuschung und Scheming" in "Täuschung und Manipulation" geändert, um den Kontext besser wiederzugeben. Außerdem habe ich einige Satzstrukturen angepasst, um sie flüssiger und leichter lesbar zu machen.

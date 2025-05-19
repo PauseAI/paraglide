@@ -1,7 +1,6 @@
-Ik heb mijn vertaling naar het Nederlands gereviewd en enkele verbeteringen aangebracht om de tekst natuurlijker en accurater te maken. Hieronder vindt u de herziene vertaling:
-
 ---
 title: PauseAI Persmateriaal & media-aandacht
+git-touch: 2025-05-18T14:59:14Z
 ---
 <!-- einde van frontmatter metadata, streepjes hierboven moeten blijven -->
 ## Contact {#contact}
@@ -40,8 +39,8 @@ Als u zelf PauseAI-gerelateerd materiaal wilt maken, kunt u onze huisstijlkleur 
 
 ## Podcasts & Talks {#podcasts--talks}
 
-- **[Compilatie](https://www.youtube.com/playlist?list=PLI46NoubGtIJvSAWkC7VOmfWrLD2u1ZPA)** van **20+** podcasts en talks waarin meerdere mensen van PauseAI deelnamen.
-- **[Franse podcasts](https://www.youtube.com/playlist?list=PLLUfQBgG_MvHh3b9Pedf139eVLsLs5zAs)**. **20+** podcasts waarin Maxime Fournes, directeur van PauseAI Frankrijk, deelnam.
+- **[Compilatie](https://www.youtube.com/playlist?list=PLI46NoubGtIJvSAWkC7VOmfWrLD2u1ZPA)** van **20+** podcasts en talks waar meerdere mensen van PauseAI aan deelnamen.
+- **[Franse podcasts](https://www.youtube.com/playlist?list=PLLUfQBgG_MvHh3b9Pedf139eVLsLs5zAs)**. **20+** podcasts waar Maxime Fournes, directeur van PauseAI Frankrijk, aan deelnam.
 
 Buiten YouTube:
 
@@ -54,16 +53,16 @@ Buiten YouTube:
 ### VK {#uk}
 
 - [Express](https://www.express.co.uk/news/uk/1775620/artificial-intelligence-extinction-google-chat-gpt): Eerste protest in Londen (niet officieel PauseAI)
-- [Islington Tribune](https://www.islingtontribune.co.uk/article/watch-out-the-robots-are-coming): Protest bij DeepMind
-- [Camden New Journal](https://www.camdennewjournal.co.uk/article/:protesters-tell-tech-quarter-companies-to-press-pause-on-artificial-intelligence-research): Protest bij DeepMind
-- [Islington Tribune](https://www.islingtontribune.co.uk/article/what-happens-in-bletchley-stays-in): Protest bij Bletchley Park
-- [Peeps](https://www.youtube.com/watch?v=a3HRYOIhfFI): Video-interview over protest bij Bletchley Park
-- [Westminster Extra](https://www.westminsterextra.co.uk/article/warning-governments-are-racing-ahead-with-ai): Protest in februari 2025
+- [Islington Tribune](https://www.islingtontribune.co.uk/article/watch-out-the-robots-are-coming): DeepMind-protest
+- [Camden New Journal](https://www.camdennewjournal.co.uk/article/:protesters-tell-tech-quarter-companies-to-press-pause-on-artificial-intelligence-research): DeepMind-protest
+- [Islington Tribune](https://www.islingtontribune.co.uk/article/what-happens-in-bletchley-stays-in): Bletchley Park-protest
+- [Peeps](https://www.youtube.com/watch?v=a3HRYOIhfFI): Bletchley Park-protest video-interview
+- [Westminster Extra](https://www.westminsterextra.co.uk/article/warning-governments-are-racing-ahead-with-ai): Februari 2025-protest
 
 ### NL {#nl}
 
 - [AD](https://www.ad.nl/tech/ai-rel-in-nieuw-zeeland-kook-app-prijst-dodelijk-chloorgas-aan-als-verfrissend-gerecht~a1aa3705/)
-- NRC, [2023](https://www.nrc.nl/nieuws/2023/06/24/sterft-de-mensheid-uit-door-ai-dat-is-sciencefiction-a4168053), [2024](https://www.nrc.nl/nieuws/2024/02/16/ai-doomers-zijn-doodsbang-voor-de-computer-ai-zal-proberen-de-macht-over-te-nemen-a4190130): interview met drie leden van PauseAI
+- NRC, [2023](https://www.nrc.nl/nieuws/2023/06/24/sterft-de-mensheid-uit-door-ai-dat-is-sciencefiction-a4168053), [2024](https://www.nrc.nl/nieuws/2024/02/16/ai-doomers-zijn-doodsbang-voor-de-computer-ai-zal-proberen-de-macht-over-te-nemen-a4190130): interview met drie PauseAI-leden
 - [Groene Amsterdammer](https://www.groene.nl/artikel/losgeslagen-superintelligentie): Interview met Joep Meindertsma
 - [Pakhuis de Zwijger](https://dezwijger.nl/programma/ai-existential-risk-and-what-to-do-about-it)
 - [AI Coalitie](https://nlaic.com/agenda/communitydag-invloed-van-ai-op-cultuur-en-media/)
@@ -100,5 +99,3 @@ Buiten YouTube:
 ### Denemarken {#denmark}
 
 - [Weekendavisen](https://www.weekendavisen.dk/samfund/kunstig-intelligens-aegte-frygt)
-
-Ik heb enkele kleine aanpassingen gemaakt om de tekst natuurlijker en accurater te maken, zoals het gebruik van "huisstijlkleur" in plaats van "merkkleur" en het toevoegen van enkele ontbrekende lidwoorden.

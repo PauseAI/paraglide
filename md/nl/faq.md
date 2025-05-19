@@ -1,8 +1,7 @@
-Ik heb de vertaling naar het Nederlands gereviewd en enkele verbeteringen aangebracht om de tekst natuurlijker en accurater te maken. Hieronder vindt u de herziene vertaling:
-
 ---
 title: Veelgestelde vragen
 description: Veelgestelde vragen over PauseAI en de risico's van superintelligente AI.
+git-touch: 2025-05-18T14:58:50Z
 ---
 <script>
     import SimpleToc from '$lib/components/simple-toc/SimpleToc.svelte'
@@ -17,7 +16,7 @@ description: Veelgestelde vragen over PauseAI en de risico's van superintelligen
 
 ## Wie zijn wij? {#who-are-you}
 
-Wij zijn een gemeenschap van [vrijwilligers](/people) en [lokale gemeenschappen](/communities) die wordt gecoördineerd door een [non-profitorganisatie](/organization) die zich inzet om de [risico's van AI](/risks) (inclusief het [risico van menselijke uitsterving](/xrisk)) te mitigeren.
+Wij zijn een gemeenschap van [vrijwilligers](/people) en [lokale gemeenschappen](/communities) gecoördineerd door een [non-profitorganisatie](/organization) die zich inzet om de [risico's van AI](/risks) (inclusief het [risico van menselijke uitsterving](/xrisk)) te mitigeren.
 Ons doel is om onze regeringen te overtuigen om in te grijpen en [de ontwikkeling van supermenselijke AI te pauzeren](/proposal).
 We doen dit door het publiek te informeren, met besluitvormers te praten en [evenementen](/events) te organiseren.
 
@@ -36,12 +35,12 @@ Dat is waarom voor velen van hen de trieste realisatie dat AI een existentieel r
 ## Willen jullie alle AI verbieden? {#do-you-want-to-ban-all-ai}
 
 Nee, alleen de ontwikkeling van de grootste algemene doel-AI-systemen, vaak "Frontier-modellen" genoemd.
-Bijna alle bestaande AI zou legaal zijn onder ons voorstel, en de meeste toekomstige AI-modellen zullen ook legaal blijven.
+Bijna alle bestaande AI zou legaal zijn onder [ons voorstel](/proposal), en de meeste toekomstige AI-modellen zullen ook legaal blijven.
 We roepen op tot een verbod op krachtigere algemene AI-systemen, totdat we weten hoe we veilige AI kunnen bouwen en deze onder democratische controle hebben.
 
 ## Geloven jullie dat GPT-4 ons gaat doden? {#do-you-believe-gpt-4-is-going-to-kill-us}
 
-Nee, we denken niet dat huidige AI-modellen een existentieel risico vormen.
+Nee, we denken niet dat [huidige AI-modellen](/sota) een existentieel risico vormen.
 Het lijkt waarschijnlijk dat de meeste volgende AI-modellen dat ook niet zullen zijn.
 Maar als we blijven bouwen aan steeds krachtigere AI-systemen, zullen we uiteindelijk een punt bereiken waarop een ervan een existentieel risico vormt.
 
@@ -76,7 +75,7 @@ Bekijk onze [theorie van verandering](/theory-of-change) voor een gedetailleerd 
 
 - Protesteren laat de wereld zien dat we om deze kwestie geven. Door te protesteren, laten we zien dat we bereid zijn onze tijd en energie te besteden om mensen te laten luisteren.
 - Protesten kunnen en zullen vaak de publieke opinie, stemgedrag, bedrijfs gedrag en beleid positief beïnvloeden.
-- Veruit de meeste mensen zijn voorstander van vreedzame/niet-gewelddadige protesten.
+- Verreweg de meeste mensen zijn voorstander van vreedzame/niet-gewelddadige protesten.
 - Er is geen bewijs voor een "backfire"-effect, tenzij het protest gewelddadig is. Onze protesten zijn vreedzaam en niet-gewelddadig.
 - Het is een sociale bindingervaring. Je ontmoet andere mensen die jouw zorgen en bereidheid om actie te ondernemen delen.
 - Bekijk [dit geweldige artikel](https://forum.effectivealtruism.org/posts/4ez3nvEmozwPwARr9/a-case-for-the-effectiveness-of-protest) voor meer inzichten over waarom protesteren werkt.
@@ -85,18 +84,18 @@ Als je een [protest wilt organiseren](/organizing-a-protest), kunnen we je helpe
 
 ## Hoe groot is de kans dat superintelligente AI zeer slechte uitkomsten zal veroorzaken, zoals menselijke uitsterving? {#how-likely-is-it-that-superintelligent-ai-will-cause-very-bad-outcomes-like-human-extinction}
 
-We hebben [een lijst van 'p(doom)'-waarden](/pdoom) (kans op slechte uitkomsten) samengesteld van verschillende bekende experts op het gebied.
+We hebben een [lijst van 'p(doom)'-waarden](/pdoom) samengesteld van verschillende bekende experts op het gebied.
 
-AI-veiligheidsonderzoekers (die de experts zijn op dit gebied) zijn verdeeld over deze vraag, en schattingen lopen uiteen van 2% tot 97% met een gemiddelde van 30%.
-Houd er rekening mee dat geen enkele (gepeilde) AI-veiligheidsonderzoeker gelooft dat er een kans van 0% is.
+AI-veiligheidsonderzoekers zijn verdeeld over deze vraag, en schattingen lopen uiteen van 2% tot 97% met een gemiddelde van 30%.
+Houd er rekening mee dat geen enkele (geënquêteerde) AI-veiligheidsonderzoeker gelooft dat er een kans van 0% is.
 Er kan echter selectiebias zijn: mensen die in het veld van AI-veiligheid werken, doen dit waarschijnlijk omdat ze geloven dat het voorkomen van slechte AI-uitkomsten belangrijk is.
 
 Als je AI-onderzoekers in het algemeen vraagt (geen veiligheidsspecialisten), daalt dit aantal tot een gemiddelde waarde van ongeveer 14%, met een mediaan van 5%.
 De overgrote meerderheid, 86% van hen, gelooft dat het afstemmingsprobleem zowel een reëel als een belangrijk probleem is.
-Houd er rekening mee dat er mogelijk selectiebias is in de tegenovergestelde richting: mensen die in AI werken, doen dit waarschijnlijk omdat ze geloven dat AI gunstig zal zijn.
+Houd er rekening mee dat er mogelijk een selectiebias is in de tegenovergestelde richting: mensen die in AI werken, doen dit waarschijnlijk omdat ze geloven dat AI gunstig zal zijn.
 
 _Stel je voor dat je wordt uitgenodigd voor een testvlucht in een nieuw vliegtuig_.
-De vliegtuigingenieurs denken dat er een kans van 14% is dat het vliegtuig crasht.
+De vliegtuigingenieurs denken dat er een kans van 14% is op een crash.
 Zou je in dat vliegtuig stappen? Omdat we nu allemaal aan boord gaan van het AI-vliegtuig.
 
 ## Hoe lang hebben we nog tot superintelligente AI? {#how-long-do-we-have-until-superintelligent-ai}
@@ -104,7 +103,7 @@ Zou je in dat vliegtuig stappen? Omdat we nu allemaal aan boord gaan van het AI-
 Het kan maanden duren, het kan decennia duren, niemand weet het zeker.
 We weten echter wel dat de voortgang van AI vaak ernstig wordt onderschat.
 Nog maar drie jaar geleden dachten we dat we in 2055 AI-systemen zouden hebben die de SAT-test konden halen.
-We bereikten dat in april 2023.
+We haalden dat in april 2023.
 We moeten handelen alsof we nog maar heel weinig tijd hebben, omdat we niet willen worden verrast.
 
 [Lees meer over urgentie](/urgency).
@@ -120,9 +119,9 @@ Houd er ook rekening mee dat we voornamelijk vragen om een _internationale_ pauz
 Zo'n verdrag moet ook door China worden ondertekend.
 Als het verdrag garandeert dat andere landen ook zullen stoppen, en er voldoende handhavingsmechanismen zijn, zou dit iets moeten zijn wat China ook wil zien.
 
-## OpenAI en Google zeggen dat ze gereguleerd willen worden. Waarom protesteren jullie tegen hen? {#openai-and-google-are-saying-they-want-to-be-regulated-why-are-you-protesting-them}
+## OpenAI en Google zeggen dat ze willen worden gereguleerd. Waarom protesteren jullie tegen hen? {#openai-and-google-are-saying-they-want-to-be-regulated-why-are-you-protesting-them}
 
-We applaudisseren OpenAI en Google voor hun oproep tot internationale regulering van AI.
+We applaudisseren OpenAI en Google voor hun oproepen tot internationale regulering van AI.
 We geloven echter dat de huidige voorstellen niet voldoende zijn om een AI-catastrofe te voorkomen.
 Google en Microsoft hebben nog niet publiekelijk iets gezegd over het existentiële risico van AI.
 Alleen OpenAI noemt expliciet het risico van uitsterving, en opnieuw applaudisseren we hen voor het serieus nemen van dit risico.
@@ -145,7 +144,7 @@ De AI-bedrijven noemden x-risico nooit tot voor kort.
 
 Sam Altman is een interessante uitzondering.
 Hij schreef over existentieel AI-risico in 2015, op zijn privéblog, voordat hij OpenAI oprichtte.
-In de jaren daarna maakte hij vrijwel geen expliciete melding van x-risico.
+In de jaren daarna maakte hij vrijwel geen expliciete melding meer van x-risico.
 Tijdens de Senaatsvergadering op 16 mei 2023, toen hem werd gevraagd naar zijn x-risicoblogpost, antwoordde hij alleen door te praten over banen en de economie.
 Hij pushte het x-risiconarratief hier niet, hij vermeed het actief.
 
@@ -160,18 +159,6 @@ In mei 2023 veranderde alles:
 Deze bedrijven zijn erg traag geweest in het erkennen van x-risico, gezien het feit dat veel van hun werknemers er al jaren van op de hoogte zijn.
 Dus in onze ogen pushen de AI-bedrijven het x-risiconarratief niet, ze reageren op anderen die het pushen, en hebben gewacht met hun reactie totdat het absoluut noodzakelijk was.
 
-De zakelijke prikkels wijzen in de andere richting: bedrijven zouden liever niet hebben dat mensen zich zorgen maken over de risico's van hun producten.
-Vrijwel alle bedrijven bagatelliseren risico's om klanten en investeringen aan te trekken, in plaats van ze te overdrijven.
-Hoeveel strikte regulering en negatieve aandacht nodigen de bedrijven uit door deze gevaren toe te geven?
-En zou een bedrijf als OpenAI 20% van zijn rekenkracht aan AI-veiligheid wijden als het niet in de risico's geloofde?
-
-Hier is onze interpretatie: de AI-bedrijven ondertekenden de verklaring omdat _ze weten dat x-risico een probleem is dat zeer serieus moet worden genomen_.
-
-Een grote reden waarom veel andere mensen nog steeds niet willen geloven dat x-risico een reële zorg is?
-Omdat het erkennen dat _we in feite in gevaar zijn_ een zeer, zeer angstaanjagende zaak is.
-
-[Lees meer over de psychologie van x-risico](/psychology-of-x-risk).
-
 ## Oké, ik wil helpen! Wat kan ik doen? {#ok-i-want-to-help-what-can-i-do}
 
 Er zijn veel dingen die je kunt doen.
@@ -180,4 +167,4 @@ Maar nog belangrijker: je kunt lid worden van PauseAI en coördineren met andere
 Kijk of er lokale gemeenschappen in jouw omgeving zijn.
 Als je meer wilt bijdragen, kun je vrijwilliger worden en lid worden van een van onze teams, of een lokale gemeenschap oprichten!
 
-Zelfs als we worden geconfronteerd met het einde van de wereld, kan er nog steeds hoop en zeer lonend werk zijn.
+Zelfs als we worden geconfronteerd met het einde van de wereld, kan er nog steeds hoop en zeer lonend werk zijn om te doen.

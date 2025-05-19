@@ -1,8 +1,7 @@
-Ik heb mijn vertaling gereviewd en enkele verbeteringen aangebracht om de tekst natuurlijker en accurater te maken.
-
 ---
 title: PauseAI Protesten
 description: Een overzicht van aankomende en voorbije protesten.
+git-touch: 2025-05-18T14:59:17Z
 ---
 ## Aankomend protest {#upcoming-protest}
 
@@ -27,7 +26,7 @@ description: Een overzicht van aankomende en voorbije protesten.
 
 - [1 november, Bletchley Park, VK](/2023-november-uk)
 - [21 oktober, Internationaal protest](/2023-oct)
-- [29 september, San Francisco](https://metaprotest.org/) (geen officieel PauseAI-evenement)
+- [29 september, San Francisco](https://metaprotest.org/) (niet officieel PauseAI)
 - [11 augustus, Nederland](/2023-august-nl)
 - [18 juli, Londen](/2023-july-london-18th)
 - [13 juli, Londen](/2023-july-london-13th)
@@ -35,7 +34,7 @@ description: Een overzicht van aankomende en voorbije protesten.
 - [16 juni, Melbourne, Australië](/2023-june-melbourne)
 - [8 juni, Parliament Square, Londen](/2023-june-london)
 - [3 juni, New York, VN-gebouw](/nyc-un-vigil)
-- [24 mei, Londen, UCL](https://twitter.com/GFuterman/status/1660648998863028230?s=20) (geen officieel PauseAI-evenement)
+- [24 mei, Londen, UCL](https://twitter.com/GFuterman/status/1660648998863028230?s=20) (niet officieel PauseAI)
 - [23 mei, Microsoft, Brussel](/brussels-microsoft-protest)
 - [20 mei, OpenAI, San Francisco](/openai-protest)
 - [19-22 mei, Google DeepMind, Londen](/2023-may-deepmind-london)
@@ -43,11 +42,9 @@ description: Een overzicht van aankomende en voorbije protesten.
 ## Organiseer een protest {#organize-a-protest}
 
 Neem het initiatief om een protest te organiseren!
-Wij zijn hier om je te helpen.
+Wij zijn hier om te helpen.
 Lees meer over [het organiseren van een protest](/organizing-a-protest).
 
 ## Gedragscode {#code-of-conduct}
 
 [Lees onze gedragscode voor protesteren](/protesters-code-of-conduct)
-
-Ik heb enkele kleine aanpassingen gemaakt om de tekst natuurlijker te maken, zoals het gebruik van "overzicht" in plaats van "lijst" en "Internationaal protest" in plaats van "Internationale protest". Ook heb ik "geen officieel PauseAI-evenement" gebruikt in plaats van "niet officieel PauseAI" om de tekst duidelijker te maken.

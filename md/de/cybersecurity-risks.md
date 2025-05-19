@@ -1,11 +1,10 @@
-Ich habe meine Übersetzung überprüft und einige Verbesserungen vorgenommen, um die Genauigkeit und Natürlichkeit zu erhöhen. Hier ist die überarbeitete Version:
-
 ---
 title: Cybersicherheitsrisiken durch fortschrittliche KI-Modelle
 description: Wie KI genutzt werden könnte, um alle Geräte zu hacken.
+git-touch: 2025-05-18T14:58:49Z
 ---
-Virtuell alles, was wir heutzutage tun, hängt in irgendeiner Weise von Computern ab.
-Wir bezahlen unsere Einkäufe, planen unsere Tage, kontaktieren unsere Liebsten und fahren sogar unsere Autos mit Computern.
+Virtuell alles, was wir heutzutage tun, hängt auf irgendeine Weise von Computern ab.
+Wir bezahlen unsere Einkäufe, planen unsere Tage, kontaktieren unsere Liebsten und sogar fahren unsere Autos mit Computern.
 Und praktisch alle diese Computer sind miteinander verbunden.
 Dies macht uns alle anfällig für Cyberangriffe.
 
@@ -13,13 +12,13 @@ Hochentwickelte Cyberwaffen, Malware und Botnetze (wie [Stuxnet](https://www.you
 Die [Cyberwaffe Pegasus](<https://de.wikipedia.org/wiki/Pegasus_(Spionagesoftware)>), zum Beispiel, kostete Hunderte Millionen Dollar zu entwickeln.
 Das Auffinden sogenannter Zero-Day-Exploits (Sicherheitslücken, die noch nicht entdeckt wurden) erfordert viel Geschick und viel Zeit - nur hochspezialisierte Hacker können dies tun.
 Wenn jedoch KI ausreichend fortgeschritten ist, wird dies nicht mehr der Fall sein.
-Anstatt ein Team von hochqualifizierten Sicherheitsexperten/Hackern anzuheuern, um Zero-Day-Exploits zu finden, könnte jeder einfach eine viel billigere KI verwenden.
+Anstatt ein Team von hochqualifizierten Sicherheitsexperten/Hackern zu engagieren, um Zero-Day-Exploits zu finden, könnte jeder einfach eine viel billigere KI verwenden.
 
 ## KI-Modelle können autonom Sicherheitslücken finden und ausnutzen {#ai-models-can-autonomously-find-and-exploit-vulnerabilities}
 
 Die neuesten KI-Systeme können bereits Software analysieren und schreiben.
 Sie [können Sicherheitslücken finden](https://betterprogramming.pub/i-used-gpt-3-to-find-213-security-vulnerabilities-in-a-single-codebase-cc3870ba9411) in Software und [sie könnten genutzt werden, um sie auszunutzen](https://blog.checkpoint.com/2023/03/15/check-point-research-conducts-initial-security-analysis-of-chatgpt4-highlighting-potential-scenarios-for-accelerated-cybercrime/).
-GPT-4 kann bereits [autonom Websites hacken](https://arxiv.org/html/2402.06664v1), indem es Aufgaben wie die Extraktion von Datenbank-Schemas und SQL-Injektionen ohne menschliches Feedback ausführt, was 18 Monate nach Abschluss der GPT-4-Trainingsphase entdeckt wurde.
+GPT-4 kann bereits [autonom Websites hacken](https://arxiv.org/html/2402.06664v1), indem es Aufgaben wie die Extraktion von Datenbankschemata und SQL-Injektionen ohne menschliches Feedback ausführt, was 18 Monate nach Abschluss des Trainings von GPT-4 entdeckt wurde.
 GPT-4 übertrifft bereits [88%](https://arxiv.org/pdf/2402.11814.pdf) der menschlichen Hacker in einem CTF-Wettbewerb.
 Es kann auch [autonom 87% der getesteten Sicherheitslücken ausnutzen](https://arxiv.org/abs/2404.08144), was einen enormen Fortschritt gegenüber GPT-3.5 oder Open-Source-Modellen darstellt, die alle 0% erreichten.
 Teams aus mehreren LLMs [funktionieren noch besser](https://arxiv.org/abs/2406.01637) - sie können reale Zero-Day-Sicherheitslücken ausnutzen.
@@ -28,7 +27,7 @@ Sie sind noch nicht so gut darin wie die besten Menschen, also ist die Gefahr im
 Die Fähigkeiten nehmen jedoch rapide zu und können plötzlich stark ansteigen.
 
 Es ist zu beachten, dass KI auch völlig neue Arten von Angriffen ermöglicht.
-Zum Beispiel kann KI genutzt werden, um [das Passwort, das du eingegeben hast, aus einem Online-Anruf zu hören](https://beebom.com/ai-crack-password-listening-keyboard-sounds/)
+Zum Beispiel kann KI genutzt werden, um [das Passwort, das du getippt hast, aus einem Online-Anruf zu hören](https://beebom.com/ai-crack-password-listening-keyboard-sounds/)
 oder [Wi-Fi zu nutzen, um Menschen durch Wände zu sehen](https://www.marktechpost.com/2023/02/15/cmu-researchers-create-an-ai-model-that-can-detect-the-pose-of-multiple-humans-in-a-room-using-only-the-signals-from-wifi/).
 KI kann auch genutzt werden, um [selbstmodifizierende Malware](https://www.hyas.com/blog/blackmamba-using-ai-to-generate-polymorphic-malware) zu erstellen, was es viel schwieriger macht, sie zu erkennen.
 
@@ -52,7 +51,7 @@ Wenn jedoch KI immer agenter wird, könnte sie auch autonom erstellt und eingese
 Wenn das Ziel eines Cyberangriffs darin besteht, Geräte und Infrastruktur zu deaktivieren, könnte der Schaden massiv sein.
 Unsere Gesellschaft ist zunehmend von Computern und dem Internet abhängig.
 Zahlungen, Transport, Kommunikation, Planung, Lieferketten, Stromnetze...
-Wenn unsere Geräte nicht mehr ordnungsgemäß funktionieren, funktionieren auch viele Teile unserer Gesellschaft nicht mehr.
+Wenn unsere Geräte nicht mehr ordnungsgemäß funktionieren, versagen auch viele Teile unserer Gesellschaft.
 
 Über [93% der Cybersicherheitsexperten](https://www.weforum.org/publications/global-cybersecurity-outlook-2023/) glauben, dass „ein weitreichendes, katastrophales Cyberereignis in den nächsten zwei Jahren wahrscheinlich ist“.
 
@@ -68,9 +67,7 @@ Die oben beschriebene Geschichte kann nur passieren, wenn:
 
 Es gibt verschiedene Maßnahmen, die wir ergreifen können, um dies zu bekämpfen:
 
-- **Verhindern Sie die Schulung von Modellen, die Zero-Day-Exploits finden können**. Dies ist der effektivste Weg, um dies zu verhindern. Es ist der sicherste Weg, und es ist das, was wir [vorschlagen](/proposal).
-- **Erlauben Sie nur die Veröffentlichung oder Open-Sourcing von Modellen nach umfassenden Tests**. Wenn sie gefährliche Fähigkeiten haben, veröffentlichen Sie sie nicht.
+- **Verhindern Sie die Ausbildung von Modellen, die Zero-Day-Exploits finden können**. Dies ist der effektivste Weg, um dies zu verhindern. Es ist der sicherste Weg, und es ist das, was wir [vorschlagen](/proposal).
+- **Erlauben Sie nur die Veröffentlichung von Modellen nach umfangreichen Tests**. Wenn sie gefährliche Fähigkeiten haben, veröffentlichen Sie sie nicht.
 - **Erlassen Sie strenge Cybersicherheitsvorschriften, um zu verhindern, dass Modellgewichte geleakt werden**. Wenn Sie gefährliche Modelle zulassen, stellen Sie sicher, dass sie nicht in die falschen Hände geraten.
 - **Verlangen Sie von KI-Unternehmen, die KI zu nutzen, um Sicherheitslücken zu beheben**. Wenn ein Modell trainiert wird, das neue Sicherheitslücken finden kann, nutzen Sie dies, um Software-Entwickler zu kontaktieren, um diese Sicherheitslücken zu patchen. Geben Sie dem Patch-Prozess genügend Zeit, bevor das Modell veröffentlicht wird. Stellen Sie sicher, dass die Gewichte nicht geleakt werden, und schützen Sie das Modell, als ob es der Startcode für einen nuklearen Angriff wäre. Wenn dies richtig gemacht wird, kann KI die Cybersicherheit überall dramatisch verbessern.
-
-Ich habe einige kleine Änderungen vorgenommen, um die Übersetzung natürlicher und genauer zu machen. Ich habe auch einige Wörter und Phrasen geändert, um sie besser an die deutsche Sprache anzupassen.

@@ -1,8 +1,7 @@
-Ik heb mijn vertaling naar het Nederlands gereviewd en enkele verbeteringen aangebracht om de tekst natuurlijker en accurater te maken. Hieronder vindt u de herziene vertaling:
-
 ---
 title: Vacature Communicatiedirecteur bij PauseAI Global (Vacature gesloten)
-description: PauseAI zoekt een Communicatiedirecteur om ons Communicatieteam en sociale media-accounts te leiden. Werken op afstand of in Utrecht, Nederland.
+description: PauseAI zoekt een Communicatiedirecteur om ons Communicatieteam en sociale media-accounts te leiden. Werk op afstand of in Utrecht, Nederland.
+git-touch: 2025-05-18T14:58:42Z
 ---
 _Update 2025-03-24: Deze vacature is nu gesloten._
 
@@ -44,19 +43,17 @@ Wees je ervan bewust dat PauseAI in de nabije toekomst snel kan groeien, zowel i
 - Een generalist met leiderschapservaring
 - Je begrijpt AI-veiligheid en AI-governance
 - Ondersteunt het idee van een AI-pauze, maar we staan open voor verschillende perspectieven (zoals dreigingsmodellen of beleid)
-- Reclame-ervaring is een plus
-- Ervaring met videocontentcreatie is een plus
+- Ervaring met reclame is een plus
+- Ervaring met het creëren van videocontent is een plus
 - Proactief en ondernemend
 
 ### Voorwaarden {#conditions}
 
-- Werken op afstand of in Utrecht, Nederland
+- Werk op afstand of in Utrecht, Nederland
 - Voltijdse positie
 - Salarisrange: 40.000 - 60.000 EUR per jaar, afhankelijk van ervaring en locatie
-- Referralbonus: 500 EUR voor een succesvolle aanwinst
+- Referralbonus: 500 EUR voor een succesvolle aanwerving
 
 ## Solliciteer {#apply}
 
 Je kunt niet langer solliciteren voor deze positie.
-
-Ik heb enkele kleine aanpassingen gemaakt om de tekst natuurlijker en accurater te maken, zoals het gebruik van "belangrijkste probleem van onze tijd" in plaats van "belangrijkste probleem op aarde". Ook heb ik enkele woorden en zinnen aangepast om ze beter aan te laten sluiten bij de Nederlandse taal en cultuur.

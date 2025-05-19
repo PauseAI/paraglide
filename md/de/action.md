@@ -1,10 +1,9 @@
-Ich habe meine Übersetzung überprüft und einige Verbesserungen vorgenommen, um die Genauigkeit und Natürlichkeit zu erhöhen. Hier ist die überarbeitete Version:
-
 ---
 title: Handeln Sie
 description: Möglichkeiten, das Risiko von künstlicher Intelligenz zu reduzieren.
+git-touch: 2025-05-18T14:58:43Z
 ---
-KI wird nicht sicherer, wenn wir nicht entschlossen handeln, um die Sicherheit voranzutreiben.
+KI wird nicht sicherer, wenn wir nicht entschlossen handeln, um Sicherheit zu fördern.
 Wählen Sie eine Aktivität unten, je nach Ihren Interessen oder Fähigkeiten.
 
 ## Für alle {#for-everyone}
@@ -12,7 +11,7 @@ Wählen Sie eine Aktivität unten, je nach Ihren Interessen oder Fähigkeiten.
 ### Fordern Sie Regierungsmaßnahmen {#demand-government-action}
 
 - **Schreiben Sie Ihren Politikern**: Wir haben festgestellt, dass E-Mails überraschend effektiv sind und relativ wenig Aufwand erfordern. Wenn Sie sich nicht sicher sind, was Sie schreiben sollen, [beginnen Sie mit unserem E-Mail-Generator](/email-builder). Wenn Sie ein Treffen erhalten, sollten Sie unsere [Lobby-Tipps](/lobby-tips) lesen.
-- **Rufen Sie Ihre Politiker an**: Versuchen Sie, die Büros der Gesetzgeber anzurufen, während Sie einen Satz von Gesprächspunkten im Blick haben, um auf dem Thema zu bleiben.
+- **Rufen Sie Ihre Politiker an**: Versuchen Sie, die Büros der Gesetzgeber anzurufen, während Sie eine Reihe von Gesprächspunkten im Blick haben, um auf dem Thema zu bleiben.
 - **Protestieren Sie**: Nehmen Sie an [einer der Proteste](https://pauseai.info/protests) teil oder [organisieren Sie selbst einen](https://pauseai.info/organizing-a-protest).
 - **Unterzeichnen Sie Petitionen**: [Internationaler KI-Vertrag](https://aitreaty.org), [Verbot von Superintelligenz](https://chng.it/Djjfj2Gmpk), [Forderung nach verantwortungsvoller KI](https://www.change.org/p/artificial-intelligence-time-is-running-out-for-responsible-ai-development-91f0a02c-130a-46e1-9e55-70d6b274f4df) oder eine der **nationalen Petitionen**: [UK](https://petition.parliament.uk/petitions/639956), [AUS](https://www.aph.gov.au/e-petitions/petition/EN5163), [NL](https://aipetitie.nl).
 
@@ -26,12 +25,12 @@ Wählen Sie eine Aktivität unten, je nach Ihren Interessen oder Fähigkeiten.
 ### Unterstützen Sie PauseAI {#support-pauseai}
 
 - **Treten Sie einer [lokalen PauseAI-Community](/communities) bei** oder **gründen Sie eine**.
-- **Treten Sie dem [Discord](https://discord.gg/2XXWXvErfA) bei**, wo die meisten Zusammenarbeitsaktivitäten stattfinden.
+- **Treten Sie dem [Discord](https://discord.gg/2XXWXvErfA) bei**, wo die meisten Zusammenarbeiten stattfinden.
 - **Protestieren Sie oder nehmen Sie an [Veranstaltungen](/events) teil**. Wenn kein Protest in Ihrer Nähe stattfindet, sollten Sie [einen starten](/organizing-a-protest).
 - **Überprüfen Sie unsere [Stellenangebote](/vacancies)**, um zu sehen, ob Ihre Fähigkeiten unseren organisatorischen Bedürfnissen entsprechen. Wir suchen oft nach Menschen mit Erfahrung in sozialen Medien, Kommunikation, Organisation, Öffentlichkeitsarbeit und Software. Einige Positionen sind bezahlt.
 - **[Melden Sie sich als Freiwilliger an](https://airtable.com/appWPTGqZmUcs3NWu/pag7ztLh27Omj5s2n/form)**, damit wir Projekte in Ihren Interessengebieten finden können.
 - **[Spenden Sie](/donate)** an PauseAI oder kaufen Sie Merchandise in unserem [Shop](https://pauseai-shop.fourthwall.com/).
-- **Folgen Sie unseren [sozialen Medien-Kanälen](https://linktr.ee/pauseai)** und bleiben Sie auf dem neuesten Stand. Ihr lokales PauseAI-Kapitel kann auch eigene soziale Medien-Seiten haben.
+- **Folgen Sie unseren [sozialen Medien-Kanälen](https://linktr.ee/pauseai)** und bleiben Sie auf dem Laufenden. Ihr lokales PauseAI-Kapitel kann auch eigene soziale Medien-Seiten haben.
 
 ## Für bestimmte Personen {#for-specific-people}
 
@@ -44,7 +43,7 @@ Wählen Sie eine Aktivität unten, je nach Ihren Interessen oder Fähigkeiten.
 
 ### Wenn Sie Politiker oder Regierungsmitarbeiter sind {#if-you-are-a-politician-or-work-in-government}
 
-- **Bereiten Sie sich auf den nächsten [KI-Sicherheitsgipfel](/summit) vor**. Bilden Sie Koalitionen mit anderen Ländern, um Sicherheitsinformationen auszutauschen und schnell zu handeln, wenn Schäden auftreten. Arbeiten Sie auf einen globalen Vertrag hin.
+- **Bereiten Sie sich auf den nächsten [KI-Sicherheitsgipfel](/summit) vor**. Bilden Sie Koalitionen mit anderen Ländern, um Sicherheitsinformationen auszutauschen und schnell zu handeln, wenn Schäden entstehen. Arbeiten Sie auf einen globalen Vertrag hin.
 - **Laden Sie (oder laden Sie vor) KI-Laborleiter** zu parlamentarischen/parlamentarischen Anhörungen ein, um ihre Vorhersagen und Zeitpläne für KI-Katastrophen zu geben.
 - **Einrichten Sie einen Ausschuss**, um die [Risiken von KI](/risks) zu untersuchen. Veröffentlichen Sie die Ergebnisse, wenn möglich.
 - **Machen Sie KI-Sicherheit zu einer Priorität** in der Plattform Ihrer Partei, der Politik Ihrer Regierung oder stellen Sie sicher, dass es auf der Agenda steht.
@@ -52,7 +51,7 @@ Wählen Sie eine Aktivität unten, je nach Ihren Interessen oder Fähigkeiten.
 
 ### Wenn Sie Erfahrung im (internationalen) Recht haben {#if-you-have-experience-with-international-law}
 
-- **Helfen Sie bei der Erstellung von Richtlinien**. [Beispiele für Entwürfe](https://www.campaignforaisafety.org/celebrating-the-winners-law-student-moratorium-treaty-competition/). ([einige](https://futureoflife.org/wp-content/uploads/2023/04/FLI_Policymaking_In_The_Pause.pdf) [Rahmenbedingungen](https://www.openphilanthropy.org/research/12-tentative-ideas-for-us-ai-policy/))
+- **Helfen Sie bei der Erstellung von Richtlinien**. [Beispiele für Entwürfe](https://www.campaignforaisafety.org/celebrating-the-winners-law-student-moratorium-treaty-competition/). ([Einige](https://futureoflife.org/wp-content/uploads/2023/04/FLI_Policymaking_In_The_Pause.pdf) [Rahmenbedingungen](https://www.openphilanthropy.org/research/12-tentative-ideas-for-us-ai-policy/))
 - **Machen Sie Einreichungen** zu Regierungsanfragen für Kommentare zu KI-Richtlinien ([Beispiel](https://ntia.gov/issues/artificial-intelligence/request-for-comments)).
 
 ### Wenn Sie Universitätsprofessor oder in einer akademischen Institution arbeiten {#if-you-are-a-university-professor-or-work-in-an-academic-institution}
@@ -65,5 +64,3 @@ Wählen Sie eine Aktivität unten, je nach Ihren Interessen oder Fähigkeiten.
 ### Wenn Sie als Journalist oder eine soziale Medien-Following haben {#if-you-work-as-a-journalist-or-have-a-social-media-following}
 
 - **Erstellen Sie Inhalte** über KI-Gefahren oder PauseAI. Für weitere Informationen kontaktieren Sie uns über einen unserer [Kommunikationskanäle](/faq#do-you-have-social-media).
-
-Ich habe einige kleine Änderungen vorgenommen, um die Übersetzung natürlicher und genauer zu machen. Ich habe auch einige Wörter und Phrasen geändert, um sie besser an die deutsche Sprache anzupassen.

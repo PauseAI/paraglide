@@ -1,8 +1,7 @@
-Ich habe meine Übersetzung überprüft und einige Verbesserungen vorgenommen, um die Genauigkeit und Natürlichkeit zu erhöhen. Hier ist die überarbeitete Version:
-
 ---
 title: Risiken der künstlichen Intelligenz
 description: KI bedroht unsere Demokratie, unsere Technologie und unsere Spezies.
+git-touch: 2025-05-18T14:59:19Z
 ---
 KI ist eine leistungsfähige Technologie, die unsere Welt zunehmend verändert.
 Sie bietet enormes Potenzial, aber auch eine enorme Menge an ernsthaften Risiken.
@@ -16,34 +15,34 @@ Ein großer Teil unserer Gesellschaft basiert auf Vertrauen. Wir vertrauen darau
 
 KI-Systeme sind außergewöhnlich gut darin, gefälschte Medien zu erstellen, auch bekannt als Deepfakes.
 Sie können gefälschte Videos, Audioaufnahmen, Texte und Bilder erstellen.
-Die Erstellung von gefälschten Medien ist nicht neu, aber KI macht es viel billiger und realistischer.
+Die Erstellung gefälschter Medien ist nicht neu, aber KI macht es viel billiger und realistischer.
 Diese Fähigkeiten verbessern sich rasant.
 
-Vor gerade einmal zwei Jahren haben wir über die schlecht gemachten Dall-E-Bilder gelacht, aber jetzt haben wir [Deepfake-Bilder, die Fotowettbewerbe gewinnen](https://www.theguardian.com/technology/2023/apr/17/photographer-admits-prize-winning-image-was-ai-generated).
+Vor gerade einmal zwei Jahren haben wir über die lächerlich unrealistischen Dall-E-Bilder gelacht, aber jetzt haben wir [Deepfake-Bilder, die Fotowettbewerbe gewinnen](https://www.theguardian.com/technology/2023/apr/17/photographer-admits-prize-winning-image-was-ai-generated).
 Ein KI-generiertes Bild einer Explosion verursachte [Panikverkäufe an der Wall Street](https://www.euronews.com/next/2023/05/23/fake-news-about-an-explosion-at-the-pentagon-spreads-on-verified-accounts-on-twitter).
 Ein 10-Sekunden-Audio-Clip oder ein einzelnes Bild kann ausreichen, um ein überzeugendes Deepfake zu erstellen.
-Vielleicht noch gefährlicher als die Deepfakes selbst ist, wie die Existenz von überzeugenden Deepfakes das Vertrauen in die Medien zerstört.
+Vielleicht noch gefährlicher als die Deepfakes selbst ist, wie die Existenz überzeugender Deepfakes das Vertrauen zerstört.
 [Ein reales Bild kann als KI-generiert bezeichnet werden](https://www.axios.com/2024/08/13/trump-crowd-photo-ai-deepfake-truth), und die Menschen werden es glauben.
 
-GPT-4 kann auf eine Weise schreiben, die von Menschen nicht zu unterscheiden ist, aber viel schneller und billiger.
-Wir könnten bald sehen, wie soziale Medien mit gefälschten Diskussionen und Meinungen überschwemmt werden, und gefälschte Nachrichtenartikel, die von echten nicht zu unterscheiden sind.
+GPT-4 kann auf eine Weise schreiben, die von Menschen nicht zu unterscheiden ist, aber mit einer viel schnelleren Geschwindigkeit und einem Bruchteil der Kosten.
+Wir könnten bald sehen, wie soziale Medien mit gefälschten Diskussionen und Meinungen und gefälschten Nachrichtenartikeln überschwemmt werden, die von echten nicht zu unterscheiden sind.
 Auch bekannt als "totes Internet".
 
-Dies führt zu einer Polarisierung zwischen verschiedenen Gruppen von Menschen, die an verschiedene Informationsquellen und Narrative glauben und durch verzerrte Darstellungen dessen, was passiert, ihre Differenzen eskalieren lassen, bis hin zu gewalttätigen und antidemokratischen Reaktionen.
+Dies führt zu einer Polarisierung zwischen verschiedenen Gruppen von Menschen, die an verschiedene Informationsquellen und Narrative glauben und durch verzerrte Darstellungen dessen, was passiert, ihre Differenzen eskalieren lassen, bis sie in gewalttätige und antidemokratische Reaktionen kulminieren.
 
-Ein Stopp der Entwicklung von Spitzenmodellen (unser [Vorschlag](/proposal)) würde nicht die Modelle stoppen, die heute verwendet werden, um gefälschte Medien zu erstellen, aber es könnte helfen, zukünftige Spitzenmodelle zu verhindern.
-Außerdem würde es den Grundstein für zukünftige Regulierungen legen, die darauf abzielen, gefälschte Medien und andere spezifische Probleme zu mildern, die durch KI verursacht werden. Nicht zu vergessen die Erhöhung der öffentlichen Aufmerksamkeit und des Bewusstseins für diese Gefahren und den Beweis, dass sie angegangen werden können.
+Ein Stopp der Entwicklung von Frontier-Modellen (unser [Vorschlag](/proposal)) würde die Modelle, die heute verwendet werden, um gefälschte Medien zu erstellen, nicht stoppen, aber es könnte helfen, zukünftige hochentwickelte Modelle zu verhindern.
+Außerdem würde es den Grundstein für zukünftige Regulierungen legen, die darauf abzielen, gefälschte Medien und andere spezifische Probleme, die durch KI verursacht werden, zu mildern. Nicht zu vergessen die Erhöhung der öffentlichen Aufmerksamkeit und des Bewusstseins für diese Gefahren und den Beweis, dass sie angegangen werden können.
 
 ### Deepfakes-gestützte Belästigung und Betrug {#deepfakes-powered-harrasment-and-scams}
 
 Deepfakes können nicht nur die Identität berühmter Menschen stehlen und [Desinformation verbreiten](https://time.com/6565446/biden-deepfake-audio/), sondern auch Sie selbst darstellen.
-Jeder mit Fotos, Videos oder Audioaufnahmen von jemandem (und genug Wissen) kann Deepfakes von ihnen erstellen und sie verwenden, um Betrug zu begehen, sie zu belästigen oder nicht einvernehmliches sexuelles Material zu erstellen.
+Jeder, der Fotos, Videos oder Audioaufnahmen von jemandem hat (und genug Kenntnisse), kann Deepfakes von ihnen erstellen und sie verwenden, um Betrug zu begehen, sie zu belästigen oder nicht einvernehmliche sexuelle Inhalte zu erstellen.
 Etwa [96% aller Deepfake-Inhalte sind sexuelle Inhalte](https://www.technologyreview.com/2019/10/07/132735/deepfake-porn-deeptrace-legislation-california-election-disinformation/).
 
 Sie können eine Zusammenstellung von KI-Vorfällen finden, die hauptsächlich Deepfake-Nachrichten, Betrug und Belästigung sind, [hier](https://incidentdatabase.ai/summaries/incidents/).
 
-Wie im Abschnitt über Falschmeldungen erwähnt, würden gefälschte Medien durch unseren Vorschlag nicht ganz verhindert, aber sie könnten in gewissem Umfang reduziert werden.
-Ein nicht so kleiner Umfang, wenn man bedenkt, dass KI-Mehrzwecksysteme wie Chatbots sehr beliebt geworden sind und wir sie davon abhalten würden, noch leistungsfähiger und beliebter zu werden, was Systeme einschließen könnte, die mit weniger Filtern und trainierbar mit neuen Gesichtern konzipiert sind.
+Wie im Abschnitt über Falschmeldungen erwähnt, würde unser Vorschlag nicht alle gefälschten Medien verhindern, aber sie könnten in gewissem Umfang reduziert werden.
+Ein nicht so kleiner Umfang, wenn man bedenkt, dass KI-Multifunktionssysteme wie Chatbots sehr beliebt geworden sind und wir sie davon abhalten würden, noch leistungsfähiger und beliebter zu werden, was Systeme einschließen könnte, die mit weniger Filtern und trainierbar mit neuen Gesichtern konzipiert sind.
 
 ### Vorurteile und Diskriminierung {#biases-and-discrimination}
 
@@ -51,7 +50,7 @@ KI-Systeme werden mit Daten trainiert, und viele der Daten, die wir haben, sind 
 Dies bedeutet, dass KI-Systeme die Vorurteile unserer Gesellschaft erben werden.
 Ein automatisiertes Rekrutierungssystem bei Amazon [erbte eine Voreingenommenheit gegen Frauen](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G).
 Schwarze Patienten wurden [weniger wahrscheinlich an einen medizinischen Spezialisten überwiesen](https://www.science.org/doi/full/10.1126/science.aax2342).
-Voreingenommene Systeme, die in der Strafverfolgung verwendet werden, wie Vorhersagealgorithmen für die Polizei, könnten zu unfairer Zielsetzung bestimmter Gruppen führen.
+Voreingenommene Systeme, die in der Strafverfolgung verwendet werden, wie zum Beispiel Vorhersagealgorithmen für Polizeieinsätze, könnten zu einer unfairen Zielsetzung bestimmter Gruppen führen.
 Generative KI-Modelle kopieren nicht nur die Vorurteile aus ihren Trainingsdaten, [sie verstärken sie](https://www.bloomberg.com/graphics/2023-generative-ai-bias/).
 Diese Vorurteile treten oft auf, ohne dass die Ersteller des KI-Systems sich dessen bewusst sind.
 
@@ -68,15 +67,15 @@ Schriftsteller [streiken](https://www.newscientist.com/article/2373382-why-use-o
 GPT-4 hat [die Anwaltsprüfung bestanden](https://law.stanford.edu/2023/04/19/gpt-4-passes-the-bar-exam-what-that-means-for-artificial-intelligence-tools-in-the-legal-industry/), kann exzellente schriftliche Inhalte erstellen und kann Code schreiben (wiederum teilweise trainiert auf [urheberrechtlich geschütztem Material](https://www.ischool.berkeley.edu/news/2023/new-research-prof-david-bamman-reveals-chatgpt-seems-be-trained-copyrighted-books)).
 
 Die Menschen, die diese KI-Systeme besitzen, werden in der Lage sein, sie zu kapitalisieren, aber die Menschen, die ihre Arbeitsplätze an sie verlieren, werden es nicht.
-Es ist schwierig vorherzusagen, welche Arbeitsplätze zuerst ersetzt werden.
+Es ist schwierig vorherzusagen, welche Arbeitsplätze als erste ersetzt werden.
 Sie könnten Sie arbeitslos und ohne Einkommen lassen, egal wie viel Zeit, Geld und Energie Sie in die Erlangung der Erfahrung und Kenntnisse investiert haben, die Sie haben, und wie wertvoll sie vor einem Moment waren.
 Die Art und Weise, wie wir Reichtum in unserer Gesellschaft verteilen, ist nicht auf diese Situation vorbereitet.
 
 Politische Maßnahmen wie ein universelles Grundeinkommen könnten die schlimmsten wirtschaftlichen Folgen verhindern, aber es ist unklar, ob sie rechtzeitig umgesetzt werden.
-Sobald unsere Arbeitsplätze ersetzt sind, könnten wir ohne Verhandlungsmacht bleiben, um nach sozialen Netzen zu fragen.
+Sobald unsere Arbeitsplätze ersetzt sind, könnten wir ohne Verhandlungsmacht bleiben, um soziale Netze zu fordern.
 
-Und selbst wenn wir es schaffen, die Probleme rund um Ungleichheit und Instabilität richtig zu navigieren, könnten wir in einer Welt enden, in der unser Sinn für Zweck verloren geht.
-Viele Künstler fühlen sich bereits so, da sie sehen, wie ihre Arbeit durch KI ersetzt wird.
+Und selbst wenn es uns gelingt, die Probleme im Zusammenhang mit Ungleichheit und Instabilität richtig zu meistern, könnten wir in einer Welt enden, in der unser Sinn für Zweck verloren geht.
+Viele Künstler fühlen sich bereits so, da sie sehen, dass ihre Arbeit durch KI ersetzt wird.
 Bald könnten wir alle so fühlen.
 
 ### Psychische Gesundheit, Sucht und Entfremdung zwischen Menschen {#mental-health-addiction-and-disconnection-between-people}
@@ -87,12 +86,12 @@ Diese KI-Beziehungs-Apps sind [als süchtig machend erwiesen](https://onlinelibr
 
 Die Unternehmen, die diese Apps kontrollieren, sind motiviert, sie so süchtig machend wie möglich zu machen, und haben eine enorme Macht, indem sie das Verhalten und die Meinungen dieser Modelle prägen.
 
-Ein Stopp der größten Modelle könnte verhindern, dass sie zu Mehrzweck-Chatbots werden, die unsere Bedürfnisse perfekt erfüllen, ohne dass die Menschen die langfristigen Auswirkungen verstehen.
+Eine Pause bei den größten Modellen könnte verhindern, dass sie zu multifunktionalen Chatbots werden, die unsere Bedürfnisse perfekt erfüllen, ohne dass die Menschen die langfristigen Auswirkungen verstehen.
 
-### Automatisierte Ermittlung (Verlust der Privatsphäre) {#automated-investigation-loss-of-privacy}
+### Automatisierte Ermittlungen (Verlust der Privatsphäre) {#automated-investigation-loss-of-privacy}
 
 Wir hinterlassen viele Spuren im Internet.
-Das Verbinden der Punkte ist schwierig und zeitaufwendig, aber KI kann dies jetzt viel billiger machen.
+Die Verbindung der Punkte ist schwierig und zeitaufwendig, aber KI kann dies jetzt viel billiger machen.
 Große Sprachmodelle können jetzt autonom das Internet durchsuchen und sind gut genug, um große Mengen an Daten zu analysieren und interessante Details zu finden.
 Dies kann verwendet werden, um Informationen zu finden, die sonst sehr teuer zu finden wären.
 
@@ -113,23 +112,23 @@ Palantirs [AIP-System](https://www.youtube.com/watch?v=XEM5qz__HOU) verwendet gr
 
 Nationen und Waffenunternehmen haben erkannt, dass KI einen enormen Einfluss auf die Überlegenheit gegenüber ihren Feinden haben wird.
 Wir sind in ein neues Wettrüsten eingetreten.
-Diese Dynamik belohnt das Beschleunigen und Abkürzen.
+Diese Dynamik belohnt das Beschleunigen und die Kürzung von Ecken.
 
 Im Moment haben wir noch Menschen in der Schleife für diese Waffen.
-Aber wenn die Fähigkeiten dieser KI-Systeme verbessert werden, wird es immer mehr Druck geben, den Maschinen die Kontrolle zu übergeben.
+Aber wenn die Fähigkeiten dieser KI-Systeme verbessert werden, wird es immer mehr Druck geben, den Maschinen die Macht zu geben, zu entscheiden.
 Wenn wir die Kontrolle über Waffen an KI delegieren, könnten Fehler und Bugs schreckliche Konsequenzen haben.
 Die Geschwindigkeit, mit der KI Informationen verarbeiten und Entscheidungen treffen kann, könnte Konflikte in Minuten eskalieren lassen.
-Ein [aktueller Artikel](https://arxiv.org/pdf/2401.03408.pdf) kommt zu dem Schluss, dass "Modelle dazu neigen, Wettrüsten-Dynamiken zu entwickeln, was zu mehr Konflikten und in seltenen Fällen sogar zum Einsatz von Nuklearwaffen führt".
+Ein [aktueller Artikel](https://arxiv.org/pdf/2401.03408.pdf) kommt zu dem Schluss, dass "Modelle dazu neigen, eine Dynamik des Wettrüstens zu entwickeln, die zu größeren Konflikten und in seltenen Fällen sogar zum Einsatz von Nuklearwaffen führt".
 
 Lesen Sie mehr auf [stopkillerrobots.org](https://www.stopkillerrobots.org/military-and-killer-robots/)
 
-## Zukünftige Gefahren {#near-future-dangers}
+## Gefahren in naher Zukunft {#near-future-dangers}
 
 ### Machtakkumulation und Tyrannei {#power-accumulation-and-tyranny}
 
 Leistungsfähige KI-Modelle können verwendet werden, um mehr Macht zu erlangen.
 Diese positive Rückkopplungsschleife kann dazu führen, dass einige Unternehmen oder Regierungen eine ungesunde Menge an Macht haben.
-Die Kontrolle über Tausende intelligente, autonome Systeme könnte verwendet werden, um Meinungen zu beeinflussen, Märkte zu manipulieren oder sogar Krieg zu führen.
+Die Kontrolle über Tausende intelligenter, autonomer Systeme könnte verwendet werden, um Meinungen zu beeinflussen, Märkte zu manipulieren oder sogar Krieg zu führen.
 In den Händen einer autoritären Regierung könnte dies verwendet werden, um Dissens zu unterdrücken und die Macht aufrechtzuerhalten.
 
 ### Biologische Waffen {#biological-weapons}
@@ -151,7 +150,7 @@ Die grundlegende Gefahr besteht darin, dass die Kosten für die Entwicklung und 
 ### Computerviren und Cybersicherheitsangriffe {#computer-viruses-and-cybersecurity-attacks}
 
 Praktisch alles, was wir heute tun, hängt auf irgendeine Weise von Computern ab.
-Wir bezahlen unsere Lebensmittel, planen unsere Tage, kontaktieren unsere Lieben und fahren unsere Autos mit Computern.
+Wir bezahlen unsere Lebensmittel, planen unsere Tage, kontaktieren unsere Lieben und fahren sogar unsere Autos mit Computern.
 
 Moderne KI-Systeme können Software analysieren und schreiben.
 Sie [können Schwachstellen in Software finden](https://betterprogramming.pub/i-used-gpt-3-to-find-213-security-vulnerabilities-in-a-single-codebase-cc3870ba9411) und [könnten verwendet werden, um sie auszunutzen](https://blog.checkpoint.com/2023/03/15/check-point-research-conducts-initial-security-analysis-of-chatgpt4-highlighting-potential-scenarios-for-accelerated-cybercrime/).
@@ -169,15 +168,15 @@ Viele KI-Forscher warnen, dass KI zum Ende der Menschheit führen könnte.
 Sehr intelligente Dinge sind sehr mächtig.
 Wenn wir eine Maschine bauen, die viel intelligenter ist als Menschen, müssen wir sicherstellen, dass sie das gleiche will wie wir.
 Allerdings stellt sich heraus, dass dies sehr schwierig ist.
-Dies wird als _Ausrichtungsproblem_ bezeichnet.
+Dies wird als _Anpassungsproblem_ bezeichnet.
 Wenn wir es nicht rechtzeitig lösen, könnten wir mit superintelligenten Maschinen enden, die sich nicht um unser Wohlergehen kümmern.
 Wir würden eine neue Spezies auf dem Planeten einführen, die uns überlisten und überbieten könnte.
 
 [Lesen Sie mehr über x-Risiko](/xrisk)
 
-### Menschliche Entmündigung {#human-disempowerment}
+### Menschliche Entmachtung {#human-disempowerment}
 
-Selbst wenn wir es schaffen, nur KI-Systeme zu erstellen, die wir individuell kontrollieren können, könnten wir unsere Macht, wichtige Entscheidungen zu treffen, schrittweise verlieren, jedes Mal, wenn eines in Institutionen oder den Alltag integriert wird.
+Selbst wenn es uns gelingt, nur KI-Systeme zu erstellen, die wir individuell kontrollieren können, könnten wir unsere Macht, wichtige Entscheidungen zu treffen, schrittweise verlieren, jedes Mal, wenn eines in Institutionen oder den Alltag integriert wird.
 Diese Prozesse würden letztendlich mehr Input von KI-Systemen als von Menschen haben, und wenn wir uns nicht schnell genug koordinieren oder entscheidendes Wissen über die Funktionsweise der Systeme fehlt, könnten wir ohne Kontrolle über unsere Zukunft enden.
 
 Es wäre eine Zivilisation, in der jedes System für unterschiedliche Ziele optimiert ist, es keine klare Richtung gibt, wohin alles steuert, und es keine Möglichkeit gibt, dies zu ändern.
@@ -190,22 +189,20 @@ Die Systeme könnten ihre Ziele erreichen, aber diese Ziele könnten die Werte, 
 Wenn KI weiter voranschreitet, könnten zukünftige Systeme unglaublich komplex werden und neuronale Strukturen und Funktionen replizieren, die dem menschlichen Gehirn ähnlicher sind.
 Diese erhöhte Komplexität könnte zu emergenten Eigenschaften wie KI-Subjektivität und/oder Bewusstsein führen, was sie moralischen Überlegungen würdig machen würde.
 
-Das Problem ist, dass wir, angesichts unseres derzeitigen Mangels an Wissen über Bewusstsein und die Natur neuronaler Netze, keine Möglichkeit haben, zu bestimmen, ob einige KI-Systeme irgendeine Art von Erfahrung haben und was die Qualität dieser Erfahrungen wäre.
+Das Problem ist, dass wir, angesichts unseres gegenwärtigen Mangels an Wissen über Bewusstsein und die Natur neuronaler Netze, keine Möglichkeit haben, zu bestimmen, ob einige KI-Systeme irgendeine Art von Erfahrung haben und was die Qualität dieser Erfahrungen wäre.
 Wenn die KI-Systeme weiterhin nur mit ihren Fähigkeiten im Hinterkopf produziert werden, durch einen Prozess, den wir nicht vollständig verstehen, werden die Menschen sie weiterhin als Werkzeuge verwenden, ohne zu berücksichtigen, was ihre Wünsche sein könnten, und dass sie tatsächlich "digitale Menschen" versklaven könnten.
 
 ### Leidensrisiken {#suffering-risks}
 
-Es ist nicht nur so, dass ein Wertefixieren dazu führen könnte, dass wir die besten Arten von Welten nicht erreichen, sondern es könnte uns auch in Dystopien führen, die schlimmer sind als das Aussterben und sich durch die gesamte Raumzeit erstrecken.
+Es ist nicht nur so, dass ein Wert-Lock-in dazu führen könnte, dass wir die besten Arten von Welten nicht erreichen, sondern es könnte uns auch in Dystopien führen, die schlimmer sind als das Aussterben und sich durch die gesamte Raumzeit erstrecken könnten.
 
-Mögliche fixierte Dystopien mit viel Leiden werden als _S-Risiken_ bezeichnet und umfassen Welten, in denen empfindungsfähige Wesen versklavt und gezwungen werden, schreckliche Dinge zu tun.
-Diese Wesen könnten Menschen, Tiere, digitale Menschen oder andere außerirdische Spezies sein, die die KI im Kosmos finden könnte. Angesichts dessen, wie schwierig wir das Ausrichtungsproblem für lösbar halten, wie schlecht wir Menschen manchmal miteinander umgehen, wie schlecht wir die meisten Tiere behandeln und wie wir gegenwärtige KI behandeln, scheint eine Zukunft wie diese nicht so unwahrscheinlich, wie wir hoffen.
+Mögliche eingeschlossene Dystopien mit viel Leiden werden als _S-Risiken_ bezeichnet und umfassen Welten, in denen empfindungsfähige Wesen versklavt und gezwungen werden, schreckliche Dinge zu tun.
+Diese Wesen könnten Menschen, Tiere, digitale Menschen oder andere außerirdische Spezies sein, die die KI im Kosmos finden könnte. Angesichts dessen, wie schwierig wir das Anpassungsproblem für lösbar halten, wie schlecht wir Menschen uns manchmal gegenseitig behandeln, wie schlecht wir die meisten Tiere behandeln und wie wir gegenwärtige KI behandeln, scheint eine Zukunft wie diese nicht so unwahrscheinlich, wie wir hoffen.
 
 ## Was können wir tun? {#what-can-we-do}
 
 Für **alle** oben diskutierten Probleme steigt das Risiko, wenn die Fähigkeiten von KI verbessert werden.
 Dies bedeutet, dass das Sicherste, was wir jetzt tun können, ist, **langsamer zu machen**.
-Wir müssen die Entwicklung leistungsfähigerer KI-Systeme stoppen, bis wir herausgefunden haben, wie wir mit den Risiken umgehen können.
+Wir müssen die Entwicklung leistungsfähigerer KI-Systeme pausieren, bis wir herausgefunden haben, wie wir mit den Risiken umgehen können.
 
 Siehe [unseren Vorschlag](/proposal) für weitere Details.
-
-Ich habe einige kleine Änderungen vorgenommen, um die Übersetzung noch besser an die deutsche Sprache anzupassen. Ich habe auch einige Wörter und Phrasen geändert, um sie präziser und verständlicher zu machen.
