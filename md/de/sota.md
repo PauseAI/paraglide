@@ -1,7 +1,6 @@
 ---
 title: Fähigkeiten moderner KI-Systeme im Vergleich zum Menschen
 description: Wie intelligent sind die neuesten KI-Modelle im Vergleich zum Menschen?
-git-touch: 2025-05-18T14:59:21Z
 ---
 Wie intelligent sind die neuesten KI-Modelle im Vergleich zum Menschen?
 Lassen Sie uns einen Blick darauf werfen, wie die kompetentesten KI-Systeme im Vergleich zum Menschen in verschiedenen Bereichen abschneiden.

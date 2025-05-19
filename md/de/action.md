@@ -1,7 +1,6 @@
 ---
 title: Handeln Sie
 description: Möglichkeiten, das Risiko von künstlicher Intelligenz zu reduzieren.
-git-touch: 2025-05-18T14:58:43Z
 ---
 KI wird nicht sicherer, wenn wir nicht entschlossen handeln, um Sicherheit zu fördern.
 Wählen Sie eine Aktivität unten, je nach Ihren Interessen oder Fähigkeiten.

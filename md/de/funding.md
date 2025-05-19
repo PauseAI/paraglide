@@ -1,7 +1,6 @@
 ---
 title: PauseAI-Finanzierung & Spender
 description: Eine Liste unserer größten Spender.
-git-touch: 2025-05-18T14:58:54Z
 ---
  _Letzte Aktualisierung: 2024-11-29_
 

@@ -1,7 +1,6 @@
 ---
 title: 'Een lokale PauseAI-gemeenschap opzetten: Een gids voor lokaal organiseren'
 description: Hoe kun je een gemeenschap opzetten en impact maken op lokaal niveau?
-git-touch: 2025-05-18T14:59:03Z
 ---
 <script>
   import SimpleToc from '$lib/components/simple-toc/SimpleToc.svelte'

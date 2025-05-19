@@ -1,7 +1,6 @@
 ---
 title: Kommunikationsstrategie
 description: Wie wir über die Pause der KI-Entwicklung kommunizieren.
-git-touch: 2025-05-18T14:58:47Z
 ---
 ## Wie wir kommunizieren {#how-we-communicate}
 

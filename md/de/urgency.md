@@ -2,7 +2,6 @@
 title: Warum wir möglicherweise früher als die meisten denken eine Superintelligenz haben werden
 description: Wir unterschätzen den Fortschritt der KI, und es gibt eine kleine, aber realistische Chance, dass wir sehr nahe an einer Superintelligenz sind.
 date: '2023-05-04'
-git-touch: 2025-05-18T14:59:22Z
 ---
 Aktuelle [State-of-the-Art](/sota)-KI-Modelle sind bereits in vielen Bereichen übermenschlich, aber glücklicherweise nicht in allen.
 Wenn wir die Superintelligenz erreichen, bevor wir das Alignmentsproblem lösen, [droht uns ein Aussterberisiko](/xrisk).

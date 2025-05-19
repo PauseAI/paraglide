@@ -1,7 +1,6 @@
 ---
 title: Cybersicherheitsrisiken durch fortschrittliche KI-Modelle
 description: Wie KI genutzt werden könnte, um alle Geräte zu hacken.
-git-touch: 2025-05-18T14:58:49Z
 ---
 Virtuell alles, was wir heutzutage tun, hängt auf irgendeine Weise von Computern ab.
 Wir bezahlen unsere Einkäufe, planen unsere Tage, kontaktieren unsere Liebsten und sogar fahren unsere Autos mit Computern.

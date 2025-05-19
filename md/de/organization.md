@@ -1,7 +1,6 @@
 ---
 title: PauseAI-Organisation
 description: Wie die PauseAI-Organisation strukturiert ist und welche Ressourcen für Mitglieder verfügbar sind.
-git-touch: 2025-05-18T14:59:08Z
 ---
 ## Organisationsstruktur {#organization-structure}
 

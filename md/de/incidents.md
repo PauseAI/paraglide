@@ -1,6 +1,5 @@
 ---
 title: Vorfälle von gefährlichem KI-Verhalten
-git-touch: 2025-05-18T14:58:56Z
 ---
  <!-- end of frontmatter metadata, dashes above need to stay -->
 <script>

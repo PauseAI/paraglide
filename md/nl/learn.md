@@ -1,7 +1,6 @@
 ---
 title: Leer waarom AI-veiligheid belangrijk is
 description: Educatieve bronnen (video's, artikelen, boeken) over AI-risico's en AI-alignering
-git-touch: 2025-05-18T14:58:59Z
 ---
 <script>
 import NewsletterSignup from '$lib/components/NewsletterSignup.svelte';

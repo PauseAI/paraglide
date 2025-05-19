@@ -1,7 +1,6 @@
 ---
 title: Warum KI-Sicherheit wichtig ist
 description: Bildungsressourcen (Videos, Artikel, Bücher) über KI-Risiken und KI-Alignment
-git-touch: 2025-05-18T14:58:59Z
 ---
 <script>
 import NewsletterSignup from '$lib/components/NewsletterSignup.svelte';

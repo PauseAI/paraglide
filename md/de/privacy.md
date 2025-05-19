@@ -1,6 +1,5 @@
 ---
 title: Datenschutzbestimmungen für PauseAI
-git-touch: 2025-05-18T14:59:15Z
 ---
 **Gültig ab:** 17. Juli 2024
 

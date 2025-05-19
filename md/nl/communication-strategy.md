@@ -1,7 +1,6 @@
 ---
 title: Communicatiestrategie
 description: Hoe wij communiceren over het pauzeren van AI-ontwikkeling.
-git-touch: 2025-05-18T14:58:47Z
 ---
 ## Hoe wij communiceren {#how-we-communicate}
 

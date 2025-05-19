@@ -2,7 +2,6 @@
 title: PauseAI Pittsburgh Flyer
 description: Lees meer over de doelen van PauseAI en de risico's van sterke AI!
 date: '2024-8-20'
-git-touch: 2025-05-18T14:59:10Z
 ---
 ## Bedankt voor de tijd om onze flyer te lezen! Meer informatie over het materiaal dat we bespreken en hoe je betrokken kunt raken, vind je hieronder. {#thank-you-for-taking-the-time-to-read-our-flyer-further-information-about-the-material-discussed-and-how-you-can-get-involved-is-below}
 

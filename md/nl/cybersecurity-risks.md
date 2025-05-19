@@ -1,7 +1,6 @@
 ---
 title: Cyberbeveiligingsrisico's van geavanceerde AI-modellen
 description: Hoe AI gebruikt kan worden om alle apparaten te hacken.
-git-touch: 2025-05-18T14:58:49Z
 ---
 Vrijwel alles wat we tegenwoordig doen, is op de een of andere manier afhankelijk van computers.
 We betalen onze boodschappen, plannen onze dagen, contacteren onze dierbaren en zelfs rijden onze auto's met computers.

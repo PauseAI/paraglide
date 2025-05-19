@@ -1,7 +1,6 @@
 ---
 title: Risiken der künstlichen Intelligenz
 description: KI bedroht unsere Demokratie, unsere Technologie und unsere Spezies.
-git-touch: 2025-05-18T14:59:19Z
 ---
 KI ist eine leistungsfähige Technologie, die unsere Welt zunehmend verändert.
 Sie bietet enormes Potenzial, aber auch eine enorme Menge an ernsthaften Risiken.

@@ -1,7 +1,6 @@
 ---
 title: Waarden van PauseAI
 description: Hoe wil PauseAI zijn missie bereiken?
-git-touch: 2025-05-18T14:59:24Z
 ---
 ## Wat willen we? {#what-do-we-want}
 

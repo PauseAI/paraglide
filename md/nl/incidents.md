@@ -1,6 +1,5 @@
 ---
 title: Incidenten van gevaarlijk AI-gedrag
-git-touch: 2025-05-18T14:58:56Z
 ---
  <!-- einde van frontmatter metadata, streepjes hierboven moeten blijven -->
 <script>

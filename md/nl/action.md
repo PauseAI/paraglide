@@ -1,7 +1,6 @@
 ---
 title: Neem actie
 description: Manieren om het risico van AI te verminderen.
-git-touch: 2025-05-18T14:58:43Z
 ---
 AI wordt niet veiliger tenzij we beslissend handelen om veiligheid te bevorderen.
 Kies een activiteit hieronder afhankelijk van uw interesses of vaardigheden.

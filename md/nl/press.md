@@ -1,6 +1,5 @@
 ---
 title: PauseAI Persmateriaal & media-aandacht
-git-touch: 2025-05-18T14:59:14Z
 ---
 <!-- einde van frontmatter metadata, streepjes hierboven moeten blijven -->
 ## Contact {#contact}

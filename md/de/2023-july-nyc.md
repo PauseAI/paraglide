@@ -1,7 +1,6 @@
 ---
 title: (Abgesagt) PauseAI-Protest @ Vereinte Nationen, NYC, 18. Juli
 description: PauseAI-Protest, der den Sicherheitsrat der Vereinten Nationen auffordert, eine weltweite Aussetzung der größten KI-Trainingsläufe zu veranlassen.
-git-touch: 2025-05-18T14:58:40Z
 ---
 - PauseAI-Protest, der den Sicherheitsrat der Vereinten Nationen auffordert, eine weltweite Aussetzung der größten KI-Trainingsläufe zu veranlassen.
 - Wo: UN-Hauptquartier, New York

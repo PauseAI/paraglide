@@ -2,7 +2,6 @@
 title: PauseAI in Australien
 slug: australia
 description: Landingpage für das australische Kapitel von PauseAI
-git-touch: 2025-05-18T14:58:45Z
 ---
 [Email uns](mailto:australia@pauseai.info) | [Verbinden Sie sich auf Facebook](https://www.facebook.com/groups/571590459293618)
 

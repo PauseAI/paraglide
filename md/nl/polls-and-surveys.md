@@ -1,7 +1,6 @@
 ---
 title: Enquêtes en peilingen
 description: Hoeveel zorgen maken gewone mensen en experts zich over de risico's en governance van AI?
-git-touch: 2025-05-18T14:59:12Z
 ---
 ## Deskundigen over catastrofale risico's {#expert-opinion-on-catastrophic-risks}
 

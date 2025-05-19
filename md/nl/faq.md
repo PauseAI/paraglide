@@ -1,7 +1,6 @@
 ---
 title: Veelgestelde vragen
 description: Veelgestelde vragen over PauseAI en de risico's van superintelligente AI.
-git-touch: 2025-05-18T14:58:50Z
 ---
 <script>
     import SimpleToc from '$lib/components/simple-toc/SimpleToc.svelte'

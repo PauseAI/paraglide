@@ -1,7 +1,6 @@
 ---
 title: 'Eine lokale PauseAI-Community leiten: Ein Leitfaden für lokale Organisation'
 description: Wie kann man eine Gemeinschaft aufbauen und lokal einen Einfluss ausüben?
-git-touch: 2025-05-18T14:59:03Z
 ---
 <script>
   import SimpleToc from '$lib/components/simple-toc/SimpleToc.svelte'

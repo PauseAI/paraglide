@@ -1,7 +1,6 @@
 ---
 title: PauseAI MicroGrants
 description: Ons gemeenschapsfonds voor projecten die onze missie ondersteunen.
-git-touch: 2025-05-18T14:59:05Z
 ---
 We hebben een lange lijst met projecten waar onze gemeenschap aan werkt.
 Er is veel te doen.

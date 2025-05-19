@@ -1,7 +1,6 @@
 ---
 title: PauseAI Nationale Groepen
 description: Wat betekent het om een Nationale Groep te zijn in het PauseAI-netwerk?
-git-touch: 2025-05-18T14:59:07Z
 ---
 <!-- end of frontmatter metadata, dashes above need to stay -->
 <script context="module">

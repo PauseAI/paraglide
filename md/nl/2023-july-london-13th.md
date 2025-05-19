@@ -1,7 +1,6 @@
 ---
 title: PauseAI-protest bij FCDO, Londen, 13 juli
 description: PauseAI-protest, waarbij de Veiligheidsraad van de Verenigde Naties wordt opgeroepen om een wereldwijde pauze in te voeren voor de grootste AI-trainingsruns.
-git-touch: 2025-05-18T14:58:38Z
 ---
 - PauseAI-protest, waarbij de Veiligheidsraad van de Verenigde Naties wordt opgeroepen om een wereldwijde pauze in te voeren voor de grootste AI-trainingsruns.
 - Locatie: buiten het Ministerie van Buitenlandse Zaken, Gemenebest en Ontwikkeling (FCDO), King Charles Street, Westminster, Londen, SW1A 2AH

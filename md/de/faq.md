@@ -1,7 +1,6 @@
 ---
 title: FAQ
 description: Häufig gestellte Fragen zu PauseAI und den Risiken von superintelligenter KI.
-git-touch: 2025-05-18T14:58:50Z
 ---
 <script>
     import SimpleToc from '$lib/components/simple-toc/SimpleToc.svelte'

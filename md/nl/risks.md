@@ -1,7 +1,6 @@
 ---
 title: Risico's van kunstmatige intelligentie
 description: KI bedreigt onze democratie, onze technologie en onze soort.
-git-touch: 2025-05-18T14:59:19Z
 ---
 KI is een krachtige technologie die onze wereld in toenemende mate verandert.
 Het biedt een enorm potentieel, maar ook een groot aantal ernstige risico's.

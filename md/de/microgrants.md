@@ -1,7 +1,6 @@
 ---
 title: PauseAI Mikroförderungen
 description: Unser Gemeinschaftsfonds zur Unterstützung von Projekten, die unserer Mission entsprechen.
-git-touch: 2025-05-18T14:59:05Z
 ---
 Wir haben eine lange Liste von Projekten, an denen unsere Gemeinschaft arbeitet.
 Es gibt viel zu tun.

@@ -1,7 +1,6 @@
 ---
 title: Tipps für effektives Lobbying
 description: Wie man die eigene Regierung davon überzeugt, dass sie an einer Pause bei der Entwicklung von KI-Systemen arbeiten muss
-git-touch: 2025-05-18T14:59:01Z
 ---
 ## Jeder kann Lobbyist sein {#anyone-can-be-a-lobbyist}
 

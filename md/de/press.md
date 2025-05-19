@@ -1,6 +1,5 @@
 ---
 title: PauseAI Pressematerialien & Medienberichte
-git-touch: 2025-05-18T14:59:14Z
 ---
 ## Kontakt {#contact}
 

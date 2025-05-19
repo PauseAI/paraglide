@@ -1,7 +1,6 @@
 ---
 title: Stelle als Kommunikationsleiter bei PauseAI Global (Stelle geschlossen)
 description: PauseAI sucht einen Kommunikationsleiter, um unser Kommunikationsteam und unsere Social-Media-Kanäle zu leiten. Remote-Arbeit oder persönliche Anwesenheit in Utrecht, Niederlande.
-git-touch: 2025-05-18T14:58:42Z
 ---
 _Update 2025-03-24: Diese Stelle ist jetzt geschlossen._
 

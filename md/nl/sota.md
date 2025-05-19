@@ -1,7 +1,6 @@
 ---
 title: State-of-the-art AI-capaciteiten vs mensen
 description: Hoe slim zijn de nieuwste AI-modellen in vergelijking met mensen?
-git-touch: 2025-05-18T14:59:21Z
 ---
 Hoe slim zijn de nieuwste AI-modellen in vergelijking met mensen?
 Laten we eens kijken hoe de meest geavanceerde AI-systemen zich verhouden tot mensen in verschillende domeinen.

@@ -1,7 +1,6 @@
 ---
 title: PauseAI-Proteste
 description: Eine Liste bevorstehender und vergangener Proteste.
-git-touch: 2025-05-18T14:59:17Z
 ---
 ## Bevorstehende Proteste {#upcoming-protest}
 

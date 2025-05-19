@@ -1,7 +1,6 @@
 ---
 title: PauseAI-Nationengruppen
 description: Was bedeutet es, eine Nationengruppe im PauseAI-Netzwerk zu sein?
-git-touch: 2025-05-18T14:59:07Z
 ---
 <!-- end of frontmatter metadata, dashes above need to stay -->
 <script context="module">

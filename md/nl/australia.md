@@ -2,7 +2,6 @@
 title: PauseAI in Australië
 slug: australia
 description: landingspagina voor de Australische afdeling van PauseAI
-git-touch: 2025-05-18T14:58:45Z
 ---
 [Stuur ons een e-mail](mailto:australia@pauseai.info) | [Verbind met ons op Facebook](https://www.facebook.com/groups/571590459293618)
 

@@ -1,7 +1,6 @@
 ---
 title: Doe mee met PauseAI
 description: Meld je aan om deel te nemen aan de PauseAI-beweging.
-git-touch: 2025-05-18T14:58:58Z
 ---
 Dit is ons moment van de waarheid.
 De snelle vooruitgang in kunstmatige intelligentie (AI) vertegenwoordigt een van de meest ingrijpende en gevaarlijke technologische verschuivingen in de geschiedenis.

@@ -1,7 +1,6 @@
 ---
 title: PauseAI Financiering & Donoren
 description: Een overzicht van onze grootste donateurs.
-git-touch: 2025-05-18T14:58:54Z
 ---
  _Laatste update: 2024-11-29_
 

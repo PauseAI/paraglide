@@ -1,7 +1,6 @@
 ---
 title: Die Machbarkeit einer Pause
 description: Ist eine Pause bei der KI-Entwicklung möglich?
-git-touch: 2025-05-18T14:58:52Z
 ---
 <!-- end of frontmatter metadata, dashes above need to stay -->
 <!-- Ich habe fast keine Quellen verwendet, das sollte sich ändern -->

@@ -1,7 +1,6 @@
 ---
 title: Schließ dich PauseAI an
 description: Melde dich an, um Teil der PauseAI-Bewegung zu werden.
-git-touch: 2025-05-18T14:58:58Z
 ---
 Dies ist unser Wendepunkt.
 Die rasante Entwicklung der künstlichen Intelligenz stellt einen der folgenreichsten und gefährlichsten technologischen Umbrüche der Geschichte dar.

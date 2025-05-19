@@ -1,7 +1,6 @@
 ---
 title: Vacature Communicatiedirecteur bij PauseAI Global (Vacature gesloten)
 description: PauseAI zoekt een Communicatiedirecteur om ons Communicatieteam en sociale media-accounts te leiden. Werk op afstand of in Utrecht, Nederland.
-git-touch: 2025-05-18T14:58:42Z
 ---
 _Update 2025-03-24: Deze vacature is nu gesloten._
 

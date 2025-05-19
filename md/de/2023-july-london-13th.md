@@ -1,7 +1,6 @@
 ---
 title: PauseAI-Protest @ FCDO, London, 13. Juli
 description: PauseAI-Protest, der den Sicherheitsrat der Vereinten Nationen auffordert, eine globale Pause bei den größten KI-Trainingsläufen einzuleiten.
-git-touch: 2025-05-18T14:58:38Z
 ---
 - PauseAI-Protest, der den Sicherheitsrat der Vereinten Nationen auffordert, eine globale Pause bei den größten KI-Trainingsläufen einzuleiten.
 - Wo: vor dem Foreign, Commonwealth and Development Office (FCDO), King Charles Street, Westminster, London, SW1A 2AH

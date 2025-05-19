@@ -1,7 +1,6 @@
 ---
 title: Tips voor effectief lobbyen
 description: Hoe je je regering ervan kunt overtuigen dat het moet werken aan een pauze in AI-trainingssessies
-git-touch: 2025-05-18T14:59:01Z
 ---
 <!-- einde van frontmatter-metadata, streepjes hierboven moeten blijven -->
 ## Iedereen kan lobbyist zijn {#anyone-can-be-a-lobbyist}

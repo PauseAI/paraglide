@@ -2,7 +2,6 @@
 title: PauseAI Pittsburgh Flyer
 description: Erfahren Sie mehr über die Ziele von PauseAI und die Risiken starker künstlicher Intelligenz!
 date: '2024-8-20'
-git-touch: 2025-05-18T14:59:10Z
 ---
 ## Vielen Dank, dass Sie sich die Zeit genommen haben, unseren Flyer zu lesen! Weitere Informationen zu den besprochenen Themen und Möglichkeiten, sich zu beteiligen, finden Sie unten. {#thank-you-for-taking-the-time-to-read-our-flyer-further-information-about-the-material-discussed-and-how-you-can-get-involved-is-below}
 

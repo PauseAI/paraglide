@@ -1,6 +1,5 @@
 ---
 title: Privacybeleid voor PauseAI
-git-touch: 2025-05-18T14:59:15Z
 ---
 <!-- einde van frontmatter metadata, streepjes hierboven moeten blijven -->
 **Datum van inwerkingtreding:** 17 juli 2024

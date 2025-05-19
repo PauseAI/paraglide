@@ -2,7 +2,6 @@
 title: Waarom we mogelijk eerder superintelligentie hebben dan de meeste mensen denken
 description: We onderschatten de vooruitgang van AI, en er is een kleine maar realistische kans dat we heel dicht bij superintelligentie zijn.
 date: '2023-05-04'
-git-touch: 2025-05-18T14:59:22Z
 ---
 Huidige [state-of-the-art](/sota) AI-modellen zijn al superieur aan mensen in veel domeinen, maar gelukkig niet in alle.
 Als we superintelligentie bereiken voordat we het afstemmingsprobleem oplossen, [lopen we het risico van uitsterven](/xrisk).

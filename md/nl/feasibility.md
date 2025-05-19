@@ -1,7 +1,6 @@
 ---
 title: De haalbaarheid van een pauze
 description: Is een pauze in AI-ontwikkeling mogelijk?
-git-touch: 2025-05-18T14:58:52Z
 ---
 <!-- einde van frontmatter metadata, streepjes hierboven moeten blijven -->
 <!-- Ik had bijna geen bronnen toegevoegd, hopelijk verandert dat binnenkort -->

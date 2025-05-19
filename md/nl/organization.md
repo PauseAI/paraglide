@@ -1,7 +1,6 @@
 ---
 title: PauseAI-organisatie
 description: Hoe de PauseAI-organisatie is gestructureerd en welke middelen beschikbaar zijn voor leden.
-git-touch: 2025-05-18T14:59:08Z
 ---
 <!-- einde van frontmatter-metadata, streepjes hierboven moeten blijven -->
 ## Organisatiestructuur {#organization-structure}

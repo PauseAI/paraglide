@@ -1,7 +1,6 @@
 ---
 title: Umfragen & Meinungsumfragen
 description: Wie sehr sorgen sich normale Menschen und Experten um die Risiken und die Regulierung von künstlicher Intelligenz?
-git-touch: 2025-05-18T14:59:12Z
 ---
 ## Expertenmeinung zu katastrophalen Risiken {#expert-opinion-on-catastrophic-risks}
 
