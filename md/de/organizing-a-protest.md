@@ -1,31 +1,29 @@
-
-
 ---
 title: Organisation eines PauseAI-Protests
 description: Es ist nicht sehr schwer!
 ---
 
-Protestieren ist eine sehr effektive Möglichkeit, die Aufmerksamkeit der Öffentlichkeit, der Medien und der Entscheidungsträger auf sich zu ziehen.
-Selbst ein kleiner Protest (mit nur einem Teilnehmer) kann eine große Wirkung haben, insbesondere wenn man es schafft, einige Medienaufmerksamkeit zu erregen.
-Das Wichtigste ist also, **loszulegen**!
-Allerdings kann man durch Skalierung und weitere Aktionen noch mehr erreichen, und wir sind hier, um Ihnen dabei zu helfen.
+Protestieren ist eine sehr effektive Möglichkeit, die Aufmerksamkeit der Öffentlichkeit, der Medien und der Entscheidungsträger zu gewinnen.
+Selbst ein kleiner Protest (mit nur einem Teilnehmer) kann eine große Wirkung haben, insbesondere wenn man Medienaufmerksamkeit erlangen kann.
+Das Wichtigste ist also, **einfach loszulegen**!
+Man kann jedoch mehr erreichen, indem man den Protest ausweitet und mehr Dinge tut, und wir sind hier, um Ihnen dabei zu helfen.
 
 ## Warum Proteste wirken {#why-protesting-works}
 
-- Proteste zeigen der Welt, dass wir uns um diese Angelegenheit kümmern. Durch Proteste zeigen wir, dass wir bereit sind, unsere Zeit und Energie zu investieren, um die Menschen zum Zuhören zu bringen.
+- Proteste zeigen der Welt, dass wir uns um diese Angelegenheit kümmern. Durch Proteste zeigen wir, dass wir bereit sind, unsere Zeit und Energie aufzubringen, um die Menschen zum Zuhören zu bringen.
 - Proteste können und werden oft [die öffentliche Meinung, das Wahlverhalten, das Verhalten von Unternehmen und die Politik positiv beeinflussen](https://www.socialchangelab.org/_files/ugd/503ba4_052959e2ee8d4924934b7efe3916981e.pdf).
-- Die meisten Menschen [unterstützen friedliche und gewaltfreie Proteste](https://today.yougov.com/politics/articles/31718-do-protesters-want-help-or-hurt-america).
-- Es gibt [keine Beweise für einen "Backfire"-Effekt](https://journals.sagepub.com/doi/full/10.1177/2378023120925949) [es sei denn, der Protest ist gewalttätig](https://news.stanford.edu/2018/10/12/how-violent-protest-can-backfire/). Unsere Proteste sind friedlich und gewaltfrei.
+- Die meisten Menschen [unterstützen friedliche/nicht-gewalttätige Proteste](https://today.yougov.com/politics/articles/31718-do-protesters-want-help-or-hurt-america).
+- Es gibt [keine Beweise für einen "Backfire"-Effekt](https://journals.sagepub.com/doi/full/10.1177/2378023120925949) [es sei denn, der Protest ist gewalttätig](https://news.stanford.edu/2018/10/12/how-violent-protest-can-backfire/). Unsere Proteste sind friedlich und nicht-gewalttätig.
 - Es ist eine soziale Bindungserfahrung. Man trifft andere Menschen, die dieselben Bedenken und die Bereitschaft zur Aktion teilen.
 - Lesen Sie [diesen großartigen Artikel](https://forum.effectivealtruism.org/posts/4ez3nvEmozwPwARr9/a-case-for-the-effectiveness-of-protest) für weitere Einblicke in die Wirksamkeit von Protesten.
 
-## Vorbereitung {#preparation-1}
+## Vorbereitung {#preparation}
 
 ### Um Hilfe bitten {#ask-for-help}
 
 Überprüfen Sie, ob es bereits eine [lokale Gemeinschaft in Ihrer Nähe](/communities) gibt.
 Wenn nicht, sollten Sie [eine gründen](/local-organizing)!
-Und [treten Sie unserem Discord-Server bei](https://discord.gg/2XXWXvErfA), um die Organisation eines Protests zu diskutieren.
+Und [treten Sie unserem Discord-Server bei](https://discord.gg/NvYeCzYZCj), um die Organisation eines Protests zu diskutieren.
 Wir helfen Ihnen gerne mit Ratschlägen und Ressourcen!
 Vergessen Sie nicht, in Ihrem Stadtbeitrag im #local-communities-Kanal dort zu schreiben.
 
@@ -66,7 +64,7 @@ Der wichtige Teil ist, dass Sie die Menschen über das, was passieren wird, auf 
 
 Teilen Sie den Protest auf Twitter, LinkedIn usw.
 Teilen Sie den Beitrag in relevanten Gruppen.
-Tun Sie dies zweimal: etwa zwei Wochen im Voraus und einen Tag vorher!
+Tun Sie es zweimal: etwa zwei Wochen im Voraus und einen Tag vorher!
 Erwägen Sie, ein [digitales Flugblatt](https://www.figma.com/design/iQ4PHQTi1vAVmT9Lckazqt/PauseAI-designs---editable?node-id=1574-544&node-type=section&t=KmAYlq7fGZVAkzij-0) oder ein Video für eine bessere Teilbarkeit zu erstellen.
 
 ### Den Protest lokal sichtbar machen {#make-the-protest-visible-locally}
@@ -103,7 +101,7 @@ Wenn Sie eine größere Menge an Geld für radikalere Projekte benötigen (z.B. 
 ### Eine Schilder-Party vor dem Protest veranstalten {#do-a-sign-making-party-before-the-protest}
 
 Erstellen Sie **Schilder**, die die Menschen während des Protests hochhalten können.
-Sie können ein Schild aus einem Stück Karton erstellen oder etwas Aufwändigeres machen.
+Sie können ein Schild aus einem Stück Karton erstellen oder etwas Aufwendigeres machen.
 Sie können kreativ sein oder bestehende Schilder von anderen Protesten überprüfen.
 Arbeiten Sie mit anderen zusammen, um Schilder zu erstellen, und stellen Sie sicher, dass Sie genug Schilder für alle haben.
 Oder erstellen Sie ein großes Schild und lassen Sie alle gemeinsam hochhalten!
@@ -115,16 +113,16 @@ Dinge, die Sie bei der Erstellung von Schildern beachten sollten:
 - Keine Schimpfwörter: Schimpfwörter werden oft nicht von Medien veröffentlicht
 - Erkennbarkeit: verwenden Sie das PauseAI-Logo / -Farben (Orange) / -Schriftarten
 
-### Eine Flugblatt-Verteilung durchführen {#do-a-flyering-session}
+### Eine Flugblatt-Session durchführen {#do-a-flyering-session}
 
 Drucken Sie Flugblätter aus, die die Menschen zum Protest einladen.
 Tun Sie dies gemeinsam mit jemand anderem, das ist viel mehr Spaß.
-Wählen Sie einen Ort in der Nähe des Protests - idealerweise denselben Ort oder vielleicht einen Ort, an dem Sie erwarten können, dass mehr Freiwillige beitreten (z.B. Universitätscampus).
-Erwägen Sie, die Flugblatt-Verteilung genau eine Woche vor dem Protest durchzuführen - zur gleichen Zeit, da die Menschen diesen Ort möglicherweise auf wöchentlicher Basis besuchen und wahrscheinlich auch während des Protests dort sein werden!
+Wählen Sie einen Ort in der Nähe des Protests - idealerweise denselben Ort oder vielleicht einen Ort, an dem Sie mehr Freiwillige erwarten können (z.B. Universitätscampus).
+Erwägen Sie, die Flugblatt-Session genau eine Woche vor dem Protest durchzuführen - zur gleichen Zeit, da die Menschen diesen Ort möglicherweise auf wöchentlicher Basis besuchen und wahrscheinlich auch während des Protests dort sein werden!
 
 ### Jemanden finden, der filmt und Fotos macht {#get-someone-to-film--take-pictures}
 
-Ihre Wirkung wird viel größer sein, wenn Sie Fotos und Videos des Protests teilen können.
+Ihre Wirkung wird viel größer sein, wenn Sie Bilder und Videos des Protests teilen können.
 Also finden Sie jemanden, der den Protest filmt und Fotos macht.
 
 ### Eine Rede vorbereiten {#prepare-a-speech}
@@ -137,7 +135,7 @@ Und wiederum, stellen Sie sicher, dass jemand filmt.
 
 ### Mit energiegeladenen Aktivitäten beginnen {#start-with-some-energetic-activities}
 
-Bevor Sie den Protest durchführen, lassen Sie alle einige lächerliche Tänze oder Sprechchöre machen.
+Bevor Sie den Protest durchführen, lassen Sie alle einige lächerliche Tänze oder Gesänge machen.
 Dies bringt die richtige Energie in Gang.
 
 ### Mit Medien sprechen {#speak-to-media}
@@ -147,7 +145,7 @@ Bereiten Sie einige Zitate im Voraus vor, erwägen Sie die Botschaft, die Sie ve
 
 ### Ein großartiges Bild (und Videos!) machen {#make-an-amazing-picture-and-videos}
 
-Stellen Sie sicher, dass Sie Fotos und Videos des Protests haben.
+Stellen Sie sicher, dass Sie Bilder und Videos des Protests haben.
 Idealerweise wird dies von jemandem gemacht, der nicht aktiv am Protest teilnimmt.
 
 Einige Tipps für ein großartiges Foto:
@@ -160,7 +158,7 @@ Einige Tipps für ein großartiges Foto:
 Ein großartiges Video:
 
 - Ist kurz: 30 Sekunden sind genug
-- Hat jemanden, der spricht: eine Rede, ein Sprechchor usw.
+- Hat jemanden, der spricht: eine Rede, ein Gesang usw.
 - Hat Menschen, die laufen, Schilder hochhalten usw.
 
 ### Mit Menschen sprechen {#speak-to-people}
@@ -186,15 +184,15 @@ Einige Menschen denken bereits, dass wir verrückt sind, also müssen wir besond
 ### Einige Getränke haben {#have-some-drinks}
 
 Proteste sind nicht nur dazu da, eine Botschaft zu senden, sondern auch dazu, eine Gemeinschaft aufzubauen.
-Einige Getränke nach dem Protest zu haben, festigt die Bindungserfahrung wirklich und ist eine unterhaltsame Art, zu feiern!
+Einige Getränke nach dem Protest zu haben, festigt die Bindungserfahrung wirklich und ist eine lustige Art, zu feiern!
 
-### Fotos und Videos sammeln {#gather-pictures-and-videos}
+### Bilder und Videos sammeln {#gather-pictures-and-videos}
 
-Bitten Sie alle Teilnehmer, Ihnen ihre Fotos und Videos zu senden.
+Bitten Sie alle Teilnehmer, Ihnen ihre Bilder und Videos zu senden.
 Erstellen Sie ein schön bearbeitetes Video des Protests.
 
 ### Ihre Geschichte teilen {#share-your-story}
 
-Erstellen Sie einen Beitrag auf sozialen Medien, wählen Sie das beste Foto (oder noch besser: bearbeitetes Video) und teilen Sie es.
+Erstellen Sie einen Beitrag auf sozialen Medien, wählen Sie das beste Bild (oder noch besser: bearbeitetes Video) und teilen Sie es.
 Verlinken Sie auf die Protest-Webseite und fügen Sie die Pressemitteilung hinzu.
 Dies sollte den Menschen genug Hintergrundinformationen geben, um zu verstehen, worum es bei dem Protest ging.
