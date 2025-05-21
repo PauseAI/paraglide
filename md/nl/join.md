@@ -2,7 +2,8 @@
 title: Doe mee met PauseAI
 description: Meld je aan om deel te nemen aan de PauseAI-beweging.
 ---
-Dit is ons moment van de waarheid.
+
+Dit is ons kritieke moment.
 De snelle vooruitgang in kunstmatige intelligentie (AI) vertegenwoordigt een van de meest ingrijpende en gevaarlijke technologische verschuivingen in de geschiedenis.
 Wij eisen dat politici en bedrijven de ontwikkeling van AGI pauzeren totdat er internationale veiligheidsafspraken zijn gemaakt.
 Sluit je aan bij ons wereldwijde netwerk dat opkomt voor democratische controle op AI.
@@ -15,7 +16,7 @@ De toekomst van AI behoort ons allemaal toe.
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appWPTGqZmUcs3NWu/pag7ztLh27Omj5s2n/form" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-_Werkt het formulier hierboven niet? Open [deze link](https://airtable.com/embed/appWPTGqZmUcs3NWu/pag7ztLh27Omj5s2n/form) in plaats daarvan._
+_Wordt het formulier hierboven niet weergegeven? Open [deze link](https://airtable.com/embed/appWPTGqZmUcs3NWu/pag7ztLh27Omj5s2n/form) in plaats daarvan._
 
 <script>
 import NewsletterSignup from '$lib/components/NewsletterSignup.svelte';
