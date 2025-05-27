@@ -3,6 +3,7 @@ title: Waarom we mogelijk eerder superintelligentie hebben dan de meeste mensen 
 description: We onderschatten de vooruitgang van AI, en er is een kleine maar realistische kans dat we heel dicht bij superintelligentie zijn.
 date: '2023-05-04'
 ---
+
 Huidige [state-of-the-art](/sota) AI-modellen zijn al superieur aan mensen in veel domeinen, maar gelukkig niet in alle.
 Als we superintelligentie bereiken voordat we het afstemmingsprobleem oplossen, [lopen we het risico van uitsterven](/xrisk).
 Het is dus essentieel om een geschatte termijn te hebben van wanneer we superintelligentie kunnen hebben om ervoor te zorgen dat we niet onvoorbereid worden overvallen.
@@ -25,7 +26,7 @@ De verbeteringen in elk van deze componenten zijn _cumulatief_, wat leidt tot ex
 - **Betere algoritmes**. De Transformer-architectuur maakte de huidige LLM-revolutie mogelijk. Nieuwe architectuur kan soortgelijke capaciteitssprongen mogelijk maken. Het Mamba-model, bijvoorbeeld, [laat zien](https://arxiv.org/abs/2312.00752) dat het 5x snellere doorvoer heeft.
 - **Betere runtimes**. Agentic runtimes, Retrieval Augmented Generation of zelfs gewoon slimme prompts (via [Graph of Thought](https://arxiv.org/abs/2305.16582), bijvoorbeeld) kunnen een enorme impact hebben op de capaciteiten van deze modellen.
 
-Het is helemaal mogelijk dat _het gewoon opschalen_ ons naar [gevaarlijke capaciteiten](/dangerous-capabilities) brengt in een jaar of twee, maar met al deze cumulatieve factoren kan het nog eerder zijn.
+Het is helemaal mogelijk dat _het gewoon opschalen_ ons binnen een jaar of twee naar [gevaarlijke capaciteiten](/dangerous-capabilities) brengt, maar met al deze cumulatieve factoren kan het nog eerder zijn.
 
 ## We bereikten menselijk niveau in veel domeinen in 2023 {#we-reached-human-level-performance-in-many-domains-in-2023}
 
@@ -51,7 +52,7 @@ In het kort: GPT-4 heeft 2/4 criteria met zekerheid behaald, met de andere twee 
 
 **We zijn er, mensen.
 We hebben al (zwakke) AGI.**
-Het duurde ons niet 35 jaar, het duurde ons drie jaar.
+Het duurde niet 35 jaar, het duurde drie jaar.
 We zaten er een factor 10 naast.
 
 ## Waarom de meeste mensen de vooruitgang van AI onderschatten {#why-most-underestimate-the-progress-of-ai}
@@ -74,7 +75,7 @@ Wanneer zullen we een _superintelligentie_ hebben?
 
 Ik denk dat het cruciale punt dat we moeten overwegen, **het punt is waarop een AI beter in staat is om AI-onderzoek te doen dan iemand als Ilya Sutskever** (voormalig hoofdwetenschapper bij OpenAI).
 Een AI die zinvolle bijdragen kan leveren aan AI-algoritmes en -architecturen zal waarschijnlijk in staat zijn om zichzelf te verbeteren.
-Laten we dit punt van potentieel zelfverbetering de _Ilya-drempel_ noemen.
+Laten we dit punt van potentiële zelfverbetering de _Ilya-drempel_ noemen.
 Wanneer het deze drempel bereikt, kan een AI zichzelf verbeteren omdat het expliciet is geïnstrueerd om dit te doen, of omdat slimmer zijn een nuttig subdoel is voor andere doelen (AI's [creëren al hun eigen subdoelen](https://github.com/Significant-Gravitas/Auto-GPT)).
 Deze iteraties kunnen weken duren (het trainen van GPT-3 duurde 34 dagen), maar het is ook mogelijk dat een bepaald type runtime-verbetering wordt geïmplementeerd die significante vooruitgang in een paar minuten mogelijk maakt: een [Intelligence Explosion](https://www.youtube.com/watch?v=5qfIgCiYlfY).
 
@@ -83,12 +84,12 @@ Het is fundamenteel moeilijk om te voorspellen [wanneer bepaalde capaciteiten on
 De [laatste AI-modellen](/sota) verslaan al de meeste menselijke programmeurs, dus het is niet ondenkbaar dat toekomstige modellen, betere chips, meer gegevens en betere algoritmes allemaal zullen bijdragen aan het bereiken van de Ilya-drempel.
 We hebben geen idee hoe we zo'n AI moeten afstemmen (zelfs [OpenAI geeft dit toe](https://youtu.be/L_Guz73e6fw?t=1477)), en de gevolgen van een misaligned superintelligentie zijn waarschijnlijk [catastrofaal](/xrisk).
 
-## Handel {#act}
+## Actie {#act}
 
 Anthropic-co-oprichter Ben Mann [gelooft](https://x.com/ai_ctrl/status/1819173703869255879/photo/0) dat er een kans van 30% is dat Claude 3 (hun laatste model) autonoom kan repliceren, gegeven fine-tuning en slimme prompts.
 Ex-OpenAI-onderzoeker Daniel Kokotajlo denkt dat er een [kans van 15%](https://x.com/ai_ctrl/status/1819173703869255879/photo/0) is dat we AGI in 2024 zullen hebben.
 Niemand weet zeker wanneer we de Ilya-drempel zullen bereiken.
 Maar de [inzet is te hoog](/xrisk) om aan te nemen dat we veel tijd hebben.
-We moeten nu handelen op de kleine kans dat we slechts een paar maanden verwijderd zijn.
+We moeten nu handelen op de kleine kans dat we binnen een paar maanden kunnen zijn.
 We moeten [de ontwikkeling van grens-AI pauzeren](/proposal) nu.
 Het is aan ons allemaal om [actie te ondernemen](/action) en ervoor te zorgen dat we niet onvoorbereid worden overvallen.
