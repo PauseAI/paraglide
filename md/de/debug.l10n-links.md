@@ -32,16 +32,12 @@ Diese Seite testet verschiedene Link-Muster, um sicherzustellen, dass die Lokali
 - [Extern: PauseAI](https://pauseai.info/proposal)
 - [Protokollrelativer Link](//example.com)
 - [Relativer Link](./other-page)
-- [Übergeordneter relativer Link](../parent-page)
+- [Relativer Link zum übergeordneten Verzeichnis](../parent-page)
 - [Anker](#section) <!-- Ziel nicht übersetzen, nur Label -->
-- [E-Mail](mailto:test@example.com)
+- [E-Mail-Adresse](mailto:test@example.com)
 
 ## Grenzfälle {#edge-cases}
 
 - [Leerer href]()
 - [Nur Schrägstrich](/)
 - [Doppelter Schrägstrich am Anfang](//not-a-locale)
-
-## Testabschnitt für Anker {#section} {#test-section-for-anchors-section}
-
-Dies ist das Ziel für den Anker-Link oben.
