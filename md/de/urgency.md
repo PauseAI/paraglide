@@ -24,11 +24,11 @@ Die Verbesserungen in jeder dieser Komponenten summieren sich auf und führen zu
 - **Mehr Daten**. GPT3 wurde auf [45 TB](https://community.openai.com/t/what-is-the-size-of-the-training-set-for-gpt-3/360896) Text trainiert, GPT4 verwendete etwa 20-mal so viel. KI-Unternehmen verwenden jetzt auch [riesige Mengen an Videodaten](https://www.404media.co/nvidia-ai-scraping-foundational-model-cosmos-project/), Audiodaten und generieren sogar [synthetische Daten, um diese Modelle zu trainieren](https://arxiv.org/pdf/2401.10020). Früher wurde die Idee, synthetische Daten für das Training zu verwenden, als unmöglich angesehen, aber [neue Fortschritte](https://arxiv.org/abs/2406.07515) zeigen, dass es möglich ist, das Modellkollaps zu verhindern.
 - **Bessere Daten**. Die Studie "Textbooks are all you need" [zeigte](https://arxiv.org/abs/2306.11644), dass die Verwendung von hochwertigen synthetischen Daten die Modellleistung drastisch verbessern kann, selbst wenn weniger Daten und Rechenleistung verwendet werden.
 - **Bessere Algorithmen**. Die Transformer-Architektur ermöglichte die aktuelle LLM-Revolution. Neue Architekturen können ähnliche Fähigkeitssprünge ermöglichen. Das Mamba-Modell zeigt beispielsweise [5-mal schnelleren Durchsatz](https://arxiv.org/abs/2312.00752).
-- **Bessere Laufzeiten**. Agentic-Laufzeiten, Retrieval-Augmented-Generation oder einfach cleveres Prompting (durch [Graph of Thought](https://arxiv.org/abs/2305.16582) zum Beispiel) können einen großen Einfluss auf die Fähigkeiten dieser Modelle haben.
+- **Bessere Laufzeiten**. Agentic-Laufzeiten, Retrieval-Augmented-Generation oder einfach cleveres Prompting (durch [Graph of Thought](https://arxiv.org/abs/2305.16582) zum Beispiel) können einen enormen Einfluss auf die Fähigkeiten dieser Modelle haben.
 
 Es ist durchaus möglich, dass das _einfache Hochskalieren_ uns in einem Jahr oder zwei zu [gefährlichen Fähigkeiten](/dangerous-capabilities) bringt, aber mit all diesen kombinierten Faktoren könnte es noch früher sein.
 
-## Wir haben 2023 menschliches Leistungsniveau in vielen Bereichen erreicht {#we-reached-human-level-performance-in-many-domains-in-2023}
+## Wir haben 2023 in vielen Bereichen menschliche Leistung erreicht {#we-reached-human-level-performance-in-many-domains-in-2023}
 
 Im Jahr 2022 dachten KI-Forscher, dass es [17 Jahre](https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/) dauern würde, bis KI in der Lage wäre, einen New-York-Times-Bestseller zu schreiben.
 Ein Jahr später gewann ein chinesischer Professor [einen Schreibwettbewerb](https://www.scmp.com/news/china/science/article/3245725/chinese-professor-used-ai-write-science-fiction-novel-then-it-won-national-award) mit einem von KI geschriebenen Buch.
@@ -45,7 +45,7 @@ Lassen Sie uns nun in die Definition von AGI eintauchen, die in dieser Umfrage v
 GPT-4 erreicht [94,4% in der Winograd-Schema-Herausforderung](https://d-kz.medium.com/evaluating-gpt-3-and-gpt-4-on-the-winograd-schema-challenge-reasoning-test-e4de030d190d) und [93% im SAT-Lesetest, 89% im SAT-Mathetest](https://www.cnbc.com/2023/03/14/openai-announces-gpt-4-says-beats-90percent-of-humans-on-sat.html).
 Es hat den Turing-Test nicht bestanden, aber wahrscheinlich nicht wegen mangelnder Fähigkeiten.
 Es liegt daran, dass GPT-4 darauf trainiert wurde, Menschen nicht zu täuschen. Es ist nicht gut für das Geschäft, wenn Ihre KI den Menschen sagt, dass sie eigentlich ein Mensch ist.
-Das lässt nur Montezumas Rache übrig.
+Das lässt nur noch Montezumas Rache übrig.
 Es ist nicht undenkbar, dass es durch eine clevere Einrichtung von GPT-4, unter Verwendung von etwas wie AutoGPT, um den Bildschirm zu analysieren und die richtigen Eingaben zu generieren, beendet werden kann.
 Im Mai 2023 konnte [GPT-4 Code schreiben, um Diamantausrüstung in Minecraft zu erhalten](https://the-decoder.com/minecraft-bot-voyager-programs-itself-using-gpt-4/).
 Kurz gesagt: GPT-4 hat 2/4 Kriterien mit Sicherheit erreicht, mit den anderen beiden in Reichweite.
@@ -86,7 +86,7 @@ Wir haben keine Ahnung, wie wir eine solche KI ausrichten können (sogar [OpenAI
 
 ## Handeln {#act}
 
-Anthropic-Mitgründer Ben Mann [glaubt](https://x.com/ai_ctrl/status/1819173703869255879/photo/0), dass es eine 30%ige Chance gibt, dass Claude 3 (ihres neuesten Modells) autonom repliziert werden kann, wenn es fein abgestimmt und clever angeregt wird.
+Anthropic-Mitgründer Ben Mann [glaubt](https://x.com/ai_ctrl/status/1819173703869255879/photo/0), dass es eine 30%ige Chance gibt, dass Claude 3 (ihr neuestes Modell) autonom repliziert werden kann, wenn es fein abgestimmt und clever angeregt wird.
 Ex-OpenAI-Forscher Daniel Kokotajlo denkt, dass es eine [15%ige Chance](https://x.com/ai_ctrl/status/1819173703869255879/photo/0) gibt, dass wir 2024 AGI haben werden.
 Niemand weiß genau, wann wir die Ilya-Schwelle erreichen werden.
 Aber die [Einsätze sind zu hoch](/xrisk), um anzunehmen, dass wir viel Zeit haben.
