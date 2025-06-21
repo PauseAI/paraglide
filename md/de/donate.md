@@ -1,9 +1,9 @@
-
-
 ---
 title: Spende an PauseAI
 description: Mit deiner finanziellen Unterstützung können wir einen größeren Einfluss ausüben.
 ---
+ <!-- end of frontmatter metadata, dashes above need to stay -->
+
 <script>
     import Donate from '$lib/components/Donate.svelte'
 </script>
@@ -15,22 +15,22 @@ Seit Februar 2024 ist PauseAI eine [registrierte gemeinnützige Stiftung](/legal
 
 ## Wie wir deine Spenden verwenden {#how-we-use-your-donations}
 
-- **Gemeinschaftsprojekte**: Unser [Mikroförderprogramm](/microgrants) unterstützt verschiedene kleinere Projekte, die unsere Gemeinschaft stärken.
-- **Freiwilligenzuschüsse**: [Freiwillige](/people) können sich für einen [Zuschuss](/volunteer-stipends) bewerben, um ihre Arbeit für PauseAI zu unterstützen.
-- **Finanzierung für lokale und [nationale](/national-groups) Gruppen**: Wir unterstützen PauseAI-Gemeinschaften bei der Umsetzung ihrer Ziele.
+- **Gemeinschaftsprojekte**: Unser [Mikroförderprogramm](/microgrants) unterstützt verschiedene kleinere Projekte und Initiativen.
+- **Freiwilligenzuschüsse**: Freiwillige können sich für einen [Zuschuss](/volunteer-stipends) bewerben, um ihre Arbeit vor Ort zu unterstützen und unsere Gemeinschaft zu stärken.
+- **Finanzierung für lokale und [nationale](/national-groups) Gruppen**: Wir unterstützen PauseAI-Gemeinschaften bei ihrer Arbeit.
 - **Menschen**: Wir bauen eine stärkere Gemeinschaft auf, arbeiten an Projekten, organisieren Proteste und verbessern unsere Website.
 - **Veranstaltungen**: Wir übernehmen die Kosten für Veranstaltungsorte, Catering und Reisekosten.
-- **Software**: Wir nutzen Spenden für die Entwicklung und Wartung unserer digitalen Infrastruktur.
-- **Kampagnen**: Wir führen Online-Werbung durch und erstellen Materialien, um unsere Botschaft zu verbreiten.
-- **Rechtliche und finanzielle Angelegenheiten**: Wir decken die Kosten für die Gründung der Stiftung, Notarkosten und Buchhaltung.
+- **Software**: Wir nutzen Spenden für E-Mail-Dienste, die Website und andere digitale Tools.
+- **Kampagnen**: Wir finanzieren Online-Werbung und Materialien, um unsere Botschaft zu verbreiten.
+- **Rechtliche und finanzielle Angelegenheiten**: Wir übernehmen die Kosten für die Gründung der Stiftung, Notarkosten und Buchhaltung.
 
 ## Was haben wir bereits erreicht {#what-have-we-already-achieved}
 
 - Über 1000 Menschen haben sich [PauseAI angeschlossen](/join) und arbeiten aktiv an verschiedenen Projekten mit.
 - Über 100 Projekte sind auf unserem Discord-Server entstanden (Websites, Workshops, Videos, Antworten auf Regierungskonsultationen usw.).
 - Wir haben 15+ [Proteste](/protests) in 7 Ländern organisiert.
-- Über 100 andere Arten von [Veranstaltungen](/events) haben stattgefunden (Lobby-Workshops, Flyer-Verteilungen, Aktionsmeetings usw.).
-- Wir hatten 30+ [Medienauftritte](/press) in großen Nachrichtenmedien, Podcasts, Dokumentationen, TV und mehr.
+- Wir haben 100+ andere Arten von [Veranstaltungen](/events) durchgeführt (Lobby-Workshops, Flyer-Verteilungen, Aktionsmeetings usw.).
+- Wir hatten 30+ [Medienauftritte](/press) in großen Nachrichtensendern, Podcasts, Dokumentationen, TV und mehr.
 - Wir haben zahlreiche Treffen mit Politikern und anderen Interessengruppen geführt.
 
 ## Wer finanziert PauseAI {#who-is-funding-pauseai}
@@ -41,13 +41,13 @@ Siehe unsere [Finanzierungsseite](/funding) für weitere Details darüber, wer w
 
 Siehe unsere [Roadmap](/roadmap) für weitere Details.
 
-## Wie du an PauseAI spenden kannst {#how-to-donate-to-pauseai}
+## Wie du PauseAI spenden kannst {#how-to-donate-to-pauseai}
 
 - Durch Banküberweisung. IBAN: NL31BUNQ2109903155 BIC/SWIFT: BUNQNL2AXXX (Stichting PauseAI). Dies ist wahrscheinlich die günstigste Möglichkeit, uns Geld zu überweisen.
 - [PayPal](https://www.paypal.com/donate/?hosted_button_id=4TWZXY62EM5VE). Unterstützt wiederkehrende Spenden. [Transaktionsgebühren](https://www.paypal.com/webapps/mpp/merchant-fees) gelten.
-- Über unseren [Merchandise-Shop](https://pauseai-shop.fourthwall.com/). Alle US-basierten Kreditkarten-Transaktionen haben eine zusätzliche Zahlungsabwicklungsgebühr von 2,9 % + 0,30 $. Nicht-US-Kreditkarten haben eine Zahlungsabwicklungsgebühr von 3,9 % + 0,30 $.
-- Über [diesen Link](https://bunq.me/pauseai) (Wähle Sofort - die meisten Banken und PayPal werden unterstützt)
-- Über Kryptowährungen:
+- Durch unseren [Merchandise-Shop](https://pauseai-shop.fourthwall.com/). Alle US-basierten Kreditkarten-Transaktionen haben eine zusätzliche Zahlungsabwicklungsgebühr von 2,9 % + 0,30 $. Nicht-US-Kreditkarten haben eine Zahlungsabwicklungsgebühr von 3,9 % + 0,30 $.
+- Durch [diesen Link](https://bunq.me/pauseai) (Wähle Sofort - die meisten Banken und PayPal werden unterstützt)
+- Durch Kryptowährungen:
   - Solana `9isSiDuKRkpiui6LzHyVoFiJ3LuV5LVpsdpH2YzD13dy`
   - Ethereum `0x01c9646d376408cD77599d1a0860eC38E6928F1b`
   - Base `0x01c9646d376408cD77599d1a0860eC38E6928F1b`
