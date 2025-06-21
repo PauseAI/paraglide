@@ -1,44 +1,73 @@
-
-
 ---
-title: Flyerenhandleiding
+title: Gids voor het verspreiden van flyers
 description: Hoe je flyers kunt verspreiden voor PauseAI
 ---
 
-## Waarom flyeren? {#why-flyering}
+## Waarom flyers verspreiden? {#why-flyering}
 
-- Het doel van flyeren is om een [lokale PauseAI-gemeenschap](/communities) op te bouwen en te laten groeien
-- Om dit te bereiken, moet het doel van flyeren zijn om een bijeenkomst of evenement aan te kondigen, waar iedereen die geïnteresseerd is kan komen en meer te weten kan komen over PauseAI en wat ze kunnen doen
+- Het doel van het verspreiden van flyers is om een [lokale PauseAI-gemeenschap](/communities) te creëren en te laten groeien
+- Om dit te bereiken, moet het eerste doel van het verspreiden van flyers zijn om een gemeenschapsbijeenkomst aan te kondigen, waar iedereen die geïnteresseerd is kan komen en meer te weten kan komen over PauseAI en wat ze kunnen doen om te helpen
+- Latere inspanningen om flyers te verspreiden kunnen zich richten op het informeren van het publiek, het vinden van nieuwe leden, het verspreiden van het woord over een aankomende protest, het verzamelen van handtekeningen voor een petitie, enz., en veel van deze doelen kunnen gemakkelijk tegelijkertijd worden nagestreefd
 
 ## Inhoud van flyers {#flyer-contents}
 
-- Zoek bestaande materialen in [de Flyers-map](https://drive.google.com/drive/folders/1MAU_bq31bEuylhzkt2NkZ_XRY6TlKaqZ?usp=drive_link).
-- Bestaande flyers kunnen worden bewerkt om meer specifiek te zijn voor jouw doel. Gebruik de [Figma-sjabloon](https://www.figma.com/design/iQ4PHQTi1vAVmT9Lckazqt/PauseAI-designs---editable) om je eigen flyer te maken.
-- Voeg de tijd en plaats van je bijeenkomst toe aan de flyer. We raden aan om het weekend naast de flyeren-sessie te plannen.
-- Flyers moeten duidelijke oproepen tot actie hebben
-  - ("Ontdek wat jij kunt doen!", "Kom te weten hoe jij kunt helpen!", "Jij kunt een verschil maken!", "Doe mee!")
+- Zoek bestaande materialen in [de map Flyers](https://drive.google.com/drive/folders/1MAU_bq31bEuylhzkt2NkZ_XRY6TlKaqZ?usp=drive_link).
+- Bestaande flyers kunnen worden bewerkt om meer specifiek te zijn voor jouw doel. Gebruik de [Figma-sjabloon](https://www.figma.com/design/iQ4PHQTi1vAVmT9Lckazqt/PauseAI-designs---editable) om je eigen flyers te maken.
 
-## Flyer afdrukken {#flyer-printing}
+Het belangrijkste aan een flyer is niet de inhoud, maar de interactie die je hebt met de mensen aan wie je hem uitdeelt. Het op één na belangrijkste is een directe oproep tot actie, vooral als dit zou resulteren in een connectie/het verkrijgen van contactgegevens. De inhoud zelf is echter ook belangrijk. Neem de tijd om je publiek te overwegen, je doel te overwegen en te doen wat je kunt om de kloof tussen hen te overbruggen.
 
-Er zijn veel opties voor het afdrukken van flyers, afhankelijk van budgetbeperkingen en kwaliteitseisen. Dubbelzijdig full-color afdrukken kan duur zijn (in de orde van $1 per pagina).
+**Dingen die je altijd moet opnemen:**
 
-- [48 Hour Print](https://www.48hourprint.com/) is gemiddeld tot goedkoop in prijs en van hoge kwaliteit
-- [Bizay](https://us.bizay.com/) is extreem goedkoop, voor "redelijk goede" kwaliteit (sommige klanten melden significante vertragingen in de levering en andere problemen; Nathan in Arizona heeft deze problemen niet ondervonden en was zeer tevreden met het resultaat)
+- Een directe oproep tot actie, gemaakt zo leesbaar en eenvoudig mogelijk
+
+  - ("Leer meer op onze website!", "Ontdek hoe je kunt helpen!", "Doe mee!", "Bel je vertegenwoordigers!", "Kom naar deze bijeenkomst!", "Doe mee aan deze demonstratie!")
+
+- De tijd en plaats van je evenement, indien van toepassing (We raden het aankomende weekend aan)
+- Een manier om lid te worden van je lokale groep (bijv. een QR-code naar een eenvoudige aanmeldlijst)
+- PauseAI-merkidentiteit
+
+**Andere dingen om te overwegen:**
+
+- Iets wat de aandacht trekt/boeiend is
+- Iets informatiefs
+- Een natuurlijke voortgang van zorgen (naar x-risico)
+- Deskundige bronnen/citaten
+- Een manier om contact met je op te nemen
+- Een klein cadeau, zoals een vastgemaakt stukje snoep of een dubbeltje op dubbelzijdig plakband
+
+  - Psychologisch gezien, als je iemand iets geeft, zijn ze eerder geneigd om te voelen dat ze je iets terug moeten geven (hun tijd, aandacht, overweging, enz.)
+
+## Flyers afdrukken {#flyer-printing}
+
+Er zijn veel opties voor het afdrukken van flyers, afhankelijk van budgetbeperkingen en kwaliteit- en tijdsvereisten. Dubbelzijdig full-color afdrukken kan duur zijn (in de orde van $1 USD per pagina). Aan de laagste kant (als er een zeer goede aanbieding is), is het soms mogelijk om onder de 10 cent per pagina te blijven als je in bulk afdrukt op kleine pagina's.
+
+- Vrijwilligers hebben succes gehad met online afdrukken van winkels als 48 Hour Print, VistaPrint en Bizay
 - Controleer bij je lokale drukker en vergelijk prijzen met online winkels
-- Als je een zeer goedkope optie nodig hebt, overweeg dan om enkelzijdige flyers af te drukken voor de laagste afdrukkosten in je omgeving
-- Zorg ervoor dat al je materialen ruim van tevoren worden afgedrukt
+- Als je een goedkope optie nodig hebt bij een laag volume, overweeg dan om enkelzijdige flyers af te drukken voor de laagste afdrukkosten in je omgeving
+- Zorg ervoor dat je al je materialen ruim van tevoren afdrukt, rekening houdend met de levertijd
+- Als je weinig tijd hebt, kun je thuis afdrukken, of een lokale drukker gebruiken, of afdrukken bij je lokale bibliotheek
 
-## Flyeren opzetten {#flyering-setup}
+## Flyers opzetten {#flyering-setup}
 
-- Zelfs voor een korte eenmalige uitstap is het een goed idee om minstens 100 flyers te hebben. Beter te veel dan te weinig!
-- Het kan heel nuttig zijn om een A-frame bord bij je voeten te hebben.
-  - Het geeft mensen die het lezen de kans om zelf contact met je op te nemen
+- Zelfs voor een kort uitje is het een goed idee om minstens 100 flyers te hebben. Beter te veel dan te weinig!
+
+  - Waarschuwing: Als je flyer evenementspecifieke informatie bevat, is deze na het evenement waardeloos, dus ga niet te ver
+  - Tip: je kunt een klein strookje met evenementspecifieke informatie aan een grotere evergreen-flyer vastmaken
+
+- Het kan heel nuttig zijn om een A-frame-bord bij je voeten te hebben.
+
+  - Het geeft degenen die het lezen de kans om op hun eigen initiatief contact met je op te nemen
   - Het kan mensen aan het denken zetten, zelfs als ze geen contact met je hebben opgenomen
-  - Zie [PauseAI Flyeren Sign (3x4).pdf](https://drive.google.com/file/d/1DNjgsD-QTL6Xf_MI_0COiYOCO3rVhNZ2/view?usp=drive_link)
-- Het is goed om een formulier te hebben dat mensen die geïnteresseerd zijn in wat je te zeggen hebt en een gesprek willen aangaan, ter plekke kunnen ondertekenen. Als mensen hun gegevens invullen, is het veel gemakkelijker om contact met hen op te nemen, hen uit te nodigen voor evenementen en een lokale groep te organiseren. Je kunt dit doen met een clipboard, pen en een geprinte aanmeldingsformulier.
-- Als je twee of meer vrijwilligers hebt, kun je de flyeren-inspanning opsplitsen om meer gebied te bestrijken, of je kunt een tafel opzetten (waar toegestaan)
-- Het is handig om vooraf gegenereerde en gelabelde QR-codes in een album op je telefoon of in een geprinte map te hebben voor eventuele digitale bronnen die je mensen tijdens gesprekken wilt laten zien (bijv. websites, artikelen, papers, podcasts, video's).
+  - Zie [A-Frame Flyer-borden (Google Drive)](https://drive.google.com/drive/folders/1VzYS-xQ44cqwVzb1hvtwkS7_Z9V4SLIw?usp=drive_link)
+
+- Het is goed om een formulier te hebben dat mensen ter plekke kunnen ondertekenen als ze geïnteresseerd zijn in wat je te zeggen hebt en een gesprek willen aangaan
+
+  - Als mensen hun gegevens invullen, is het veel gemakkelijker om contact met hen op te nemen, hen uit te nodigen voor evenementen en een lokale groep te organiseren; je kunt dit doen met een clipboard, pen en een afgedrukt aanmeldformulier of petitie
+
+- Het kan nuttig zijn om vooraf gegenereerde en gelabelde QR-codes in een album op je telefoon of in een afgedrukte map te hebben voor alle digitale bronnen waar je mensen tijdens gesprekken naar wilt verwijzen (bijv. websites, artikelen, papers, podcasts, video's)
+- Als je twee of meer vrijwilligers hebt, kun je de inspanningen om flyers te verspreiden opsplitsen om meer gebied te bestrijken, of je kunt een tafel opzetten (waar toegestaan)
 - Plan om minstens een paar uur buiten te blijven
+
   - Het kan even duren voordat je jezelf gevonden hebt
   - Als je op gang komt en als je de tijd en de energie hebt, kun je net zo goed doorgaan!
 
@@ -46,91 +75,128 @@ Er zijn veel opties voor het afdrukken van flyers, afhankelijk van budgetbeperki
 
 ### Je kunt dit! {#you-can-do-this}
 
-Hier is een verhaal van Nathan Metzger:
+Hier is een verhaal van vrijwilliger Nathan Metzger:
 
-    _"Ik ben geen activist. Ik ben een introvert met hoge sociale angst (en ik ben misschien een beetje autistisch). Het idee om mensen op straat aan te spreken maakte me zo nerveus dat ik me fysiek ziek voelde. Er zijn weinig dingen waar ik meer bang voor ben dan mezelf voor schut zetten in het openbaar, maar het letterlijke einde van de wereld is een van die dingen. Dus zette ik die angst opzij en liet ik hem me vooruit duwen. Ik deed het toch — ik deed het bang. Ik bestelde alle benodigde spullen, plande een dag en een plaats en ging alleen. Het duurde ongeveer een uur voordat ik het gevoel had dat ik wist wat ik deed. Nadat ik enkele positieve en negatieve interacties had gehad, merkte ik dat ik nog leefde, ik stopte met me bang te voelen en tegen alle verwachtingen in begon ik plezier te hebben."_
+> Ik ben niet het activistische type. Ik ben een autistische introvert met hoge sociale angst. Het idee om mensen op straat aan te spreken maakte me zo nerveus dat ik me fysiek ziek voelde. Er zijn weinig dingen waar ik banger voor ben dan mezelf in het openbaar voor schut zetten, maar het letterlijke einde van de wereld is een van die dingen. Dus zette ik die angst opzij en liet ik mezelf vooruit duwen. Ik deed het toch — ik deed het bang. Ik bestelde alle benodigde spullen, plande een dag en een plaats en ging alleen. Het duurde ongeveer een uur voordat ik het gevoel had dat ik wist wat ik deed. Nadat ik enkele positieve en negatieve interacties had gehad, merkte ik dat ik nog leefde, ik stopte met me bang te voelen en tegen alle verwachtingen in begon ik plezier te hebben.
 
 ### Locatie is belangrijk {#location-matters}
 
 1. **Openbare universiteitscampussen zijn ideale locaties:**
+
    - Ze hebben gebieden die openstaan voor het publiek, waar colportage is toegestaan zolang de lokale wetten en de regels van de campus worden gevolgd
    - Ze zitten vol met nieuwsgierige, energieke mensen die misschien tijd over hebben
    - Ze kunnen voorspelbaar druk zijn op specifieke tijden van de dag op specifieke locaties
    - Het is niet nodig om een specifieke subset van studenten te targeten, aangezien alle soorten mensen deze zorgen delen
-2. **Buiten winkelcentra / markten / pleinen?**
-3. **Drukke trottoirs?**
-4. **Openbare parken?**
 
-- **Controleer altijd de lokale wetten en verordeningen**
-  - Bij het flyeren kun je en moet je effectief zijn zonder negatieve aandacht te trekken van beveiliging of politie
+2. **Binnensteden**
+
+   - De belangrijkste factor is of het gebied veel voetgangersverkeer heeft; binnensteden zijn hier vooral goed voor, vooral in grote steden
+   - Je kunt mensen vinden uit een bredere demografische range dan studenten
+
+3. **Andere drukke wandelgebieden**
+
+   - Buiten winkelcentra/markten/pleinen
+   - Drukte voetpaden
+   - Openbare parken
+
+- **Controleer altijd je lokale wetten en verordeningen**
+
+  - Bij het verspreiden van flyers kun je en moet je effectief zijn zonder negatieve aandacht te trekken van beveiliging of politie
   - Je specifieke locatie kan extra regels en beperkingen hebben
+
     - Als speciale toestemming nodig is, probeer dan goedkeuring te krijgen lang voordat je begint.
-- Wanneer je aankomt, probeer dan een balans te vinden tussen het optimaliseren van je locatie en het daadwerkelijk flyeren.
+
+- Wanneer je aankomt, probeer dan een balans te vinden tussen het optimaliseren van je locatie en het daadwerkelijk verspreiden van flyers.
+
   - Het is een goed idee om rond te kijken om te zien waar de hoge verkeersdrukte is; je kunt het aantal flyers dat je uitdeelt verdubbelen door naar een iets betere plek te verhuizen
-  - Verkeerspatronen kunnen echter eb en vloed hebben. Als het gras aan de andere kant steeds groener lijkt en je om de paar minuten verhuist, heb je misschien minder tijd om daadwerkelijk flyers uit te delen.
+  - Verkeerspatronen kunnen echter eb en vloed hebben; als je te veel beweegt, heb je minder tijd om daadwerkelijk flyers uit te delen
+  - Als je het gevoel hebt dat je de beste locatie hebt gevonden, kun je daar de hele tijd blijven
+
 - En natuurlijk: **Wees veilig!**
 
-### Hoe je voorbijgangers aanspreekt {#how-to-engage-passersby}
+### Hoe je voorbijgangers kunt aanspreken {#how-to-engage-passersby}
 
-_Inclusief nuttige instructies over hoe je je als een persoon moet gedragen_
+_Inclusief overdreven gedetailleerde instructies over hoe je je als een persoon moet gedragen, voor degenen onder ons die dat niet automatisch weten!_
+
+(De informatie hier is zeer gedetailleerd, voor het geval sommige dingen nuttig voor je zijn. Het is echter belangrijk om te benadrukken dat "het gewoon doen" het beste beleid is! Het zal goed komen en je zult snel veel nuttige dingen leren.)
 
 1. Bied flyers aan aan iedereen die niet begraven is in zijn telefoon of in een gesprek
-   - Voor diegenen die druk lijken, zijn sommigen echt druk en anderen proberen je te vermijden; verspil je energie niet!
+
+   - Voor degenen die er druk uitzien, zijn sommigen echt druk en anderen proberen je te vermijden; verspil je energie niet!
+   - Als je echter meer "ja" dan "nee" krijgt, moet je proberen meer mensen aan te spreken
+
 2. **Wees zelfverzekerd**, vriendelijk en niet-bedreigend
-3. Kijk iemand recht aan, vraag of ze een flyer willen of als je er een aan hen kunt geven, en houd de flyer naar hen uitgestrekt
-4. **"Kan ik je een flyer geven?"** is meestal een betere zin dan "Wil je een flyer?"
-   - Psychologisch gezien kan dit hen het gevoel geven dat je hen een dienst bewijst
-5. Echter, wanneer je tegen iemand spreekt die erg aardig / lief / zoet lijkt:
-   - "Kan ik je een flyer geven?" kan beter zijn, in de zin van toestemming vragen
-   - Het is goed om een beetje zachter te spreken en fysiek aarzelend / verlegen / zacht te zijn terwijl je toestemming vraagt
-6. Als iemand nadert en oogcontact maakt wanneer ze minder dan 5 seconden weg zijn, houd dan **oogcontact** met hen totdat ze binnen een afstand zijn waarop je een flyer kunt aanbieden
-   - Als je wegkijkt, verlaagt dat je schijnbare interesse in hen en zij zullen evenmin in jou geïnteresseerd zijn
-7. Fysieke nabijheid is belangrijk; het is het beste om **mensen die verder weg zijn** (>20ft of 6m) te negeren als je in een brede ruimte bent
-   - Je kunt ze fysiek niet bereiken, en ze proberen je misschien sowieso te vermijden
-8. **Ga niet in de weg staan** van voorbijgangers; je hoeft dat niet te doen om de aandacht te trekken van de mensen die je probeert te bereiken
-9. Zoek een balans tussen het voeren van gesprekken en het uitdelen van meer flyers
-   - Het voeren van positieve gesprekken kan zeer waardevol zijn
-   - Als een interactie nergens toe leidt of negatief is, is het het beste om beleefd afstand te nemen en meer flyers uit te delen
-10. **Streef ernaar om te informeren, niet om te overtuigen**
-    - Stel je niet noodzakelijkerwijs ten doel om mensen van gedachten te doen veranderen; veel mensen zouden bezorgd zijn als ze wisten wat jij weet, en veel mensen zijn al bezorgd maar weten niet wat ze eraan kunnen doen. **Ga je mensen zoeken!**
-    - Mensen zijn vaak nieuwsgierig als ze horen dat er iets is dat hen zou kunnen beïnvloeden waar ze niets van af weten
-11. **Ga empathisch te werk**
-    - Veel mensen hebben zorgen over AI die niet dezelfde zijn als die van jou. Probeer niet om te veranderen waar ze zich zorgen over maken. Erkenn in plaats daarvan hun zorgen en nodig hen uit onder de brede paraplu van PauseAI: mensen die een pauze willen inlassen in AI en de risico's ervan.
+3. Kijk rechtstreeks naar een voorbijganger, vraag of ze een flyer willen of of je er een aan hen kunt geven, en houd de flyer naar hen uitgestrekt
+4. Als ze accepteren en even blijven hangen, ga dan verder met ze te betrekken door naar hun gedachten/zorgen te vragen en een gesprek te beginnen; als ze nee zeggen, ga dan beleefd verder
+5. Als iemand nadert en oogcontact maakt wanneer ze minder dan 5 seconden weg zijn, houd dan **oogcontact** met hen totdat ze binnen het bereik van de flyer zijn
 
-### Dingen om te zeggen {#some-things-to-say}
+   - Als je wegkijkt, verlaagt dat je schijnbare interesse in hen en zij zullen evenmin in jou geïnteresseerd zijn; aan de andere kant, staar mensen niet gewoon aan
 
-Om aandacht te trekken:
+6. Fysieke nabijheid is belangrijk; het is het beste om **mensen die verder weg zijn te negeren** (>20ft of 6m) als je in een brede ruimte bent
 
-1. "Kan ik je een flyer geven?"
+   - Je kunt ze niet fysiek bereiken en ze kunnen je misschien expres vermijden; er zijn meer vissen in de zee!
+
+7. **Ga niet in de weg staan** van voorbijgangers; je hoeft dat niet te doen om de aandacht te trekken van de mensen die je probeert te bereiken
+8. Zoek een balans tussen het voeren van gesprekken en het uitdelen van meer flyers
+
+   - Het voeren van positieve face-to-face gesprekken is zeer waardevol voor het werven van leden
+   - Als een interactie nergens toe leidt of negatief is, zoek dan een manier om je beleefd los te maken en meer flyers uit te delen
+   - Als je in staat bent om met minstens één andere persoon te gaan, is het gemakkelijker om gesprekken te voeren en tegelijkertijd materiaal uit te delen
+
+9. **Streef ernaar om te informeren, niet om te overtuigen**
+
+   - Zet niet noodzakelijkerwijs uit om mensen van gedachten te doen veranderen; veel mensen zouden bezorgd zijn als ze wisten wat jij weet, en veel mensen zijn al bezorgd maar weten niet wat ze eraan kunnen doen. **Ga je mensen zoeken!**
+   - Mensen zijn vaak nieuwsgierig als ze horen dat er iets is dat hen zou kunnen beïnvloeden waar ze niets van weten
+
+10. **Ga empathisch te werk**
+
+    - Veel mensen hebben zorgen over AI die niet hetzelfde zijn als die van jou. Probeer niet te veranderen waar ze zich zorgen over maken. Erkenn in plaats daarvan hun zorgen en nodig hen uit in de brede paraplu van PauseAI: mensen die een pauze willen inlassen in AI en de risico's ervan.
+    - Probeer niet de overwinning uit de kaken van de nederlaag te grissen. **Gebruik "Ja en".** Als ze echte zorgen over AI hebben die jou te mild lijken of die lijken te focussen op de verkeerde dingen, communiceer dan niet dat ze het _mis hebben_; communiceer dat ze _meer gelijk hebben dan ze weten_.
+    - Wanneer je iemand aanspreekt die erg meelevend lijkt, is het goed om een beetje zachter te praten en zachter te handelen. Onthoud dat je voor anderen een vreemde bent met een onbekende agenda, en sommige mensen zijn nerveuzer om met je te praten dan jij met hen
+
+### Een aantal dingen om te zeggen {#some-things-to-say}
+
+Om de aandacht te trekken:
+
+1. **"Kan ik je een flyer geven?"**
+
+   - (Alsof je ze een dienst bewijst, in plaats van te proberen hen een dienst te bewijzen)
+
 2. "Wil je meer weten over de gevaren van AI?"
+3. "Wil je weten wat er aan de hand is met AI?"
 
 Als je wordt gevraagd waar dit allemaal over gaat:
 
-1. **"Proberen de kloof te dichten tussen wat experts over AI zeggen en wat de meeste mensen weten"**
-2. "Misschien moeten we geen krachtige AI-systemen bouwen die we nog niet kunnen controleren"
-3. "Een wereldwijd verdrag/moratorium op de grootste algemene AI-trainingsruns"
-4. "We zijn een grassroots-beweging die bezorgd is over wat experts zeggen over de risico's van AI"
+1. **"PauseAI is een wereldwijde grassrootsbeweging die werkt aan het mitigeren van de ergste risico's van AI"**
+2. **"Proberen de kloof te dichten tussen wat experts over AI zeggen en wat de meeste mensen weten"**
+3. "Misschien zouden we geen krachtige AI-systemen moeten bouwen die we nog niet kunnen controleren"
+4. "Een wereldwijd verdrag om de ontwikkeling van AI te vertragen totdat het veilig is"
+5. "We zijn een grassrootsbeweging die bezorgd is over wat experts zeggen over de risico's van AI"
+
+- Houd er rekening mee dat **argumenten van autoriteit gewicht in de schaal leggen**
+- Het noemen van x-risico's right vanaf het begin kan een afknapper zijn, maar het helemaal weglaten is meestal ook niet nuttig
+- Over het algemeen is het goed om na te denken over wat voor soort gesprekken je wilt voeren en klaar te hebben antwoorden op de meeste relevante dingen die mensen je zouden kunnen vragen
 
 ### Hoe mensen reageren {#how-people-respond}
 
-1. De meeste mensen die graag een flyer zouden accepteren, zullen er niet om vragen
-2. Een kleine subset van mensen gaat direct in gesprek en vraagt om een flyer of begint een gesprek
+1. De meeste mensen die graag een flyer accepteren, zullen er niet om vragen
+2. Een kleine subset van mensen engageert zich uit eigen beweging en vraagt om een flyer of begint een gesprek
 3. Meer mensen weigeren een flyer dan er een accepteren, en dat is prima
+
    - In een ruimte met veel mensen werkt de wet van de grote getallen in je voordeel
-4. Sommige mensen zeggen misschien dat ze het met je eens zijn, maar nog steeds geen flyer willen (en dat is prima)
-5. In de meeste plaatsen over de hele wereld is bijna iedereen extreem beleefd!
-   - _(Je kunt een andere ervaring hebben als je je in een gebied bevindt dat bekend staat als onbeleefd.)_
+
+4. Sommige mensen zeggen misschien dat ze het met je eens zijn, maar willen nog steeds geen flyer (en dat is prima)
+5. In de meeste delen van de wereld is bijna iedereen extreem beleefd!
+
+   - _(Je kunt een andere ervaring hebben als je in een gebied bent dat bekend staat als onbeleefd.)_
+
 6. De overgrote meerderheid van de interacties is positief in plaats van negatief
-7. Van de mensen die stoppen om met je te praten, behandelen velen je waarschijnlijk automatisch alsof je weet waar je het over hebt
-   - En (hopelijk) weet je dat ook! Je neemt tijd uit je dag om mensen iets te vertellen dat je belangrijk vindt, en sommige mensen herkennen dat.
-8. Wanneer je een bord gebruikt, sorteert een bepaald percentage van de mensen zichzelf en vermijdt je als ze niet geïnteresseerd zijn, wat je wat energie kan besparen!
+7. Van de mensen die stoppen om met je te praten, behandelen velen je automatisch alsof je weet waar je het over hebt
 
-## Relevante discussies in de PauseAI Discord {#relevant-discussions-in-the-pauseai-discord}
+   - En (hopelijk) weet je dat ook! Je neemt tijd uit je dag om mensen iets te communiceren dat je belangrijk vindt, en mensen herkennen dat vaak.
 
-- [Tabling / flyeren project](https://discord.com/channels/1100491867675709580/1175000709490561064)
-- [Nathan Metzger's eerste flyeren-inspanning](https://discord.com/channels/1100491867675709580/1211431205707452538)
-- [Sean's flyeren-vragen](https://discord.com/channels/1100491867675709580/1220069198135296031)
+8. Een A-frame-bord aan je voeten fungeert als een uitnodiging: een bepaald percentage van de mensen sorteert zichzelf en vermijdt je als ze niet geïnteresseerd zijn (wat je wat energie kan besparen), en sommige mensen nemen uit zichzelf contact met je op
 
-## Zie ook {#see-also}
+## Conclusie: Ga naar buiten! {#conclusion-get-on-out-there}
 
-[Flyeren in Marseille](https://docs.google.com/document/d/1xPG5IjDRYCl5n2Lyte8d25iTqcoitU0aMqfyGXzs0Mk/edit?usp=sharing) van Maxime F
+Dit is een hoop informatie. Het is bedoeld om een kader te bieden, vragen te beantwoorden en kennislacunes op te vullen om je vertrouwen te vergroten voor je eerste flyerverspreidingsuitje. Maar alles wat je _echt_ nodig hebt, is een stapel flyers en de bereidheid om het te proberen. Dit is iets dat bijna iedereen kan doen, en je voelen geïntimideerd of onzeker is geen reden om je ervan te laten weerhouden. Je zult veel leren over outreach, over mensen, over de huidige grenzen van je kennis en over jezelf. En na de eerste of tweede keer dat je naar buiten gaat, zul je geen behoefte meer hebben aan deze gids. Laten we dit doen — samen!
