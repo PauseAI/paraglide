@@ -1,9 +1,9 @@
-
-
 ---
 title: Doneer aan PauseAI
 description: Met uw financiële steun kunnen we een grotere impact hebben.
 ---
+ <!-- end of frontmatter metadata, dashes above need to stay -->
+
 <script>
     import Donate from '$lib/components/Donate.svelte'
 </script>
@@ -16,13 +16,13 @@ Sinds februari 2024 is PauseAI een [geregistreerde non-profitorganisatie](/legal
 ## Hoe wij uw donaties gebruiken {#how-we-use-your-donations}
 
 - **Gemeenschapsprojecten**: ons [microsubsidieprogramma](/microgrants) ondersteunt diverse kleinschalige projecten.
-- **Vrijwilligersvergoedingen**: [vrijwilligers](/people) kunnen een [vergoeding](/volunteer-stipends) aanvragen, waardoor onze gemeenschap lokaal impact kan hebben en zich duurzaam kan ontwikkelen.
+- **Vrijwilligersvergoedingen**: vrijwilligers kunnen een [vergoeding](/volunteer-stipends) aanvragen, waardoor onze gemeenschap lokaal impact kan hebben en zich organisch kan ontwikkelen.
 - **Financiering voor lokale en [nationale](/national-groups) afdelingen**: wij ondersteunen PauseAI-gemeenschappen
 - **Mensen**: wij bouwen een sterkere gemeenschap op, werken aan projecten, organiseren protesten, verbeteren de website, enz.
 - **Evenementen**: locatiehuur, catering, reiskosten.
 - **Software**: e-mail, website, enz.
-- **Campagnes**: online reclame, materialen
-- **Juridisch en financieel**: de organisatie oprichten (notariskosten), boekhouding.
+- **Campagnes**: online reclame, materiaal
+- **Juridische en financiële zaken**: de oprichting van de stichting (notariskosten), boekhouding.
 
 ## Wat hebben we al bereikt {#what-have-we-already-achieved}
 
@@ -31,7 +31,7 @@ Sinds februari 2024 is PauseAI een [geregistreerde non-profitorganisatie](/legal
 - We hebben meer dan 15 [protesten](/protests) georganiseerd in 7 landen.
 - Meer dan 100 andere soorten [evenementen](/events) (lobbyworkshops, flyerverdelingen, actiebijeenkomsten, enz.)
 - Meer dan 30 [media-optredens](/press) op grote nieuwszenders, podcasts, documentaires, TV en meer.
-- We hebben veel bijeenkomsten gehad met politici en andere belanghebbenden.
+- Veel bijeenkomsten met politici en andere belanghebbenden.
 
 ## Wie financiert PauseAI {#who-is-funding-pauseai}
 
