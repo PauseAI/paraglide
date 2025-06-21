@@ -10,14 +10,14 @@ Als u van plan bent een eenmalig groot evenement of een project met een vaste lo
 ## Voorwaarden {#conditions}
 
 - 2100 EUR per jaar voor een gemiddelde van 8 uur per week.
-- Geen Amerikaanse staatsburgers of inwoners (PauseAI US beheert Amerikaanse vrijwilligers)
-- De vergoeding moet uw tijd en andere uitgaven (reizen, flyers, evenementen) dekken. Wij zijn niet wettelijk toegestaan om extra kosten te vergoeden.
-- De vergoeding is belastingvrij in Nederland, maar het kan zijn dat u in uw land van verblijf belasting moet betalen
+- Geen Amerikaanse staatsburgers of inwoners (PauseAI US is verantwoordelijk voor Amerikaanse vrijwilligers)
+- De vergoeding moet uw tijd en andere uitgaven (reizen, promotiemateriaal, evenementen) dekken. Wij zijn niet gemachtigd om extra kosten te vergoeden.
+- In Nederland is de vergoeding belastingvrij, maar het kan zijn dat u in uw land van verblijf belasting moet betalen.
 - Voor de complete en formele lijst van voorwaarden, zie [de Vrijwilligersvergoedingsafspraak](https://docs.google.com/document/d/1HHgKsEj1fEpMEcYZXnZQ41tuXMLvwcbXqgrX1f2JxZc/edit)
 
 ## Aanvraagproces {#application-process}
 
-- [Meld u aan](https://airtable.com/appWPTGqZmUcs3NWu/pag7ztLh27Omj5s2n/form) als PauseAI-vrijwilliger
+- [Meld u aan](/join) als PauseAI-vrijwilliger
 - Zorg ervoor dat u lid bent van de [PauseAI Discord](https://discord.gg/X9TYc3vs7j)
 - Kopieer [de Vrijwilligersvergoedingsafspraak](https://docs.google.com/document/d/1HHgKsEj1fEpMEcYZXnZQ41tuXMLvwcbXqgrX1f2JxZc/edit)
 - Stuur het naar [joep@pauseai.info](mailto:joep@pauseai.info)
