@@ -27,7 +27,7 @@ Je kunt ons mailen of contact opnemen via [joep@pauseai.info](mailto:joep@pausea
 
 ## Zijn jullie niet gewoon bang voor veranderingen en nieuwe technologie? {#arent-you-just-scared-of-changes-and-new-technology}
 
-Je zou verbaasd zijn dat de meeste mensen in PauseAI zichzelf als techno-optimisten beschouwen.
+Je zou verbaasd zijn dat de meeste mensen in PauseAI zichzelf beschouwen als techno-optimisten.
 Velen van hen zijn betrokken bij AI-ontwikkeling, zijn gadget-liefhebbers en zijn meestal erg enthousiast over de toekomst.
 Vooral velen van hen zijn enthousiast over het potentieel van AI om de mensheid te helpen.
 Dat is waarom voor velen van hen de trieste realisatie dat AI een existentieel risico vormt, een zeer moeilijke waarheid was om te accepteren.
@@ -51,7 +51,7 @@ We hebben deze zorgen behandeld in [dit artikel](/mitigating-pause-failures).
 ## Is een pauze zelfs mogelijk? {#is-a-pause-even-possible}
 
 AGI is niet onvermijdelijk.
-Het vereist hordes ingenieurs met miljoenen-dollar salarissen.
+Het vereist hordes ingenieurs met miljoenen dollars aan salaris.
 Het vereist een volledig functionele en onbeperkte toeleveringsketen van de meest complexe hardware.
 Het vereist dat we allemaal toestaan dat deze bedrijven met onze toekomst gokken.
 
@@ -63,7 +63,7 @@ Zie onze [financieringspagina](/funding)
 
 ## Wat zijn jullie plannen? {#what-are-your-plans}
 
-Onze focus ligt op [het laten groeien van de beweging](/growth-strategy), het organiseren van protesten, lobbyen bij politici en het informeren van het publiek.
+Onze focus ligt op [het groeien van de beweging](/growth-strategy), het organiseren van protesten, lobbyen bij politici en het informeren van het publiek.
 
 Bekijk onze [roadmap](/roadmap) voor een gedetailleerd overzicht van onze plannen en wat we kunnen doen met meer financiering.
 
@@ -90,20 +90,20 @@ AI-veiligheidsonderzoekers (die de experts zijn op dit gebied) zijn verdeeld ove
 Houd er rekening mee dat geen enkele (geënquêteerde) AI-veiligheidsonderzoeker gelooft dat er een kans van 0% is.
 Er kan echter selectiebias zijn: mensen die in het veld van AI-veiligheid werken, doen dit waarschijnlijk omdat ze geloven dat het voorkomen van slechte AI-uitkomsten belangrijk is.
 
-Als je AI-onderzoekers in het algemeen vraagt (geen veiligheidsspecialisten), daalt dit aantal tot een gemiddelde waarde van rond de 14%, met een mediaan van 5%.
+Als je AI-onderzoekers in het algemeen vraagt (geen veiligheidsspecialisten), daalt dit aantal tot een gemiddelde waarde van ongeveer 14%, met een mediaan van 5%.
 De overgrote meerderheid, 86% van hen, gelooft dat het afstemmingsprobleem zowel een reëel als een belangrijk probleem is.
-Houd er rekening mee dat er mogelijk selectiebias is in de tegenovergestelde richting: mensen die in AI werken, doen dit waarschijnlijk omdat ze geloven dat AI gunstig zal zijn.
+Houd er rekening mee dat er mogelijk een selectiebias is in de tegenovergestelde richting: mensen die in AI werken, doen dit waarschijnlijk omdat ze geloven dat AI gunstig zal zijn.
 
 _Stel je voor dat je wordt uitgenodigd om een testvlucht te maken op een nieuw vliegtuig_.
-De vliegtuigingenieurs denken dat er een kans van 14% is dat het vliegtuig crasht.
-Zou je in dat vliegtuig stappen? Want op dit moment stappen we allemaal in het AI-vliegtuig.
+De vliegtuigingenieurs denken dat er een kans van 14% is op een crash.
+Zou je in dat vliegtuig stappen? Omdat we nu allemaal aan boord gaan van het AI-vliegtuig.
 
 ## Hoe lang hebben we nog tot superintelligente AI? {#how-long-do-we-have-until-superintelligent-ai}
 
 Het kan maanden duren, het kan decennia duren, niemand weet het zeker.
 We weten echter wel dat de voortgang van AI vaak ernstig wordt onderschat.
 Nog maar drie jaar geleden dachten we dat we in 2055 AI-systemen zouden hebben die de SAT-test konden halen.
-We haalden dat in april 2023.
+We bereikten dat in april 2023.
 We moeten handelen alsof we nog maar heel weinig tijd hebben, omdat we niet willen worden verrast.
 
 [Lees meer over urgentie](/urgency).
@@ -119,9 +119,9 @@ Houd er ook rekening mee dat we voornamelijk vragen om een _internationale_ pauz
 Zo'n verdrag moet ook door China worden ondertekend.
 Als het verdrag garandeert dat andere landen ook zullen stoppen, en er voldoende handhavingsmechanismen zijn, zou dit iets moeten zijn wat China ook wil zien.
 
-## OpenAI en Google zeggen dat ze willen worden gereguleerd. Waarom protesteren jullie tegen hen? {#openai-and-google-are-saying-they-want-to-be-regulated-why-are-you-protesting-them}
+## OpenAI en Google zeggen dat ze gereguleerd willen worden. Waarom protesteren jullie tegen hen? {#openai-and-google-are-saying-they-want-to-be-regulated-why-are-you-protesting-them}
 
-We applaudisseren OpenAI en Google voor hun oproep tot internationale regulering van AI.
+We applaudisseren OpenAI en Google voor hun oproepen tot internationale regulering van AI.
 We geloven echter dat de huidige voorstellen niet voldoende zijn om een AI-catastrofe te voorkomen.
 Google en Microsoft hebben nog niet publiekelijk iets gezegd over het existentiële risico van AI.
 Alleen OpenAI noemt expliciet het risico van uitsterving, en opnieuw applaudisseren we hen voor het serieus nemen van dit risico.
@@ -174,8 +174,8 @@ Omdat het erkennen dat _we in feite in gevaar zijn_ een heel, heel angstaanjagen
 ## Oké, ik wil helpen! Wat kan ik doen? {#ok-i-want-to-help-what-can-i-do}
 
 Er zijn veel dingen die je kunt doen.
-Op je eigen, kun je een brief schrijven, flyers posten, leren en anderen informeren, lid worden van een protest, of doneren van wat geld!
-Maar nog belangrijker: je kunt lid worden van PauseAI en coördineren met anderen die actie ondernemen.
+Op je eigen, kun je een brief schrijven, flyers posten, leren en anderen informeren, deelnemen aan een protest, of doneren van geld!
+Maar nog belangrijker: je kunt bij PauseAI aansluiten en coördineren met anderen die actie ondernemen.
 Kijk of er lokale gemeenschappen in jouw omgeving zijn.
 Als je meer wilt bijdragen, kun je vrijwilliger worden en lid worden van een van onze teams, of een lokale gemeenschap oprichten!
 
