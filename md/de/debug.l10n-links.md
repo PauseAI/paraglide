@@ -1,9 +1,9 @@
 ---
-title: Test Link-Lokalisierung
+title: Test der Link-Lokalisierung
 description: Testseite zur Überprüfung des Lokalisierungsverhaltens von Links
 ---
 
-Diese Seite testet verschiedene Link-Muster, um sicherzustellen, dass das Lokalisierungsverhalten korrekt ist.
+Diese Seite testet verschiedene Link-Muster, um sicherzustellen, dass die Lokalisierung korrekt funktioniert.
 
 ## Reguläre interne Links (sollten lokalisiert werden) {#regular-internal-links-should-be-localized}
 
@@ -13,7 +13,7 @@ Diese Seite testet verschiedene Link-Muster, um sicherzustellen, dass das Lokali
 - [Aktion](/action)
 - [Startseite](/)
 
-## Startseiten für Lokalisierungen (sollten NICHT lokalisiert werden) {#locale-homepages-should-not-be-localized}
+## Startseiten für verschiedene Sprachen (sollten NICHT lokalisiert werden) {#locale-homepages-should-not-be-localized}
 
 - [Englische Startseite](/en)
 - [Deutsche Startseite](/de)
@@ -47,7 +47,3 @@ Diese Seite testet verschiedene Link-Muster, um sicherzustellen, dass das Lokali
 - [Leerer href]()
 - [Nur Schrägstrich](/)
 - [Doppelter Schrägstrich am Anfang](//not-a-locale)
-
-## Testabschnitt für Anker {#section} {#test-section-for-anchors-section}
-
-Dies ist das Ziel für den Anker-Link oben.
