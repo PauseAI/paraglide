@@ -10,7 +10,7 @@ Deze pagina test verschillende linkpatronen om ervoor te zorgen dat de lokalisat
 - [Voorstel](/proposal)
 - [Leer meer](/learn)
 - [Veelgestelde vragen](/faq)
-- [Actie](/action)
+- [Actie ondernemen](/action)
 - [Startpagina](/)
 
 ## Lokale startpagina's (moeten NIET worden gelokaliseerd) {#locale-homepages-should-not-be-localized}
@@ -19,9 +19,9 @@ Deze pagina test verschillende linkpatronen om ervoor te zorgen dat de lokalisat
 - [Duitse startpagina](/de)
 - [Nederlandse startpagina](/nl)
 
-## Reeds gelokaliseerde links (moeten NIET worden gelokaliseerd) {#already-localized-links-should-not-be-localized}
+## Al gelokaliseerde links (moeten NIET worden gelokaliseerd) {#already-localized-links-should-not-be-localized}
 
-- [Engelse FAQ](/en/faq)
+- [Engelse Veelgestelde vragen](/en/faq)
 - [Duitse Actie](/de/action)
 - [Nederlandse Voorstel](/nl/proposal)
 - [Engels met afsluitende slash](/en/)
@@ -47,7 +47,3 @@ Deze pagina test verschillende linkpatronen om ervoor te zorgen dat de lokalisat
 - [Lege href]()
 - [Alleen slash](/)
 - [Dubbele slash aan het begin](//not-a-locale)
-
-## Testsectie voor ankers {#section} {#test-section-for-anchors-section}
-
-Dit is het doelwit voor de ankerlink hierboven.
