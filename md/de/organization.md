@@ -2,13 +2,13 @@
 title: PauseAI-Organisation
 description: Wie die PauseAI-Organisation strukturiert ist und welche Ressourcen für Mitglieder verfügbar sind.
 ---
+
 ## Organisationsstruktur {#organization-structure}
 
 - [Rechtliche Einheiten](/legal): PauseAI besteht aus einer internationalen Einheit (PauseAI Global) und mehreren lokalen/nationalen rechtlichen Einheiten. Diese Website und die Social-Media-Konten werden von der internationalen Einheit verwaltet.
-- [Nationale Gruppen](/national-groups): Nationale PauseAI-Gruppen sind Knotenpunkte, die in der Regel ihre eigenen lokalen Gemeinschaften verwalten und für die nationale Strategie und Koordination verantwortlich sind. Sie haben in der Regel ihre eigene Website, Social-Media-Konten und rechtliche Einheit. Nationale Leiter treffen sich regelmäßig, um ihre Arbeit zu koordinieren.
+- [Nationale Gruppen](/national-groups): Nationale PauseAI-Gruppen sind regionale Knotenpunkte, die ihre eigenen lokalen Gemeinschaften verwalten und für die nationale Strategie und Koordination verantwortlich sind. Sie haben in der Regel ihre eigene Website, Social-Media-Konten und rechtliche Einheit. Nationale Leiter treffen sich regelmäßig, um ihre Arbeit zu koordinieren.
 - [Teams](/teams): Teams sind Gruppen von Freiwilligen, die an bestimmten Projekten oder Aufgaben innerhalb von PauseAI Global arbeiten. Jedes Team hat seinen eigenen Leiter, Discord-Kanal, Drive-Ordner und natürlich eine Liste von Mitgliedern. Wenn Sie einem Team beitreten möchten, kontaktieren Sie den Teamleiter!
-- [Lokale Gemeinschaften](/communities): Überprüfen Sie, ob es bereits eine Gemeinschaft in Ihrer Nähe gibt. Die meisten Gruppen kommunizieren auf unserem Discord-Server im `#local-meetups`-Kanal (Wenn Sie eine neue lokale Gruppe erstellen möchten, posten Sie dort!). Einige Gruppen verwenden Tools wie WhatsApp oder einen separaten Discord-Server.
-- [Personen (Freiwillige)](/people): Liste der registrierten Freiwilligen, die sich entschieden haben, ihr Profil anzuzeigen und sich verpflichtet haben, mindestens einige Stunden pro Woche für PauseAI zu arbeiten.
+- [Lokale Gemeinschaften](/communities): Überprüfen Sie, ob es bereits eine Gemeinschaft in Ihrem Gebiet gibt. Die meisten Gruppen kommunizieren auf unserem Discord-Server im `#local-meetups`-Kanal (Wenn Sie eine neue lokale Gruppe erstellen möchten, posten Sie dort!). Einige Gruppen verwenden Tools wie WhatsApp oder einen separaten Discord-Server.
 
 ![Organigramm](/org.png)
 
@@ -47,11 +47,11 @@ description: Wie die PauseAI-Organisation strukturiert ist und welche Ressourcen
 - [Kostenloses Buch über KI-X-Risiko: Unkontrollierbar](https://impactbooks.store/cart/47288196366640:1?discount=UNCON-P3SFRS)
 - [Google-Kalender-Link](https://calendar.google.com/calendar/u/0?cid=Y19mNWE4YWYyMDZlNjM1ODc2NjVjNmU4MzAzOTgzZmVmYWYzYTBjNjE0NGRiMGFhNDljOTcwZWZhNTEwYTNkODY3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 - [Anonymes Feedback-Formular](https://airtable.com/appWPTGqZmUcs3NWu/pagIvo9Sv6IDHaolu/form): Wenn Sie uns kritische Gedanken mitteilen möchten, während Sie anonym bleiben.
-- [Mikrogrants](/microgrants): Wenn Sie eine Finanzierung für Ihr PauseAI-bezogenes Projekt/Event benötigen
+- [Mikrosubventionen](/microgrants): Wenn Sie eine Finanzierung für Ihr PauseAI-bezogenes Projekt/Event benötigen
 
 ## Verwendete Tools {#tools-used}
 
-- [Discord](https://discord.gg/2XXWXvErfA) für interne Koordination/Chats.
+- [Discord](https://discord.gg/ZuX559xKwf) für interne Koordination/Chats.
 - [Gmail](https://gmail.com) für `@pauseai.info`-E-Mail-Adressen.
 - [Google Suite](https://workspace.google.com/) für Dokumente, Tabellen, Dateien, Ordner.
 - [Trello](https://trello.com/) wird von einigen Teams für Issue-/ToDo-Verfolgung verwendet. (Org-Name: `pauseaiinfo`)
@@ -60,7 +60,7 @@ description: Wie die PauseAI-Organisation strukturiert ist und welche Ressourcen
 
 ## Social Media {#social-media}
 
-Sie können uns auf [Discord](https://discord.gg/2XXWXvErfA) (hier findet die meisten Koordination statt!), [Twitter](https://twitter.com/PauseAI), [Substack](https://substack.com/@pauseai), [Facebook](https://www.facebook.com/PauseAI), [TikTok](https://www.tiktok.com/@pauseai), [LinkedIn](https://www.linkedin.com/uas/login?session_redirect=/company/97035448/), [YouTube](https://www.youtube.com/@PauseAI), [Instagram](https://www.instagram.com/pause_ai) und [Reddit](https://www.reddit.com/r/PauseAI/) finden.
+Sie finden uns auf [Discord](https://discord.gg/ZuX559xKwf) (hier findet die meiste Koordination statt!), [Twitter](https://twitter.com/PauseAI), [Substack](https://substack.com/@pauseai), [Facebook](https://www.facebook.com/PauseAI), [TikTok](https://www.tiktok.com/@pauseai), [LinkedIn](https://www.linkedin.com/uas/login?session_redirect=/company/97035448/), [YouTube](https://www.youtube.com/@PauseAI), [Instagram](https://www.instagram.com/pause_ai) und [Reddit](https://www.reddit.com/r/PauseAI/).
 Sie können uns kontaktieren unter [joep@pauseai.info](mailto:joep@pauseai.info).
 
 ## Design-Ressourcen (Flyer, Poster, Logo) {#design-resources-flyers-posters-logo}
