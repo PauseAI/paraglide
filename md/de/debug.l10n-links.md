@@ -44,6 +44,6 @@ Diese Seite testet verschiedene Link-Muster, um sicherzustellen, dass die Lokali
 
 ## Grenzfälle {#edge-cases}
 
-- [Leerer href]()
+- [Leerer Link]()
 - [Nur Schrägstrich](/)
 - [Doppelter Schrägstrich am Anfang](//not-a-locale)
