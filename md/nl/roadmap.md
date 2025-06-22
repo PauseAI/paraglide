@@ -5,10 +5,11 @@ description: Wat zijn onze plannen en wat kunnen we doen met meer financiering?
 
 ## Prestaties {#achievements}
 
-_Dit zijn de punten uit de roadmap die we hebben behaald. We verplaatsen regelmatig punten vanuit de scenario's hieronder naar de sectie Prestaties._
+_Dit zijn de punten uit de roadmap die we hebben behaald.
+We verplaatsen regelmatig punten vanuit de scenario's hieronder naar de sectie Prestaties._
 
 - 2000+ leden in onze [Discord-server](https://discord.gg/FhqN3y4SpX).
-- [100+ vrijwilligers](/people).
+- 100+ vrijwilligers.
 - [40+ media-optredens](/press).
 - Gidsen geschreven voor [flyeren](/flyering), [protesteren](/protests), [lokale organisatie](/local-organizing), [lobbyen](/lobby-tips), [e-mail schrijven](/email-builder).
 - Pagina's opgezet voor onze [organisatiestructuren](https://pauseai.info/organization): [teams](/teams), [lokale gemeenschappen](/communities) en [nationale groepen](/national-groups).
@@ -29,16 +30,16 @@ We hebben ongeveer €90k op de bank.
 
 - Een [**organisatiedirecteur**](/2024-vacancy-organizing-director) aannemen, die helpt bij het laten groeien van onze gemeenschap en het organiseren van vrijwilligers. Zij zullen ons helpen de gemeenschap te betrekken, evenementen te organiseren, allianties op te bouwen, fondsen te werven, onze onboarding-pipeline te verbeteren en vrijwilligers effectiever te maken.
 - De vorming van nieuwe nationale en lokale groepen faciliteren. Hun helpen met hulp, begeleiding, materialen en financiering.
-- Protesten en andere evenementen organiseren om bewustzijn over het probleem te creëren en onze gemeenschap te laten groeien.
+- Protesten en andere evenementen organiseren om bewustzijn te creëren over het probleem en onze gemeenschap te laten groeien.
 - Briefschrijfworkshops organiseren om nationale politici aan te zetten tot het initiëren van verdragsonderhandelingen.
 - Allianties opbouwen met andere organisaties en overlappende doelgebieden om onze impact te vergroten. Bijvoorbeeld kunstenaars, bezorgde ouders, klimaatactivisten, vakbonden, enz.
-- Onze sociale media-aanwezigheid laten groeien door regelmatige berichten en betrokkenheid.
+- Onze sociale media-aanwezigheid vergroten door regelmatige berichten en betrokkenheid.
 - Deelnemen aan meer [podcasts en interviews](/press).
 - Meer video-inhoud creëren (gefocust op korte video's) om een breder publiek te bereiken.
 - (Betaalde) hulp krijgen van experts op verschillende gebieden (marketing, beleid, AI-veiligheid, gemeenschapsorganisatie, protesteren, enz.) om van hun ervaring te leren en ons werk te verbeteren.
 - Experimenten met sociale media-advertenties om onze gemeenschap te laten groeien en te leren wat werkt.
 - Contact opnemen met politici en invloedrijke personen.
-- Ons resterende budget besteden aan PauseAI-gemeenschapsprojecten via ons MicroGrants-programma.
+- Ons resterende budget uitgeven aan PauseAI-gemeenschapsprojecten via ons MicroGrants-programma.
 
 ### Scenario 1: €200k financiering {#scenario-1-200k-funding}
 
@@ -66,7 +67,7 @@ We hebben ongeveer €90k op de bank.
 
 ## Gerelateerde documenten {#related-documents}
 
-- [Groei-strategie](/growth-strategy)
+- [Groeistrategie](/growth-strategy)
 - [Voorstel](/proposal)
 - [Waarden](/values)
 - [Doneren](/donate)
