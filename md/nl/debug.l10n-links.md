@@ -1,11 +1,11 @@
 ---
 title: Test Link Lokalisatie
-description: Testpagina voor het verifiëren van linklokalisatiegedrag
+description: Testpagina voor het controleren van linklokalisatiegedrag
 ---
 
 Deze pagina test verschillende linkpatronen om ervoor te zorgen dat de lokalisatie correct werkt.
 
-## Reguliere interne links (moeten worden gelokaliseerd) {#regular-internal-links-should-be-localized}
+## Gewone interne links (moeten worden gelokaliseerd) {#regular-internal-links-should-be-localized}
 
 - [Voorstel](/proposal)
 - [Leer meer](/learn)
@@ -19,12 +19,18 @@ Deze pagina test verschillende linkpatronen om ervoor te zorgen dat de lokalisat
 - [Duitse startpagina](/de)
 - [Nederlandse startpagina](/nl)
 
-## Al gelokaliseerde links (moeten NIET worden gelokaliseerd) {#already-localized-links-should-not-be-localized}
+## Reeds gelokaliseerde links (moeten NIET worden gelokaliseerd) {#already-localized-links-should-not-be-localized}
 
-- [Engelse Veelgestelde vragen](/en/faq)
+- [Engelse FAQ](/en/faq)
 - [Duitse Actie](/de/action)
 - [Nederlandse Voorstel](/nl/proposal)
 - [Engels met afsluitende slash](/en/)
+
+## Opt-out links (moeten NIET worden gelokaliseerd) {#opt-out-links-should-not-be-localized}
+
+- [Forceer Engels](/en/proposal#no-localize)
+- [Forceer Duits](/de/learn#no-localize)
+- [Gewone link met opt-out](/action#no-localize)
 
 ## Andere linktypes (moeten NIET worden gelokaliseerd) {#other-link-types-should-not-be-localized}
 
@@ -33,11 +39,15 @@ Deze pagina test verschillende linkpatronen om ervoor te zorgen dat de lokalisat
 - [Protocolrelatief](//example.com)
 - [Relatief](./other-page)
 - [Ouderrelatief](../parent-page)
-- [Anker](#section) <!-- vertaal alleen het label -->
+- [Anker](#section) <!-- lokaliseer alleen het label -->
 - [E-mail](mailto:test@example.com)
 
-## Uitzonderlijke gevallen {#edge-cases}
+## Randgevallen {#edge-cases}
 
 - [Lege href]()
 - [Alleen slash](/)
-- [Dubbele slash aan het begin](//geen-locale)
+- [Dubbele slash aan het begin](//not-a-locale)
+
+## Testsectie voor ankers {#section} {#test-section-for-anchors-section}
+
+Dit is het doelwit voor de ankerlink hierboven.
