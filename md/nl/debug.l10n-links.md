@@ -1,6 +1,6 @@
 ---
 title: Test Link Lokalisatie
-description: Testpagina voor het controleren van linklokalisatiegedrag
+description: Testpagina voor het verifiëren van linklokalisatiegedrag
 ---
 
 Deze pagina test verschillende linkpatronen om ervoor te zorgen dat de lokalisatie correct werkt.
@@ -19,11 +19,11 @@ Deze pagina test verschillende linkpatronen om ervoor te zorgen dat de lokalisat
 - [Duitse startpagina](/de)
 - [Nederlandse startpagina](/nl)
 
-## Al gelokaliseerde links (moeten NIET worden gelokaliseerd) {#already-localized-links-should-not-be-localized}
+## Reeds gelokaliseerde links (moeten NIET worden gelokaliseerd) {#already-localized-links-should-not-be-localized}
 
 - [Engelse Veelgestelde vragen](/en/faq)
 - [Duitse Actie](/de/action)
-- [Nederlandse Voorstel](/nl/proposal)
+- [Nederlands Voorstel](/nl/proposal)
 - [Engels met afsluitende slash](/en/)
 
 ## Opt-out links (moeten NIET worden gelokaliseerd) {#opt-out-links-should-not-be-localized}
