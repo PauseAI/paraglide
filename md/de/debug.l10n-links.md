@@ -1,6 +1,6 @@
 ---
 title: Test der Link-Lokalisierung
-description: Testseite zur Überprüfung des Lokalisierungsverhaltens von Links
+description: Testseite zur Überprüfung des Lokalisierungsverhaltens
 ---
 
 Diese Seite testet verschiedene Link-Muster, um sicherzustellen, dass die Lokalisierung korrekt funktioniert.
@@ -13,7 +13,7 @@ Diese Seite testet verschiedene Link-Muster, um sicherzustellen, dass die Lokali
 - [Aktion](/action)
 - [Startseite](/)
 
-## Startseiten für verschiedene Sprachen (sollten NICHT lokalisiert werden) {#locale-homepages-should-not-be-localized}
+## Startseiten für Lokalisierungen (sollten NICHT lokalisiert werden) {#locale-homepages-should-not-be-localized}
 
 - [Englische Startseite](/en)
 - [Deutsche Startseite](/de)
@@ -26,14 +26,20 @@ Diese Seite testet verschiedene Link-Muster, um sicherzustellen, dass die Lokali
 - [Niederländischer Vorschlag](/nl/proposal)
 - [Englisch mit nachfolgendem Schrägstrich](/en/)
 
+## Opt-out-Links (sollten NICHT lokalisiert werden) {#opt-out-links-should-not-be-localized}
+
+- [Englisch erzwingen](/en/proposal#no-localize)
+- [Deutsch erzwingen](/de/learn#no-localize)
+- [Regulärer Link mit Opt-out](/action#no-localize)
+
 ## Andere Link-Typen (sollten NICHT lokalisiert werden) {#other-link-types-should-not-be-localized}
 
 - [Externer Link](https://example.com)
-- [Extern: PauseAI](https://pauseai.info/proposal)
+- [Externer Link zu PauseAI](https://pauseai.info/proposal)
 - [Protokollrelativer Link](//example.com)
 - [Relativer Link](./other-page)
-- [Relativer Link zum übergeordneten Verzeichnis](../parent-page)
-- [Anker](#section) <!-- Ziel nicht übersetzen, nur Label -->
+- [Elternrelativer Link](../parent-page)
+- [Anker](#section) <!-- Ziel nicht lokalisieren, nur Label -->
 - [E-Mail-Adresse](mailto:test@example.com)
 
 ## Grenzfälle {#edge-cases}
@@ -41,3 +47,7 @@ Diese Seite testet verschiedene Link-Muster, um sicherzustellen, dass die Lokali
 - [Leerer href]()
 - [Nur Schrägstrich](/)
 - [Doppelter Schrägstrich am Anfang](//not-a-locale)
+
+## Testabschnitt für Anker {#section} {#test-section-for-anchors-section}
+
+Dies ist das Ziel für den Anker-Link oben.
