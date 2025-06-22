@@ -1,9 +1,9 @@
-
-
 ---
 title: Doneer aan PauseAI
 description: Met uw financiële steun kunnen we een grotere impact hebben.
 ---
+ <!-- end of frontmatter metadata, dashes above need to stay -->
+
 <script>
     import Donate from '$lib/components/Donate.svelte'
 </script>
@@ -13,25 +13,25 @@ Sinds februari 2024 is PauseAI een [geregistreerde non-profitorganisatie](/legal
 
 <Donate />
 
-## Hoe wij uw donaties gebruiken {#how-we-use-your-donations}
+## Hoe we uw donaties gebruiken {#how-we-use-your-donations}
 
 - **Gemeenschapsprojecten**: ons [microsubsidieprogramma](/microgrants) ondersteunt diverse kleinschalige projecten.
-- **Vrijwilligersvergoedingen**: [vrijwilligers](/people) kunnen een [vergoeding](/volunteer-stipends) aanvragen, waardoor onze gemeenschap lokaal impact kan hebben en zich duurzaam kan ontwikkelen.
-- **Financiering voor lokale en [nationale](/national-groups) afdelingen**: wij ondersteunen PauseAI-gemeenschappen
-- **Mensen**: wij bouwen een sterkere gemeenschap op, werken aan projecten, organiseren protesten, verbeteren de website, enz.
+- **Vrijwilligersvergoedingen**: vrijwilligers kunnen een [vergoeding](/volunteer-stipends) aanvragen, waardoor onze gemeenschap lokaal impact kan hebben en zich duurzaam kan ontwikkelen.
+- **Financiering voor lokale en [nationale](/national-groups) afdelingen**: we ondersteunen PauseAI-gemeenschappen
+- **Mensen**: we bouwen een sterkere gemeenschap op, werken aan projecten, organiseren protesten, verbeteren de website, enz.
 - **Evenementen**: locatiehuur, catering, reiskosten.
 - **Software**: e-mail, website, enz.
-- **Campagnes**: online reclame, materialen
-- **Juridisch en financieel**: de organisatie oprichten (notariskosten), boekhouding.
+- **Campagnes**: online reclame, materiaal
+- **Juridische en financiële zaken**: de oprichting van de stichting (notariskosten), boekhouding.
 
 ## Wat hebben we al bereikt {#what-have-we-already-achieved}
 
-- Meer dan 1000 mensen hebben zich bij [PauseAI aangesloten](/join), waarvan velen actief werken aan diverse projecten
+- Meer dan 1000 mensen hebben zich bij [PauseAI aangesloten](/join), waarvan velen actief werken aan diverse projecten.
 - Meer dan 100 projecten in onze Discord-server (websites, workshops, video's, reacties op overheidsconsultaties, enz.)
 - We hebben meer dan 15 [protesten](/protests) georganiseerd in 7 landen.
 - Meer dan 100 andere soorten [evenementen](/events) (lobbyworkshops, flyerverdelingen, actiebijeenkomsten, enz.)
 - Meer dan 30 [media-optredens](/press) op grote nieuwszenders, podcasts, documentaires, TV en meer.
-- We hebben veel bijeenkomsten gehad met politici en andere belanghebbenden.
+- Veel bijeenkomsten met politici en andere belanghebbenden.
 
 ## Wie financiert PauseAI {#who-is-funding-pauseai}
 
@@ -43,7 +43,7 @@ Zie onze [roadmap](/roadmap) voor meer details.
 
 ## Hoe u aan PauseAI kunt doneren {#how-to-donate-to-pauseai}
 
-- Via bankoverschrijving. IBAN: NL31BUNQ2109903155 BIC/SWIFT: BUNQNL2AXXX (Stichting PauseAI). Dit is waarschijnlijk de goedkoopste manier om geld naar ons over te maken.
+- Via bankoverschrijving. IBAN: NL31BUNQ2109903155 BIC/SWIFT: BUNQNL2AXXX (Stichting PauseAI). Dit is waarschijnlijk de goedkoopste manier om geld aan ons over te maken.
 - [PayPal](https://www.paypal.com/donate/?hosted_button_id=4TWZXY62EM5VE). Ondersteunt terugkerende donaties. [Transactiekosten](https://www.paypal.com/webapps/mpp/merchant-fees) zijn van toepassing.
 - Via onze [merchandisewinkel](https://pauseai-shop.fourthwall.com/). Alle creditcardtransacties in de VS hebben een extra betalingsverwerkingskosten van 2,9% + $0,30. Creditcards buiten de VS hebben een betalingsverwerkingskosten van 3,9% + $0,30.
 - Via [deze link](https://bunq.me/pauseai) (Selecteer Sofort - de meeste banken en PayPal worden ondersteund)
