@@ -16,9 +16,9 @@ description: Veelgestelde vragen over PauseAI en de risico's van superintelligen
 
 ## Wie zijn wij? {#who-are-you}
 
-Wij zijn een gemeenschap van vrijwilligers en [lokale gemeenschappen](/communities) die worden gecoördineerd door een [non-profitorganisatie](/organization) die zich inzet om de [risico's van AI](/risks) (inclusief het [risico van menselijke uitsterving](/xrisk)) te mitigeren.
+Wij zijn een gemeenschap van vrijwilligers en [lokale gemeenschappen](/communities) die wordt gecoördineerd door een [non-profitorganisatie](/organization) die zich inzet om de [risico's van AI](/risks) (inclusief het [risico van menselijke uitsterving](/xrisk)) te mitigeren.
 Ons doel is om onze regeringen ervan te overtuigen om in te grijpen en [de ontwikkeling van supermenselijke AI te pauzeren](/proposal).
-Dit doen we door het publiek te informeren, met besluitvormers te praten en [evenementen](/events) te organiseren.
+We doen dit door het publiek te informeren, met besluitvormers te praten en [evenementen](/events) te organiseren.
 
 ## Hebben jullie sociale media? {#do-you-have-social-media}
 
@@ -27,7 +27,7 @@ Je kunt ons mailen of contact opnemen via [joep@pauseai.info](mailto:joep@pausea
 
 ## Zijn jullie niet gewoon bang voor veranderingen en nieuwe technologie? {#arent-you-just-scared-of-changes-and-new-technology}
 
-Je zou verbaasd zijn dat de meeste mensen in PauseAI zichzelf beschouwen als techno-optimisten.
+Je zou verbaasd zijn dat de meeste mensen in PauseAI zichzelf als techno-optimisten beschouwen.
 Velen van hen zijn betrokken bij AI-ontwikkeling, zijn gadget-liefhebbers en zijn meestal erg enthousiast over de toekomst.
 Vooral velen van hen zijn enthousiast over het potentieel van AI om de mensheid te helpen.
 Dat is waarom voor velen van hen de trieste realisatie dat AI een existentieel risico vormt, een zeer moeilijke waarheid was om te accepteren.
@@ -42,7 +42,7 @@ We roepen op tot een verbod op krachtigere algemene AI-systemen, totdat we weten
 
 Nee, we denken niet dat [huidige AI-modellen](/sota) een existentieel risico vormen.
 Het lijkt waarschijnlijk dat de meeste volgende AI-modellen dat ook niet zullen zijn.
-Maar als we blijven bouwen aan krachtigere AI-systemen, zullen we uiteindelijk een punt bereiken waarop een ervan een existentieel risico vormt.
+Maar als we blijven bouwen aan steeds krachtigere AI-systemen, zullen we uiteindelijk een punt bereiken waarop een ervan een existentieel risico vormt.
 
 ## Kan een pauze contraproductief zijn en de zaken erger maken? {#can-a-pause-backfire-and-make-things-worse}
 
@@ -75,35 +75,35 @@ Bekijk onze [theorie van verandering](/theory-of-change) voor een gedetailleerd 
 
 - Protesteren laat de wereld zien dat we om deze kwestie geven. Door te protesteren, laten we zien dat we bereid zijn om onze tijd en energie te besteden om mensen te laten luisteren.
 - Protesten kunnen en zullen vaak de publieke opinie, stemgedrag, bedrijfs gedrag en beleid positief beïnvloeden.
-- Verreweg de meeste mensen zijn voorstander van vreedzame/niet-gewelddadige protesten.
+- Verreweg de meeste mensen zijn voorstander van vreedzame en niet-gewelddadige protesten.
 - Er is geen bewijs voor een "backfire"-effect, tenzij het protest gewelddadig is. Onze protesten zijn vreedzaam en niet-gewelddadig.
 - Het is een sociale bindingervaring. Je ontmoet andere mensen die jouw zorgen en bereidheid om actie te ondernemen delen.
-- Bekijk [dit geweldige artikel](https://forum.effectivealtruism.org/posts/4ez3nvEmozwPwARr9/a-case-for-the-effectiveness-of-protest) voor meer inzichten over waarom protesteren werkt.
+- Bekijk [dit artikel](https://forum.effectivealtruism.org/posts/4ez3nvEmozwPwARr9/a-case-for-the-effectiveness-of-protest) voor meer inzichten over waarom protesteren werkt.
 
 Als je een [protest wilt organiseren](/organizing-a-protest), kunnen we je helpen met advies en middelen.
 
 ## Hoe groot is de kans dat superintelligente AI zeer slechte uitkomsten zal veroorzaken, zoals menselijke uitsterving? {#how-likely-is-it-that-superintelligent-ai-will-cause-very-bad-outcomes-like-human-extinction}
 
-We hebben een [lijst van 'p(doom)'-waarden](/pdoom) (kans op slechte uitkomsten) samengesteld van verschillende bekende experts op het gebied.
+We hebben [een lijst van 'p(doom)'-waarden](/pdoom) (kans op slechte uitkomsten) samengesteld van verschillende bekende experts op het gebied.
 
 AI-veiligheidsonderzoekers (die de experts zijn op dit gebied) zijn verdeeld over deze vraag, en schattingen lopen uiteen van 2% tot 97% met een gemiddelde van 30%.
 Houd er rekening mee dat geen enkele (geënquêteerde) AI-veiligheidsonderzoeker gelooft dat er een kans van 0% is.
-Er kan echter selectiebias zijn: mensen die werken in het veld van AI-veiligheid doen dit waarschijnlijk omdat ze geloven dat het voorkomen van slechte AI-uitkomsten belangrijk is.
+Er kan echter selectiebias zijn: mensen die in het veld van AI-veiligheid werken, doen dit waarschijnlijk omdat ze geloven dat het voorkomen van slechte AI-uitkomsten belangrijk is.
 
 Als je AI-onderzoekers in het algemeen vraagt (geen veiligheidsspecialisten), daalt dit aantal tot een gemiddelde waarde van ongeveer 14%, met een mediaan van 5%.
 De overgrote meerderheid, 86% van hen, gelooft dat het afstemmingsprobleem zowel een reëel als een belangrijk probleem is.
-Houd er rekening mee dat er mogelijk een selectiebias is in de tegenovergestelde richting: mensen die werken in AI doen dit waarschijnlijk omdat ze geloven dat AI gunstig zal zijn.
+Houd er rekening mee dat er mogelijk selectiebias is in de tegenovergestelde richting: mensen die in AI werken, doen dit waarschijnlijk omdat ze geloven dat AI gunstig zal zijn.
 
 _Stel je voor dat je wordt uitgenodigd om een testvlucht te maken op een nieuw vliegtuig_.
-De vliegtuigingenieurs denken dat er een kans van 14% is dat het vliegtuig crasht.
+De vliegtuigingenieurs denken dat er een kans van 14% is op een crash.
 Zou je in dat vliegtuig stappen? Omdat we nu allemaal aan boord gaan van het AI-vliegtuig.
 
 ## Hoe lang hebben we nog tot superintelligente AI? {#how-long-do-we-have-until-superintelligent-ai}
 
 Het kan maanden duren, het kan decennia duren, niemand weet het zeker.
 We weten echter wel dat de voortgang van AI vaak ernstig wordt onderschat.
-Nog maar drie jaar geleden dachten we dat we in 2055 AI-systemen zouden hebben die de SAT-test konden halen.
-We haalden dat in april 2023.
+Nog maar drie jaar geleden dachten we dat we in 2055 AI-systemen zouden hebben die de SAT-test konden doorstaan.
+We bereikten dat in april 2023.
 We moeten handelen alsof we nog maar heel weinig tijd hebben, omdat we niet willen worden verrast.
 
 [Lees meer over urgentie](/urgency).
@@ -131,52 +131,52 @@ De AI-bedrijven zitten vast in een race naar de bodem, waarbij AI-veiligheid wor
 Dit is gewoon het resultaat van marktdynamiek.
 We hebben regeringen nodig om in te grijpen en beleid te implementeren (op internationaal niveau) dat de slechtste uitkomsten voorkomt.
 
-## Drijven AI-bedrijven het existentiële risiconarratief om ons te manipuleren? {#are-ai-companies-pushing-the-existential-risk-narrative-to-manipulate-us}
+## Drijven AI-bedrijven het narratief van existentieel risico om ons te manipuleren? {#are-ai-companies-pushing-the-existential-risk-narrative-to-manipulate-us}
 
-We kunnen niet met zekerheid weten wat de motieven van deze bedrijven zijn, maar we weten wel dat x-risico niet aanvankelijk door AI-bedrijven werd gepusht - het waren wetenschappers, activisten en NGO's.
+We kunnen niet met zekerheid weten wat de motivaties van deze bedrijven zijn, maar we weten wel dat existentieel risico niet aanvankelijk door AI-bedrijven werd gepusht - het waren wetenschappers, activisten en NGO's.
 Laten we naar de tijdlijn kijken.
 
-Er zijn veel mensen geweest die sinds de vroege jaren 2000 hebben gewaarschuwd voor x-risico.
-Eliezer Yudkowsky, Nick Bostrom, Stuart Russell, Max Tegmark en vele anderen.
+Er zijn veel mensen geweest die sinds de vroege jaren 2000 hebben gewaarschuwd voor existentieel risico.
+Eliezer Yudkowsky, Nick Bostrom, Stuart Russell, Max Tegmark, en vele anderen.
 Ze hadden geen AI-technologie om te pushen - ze waren gewoon bezorgd over de toekomst van de mensheid.
 
-De AI-bedrijven noemden x-risico nooit tot voor kort.
+De AI-bedrijven noemden existentieel risico nooit tot voor kort.
 
 Sam Altman is een interessante uitzondering.
 Hij schreef over existentieel AI-risico in 2015, op zijn privéblog, voordat hij OpenAI oprichtte.
-In de jaren daarna maakte hij vrijwel geen expliciete melding van x-risico.
-Tijdens de Senaatsvergadering op 16 mei 2023, toen hem werd gevraagd naar zijn x-risicoblogpost, antwoordde hij alleen door te praten over banen en de economie.
-Hij pushte het x-risiconarratief hier niet, hij vermeed het actief.
+In de jaren daarna maakte hij vrijwel geen expliciete melding meer van existentieel risico.
+Tijdens de Senaatsvergadering op 16 mei 2023, toen hem werd gevraagd naar zijn blogpost over existentieel risico, antwoordde hij alleen door te praten over banen en de economie.
+Hij pushte het narratief van existentieel risico hier niet, hij vermeed het actief.
 
 In mei 2023 veranderde alles:
 
-- Op 1 mei stapt 'Godfather of AI' Geoffrey Hinton uit zijn baan bij Google om te waarschuwen voor x-risico.
-- Op 5 mei wordt de eerste PauseAI-protest aangekondigd, recht voor de deur van OpenAI.
-- Op 22 mei publiceerde OpenAI een blogpost over de governance van superintelligentie, en noemde x-risico voor het eerst.
-- Op 24 mei erkent ex-Google CEO Eric Schmidt x-risico.
-- Op 30 mei werd de Safe.ai-verklaring (erkenning van x-risico) gepubliceerd. Deze keer met mensen van OpenAI, Google en Microsoft.
+- Op 1 mei stapt 'Godfather of AI' Geoffrey Hinton uit zijn baan bij Google om te waarschuwen voor existentieel risico.
+- Op 5 mei wordt het eerste PauseAI-protest aangekondigd, recht voor de deur van OpenAI.
+- Op 22 mei publiceerde OpenAI een blogpost over de governance van superintelligentie, en noemde existentieel risico voor het eerst.
+- Op 24 mei erkent ex-Google CEO Eric Schmidt existentieel risico.
+- Op 30 mei werd de Safe.ai-verklaring (erkenning van existentieel risico) gepubliceerd. Deze keer met mensen van OpenAI, Google en Microsoft.
 
-Deze bedrijven zijn erg traag geweest in het erkennen van x-risico, gezien het feit dat veel van hun werknemers er al jaren van op de hoogte zijn.
-Dus in onze ogen pushen de AI-bedrijven het x-risiconarratief niet, ze reageren op anderen die het pushen, en hebben gewacht met hun reactie totdat het absoluut noodzakelijk was.
+Deze bedrijven zijn erg traag geweest in het erkennen van existentieel risico, gezien het feit dat veel van hun werknemers er al jaren van op de hoogte zijn.
+Dus in onze ogen pushen de AI-bedrijven het narratief van existentieel risico niet, ze reageren op anderen die het pushen, en hebben gewacht met hun reactie totdat het absoluut noodzakelijk was.
 
 De zakelijke prikkels wijzen in de andere richting: bedrijven zouden liever niet hebben dat mensen zich zorgen maken over de risico's van hun producten.
 Vrijwel alle bedrijven bagatelliseren risico's om klanten en investeringen aan te trekken, in plaats van ze te overdrijven.
 Hoeveel strikte regulering en negatieve aandacht nodigen de bedrijven uit door deze gevaren toe te geven?
 En zou een bedrijf als OpenAI 20% van zijn rekenkracht aan AI-veiligheid wijden als het niet in de risico's geloofde?
 
-Hier is onze interpretatie: de AI-bedrijven ondertekenden de verklaring omdat _ze weten dat x-risico een probleem is dat zeer serieus moet worden genomen_.
+Hier is onze interpretatie: de AI-bedrijven ondertekenden de verklaring omdat _ze weten dat existentieel risico een probleem is dat zeer serieus moet worden genomen_.
 
-Een grote reden waarom veel andere mensen nog steeds niet willen geloven dat x-risico een reële zorg is?
+Een grote reden waarom veel andere mensen nog steeds niet willen geloven dat existentieel risico een reële zorg is?
 Omdat het erkennen dat _we in feite in gevaar zijn_ een heel, heel angstaanjagende zaak is.
 
-[Lees meer over de psychologie van x-risico](/psychology-of-x-risk).
+[Lees meer over de psychologie van existentieel risico](/psychology-of-x-risk).
 
 ## Oké, ik wil helpen! Wat kan ik doen? {#ok-i-want-to-help-what-can-i-do}
 
 Er zijn veel dingen die je kunt doen.
-In je eentje kun je een brief schrijven, flyers posten, leren en anderen informeren, deelnemen aan een protest, of doneren van wat geld!
-Maar nog belangrijker: je kunt bij PauseAI aansluiten en je coördineren met anderen die actie ondernemen.
+Op je eigen, kun je een brief schrijven, flyers posten, leren en anderen informeren, deelnemen aan een protest, of doneren van wat geld!
+Maar nog belangrijker: je kunt bij PauseAI aansluiten en coördineren met anderen die actie ondernemen.
 Kijk of er lokale gemeenschappen in jouw omgeving zijn.
 Als je meer wilt bijdragen, kun je vrijwilliger worden en lid worden van een van onze teams, of een lokale gemeenschap oprichten!
 
-Zelfs als we worden geconfronteerd met het einde van de wereld, kan er nog steeds hoop en zeer lonend werk zijn.
+Zelfs als we voor het einde van de wereld staan, kan er nog steeds hoop en zeer lonend werk zijn.
