@@ -18,7 +18,7 @@ description: Veelgestelde vragen over PauseAI en de risico's van superintelligen
 
 Wij zijn een gemeenschap van vrijwilligers en [lokale gemeenschappen](/communities) die wordt gecoördineerd door een [non-profitorganisatie](/organization) die zich inzet om de [risico's van AI](/risks) (inclusief het [risico van menselijke uitsterving](/xrisk)) te mitigeren.
 Ons doel is om onze regeringen ervan te overtuigen om in te grijpen en [de ontwikkeling van supermenselijke AI te pauzeren](/proposal).
-Dit doen we door het publiek te informeren, met besluitvormers te praten en [evenementen](/events) te organiseren.
+We doen dit door het publiek te informeren, met besluitvormers te praten en [evenementen](/events) te organiseren.
 
 ## Hebben jullie sociale media? {#do-you-have-social-media}
 
@@ -27,8 +27,8 @@ Je kunt ons mailen of contact opnemen via [joep@pauseai.info](mailto:joep@pausea
 
 ## Zijn jullie niet gewoon bang voor veranderingen en nieuwe technologie? {#arent-you-just-scared-of-changes-and-new-technology}
 
-Je zou verbaasd zijn dat de meeste mensen bij PauseAI zichzelf beschouwen als techno-optimisten.
-Velen van hen zijn betrokken bij AI-ontwikkeling, zijn gadget-liefhebbers en zijn meestal erg enthousiast over de toekomst.
+Je zou verbaasd zijn dat de meeste mensen in PauseAI zichzelf beschouwen als techno-optimisten.
+Velen van hen zijn betrokken bij AI-ontwikkeling, zijn gadget-liefhebbers en zijn voornamelijk erg enthousiast over de toekomst.
 Vooral velen van hen zijn enthousiast over het potentieel van AI om de mensheid te helpen.
 Dat is waarom voor velen van hen de trieste realisatie dat AI een existentieel risico vormt, een zeer moeilijke waarheid was om te accepteren.
 
@@ -50,8 +50,8 @@ We hebben deze zorgen behandeld in [dit artikel](/mitigating-pause-failures).
 
 ## Is een pauze zelfs mogelijk? {#is-a-pause-even-possible}
 
-AGI is niet onvermijdelijk.
-Het vereist hordes ingenieurs met miljoenen-dollar salarissen.
+Superintelligente AI is niet onvermijdelijk.
+Het vereist hordes ingenieurs met miljoenen dollars aan salaris.
 Het vereist een volledig functionele en onbeperkte toeleveringsketen van de meest complexe hardware.
 Het vereist dat we allemaal toestaan dat deze bedrijven met onze toekomst gokken.
 
@@ -78,7 +78,7 @@ Bekijk onze [theorie van verandering](/theory-of-change) voor een gedetailleerd 
 - Verreweg de meeste mensen zijn voorstander van vreedzame en niet-gewelddadige protesten.
 - Er is geen bewijs voor een "backfire"-effect, tenzij het protest gewelddadig is. Onze protesten zijn vreedzaam en niet-gewelddadig.
 - Het is een sociale bindingsexperience. Je ontmoet andere mensen die jouw zorgen en bereidheid om actie te ondernemen delen.
-- Bekijk [dit artikel](https://forum.effectivealtruism.org/posts/4ez3nvEmozwPwARr9/a-case-for-the-effectiveness-of-protest) voor meer inzichten over waarom protesteren werkt.
+- Bekijk [dit geweldige artikel](https://forum.effectivealtruism.org/posts/4ez3nvEmozwPwARr9/a-case-for-the-effectiveness-of-protest) voor meer inzichten over waarom protesteren werkt.
 
 Als je een [protest wilt organiseren](/organizing-a-protest), kunnen we je helpen met advies en middelen.
 
@@ -87,21 +87,21 @@ Als je een [protest wilt organiseren](/organizing-a-protest), kunnen we je helpe
 We hebben een [lijst van 'p(doom)'-waarden](/pdoom) (kans op slechte uitkomsten) samengesteld van verschillende bekende experts op het gebied.
 
 AI-veiligheidsonderzoekers (die de experts zijn op dit gebied) zijn verdeeld over deze vraag, en schattingen lopen uiteen van 2% tot 97% met een gemiddelde van 30%.
-Houd er rekening mee dat geen enkele (geënquêteerde) AI-veiligheidsonderzoeker gelooft dat er een kans van 0% is.
-Er kan echter selectiebias zijn: mensen die in het veld van AI-veiligheid werken, doen dit waarschijnlijk omdat ze geloven dat het voorkomen van slechte AI-uitkomsten belangrijk is.
+Houd er rekening mee dat geen enkele (gepeilde) AI-veiligheidsonderzoeker gelooft dat er een kans van 0% is.
+Er kan echter selectiebias zijn: mensen die werken in het veld van AI-veiligheid doen dit waarschijnlijk omdat ze geloven dat het voorkomen van slechte AI-uitkomsten belangrijk is.
 
-Als je AI-onderzoekers in het algemeen vraagt (geen veiligheidsspecialisten), daalt dit aantal tot een gemiddelde waarde van ongeveer 14%, met een mediaan van 5%.
+Als je AI-onderzoekers in het algemeen vraagt (geen veiligheidsspecialisten), daalt dit aantal tot een gemiddelde waarde van rond de 14%, met een mediaan van 5%.
 De overgrote meerderheid, 86% van hen, gelooft dat het afstemmingsprobleem zowel een reëel als een belangrijk probleem is.
-Houd er rekening mee dat er mogelijk een selectiebias is in de tegenovergestelde richting: mensen die in AI werken, doen dit waarschijnlijk omdat ze geloven dat AI gunstig zal zijn.
+Houd er rekening mee dat er mogelijk selectiebias is in de tegenovergestelde richting: mensen die werken in AI doen dit waarschijnlijk omdat ze geloven dat AI gunstig zal zijn.
 
-_Stel je voor dat je wordt uitgenodigd om een testvlucht te maken op een nieuw vliegtuig_.
-De vliegtuigingenieurs denken dat er een kans van 14% is dat het vliegtuig crasht.
+_Stel je voor dat je wordt uitgenodigd voor een testvlucht in een nieuw vliegtuig_.
+De vliegtuigingenieurs denken dat er een kans van 14% is op een crash.
 Zou je in dat vliegtuig stappen? Omdat we nu allemaal aan boord gaan van het AI-vliegtuig.
 
 ## Hoe lang hebben we nog tot superintelligente AI? {#how-long-do-we-have-until-superintelligent-ai}
 
 Het kan maanden duren, het kan decennia duren, niemand weet het zeker.
-We weten echter wel dat de voortgang van AI vaak ernstig wordt onderschat.
+We weten echter wel dat de voortgang van AI vaak grof wordt onderschat.
 Nog maar drie jaar geleden dachten we dat we in 2055 AI-systemen zouden hebben die de SAT-test konden halen.
 We haalden dat in april 2023.
 We moeten handelen alsof we nog maar heel weinig tijd hebben, omdat we niet willen worden verrast.
@@ -121,7 +121,7 @@ Als het verdrag garandeert dat andere landen ook zullen stoppen, en er voldoende
 
 ## OpenAI en Google zeggen dat ze willen worden gereguleerd. Waarom protesteren jullie tegen hen? {#openai-and-google-are-saying-they-want-to-be-regulated-why-are-you-protesting-them}
 
-We applaudisseren OpenAI en Google voor hun oproepen tot internationale regulering van AI.
+We applaudisseren OpenAI en Google voor hun oproep tot internationale regulering van AI.
 We geloven echter dat de huidige voorstellen niet voldoende zijn om een AI-catastrofe te voorkomen.
 Google en Microsoft hebben nog niet publiekelijk iets gezegd over het existentiële risico van AI.
 Alleen OpenAI noemt expliciet het risico van uitsterving, en opnieuw applaudisseren we hen voor het serieus nemen van dit risico.
@@ -146,7 +146,7 @@ Sam Altman is een interessante uitzondering.
 Hij schreef over existentieel AI-risico in 2015, op zijn privéblog, voordat hij OpenAI oprichtte.
 In de jaren daarna maakte hij vrijwel geen expliciete melding van existentieel risico.
 Tijdens de Senaatsvergadering op 16 mei 2023, toen hem werd gevraagd naar zijn blogpost over existentieel risico, antwoordde hij alleen door te praten over banen en de economie.
-Hij pushte het narratief van existentieel risico niet, hij vermeed het actief.
+Hij pushte het narratief van existentieel risico hier niet, hij vermeed het actief.
 
 In mei 2023 veranderde alles:
 
@@ -167,7 +167,7 @@ En zou een bedrijf als OpenAI 20% van zijn rekenkracht aan AI-veiligheid wijden 
 Hier is onze interpretatie: de AI-bedrijven ondertekenden de verklaring omdat _ze weten dat existentieel risico een probleem is dat zeer serieus moet worden genomen_.
 
 Een grote reden waarom veel andere mensen nog steeds niet willen geloven dat existentieel risico een reële zorg is?
-Omdat het erkennen dat _we in feite in gevaar zijn_ een heel, heel angstaanjagende zaak is.
+Omdat het erkennen dat _we in feite in gevaar zijn_ een zeer, zeer angstaanjagende zaak is.
 
 [Lees meer over de psychologie van existentieel risico](/psychology-of-x-risk).
 
@@ -175,8 +175,8 @@ Omdat het erkennen dat _we in feite in gevaar zijn_ een heel, heel angstaanjagen
 
 Er zijn veel dingen die je kunt doen.
 Op je eigen, kun je een brief schrijven, flyers posten, leren en anderen informeren, deelnemen aan een protest, of doneren van geld!
-Maar nog belangrijker: je kunt bij PauseAI aansluiten en coördineren met anderen die actie ondernemen.
-Kijk of er lokale gemeenschappen in jouw omgeving zijn.
+Maar nog belangrijker: je kunt PauseAI joinen en coördineren met anderen die actie ondernemen.
+Bekijk of er lokale gemeenschappen in jouw omgeving zijn.
 Als je meer wilt bijdragen, kun je vrijwilliger worden en lid worden van een van onze teams, of een lokale gemeenschap oprichten!
 
-Zelfs als we worden geconfronteerd met het einde van de wereld, kan er nog steeds hoop en zeer lonend werk zijn.
+Zelfs als we voor het einde van de wereld staan, kan er nog steeds hoop en zeer lonend werk zijn.
