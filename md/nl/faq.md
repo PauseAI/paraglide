@@ -18,7 +18,7 @@ description: Veelgestelde vragen over PauseAI en de risico's van superintelligen
 
 Wij zijn een gemeenschap van vrijwilligers en [lokale gemeenschappen](/communities) die worden gecoördineerd door een [non-profitorganisatie](/organization) die zich inzet om de [risico's van AI](/risks) (inclusief het [risico van menselijke uitsterving](/xrisk)) te mitigeren.
 Ons doel is om onze regeringen ervan te overtuigen om in te grijpen en [de ontwikkeling van supermenselijke AI te pauzeren](/proposal).
-We doen dit door het publiek te informeren, met besluitvormers te praten en [evenementen](/events) te organiseren.
+Dit doen we door het publiek te informeren, met besluitvormers te praten en [evenementen](/events) te organiseren.
 
 ## Hebben jullie sociale media? {#do-you-have-social-media}
 
@@ -30,7 +30,7 @@ Je kunt ons mailen of contact opnemen via [joep@pauseai.info](mailto:joep@pausea
 Je zou verbaasd zijn dat de meeste mensen in PauseAI zichzelf beschouwen als techno-optimisten.
 Velen van hen zijn betrokken bij AI-ontwikkeling, zijn gadget-liefhebbers en zijn meestal erg enthousiast over de toekomst.
 Vooral velen van hen zijn enthousiast over het potentieel van AI om de mensheid te helpen.
-Dat is waarom voor velen van hen de trieste realisatie dat AI een existentieel risico vormt, een zeer moeilijke waarheid is om te accepteren.
+Dat is waarom voor velen van hen de trieste realisatie dat AI een existentieel risico vormt, een zeer moeilijke waarheid was om te accepteren.
 
 ## Willen jullie alle AI verbieden? {#do-you-want-to-ban-all-ai}
 
@@ -42,7 +42,7 @@ We roepen op tot een verbod op krachtigere algemene AI-systemen, totdat we weten
 
 Nee, we denken niet dat [huidige AI-modellen](/sota) een existentieel risico vormen.
 Het lijkt waarschijnlijk dat de meeste volgende AI-modellen dat ook niet zullen zijn.
-Maar als we blijven bouwen aan steeds krachtigere AI-systemen, zullen we uiteindelijk een punt bereiken waarop een ervan een existentieel risico vormt.
+Maar als we blijven bouwen aan krachtigere AI-systemen, zullen we uiteindelijk een punt bereiken waarop een ervan een existentieel risico vormt.
 
 ## Kan een pauze contraproductief zijn en de zaken erger maken? {#can-a-pause-backfire-and-make-things-worse}
 
@@ -53,7 +53,7 @@ We hebben deze zorgen behandeld in [dit artikel](/mitigating-pause-failures).
 AGI is niet onvermijdelijk.
 Het vereist hordes ingenieurs met miljoenen-dollar salarissen.
 Het vereist een volledig functionele en onbeperkte toeleveringsketen van de meest complexe hardware.
-Het vereist dat we allemaal toestaan dat deze bedrijven met onze toekomst gokken.
+Het vereist dat we allemaal toestaan dat deze bedrijven onze toekomst op het spel zetten.
 
 [Lees meer over de haalbaarheid van een pauze](/feasibility).
 
@@ -84,18 +84,18 @@ Als je een [protest wilt organiseren](/organizing-a-protest), kunnen we je helpe
 
 ## Hoe groot is de kans dat superintelligente AI zeer slechte uitkomsten zal veroorzaken, zoals menselijke uitsterving? {#how-likely-is-it-that-superintelligent-ai-will-cause-very-bad-outcomes-like-human-extinction}
 
-We hebben een [lijst van 'p(doom)'-waarden](/pdoom) (kans op slechte uitkomsten) samengesteld van verschillende bekende experts in het veld.
+We hebben een [lijst van 'p(doom)'-waarden](/pdoom) (kans op slechte uitkomsten) samengesteld van verschillende bekende experts op het gebied.
 
 AI-veiligheidsonderzoekers (die de experts zijn op dit gebied) zijn verdeeld over deze vraag, en schattingen lopen uiteen van 2% tot 97% met een gemiddelde van 30%.
-Houd er rekening mee dat geen enkele (gepeilde) AI-veiligheidsonderzoeker gelooft dat er een kans van 0% is.
-Er kan echter selectiebias zijn: mensen die in het AI-veiligheidsveld werken, doen dit waarschijnlijk omdat ze geloven dat het voorkomen van slechte AI-uitkomsten belangrijk is.
+Houd er rekening mee dat geen enkele (geënquêteerde) AI-veiligheidsonderzoeker gelooft dat er een kans van 0% is.
+Er kan echter selectiebias zijn: mensen die werken in het veld van AI-veiligheid doen dit waarschijnlijk omdat ze geloven dat het voorkomen van slechte AI-uitkomsten belangrijk is.
 
-Als je AI-onderzoekers in het algemeen vraagt (geen veiligheidsspecialisten), daalt dit aantal tot een gemiddelde waarde van rond de 14%, met een mediaan van 5%.
+Als je AI-onderzoekers in het algemeen vraagt (geen veiligheidsspecialisten), daalt dit aantal tot een gemiddelde waarde van ongeveer 14%, met een mediaan van 5%.
 De overgrote meerderheid, 86% van hen, gelooft dat het afstemmingsprobleem zowel een reëel als een belangrijk probleem is.
-Houd er rekening mee dat er mogelijk selectiebias is in de tegenovergestelde richting: mensen die in AI werken, doen dit waarschijnlijk omdat ze geloven dat AI gunstig zal zijn.
+Houd er rekening mee dat er mogelijk een selectiebias is in de tegenovergestelde richting: mensen die werken in AI doen dit waarschijnlijk omdat ze geloven dat AI gunstig zal zijn.
 
-_Stel je voor dat je wordt uitgenodigd voor een testvlucht op een nieuw vliegtuig_.
-De vliegtuigingenieurs denken dat er een kans van 14% is op een crash.
+_Stel je voor dat je wordt uitgenodigd om een testvlucht te maken op een nieuw vliegtuig_.
+De vliegtuigingenieurs denken dat er een kans van 14% is dat het vliegtuig crasht.
 Zou je in dat vliegtuig stappen? Omdat we nu allemaal aan boord gaan van het AI-vliegtuig.
 
 ## Hoe lang hebben we nog tot superintelligente AI? {#how-long-do-we-have-until-superintelligent-ai}
@@ -116,8 +116,8 @@ China heeft een meer controlerende regering en heeft dus nog meer reden om de on
 Tijdens de VN-veiligheidsraadvergadering over AI-veiligheid was China het enige land dat de mogelijkheid noemde om een pauze in te voeren.
 
 Houd er ook rekening mee dat we voornamelijk vragen om een _internationale_ pauze, afgedwongen door een verdrag.
-Zo'n verdrag moet ook door China worden ondertekend.
-Als het verdrag garandeert dat andere landen ook zullen stoppen, en er voldoende handhavingsmechanismen zijn, zou dit iets moeten zijn dat China ook wil zien.
+Een dergelijk verdrag moet ook door China worden ondertekend.
+Als het verdrag garandeert dat andere landen ook zullen stoppen, en er voldoende handhavingsmechanismen zijn, zou dit iets moeten zijn wat China ook wil zien.
 
 ## OpenAI en Google zeggen dat ze gereguleerd willen worden. Waarom protesteren jullie tegen hen? {#openai-and-google-are-saying-they-want-to-be-regulated-why-are-you-protesting-them}
 
@@ -174,9 +174,9 @@ Omdat het erkennen dat _we in feite in gevaar zijn_ een heel, heel angstaanjagen
 ## Oké, ik wil helpen! Wat kan ik doen? {#ok-i-want-to-help-what-can-i-do}
 
 Er zijn veel dingen die je kunt doen.
-Op je eigen, kun je een brief schrijven, flyers posten, leren en anderen informeren, deelnemen aan een protest, of doneren van geld!
-Maar nog belangrijker: je kunt PauseAI joinen en coördineren met anderen die actie ondernemen.
-Bekijk of er lokale gemeenschappen in jouw omgeving zijn.
+In je eentje kun je een brief schrijven, flyers posten, leren en anderen informeren, deelnemen aan een protest, of doneren van wat geld!
+Maar nog belangrijker: je kunt bij PauseAI aansluiten en je coördineren met anderen die actie ondernemen.
+Kijk of er lokale gemeenschappen in jouw omgeving zijn.
 Als je meer wilt bijdragen, kun je vrijwilliger worden en lid worden van een van onze teams, of een lokale gemeenschap oprichten!
 
 Zelfs als we worden geconfronteerd met het einde van de wereld, kan er nog steeds hoop en zeer lonend werk zijn.
