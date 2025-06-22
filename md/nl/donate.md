@@ -1,9 +1,9 @@
-
-
 ---
 title: Doneer aan PauseAI
 description: Met uw financiële steun kunnen we een grotere impact hebben.
 ---
+ <!-- end of frontmatter metadata, dashes above need to stay -->
+
 <script>
     import Donate from '$lib/components/Donate.svelte'
 </script>
@@ -16,13 +16,13 @@ Sinds februari 2024 is PauseAI een [geregistreerde non-profitorganisatie](/legal
 ## Hoe wij uw donaties gebruiken {#how-we-use-your-donations}
 
 - **Gemeenschapsprojecten**: ons [microsubsidieprogramma](/microgrants) ondersteunt diverse kleinschalige projecten.
-- **Vrijwilligersvergoedingen**: [vrijwilligers](/people) kunnen een [vergoeding](/volunteer-stipends) aanvragen, waardoor onze gemeenschap lokaal impact kan hebben en zich duurzaam kan ontwikkelen.
+- **Vrijwilligersvergoedingen**: vrijwilligers kunnen een [vergoeding](/volunteer-stipends) aanvragen, waardoor onze gemeenschap lokaal impact kan hebben en zich duurzaam kan ontwikkelen.
 - **Financiering voor lokale en [nationale](/national-groups) afdelingen**: wij ondersteunen PauseAI-gemeenschappen
 - **Mensen**: wij bouwen een sterkere gemeenschap op, werken aan projecten, organiseren protesten, verbeteren de website, enz.
 - **Evenementen**: locatiehuur, catering, reiskosten.
 - **Software**: e-mail, website, enz.
 - **Campagnes**: online reclame, materialen
-- **Juridisch en financieel**: de organisatie oprichten (notariskosten), boekhouding.
+- **Juridische en financiële zaken**: de organisatie oprichten (notariskosten), boekhouding.
 
 ## Wat hebben we al bereikt {#what-have-we-already-achieved}
 
