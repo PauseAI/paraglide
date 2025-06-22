@@ -13,7 +13,7 @@ Diese Seite testet verschiedene Link-Muster, um sicherzustellen, dass die Lokali
 - [Aktion](/action)
 - [Startseite](/)
 
-## Startseiten für Lokalisierungen (sollten NICHT lokalisiert werden) {#locale-homepages-should-not-be-localized}
+## Startseiten für verschiedene Sprachen (sollten NICHT lokalisiert werden) {#locale-homepages-should-not-be-localized}
 
 - [Englische Startseite](/en)
 - [Deutsche Startseite](/de)
@@ -47,7 +47,3 @@ Diese Seite testet verschiedene Link-Muster, um sicherzustellen, dass die Lokali
 - [Leerer href]()
 - [Nur Schrägstrich](/)
 - [Doppelter Schrägstrich am Anfang](//not-a-locale)
-
-## Testabschnitt für Anker {#section} {#test-section-for-anchors-section}
-
-Dies ist das Ziel für den Anker-Link oben.
