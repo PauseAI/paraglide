@@ -7,7 +7,7 @@ Joep Meindertsma ([joep@pauseai.info](mailto:joep@pauseai.info))
 
 ## Logo, Materialien {#logo-materials}
 
-Unser Logo und andere Materialien finden Sie in [diesem Google Drive-Ordner](https://drive.google.com/drive/folders/1bQ_MZ8giK-Mee4ABkO0BgcFInaXruNpa?usp=sharing).
+Unser Logo und weitere Materialien finden Sie in [diesem Google Drive-Ordner](https://drive.google.com/drive/folders/1bQ_MZ8giK-Mee4ABkO0BgcFInaXruNpa?usp=sharing).
 Wenn Sie selbst PauseAI-Bezogenes Material erstellen möchten, können Sie unsere Markenfarbe _\#FF9416_ und die Schriftarten _Saira Condensed_ (700), _Montserrat Black_ und _Roboto Slab_ (300, 700) verwenden.
 
 ## Internationale Medienberichte {#international-media-coverage}
@@ -55,9 +55,9 @@ Außerhalb von YouTube:
 - [Camden New Journal](https://www.camdennewjournal.co.uk/article/:protesters-tell-tech-quarter-companies-to-press-pause-on-artificial-intelligence-research): DeepMind-Protest
 - [Islington Tribune](https://www.islingtontribune.co.uk/article/what-happens-in-bletchley-stays-in): Bletchley Park-Protest
 - [Peeps](https://www.youtube.com/watch?v=a3HRYOIhfFI): Bletchley Park-Protest-Video-Interview
-- [Westminster Extra](https://www.westminsterextra.co.uk/article/warning-governments-are-racing-ahead-with-ai): Februar 2025-Protest
+- [Westminster Extra](https://www.westminsterextra.co.uk/article/warning-governments-are-racing-ahead-with-ai): Protest im Februar 2025
 
-### Niederlande {#nl}
+### Niederlande/Belgien {#nl--be}
 
 - [AD](https://www.ad.nl/tech/ai-rel-in-nieuw-zeeland-kook-app-prijst-dodelijk-chloorgas-aan-als-verfrissend-gerecht~a1aa3705/)
 - NRC, [2023](https://www.nrc.nl/nieuws/2023/06/24/sterft-de-mensheid-uit-door-ai-dat-is-sciencefiction-a4168053), [2024](https://www.nrc.nl/nieuws/2024/02/16/ai-doomers-zijn-doodsbang-voor-de-computer-ai-zal-proberen-de-macht-over-te-nemen-a4190130): Interview mit drei PauseAI-Mitgliedern
@@ -68,6 +68,7 @@ Außerhalb von YouTube:
 - [Leidsch Dagblad](https://www.leidschdagblad.nl/cnt/dmf20231228_53324374): Interview mit Joep Meindertsma
 - [Daniel's Talkshow](https://www.youtube.com/watch?v=mGzwtSqmDsU): Diskussion mit Joep Meindertsma und Otto Barten
 - [De Dataloog](https://open.spotify.com/episode/2kB59A0bIltpSUdwaf0YM3): Interview mit Joep Meindertsma
+- [Doorbraak](https://doorbraak.be/pauseai-superslimme-ai-kan-leiden-tot-de-uitsterving-van-de-mensheid/) (2025): Interview mit Joep Meindertsma
 
 ### Deutschland {#de}
 
