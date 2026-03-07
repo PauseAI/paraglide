@@ -1,15 +1,22 @@
 {
 	"version": 1,
-	"created": "2026-03-07T15:42:14.781Z",
+	"created": "2026-03-07T17:20:49.730Z",
 	"branch": "l10n-pl",
 	"model": "meta-llama/llama-3.1-405b-instruct",
 	"items": [
 		{
-			"source": "src/posts/2023-july-london-13th.md",
+			"source": "messages/en.json",
 			"locale": "pl",
 			"reason": "new",
-			"estimatedCost": 0.0189924,
-			"contentWords": 575
+			"estimatedCost": 0.0256272,
+			"contentWords": 840
+		},
+		{
+			"source": "src/posts/2023-august-nl.md",
+			"locale": "pl",
+			"reason": "new",
+			"estimatedCost": 0.0390792,
+			"contentWords": 1376
 		}
 	]
 }

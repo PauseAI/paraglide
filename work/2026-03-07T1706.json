@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"created": "2026-03-07T17:06:22.477Z",
+	"branch": "l10n-pl",
+	"model": "meta-llama/llama-3.1-405b-instruct",
+	"items": [
+		{
+			"source": "src/posts/2023-july-london-13th.md",
+			"locale": "pl",
+			"reason": "new",
+			"estimatedCost": 0.0189924,
+			"contentWords": 575
+		}
+	]
+}
