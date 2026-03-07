@@ -1,0 +1,38 @@
+---
+title: Sondaże i ankiety
+description: Jak bardzo zwykli ludzie i eksperci martwią się o ryzyka i zarządzanie sztuczną inteligencją?
+---
+
+## Opinia ekspertów na temat katastroficznych ryzyk {#expert-opinion-on-catastrophic-risks}
+
+- **[Badacze AI, AIImpacts 2022](https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/)**: przypisują "bardzo złym wynikom (takim jak wyginięcie ludzkości)" 14% prawdopodobieństwa, przy medianie 5%. 82% uważa, że problem kontroli jest ważny.
+- **[Badacze AI, AIImpacts 2023](https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai)**: Średnie prawdopodobieństwo katastrofy (p(doom)) wynosi między 14 a 19,4%, w zależności od sformułowania pytania. 86% uważa, że problem kontroli jest ważny.
+- **[Inżynierowie AI / założyciele startupów, State of AI Engineering](https://elemental-croissant-32a.notion.site/State-of-AI-Engineering-2023-20c09dc1767f45988ee1f479b4a84135#694f89e86f9148cb855220ec05e9c631)**: ponad 60% przypisuje [p(doom)](/pdoom) > 25%. Tylko 12% uważa, że p(doom) = 0.
+- **[Badacze bezpieczeństwa AI, AlignmentForum](https://web.archive.org/web/20221013014859/https://www.alignmentforum.org/posts/QvwSr5LsxyDeaPK5s/existential-risk-from-ai-survey-results)**: respondenci przypisali medianę 20% do ryzyka egzystencjalnego spowodowanego brakiem wystarczających badań technicznych i 30% do ryzyka egzystencjalnego spowodowanego awarią systemów AI, aby zrobić to, co ludzie wdrażający je zamierzali, z ogromną zmiennością (na przykład, istnieją punkty danych zarówno w okolicach 1%, jak i 99%).
+
+## Opinia publiczna na temat katastroficznych ryzyk {#public-opinion-on-catastrophic-risks}
+
+- **[Obywatele Wielkiej Brytanii, PublicFirst](https://publicfirst.co.uk/ai/)**: uważają, że istnieje 9% prawdopodobieństwo, że ludzie wyginą z powodu sztucznej inteligencji. Około 50% mówi, że są bardzo lub trochę zaniepokojeni tym.
+- **[Obywatele Niemiec, Kira](https://www.zeit.de/digital/2023-04/ki-risiken-angst-umfrage-forschung-kira)**: Tylko 14% uważa, że sztuczna inteligencja będzie miała pozytywny wpływ na świat, 40% mieszane, 40% negatywne.
+- **[Obywatele USA, RethinkPriorities](https://rethinkpriorities.org/publications/us-public-perception-of-cais-statement-and-the-risk-of-extinction)**: zgadza się (59%) i popiera (58%) oświadczenie o ryzyku egzystencjalnym. Niezgoda (26%) i sprzeciw (22%) były stosunkowo niskie, a znaczne proporcje ludzi pozostały neutralne (12% i 18% dla formatów zgody i wsparcia).
+- **[Obywatele Australii, Ready Research](https://theconversation.com/80-of-australians-think-ai-risk-is-a-global-priority-the-government-needs-to-step-up-225175)**: 80% uważa, że ryzyko sztucznej inteligencji jest globalnym priorytetem, 64% chce, aby rząd skupił się na katastroficznych wynikach (w porównaniu z tylko 25% na utratę pracy lub 5% na stronniczość).
+
+## Opinia publiczna na temat regulacji i zarządzania {#public-opinion-on-regulations--governance}
+
+- **[Obywatele Wielkiej Brytanii, YouGov](https://time.com/7213096/uk-public-ai-law-poll/)**: 87% Brytyjczyków poparłoby prawo wymagające od twórców sztucznej inteligencji udowodnienia, że ich systemy są bezpieczne przed wydaniem, przy 60% za zakazem rozwoju modeli sztucznej inteligencji "inteligentniejszych niż ludzie".
+- **[Obywatele USA, RethinkPriorities](https://forum.effectivealtruism.org/posts/ConFiY9cRmg37fs2p/us-public-opinion-of-ai-policy-and-risk)**: 50% popiera wstrzymanie, 25% sprzeciwia się wstrzymaniu.
+- **[Obywatele USA, YouGov](https://www.vox.com/future-perfect/2023/8/18/23836362/ai-slow-down-poll-regulation)**: 72% chce, aby sztuczna inteligencja zwolniła, 8% chce przyspieszyć. 83% wyborców uważa, że sztuczna inteligencja może przypadkowo spowodować katastroficzne zdarzenie
+- **[Obywatele USA, YouGov](https://theaipi.org/poll-shows-voters-oppose-open-sourcing-ai-models-support-regulatory-representation-on-boards-and-say-ai-risks-outweigh-benefits-2/)**: 73% uważa, że firmy sztucznej inteligencji powinny być pociągnięte do odpowiedzialności za szkody spowodowane przez technologię, którą tworzą, 67% uważa, że moc modeli sztucznej inteligencji powinna być ograniczona, a 65% uważa, że utrzymanie sztucznej inteligencji z dala od złych aktorów jest ważniejsze niż zapewnienie korzyści sztucznej inteligencji wszystkim.
+- **[Obywatele USA, AIPI](https://www.politico.com/newsletters/digital-future-daily/2023/11/29/exclusive-what-people-actually-think-about-ai-00129147)**: 49:20 popiera "międzynarodowy traktat zakazujący jakiejkolwiek sztucznej inteligencji (AI) 'inteligentniejszej niż ludzie'?", 70:14 popiera "Zapobieganie szybkiemu osiągnięciu przez sztuczną inteligencję zdolności ponadludzkich"
+- **[Profesorowie CS w USA, Axios Generation Lab](https://www.axios.com/2023/09/05/ai-regulations-expert-survey)**: Około 1 na 5 przewidywało, że sztuczna inteligencja "zdecydowanie" pozostanie pod kontrolą ludzi. Reszta była podzielona między tych, którzy mówili, że sztuczna inteligencja "prawdopodobnie" lub "zdecydowanie" wyjdzie spod kontroli ludzi, a tych, którzy mówili "prawdopodobnie nie".
+  Tylko 1 na 6 powiedział, że sztuczna inteligencja nie powinna lub nie może być regulowana. Tylko garstka ufa sektorowi prywatnemu w samoregulacji.
+- **[Obywatele USA, Sentience Institute](https://www.sentienceinstitute.org/aims-survey-supplement-2023)**: Było szerokie poparcie dla kroków, które mogłyby być podjęte w celu spowolnienia rozwoju sztucznej inteligencji. Ludzie popierali publiczne kampanie mające na celu spowolnienie rozwoju sztucznej inteligencji (71,3%), rządowe regulacje, które spowalniają rozwój (71,0%), oraz sześciomiesięczne wstrzymanie niektórych rodzajów rozwoju sztucznej inteligencji (69,1%). Poparcie dla zakazu sztucznej inteligencji ogólnej (AGI), która jest inteligentniejsza od ludzi, wyniosło 62,9%.
+- **[Obywatele USA, FLI](https://futureoflife.org/wp-content/uploads/2025/10/FLI-Advanced-AI-Survey-Analysis-BG25-140.pdf)**: 64% uważa, że sztuczna inteligencja ponadludzka nie powinna być rozwijana, dopóki nie zostanie udowodnione, że jest bezpieczna i kontrolowana, lub nigdy nie powinna być rozwijana. 49% spodziewa się, że zostanie opracowana w ciągu 5 lat.
+- **[Obywatele Wielkiej Brytanii, YouGov](https://inews.co.uk/news/politics/voters-deepfakes-ban-ai-intelligent-humans-2708693)**: 74% uważa, że rząd powinien zapobiec szybkiemu powstaniu sztucznej inteligencji ponadludzkiej. Ponad 60% popiera traktat z globalnym zakazem superinteligencji.
+- **[Obywatele Wielkiej Brytanii, AISCC](https://aiscc.org/2023/11/01/yougov-poll-83-of-brits-demand-companies-prove-ai-systems-are-safe-before-release/)**: 83% ludzi powiedziało, że rządy powinny wymagać od firm sztucznej inteligencji udowodnienia, że ich systemy są bezpieczne przed ich wydaniem.
+- **[Obywatele NL, USA, Wielkiej Brytanii, Obserwatorium Ryzyka Egzystencjalnego](https://www.existentialriskobservatory.org/papers_and_reports/Trends%20in%20Public%20Attitude%20Towards%20Existential%20Risk%20And%20Artificial%20Intelligence.pdf)**: świadomość publiczna ryzyka egzystencjalnego wzrosła w USA z 7% do 15%, a w Holandii i Wielkiej Brytanii do 19%. Poparcie dla rządowego nakazu wstrzymania sztucznej inteligencji wzrosło w USA z 56% do 66%.
+
+## [Linie czasowe](/timelines) {#timelines}
+
+- **[Metaculus Słaba AGI](https://www.metaculus.com/questions/3479/date-weakly-general-ai-is-publicly-known/)** przed 2026 r.: 25% szans, AGI do 2027 r.: 50% szans (zaktualizowano 2024-11-05).
+- **[Metaculus pełna AGI](https://www.metaculus.com/questions/5121/date-of-artificial-general-intelligence/)** przed 2028 r.: 25% szans, pełna AGI do 2032 r.: 50% szans (zaktualizowano 2024-11-05).
