@@ -1,15 +1,43 @@
 {
 	"version": 1,
-	"created": "2026-03-09T09:48:08.167Z",
+	"created": "2026-03-18T21:43:33.252Z",
 	"branch": "l10n-pl",
-	"model": "meta-llama/llama-3.1-405b-instruct",
+	"model": "meta-llama/llama-3.3-70b-instruct",
 	"items": [
 		{
 			"source": "src/posts/action.md",
 			"locale": "pl",
-			"reason": "forced",
-			"estimatedCost": 0.0397556,
-			"contentWords": 1403
+			"reason": "outdated",
+			"estimatedCost": 0.0020936,
+			"contentWords": 1404
+		},
+		{
+			"source": "src/posts/australia-wins.md",
+			"locale": "pl",
+			"reason": "new",
+			"estimatedCost": 0.0010524,
+			"contentWords": 615
+		},
+		{
+			"source": "src/posts/australia.md",
+			"locale": "pl",
+			"reason": "outdated",
+			"estimatedCost": 0.0005556000000000001,
+			"contentWords": 239
+		},
+		{
+			"source": "src/posts/microgrants.md",
+			"locale": "pl",
+			"reason": "outdated",
+			"estimatedCost": 0.000986,
+			"contentWords": 565
+		},
+		{
+			"source": "src/posts/volunteer-stipends.md",
+			"locale": "pl",
+			"reason": "outdated",
+			"estimatedCost": 0.0009056,
+			"contentWords": 504
 		}
 	]
 }
