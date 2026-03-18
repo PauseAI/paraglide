@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"created": "2026-03-08T13:53:57.981Z",
+	"branch": "l10n-pl",
+	"model": "meta-llama/llama-3.1-405b-instruct",
+	"items": [
+		{
+			"source": "src/posts/australia-detail.md",
+			"locale": "pl",
+			"reason": "new",
+			"estimatedCost": 0.0371412,
+			"contentWords": 1299
+		},
+		{
+			"source": "src/posts/join-operations.md",
+			"locale": "pl",
+			"reason": "new",
+			"estimatedCost": 0.014591999999999999,
+			"contentWords": 400
+		},
+		{
+			"source": "src/posts/protest-london-feb-2026.md",
+			"locale": "pl",
+			"reason": "new",
+			"estimatedCost": 0.023400400000000002,
+			"contentWords": 751
+		}
+	]
+}

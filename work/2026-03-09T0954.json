@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"created": "2026-03-09T09:54:59.804Z",
+	"branch": "l10n-pl",
+	"model": "meta-llama/llama-3.1-405b-instruct",
+	"items": [
+		{
+			"source": "src/posts/action.md",
+			"locale": "pl",
+			"reason": "forced",
+			"estimatedCost": 0.0397556,
+			"contentWords": 1403
+		}
+	]
+}
