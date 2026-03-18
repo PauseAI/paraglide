@@ -1,66 +1,67 @@
 ---
-title: Mikrogranty PauseAI
-description: Nasz fundusz społecznościowy na wsparcie projektów zgodnych z naszą misją.
+title: Mikrodotacje PauseAI
+description: Nasz fundusz społecznościowy wspierający projekty zgodne z naszą misją.
 ---
+ <!-- end of frontmatter metadata, dashes above need to stay -->
 
-Mamy ogromną listę projektów, nad którymi pracuje nasza społeczność. Jest wiele do zrobienia. Czasem jednak potrzebujemy dodatkowych środków, aby działać skuteczniej.
+Posiadamy długą listę projektów, nad którymi pracuje nasza społeczność. Jest wiele do zrobienia, a czasami potrzebujemy wsparcia finansowego, aby nasze działania były bardziej efektywne.
 
-Ale uzyskanie finansowania może być trudne — zwłaszcza jeśli nigdy wcześniej nie aplikowałeś o dotację.
+Pozyskiwanie funduszy może być jednak czasochłonne, zwłaszcza jeśli nie mamy doświadczenia w składaniu wniosków o dotacje.
 
-To właśnie tu przychodzą Mikrogranty PauseAI! Małe dotacje (zwykle poniżej 2000 €) na sfinansowanie konkretnych projektów, które wspierają naszą misję łagodzenia katastroficznych ryzyk związanych z AI.
+Właśnie dlatego proponujemy Mikrodotacje PauseAI. Są to niewielkie dotacje (zwykle poniżej 2 000 euro), które mogą wesprzeć konkretny projekt związany z naszą misją łagodzenia katastroficznych ryzyk związanych z sztuczną inteligencją.
 
-Oto kilka przykładów projektów, które moglibyśmy finansować:
+Poniżej przedstawiamy kilka przykładów projektów, które moglibyśmy sfinansować:
 
-- **Organizacja wydarzenia** (wynajem sali, jedzenie i napoje, materiały)
-- **Produkcja lub promocja filmów** o ryzykach związanych z AI lub argumentach za wstrzymaniem
-- **Opracowanie projektu polityki**, np. sformalizowanie naszego [wniosku](/proposal)
-- **Przeprowadzenie badań**, np. ankiety lub badania testujące przekaz
-- **Pisanie dla mediów**, np. artykuł opinii dla krajowej gazety
-- **Założenie nowej organizacji**, która wspiera naszą misję
+- **Zorganizuj wydarzenie** (wynajem sali, catering, materiały)
+- **Wyprodukuj lub promuj filmy** na temat ryzyk związanych z sztuczną inteligencją lub argumentów przemawiających za wstrzymaniem jej rozwoju
+- **Opracuj projekt polityki**, np. sformalizuj naszą [propozycję](/proposal)
+- **Przeprowadź badania**, np. sondaż lub badanie testowania komunikatów
+- **Napisz artykuł do mediów**, np. artykuł opinii dla ogólnokrajowej gazety
+- **Utwórz nową organizację**, która jest zgodna z naszą misją
 
-## Kryteria i zasady {#criteria-and-rules}
+## Kryteria i reguły {#criteria-and-rules}
 
 ### Cel i zakres {#purpose-and-scope}
 
-- Mikrogranty są jednorazowymi dotacjami z budżetu PauseAI Global na finansowanie **konkretnych projektów z określonymi wynikami i wyraźną datą zakończenia.**
-- Nie są one przeznaczone do rekompensaty za regularną pracę dla PauseAI. Jeśli szukasz wsparcia dla stałej pracy wolontariackiej, zobacz nasz program [Stypendiów dla Wolontariuszy](/volunteer-stipends). Jeśli Twój wniosek jest w istocie pracą ciągłą, a nie projektem o określonym zakresie, możemy omówić umowę kontraktową.
-- Projekty muszą bezpośrednio odnosić się do misji, strategii i działań PauseAI Global.
+- Mikrodotacje są jednorazowymi dotacjami z budżetu PauseAI Global, przeznaczonymi na finansowanie **konkretnych projektów o określonych celach i wyraźnej dacie zakończenia**.
+- Nie są one przeznaczone do wynagradzania bieżącej, regularnej pracy na rzecz PauseAI. Jeśli szukacie wsparcia dla zrównoważonego wolontariatu, zobacz nasz program [Stypendium dla wolontariuszy](/volunteer-stipends). Jeśli Wasza propozycja jest w istocie pracą ciągłą, a nie ograniczonym projektem, możemy omówić umowę kontraktową zamiast tego.
+- Projekty muszą bezpośrednio dotyczyć misji, [strategii](/theory-of-change) i działań PauseAI Global.
 
 ### Wymagania kwalifikacyjne {#eligibility-requirements}
 
-- Wnioskodawcy muszą dołączyć do PauseAI za pośrednictwem oficjalnego [formularza internetowego](/join) i podpisać umowę wolontariacką przed złożeniem wniosku.
-- Preferencja jest dawana wolontariuszom z udokumentowaną historią wkładu w PauseAI.
-- Wnioskodawcy, którzy wcześniej otrzymali mikrogrant, nie mogą otrzymać drugiego, jeśli wyniki pierwszego nie zostały zakończone i zgłoszone.
-- Wnioski rozdziałów wymagają podpisania Memorandum of Understanding.
+- Wnioskodawcy muszą dołączyć do PauseAI za pośrednictwem oficjalnego [formularza internetowego](/join) i podpisać umowę wolontariusza przed złożeniem wniosku.
+- Preferowane są wnioski od wolontariuszy z udokumentowaną historią wkładu w PauseAI.
+- Wnioskodawcy, którzy otrzymali wcześniej mikrodotację, nie mogą otrzymać drugiej, jeśli cele pierwszej nie zostały zrealizowane i zgłoszone.
+- Wnioski składane przez oddziały wymagają podpisania Memorandum of Understanding.
 
 ### Proces aplikacji {#application-process}
 
 1. Wypełnij poniższy formularz aplikacyjny.
-2. Dyrektor Organizacyjny i Dyrektor Generalny podejmują ostateczne decyzje o przyznaniu dotacji. Ktoś może skontaktować się z Tobą w celu wyjaśnienia wniosku.
-3. Wnioskodawcy zostaną poinformowani o decyzji w ciągu miesiąca.
-4. **Jeśli wniosek zostanie zatwierdzony, odbiorca musi podpisać List Grantowy przed wypłatą jakichkolwiek funduszy.** List Grantowy dokumentuje cel dotacji, kwotę, oczekiwane wyniki i harmonogram.
+2. Dyrektor Organizacyjny i CEO podejmują ostateczne decyzje o przyznaniu dotacji. Możemy skontaktować się z Tobą w celu omówienia Twojej aplikacji, jeśli wymaga ona wyjaśnienia.
+3. Wnioskodawcy zostaną poinformowani o decyzji w ciągu jednego miesiąca.
+4. **Jeśli aplikacja zostanie zaakceptowana, odbiorca musi podpisać List dotacyjny przed wypłatą jakichkolwiek funduszy**. List dotacyjny dokumentuje cel dotacji, kwotę, oczekiwane wyniki i termin realizacji.
 
 ### Płatność {#payment}
 
-- Płatność jest zwykle dokonywana jako zaliczka po podpisaniu Listu Grantowego.
-- W niektórych przypadkach może być preferowana zwrot kosztów po zakończeniu projektu (z rachunkami).
-- Metoda zostanie uzgodniona w Liście Grantowym.
+- Płatność jest zwykle wypłacana zaliczkowo po podpisaniu Listu dotacyjnego.
+- W niektórych przypadkach może być preferowane rozliczenie po zakończeniu projektu (z fakturami).
+- Metoda zostanie uzgodniona w Liście dotacyjnym.
 
-### Strategiczna alokacja {#strategic-allocation}
+### Strategiczne przydzielanie {#strategic-allocation}
 
-- Dotacje są zwykle poniżej 2000 €.
-- Decyzje o przyznaniu dotacji są podejmowane w zgodzie ze strategią PauseAI Global i podlegają dostępności funduszy i priorytetom organizacyjnym.
-- Fundusze mogą nie być rozdzielane równomiernie w regionach lub rozdziałach.
+- Dotacje są zwykle poniżej 2 000 euro.
+- Decyzje o przyznaniu dotacji są podejmowane w zgodzie z ogólną strategią PauseAI Global i są uzależnione od dostępnych funduszy i priorytetów organizacyjnych.
+- Fundusze mogą nie być rozdzielane równo w różnych regionach lub oddziałach.
 
 ### Odpowiedzialność podatkowa {#tax-responsibility}
 
-**Odbiorcy dotacji są wyłącznie odpowiedzialni za zrozumienie i spełnienie wszelkich zobowiązań podatkowych**, które mogą mieć zastosowanie do dotacji w ich kraju zamieszkania. List Grantowy będzie zawierał potwierdzenie tej odpowiedzialności. PauseAI nie może udzielać porad podatkowych.
+**Odbiorcy dotacji są wyłącznie odpowiedzialni za zrozumienie i spełnienie wszelkich obowiązków podatkowych**, które mogą mieć zastosowanie do dotacji w kraju ich zamieszkania. List dotacyjny będzie zawierał potwierdzenie tej odpowiedzialności. PauseAI nie może udzielać porad podatkowych.
 
-### Rozliczalność i sprawozdawczość {#accountability-and-reporting}
+### Odpowiedzialność i sprawozdawczość {#accountability-and-reporting}
 
-- W ciągu miesiąca od zakończenia projektu, odbiorca musi złożyć krótkie sprawozdanie z realizacji i wszystkie istotne rachunki.
-- Niewypełnienie tego obowiązku wpłynie na kwalifikowalność do przyszłych mikrograntów.
+- W ciągu jednego miesiąca od zakończenia projektu odbiorca musi złożyć krótkie sprawozdanie z realizacji i wszelkie istotne faktury.
+- Niewywiązanie się z tego obowiązku wpłynie na kwalifikowalność do przyszłych mikrodotacji.
 
 ## Złóż wniosek {#apply}
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/appWPTGqZmUcs3NWu/pagZEn4i6lgq9wnwh/form?layout=responsive" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/appWPTGqZmUcs3NWu/pagZEn4i6lgq9wnwh/form?layout=responsive" frameborder="0" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
