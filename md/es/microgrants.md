@@ -1,38 +1,67 @@
 ---
-title: Microsubvenciones de PauseAI
+title: Subvenciones Micro de PauseAI
 description: Nuestro fondo comunitario para apoyar proyectos que se alinean con nuestra misión.
 ---
+ <!-- end of frontmatter metadata, dashes above need to stay -->
 
-Tenemos una larga lista de proyectos en los que nuestra comunidad está trabajando.
-Hay mucho por hacer.
-Y a veces necesitamos financiamiento para ser más efectivos.
-Pero obtener fondos puede ser un desafío - especialmente si nunca has solicitado una subvención.
+Tenemos una larga lista de proyectos en los que nuestra comunidad está trabajando. Hay mucho por hacer y, a veces, necesitamos financiación para ser más efectivos.
 
-¡Aquí es donde entran en juego las Microsubvenciones de PauseAI!
-Pequeñas cantidades de dinero (normalmente menos de 2000 EUR) para trabajar en un proyecto.
-Somos flexibles en cuanto a los tipos de proyectos que pueden solicitar, siempre y cuando se alineen con nuestra misión de mitigar los riesgos catastróficos de la IA.
+Sin embargo, obtener financiación puede ser un proceso complicado, especialmente si nunca has solicitado una subvención antes.
 
-Aquí hay algunos ejemplos:
+Es aquí donde entran en juego las Subvenciones Micro de PauseAI. Se trata de subvenciones pequeñas (generalmente inferiores a 2.000 euros) para financiar proyectos específicos que contribuyan a nuestra misión de mitigar los riesgos catastróficos asociados con la inteligencia artificial.
 
-- **Organizar un evento** (alquiler de local, comida y bebida)
-- **Crear o promocionar videos** sobre por qué la IA es peligrosa o por qué podemos pausarla
-- **Desarrollar un borrador de política**, por ejemplo, formalizar nuestra [propuesta](/proposal)
-- **Realizar investigación de mercado**, por ejemplo, una encuesta o un estudio de prueba de mensajes
-- **Escribir artículos para medios**, por ejemplo, escribir un artículo de opinión para un periódico nacional
-- **Crear una nueva organización** que se alinee con nuestra misión
+A continuación, te presentamos algunos ejemplos de proyectos que podríamos financiar:
 
-## Limitaciones {#limitations}
+- **Organizar un evento** (alquiler de sede, comida y bebida, materiales)
+- **Producir o promocionar videos** sobre los riesgos de la inteligencia artificial o los argumentos a favor de una pausa
+- **Desarrollar un borrador de política**, por ejemplo, formalizando nuestra [propuesta](/proposal)
+- **Realizar una investigación**, por ejemplo, una encuesta o un estudio de prueba de mensaje
+- **Escribir para los medios**, por ejemplo, un artículo de opinión para un periódico nacional
+- **Establecer una nueva organización** que se alinee con nuestra misión
 
-- Tenga en cuenta que, como somos una organización benéfica, no podemos proporcionar un salario a través de este programa.
-- Su proyecto y sus beneficios para la sociedad deben ser independientes - no es un proyecto para beneficio de PauseAI.
-- Si planea crecer la comunidad de PauseAI haciendo trabajo voluntario típico, considere solicitar una [subvención para voluntarios](/volunteer-stipends) en su lugar.
+## Criterios y Reglas {#criteria-and-rules}
 
-## El proceso {#the-process}
+### Propósito y Alcance {#purpose-and-scope}
 
-- Describa su proyecto en el canal `#projects` de nuestro servidor de Discord. Hable sobre la idea, lo que quiere hacer, dónde necesita ayuda y qué cantidad de dinero necesita. Mencione `@microgrants` para notificar al equipo de microsubvenciones.
-- Complete la [Plantilla de Microsubvenciones](https://docs.google.com/document/d/1oPXezImarCY7MCYaT-lJb-uLNbbQ76O1FYNr-WTS6hI/edit?usp=sharing) y envíela a [joep@pauseai.info](mailto:joep@pauseai.info).
-- Nos pondremos en contacto con usted. O bien a) le damos el visto bueno de inmediato, b) queremos ver algunos cambios/preguntas respondidas o c) le damos un no.
-- Asegúrese de hacer esto al menos un mes antes de necesitar los fondos. Déjenos tiempo para discutir esto en el equipo, dar retroalimentación o pedir aclaraciones. Especialmente si la solicitud es más alta.
-- Le enviaremos un Memorándum de Entendimiento (MoU) que necesita firmar.
-- ¡Póngase a trabajar!
-- Avísenos cuando haya terminado, y le enviaremos la subvención. Si necesita el dinero por adelantado, podemos discutir esa opción, pero no debería ser la opción predeterminada.
+- Las Subvenciones Micro son subvenciones únicas del presupuesto de PauseAI Global para financiar **proyectos concretos que tengan objetivos claros y una fecha de finalización definida**.
+- No están destinadas a compensar el trabajo regular y continuo para PauseAI. Si estás buscando apoyo para el voluntariado sostenido, consulta nuestro programa de [Estipendio para Voluntarios](/volunteer-stipends). Si tu propuesta se refiere a un trabajo continuo en lugar de un proyecto limitado, podemos discutir un acuerdo de contratista en su lugar.
+- Los proyectos deben estar directamente relacionados con la [misión](/proposal), [estrategia](/theory-of-change) y actividades de PauseAI Global.
+
+### Requisitos de Elegibilidad {#eligibility-requirements}
+
+- Los solicitantes deben haberse unido a PauseAI a través del formulario web oficial [Global](/join) y haber firmado el acuerdo de voluntariado antes de solicitar.
+- Se da preferencia a los voluntarios con un historial demostrado de contribuciones a PauseAI.
+- Los solicitantes que han recibido anteriormente una subvención micro no pueden recibir una segunda si no han completado y reportado los objetivos de la primera.
+- Las solicitudes de capítulos requieren un Memorando de Entendimiento firmado.
+
+### Proceso de Solicitud {#application-process}
+
+1. Completa el formulario de solicitud a continuación.
+2. El Director de Organización y el CEO toman las decisiones finales sobre la asignación. Es posible que alguien se ponga en contacto contigo para una llamada si la solicitud necesita aclaración.
+3. Los solicitantes serán informados de la decisión dentro de un mes.
+4. **Si se aprueba la solicitud, el destinatario debe firmar una Carta de Subvención antes de que se disparen los fondos**. La Carta de Subvención documenta el propósito de la subvención, el monto, los objetivos esperados y el cronograma.
+
+### Pago {#payment}
+
+- El pago se realiza generalmente como un anticipo después de firmar la Carta de Subvención.
+- En algunos casos, se puede preferir el reembolso después de la finalización del proyecto (con recibos).
+- El método de pago se acordará en la Carta de Subvención.
+
+### Asignación Estratégica {#strategic-allocation}
+
+- Las subvenciones suelen ser inferiores a 2.000 euros.
+- Las decisiones de asignación se toman en alineación con la estrategia general de PauseAI Global y están sujetas a la disponibilidad de fondos y prioridades organizativas.
+- Los fondos pueden no distribuirse uniformemente en regiones o capítulos.
+
+### Responsabilidad Fiscal {#tax-responsibility}
+
+**Los destinatarios de la subvención son los únicos responsables de entender y cumplir con cualquier obligación fiscal** que pueda aplicarse a la subvención en su país de residencia. La Carta de Subvención incluirá un reconocimiento de esta responsabilidad. PauseAI no puede proporcionar asesoramiento fiscal.
+
+### Rendición de Cuentas y Informes {#accountability-and-reporting}
+
+- Dentro de un mes después de la finalización del proyecto, el destinatario debe presentar un informe de finalización breve y cualquier recibo relevante.
+- El incumplimiento de esta obligación afectará la elegibilidad para futuras subvenciones micro.
+
+## Solicitar {#apply}
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/appWPTGqZmUcs3NWu/pagZEn4i6lgq9wnwh/form?layout=responsive" frameborder="0" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
