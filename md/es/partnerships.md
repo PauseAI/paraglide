@@ -1,105 +1,104 @@
 ---
-title: Oportunidades de colaboración con PauseAI
+title: Oportunidades de Colaboración con PauseAI
 description: Enlace de invitación al servidor de Discord de PauseAI
 ---
+ <!-- end of frontmatter metadata, dashes above need to stay -->
 
 PauseAI se dedica a prevenir catástrofes relacionadas con la inteligencia artificial a través del activismo de base, la defensa de políticas y el compromiso público.
-Como organización impulsada por voluntarios, reunimos a una red diversa de individuos y grupos comprometidos con abordar los riesgos extremos planteados por la inteligencia artificial.
-Invitamos a organizaciones e individuos a colaborar con nosotros en esta misión crítica.
+Como organización impulsada por voluntarios, reunimos una red diversa de individuos y grupos comprometidos con abordar los riesgos extremos que plantea la inteligencia artificial.
+Invitamos a organizaciones e individuos a unirse a nosotros en esta misión crítica.
 Nuestras propuestas de valor únicas destacan cómo la colaboración con PauseAI puede amplificar su impacto y generar un cambio significativo en la política y la conciencia sobre la inteligencia artificial.
 
-## Puntos únicos de venta de PauseAI {#pauseais-unique-selling-points}
+## Puntos de Venta Únicos de PauseAI {#pauseais-unique-selling-points}
 
-1. **100% dirigido por voluntarios:** Pasión y compromiso genuinos.
-2. **Experiencia en cabildeo de base:** Acceso directo a los formuladores de políticas.
-3. **Experiencia en movilización pública:** Organización de manifestaciones públicas y atracción de medios.
-4. **Flexibilidad:** Adaptable y abierto a nuevas actividades y colaboraciones.
-5. **Compromiso público:** Habilidad para movilizar el apoyo y la conciencia pública.
+1. **100% Impulsado por Voluntarios:** Pasión y compromiso genuinos.
+2. **Pericia en Cabildeo de Base:** Conexión directa con los formuladores de políticas.
+3. **Experiencia en Protestas:** Organización de manifestaciones públicas y atracción de la atención de los medios.
+4. **Flexibilidad:** Capacidad de adaptación y apertura a nuevas actividades y colaboraciones.
+5. **Compromiso Público:** Habilidad para movilizar el apoyo y la conciencia pública.
 
 PauseAI ofrece beneficios únicos a una variedad de organizaciones e individuos, mejorando el esfuerzo colectivo para abordar los riesgos de la inteligencia artificial. A continuación, se presentan nuestras propuestas de valor personalizadas:
 
-## Grupos de reflexión {#think-tanks}
+## Grupos de Reflexión {#think-tanks}
 
-- **Perspectiva de base:** Informes únicos de nuestro activismo impulsado por voluntarios informan recomendaciones políticas.
-  - **Retroalimentación ciudadana directa:** Los voluntarios recopilan información en tiempo real sobre cuestiones de inteligencia artificial.
-  - **Diversidad de perspectivas:** Los antecedentes variados de nuestros voluntarios ayudan a identificar puntos ciegos en la política.
-- **Compromiso público:** Movilizar el apoyo público para las iniciativas de los grupos de reflexión.
-- **Pruebas en el mundo real:** Probar y refinar ideas políticas a través del cabildeo ciudadano.
-  - **Retroalimentación inmediata:** Presentar propuestas a los legisladores y recopilar retroalimentación.
-  - **Refinamiento iterativo:** Seguir y refinar propuestas basadas en respuestas políticas.
+- **Perspectiva de Base:** Ideas únicas procedentes de nuestro activismo impulsado por voluntarios que informan las recomendaciones de política.
+  - **Retroalimentación Ciudadana Directa:** Los voluntarios recopilan información pública en tiempo real sobre cuestiones relacionadas con la inteligencia artificial.
+  - **Puntos de Vista Diversos:** Los antecedentes variados de nuestros voluntarios ayudan a identificar puntos ciegos en la política.
+- **Compromiso Público:** Movilizar el apoyo público para las iniciativas de los grupos de reflexión.
+- **Pruebas en el Mundo Real:** Probar y perfeccionar las ideas de política a través del cabildeo ciudadano.
+  - **Retroalimentación Inmediata:** Presentar propuestas a los legisladores y recopilar retroalimentación.
+  - **Perfeccionamiento Iterativo:** Seguir y perfeccionar las propuestas en función de las respuestas políticas.
 - **Amplificación:** Aumentar el alcance de las publicaciones a través de nuestras campañas.
 
-## Grupos de cabildeo {#lobby-groups}
+## Grupos de Cabildeo {#lobby-groups}
 
-- **Tácticas complementarias:** Nuestra red de voluntarios proporciona presión pública para complementar el compromiso directo de los grupos de cabildeo con los legisladores.
+- **Tácticas Complementarias:** Nuestra red de voluntarios proporciona presión pública para complementar el compromiso directo de los grupos de cabildeo con los legisladores.
 
-## Grupos de investigación {#research-groups}
+## Grupos de Investigación {#research-groups}
 
-- **Recopilación de datos:** Ayudar con encuestas a gran escala y datos cualitativos a través de voluntarios.
-- **Difusión de la investigación:** Traducir hallazgos complejos en formatos accesibles.
-- **Aplicación práctica:** Probar y implementar resultados de la investigación en escenarios de defensa.
-  - **Experimentos de campo:** Probar estrategias de comunicación pública.
-  - **Pruebas de implementación de políticas:** Defender nuevas recomendaciones políticas y recopilar datos de implementación.
-- **Apoyo a la financiación:** Solicitar conjuntamente subvenciones que requieren investigación y compromiso público.
+- **Recopilación de Datos:** Ayudar con encuestas a gran escala y datos cualitativos a través de voluntarios.
+- **Difusión de la Investigación:** Traducir hallazgos complejos a formatos accesibles.
+- **Aplicación Práctica:** Probar e implementar los resultados de la investigación en escenarios de defensa.
+  - **Experimentos de Campo:** Probar estrategias de comunicación pública.
+  - **Ensayos de Implementación de Políticas:** Abogar por nuevas recomendaciones de política y recopilar datos de implementación.
+- **Apoyo a la Financiación:** Solicitar conjuntamente subvenciones que requieran investigación y compromiso público.
 
-## Redes de profesionales {#networks-of-professionals}
+## Redes de Profesionales {#networks-of-professionals}
 
-- **Conjunto de habilidades diverso:** Acceder a nuestra base de voluntarios multidisciplinarios.
-- **Presencia pública:** Proporcionar una presencia pública más orientada al activismo para las redes profesionales que prefieren mantenerse neutrales.
-- **Colaboración intersectorial:** Conectar a profesionales con otros interesados.
+- **Conjunto de Habilidades Diverso:** Acceder a nuestra base de voluntarios multidisciplinarios.
+- **Brazo Público:** Proporcionar una presencia pública más orientada al activismo para redes profesionales que prefieran permanecer neutrales.
+- **Colaboración Intersectorial:** Conectar a profesionales con otras partes interesadas.
 
-## Organizaciones de defensa pequeñas {#small-advocacy-organizations}
+## Pequeñas Organizaciones de Defensa {#small-advocacy-organizations}
 
-- **Compartir recursos:** Compartir recursos para eventos o campañas más grandes.
-- **Tácticas complementarias:** Combinar experiencia para una defensa integral.
-- **Intercambio de voluntarios:** Compartir voluntarios para la creación de capacidad.
-- **Voz unificada:** Presentar un frente unificado sobre las preocupaciones de riesgo de inteligencia artificial.
+- **Compartir Recursos:** Compartir recursos para eventos o campañas más grandes.
+- **Tácticas Complementarias:** Combinar la pericia para una defensa integral.
+- **Intercambio de Voluntarios:** Compartir voluntarios para la creación de capacidad.
+- **Voz Unida:** Presentar un frente unido sobre las preocupaciones de riesgo de la inteligencia artificial.
 
-## Medios de comunicación {#media-outlets}
+## Medios de Comunicación {#media-outlets}
 
-- **Generación de historias:** Proporcionar acciones y eventos noticiables.
-- **Conexiones con expertos:** Facilitar entrevistas con expertos en la materia.
-- **Verificación de hechos:** Verificar noticias relacionadas con el riesgo de inteligencia artificial.
-- **Perspectivas de opinión pública:** Compartir datos de base sobre el sentimiento público.
+- **Generación de Historias:** Proporcionar acciones y eventos dignos de ser noticia.
+- **Conexiones de Expertos:** Facilitar entrevistas con expertos en la materia.
+- **Verificación de Hechos:** Verificar artículos de noticias relacionados con el riesgo de la inteligencia artificial.
+- **Perspectivas de la Opinión Pública:** Compartir datos de base sobre la opinión pública.
 
-## Expertos académicos y técnicos {#academic-and-technical-experts}
+## Expertos Académicos y Técnicos {#academic-and-technical-experts}
 
-- **Amplificación de plataforma:** Compartir conocimientos expertos con el público.
-- **Retroalimentación del mundo real:** Proporcionar información sobre la percepción pública de conceptos teóricos.
-- **Oportunidades de investigación:** Conectar a expertos con posibles participantes en estudios.
-- **Impacto político:** Traducir recomendaciones en acciones políticas.
-- **Colaboración interdisciplinaria:** Facilitar conexiones con expertos en campos relacionados.
+- **Amplificación de la Plataforma:** Compartir el conocimiento de expertos con el público.
+- **Retroalimentación del Mundo Real:** Proporcionar ideas sobre la percepción pública de conceptos teóricos.
+- **Oportunidades de Investigación:** Conectar a expertos con posibles participantes en estudios.
+- **Impacto de la Política:** Traducir las recomendaciones en acciones de política.
+- **Colaboración Interdisciplinaria:** Facilitar conexiones con expertos en campos relacionados.
 
-## Intelectuales públicos y líderes de pensamiento {#public-intellectuals-and-thought-leaders}
+## Intelectuales Públicos y Líderes de Pensamiento {#public-intellectuals-and-thought-leaders}
 
-- **Expansión de audiencia:** Presentar ideas a nuevas audiencias.
-- **Pruebas de concepto:** Probar y refinar ideas con un grupo informado.
-- **Oportunidades de medios:** Generar cobertura de medios a través de eventos.
-- **Compromiso público:** Interactuar con ciudadanos comprometidos.
-- **Creación de contenido:** Colaborar en contenido accesible y de impacto.
+- **Expansión de la Audiencia:** Presentar ideas a nuevas audiencias.
+- **Pruebas de Conceptos:** Probar y perfeccionar ideas con un grupo informado.
+- **Oportunidades de Medios:** Generar cobertura mediática a través de eventos.
+- **Compromiso Público:** Interactuar con ciudadanos comprometidos.
+- **Creación de Contenido:** Colaborar en contenido accesible e impactante.
 
-## Líderes y formuladores de políticas influyentes {#influential-decision-makers-and-policymakers}
+## Tomadores de Decisiones y Formuladores de Políticas Influyentes {#influential-decision-makers-and-policymakers}
 
-- **Apoyo de base:** Demostrar respaldo público para iniciativas de riesgo de inteligencia artificial.
-- **Medidor de opinión pública:** Proporcionar información sobre el sentimiento público.
-- **Apoyo a la respuesta a crisis:** Movilizar a voluntarios para la comunicación y la acción de emergencia.
-- **Refinamiento de políticas:** Iterar y mejorar políticas basadas en retroalimentación.
+- **Apoyo de Base:** Demostrar el respaldo público a las iniciativas de riesgo de la inteligencia artificial.
+- **Medidor de la Opinión Pública:** Proporcionar ideas sobre la opinión pública.
+- **Apoyo a la Respuesta a Crisis:** Movilizar a voluntarios para la comunicación y la acción de emergencia.
+- **Perfeccionamiento de la Política:** Iterar y mejorar las políticas en función de la retroalimentación.
 
-## Influencers de redes sociales y creadores de contenido digital {#social-media-influencers-and-digital-content-creators}
+## Influencers de Medios Sociales y Creadores de Contenido Digital {#social-media-influencers-and-digital-content-creators}
 
-- **Verificación de hechos y experiencia:** Asegurar la precisión de la información en el contenido.
-- **Ideas de contenido atractivo:** Proporcionar historias del mundo real para contenido auténtico.
-- **Compromiso de audiencia:** Conectar con nuestra base de voluntarios apasionados.
-- **Amplificación de tendencias:** Impulsar campañas relacionadas con el riesgo de inteligencia artificial.
-- **Asociaciones educativas:** Crear contenido compartible para aumentar la conciencia.
+- **Verificación de Hechos y Pericia:** Asegurar la exactitud de la información en el contenido.
+- **Ideas de Contenido Atractivo:** Proporcionar historias del mundo real para contenido auténtico.
+- **Compromiso de la Audiencia:** Conectar con nuestra base de voluntarios apasionados.
+- **Amplificación de Tendencias:** Impulsar campañas relacionadas con el riesgo de la inteligencia artificial.
+- **Asociaciones Educativas:** Crear contenido compartible para concienciar.
 
-## Organizaciones internacionales y ONG {#international-organizations-and-ngos}
+## Organizaciones Internacionales y ONG {#international-organizations-and-ngos}
 
-- **Traducción cultural:** Adaptar mensajes a contextos locales.
-- **Movilización rápida:** Organizar respuestas a amenazas emergentes.
-- **Retroalimentación de base:** Recopilar retroalimentación de nivel de base sobre programas de seguridad de inteligencia artificial.
-- **Colaboración transfronteriza:** Conectar a activistas locales con iniciativas globales.
+- **Traducción Cultural:** Adaptar los mensajes a contextos locales.
+- **Movilización Rápida:** Organizar respuestas a amenazas emergentes.
+- **Retroalimentación de Base:** Recopilar retroalimentación de nivel de base sobre programas de seguridad de la inteligencia artificial.
+- **Colaboración Transfronteriza:** Conectar a activistas locales con iniciativas globales.
 
-## ¿Interesado en explorar oportunidades de colaboración? {#interested-in-exploring-partnership-opportunities}
-
-Envíe un correo electrónico a [joep@pauseai.info](mailto:joep@pauseai.info).
+¿Estás interesado en explorar oportunidades de colaboración? Consulta nuestro [Formulario de Contacto](/contact-us?tab=partnerships).
