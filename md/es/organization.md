@@ -1,70 +1,104 @@
 ---
 title: Organización PauseAI
-description: Cómo está estructurada la organización PauseAI y qué recursos están disponibles para los miembros.
+description: Cómo está estructurada la organización PauseAI y qué recursos están disponibles para sus miembros.
 ---
+ <!-- end of frontmatter metadata, dashes above need to stay -->
 
-## Estructura de la organización {#organization-structure}
+## Cómo Estamos Organizados {#how-were-structured}
 
-- [Entidades legales](/legal): PauseAI consta de una entidad internacional (PauseAI Global) y varias entidades legales locales/nacionales. Este sitio web y las cuentas de redes sociales son administrados por la entidad internacional.
-- [Grupos nacionales](/national-groups): Los grupos nacionales de PauseAI son centros que gestionan sus propias comunidades locales y son responsables de la estrategia y coordinación a nivel nacional. Por lo general, tienen su propio sitio web, cuentas de redes sociales y entidad legal. Los líderes nacionales se reúnen periódicamente para coordinar su trabajo.
-- [Equipos](/teams): Los equipos son grupos de voluntarios que trabajan en proyectos o tareas específicas dentro de PauseAI Global. Cada equipo tiene su propio líder, canal de Discord, carpeta de Drive y, por supuesto, lista de miembros. Póngase en contacto con un líder de equipo para unirse a un equipo.
-- [Comunidades locales](/communities): Verifique si ya existe una comunidad en su área. La mayoría de los grupos se comunican en nuestro servidor de Discord, en el canal `#local-meetups` (¡si desea crear un nuevo grupo local, publique allí!). Algunos grupos utilizan herramientas como WhatsApp o un servidor de Discord separado.
+PauseAI es una federación de capítulos locales coordinados por una entidad global (PauseAI Global). Este sitio web y las principales cuentas de redes sociales están administradas por PauseAI Global.
 
-![Organigrama](/org.png)
+![Organigrama](/org.svg)
 
-## Cómo funcionan los equipos {#how-teams-work}
+### Dirección {#leadership}
 
-- Los equipos asumen ciertas responsabilidades dentro de PauseAI. Siempre tienen un líder, un [Documento de equipo](https://docs.google.com/document/d/1Y6yXUrmI7hU59oplJdYErvwFQFCvofLVCrjTamhwkKU/edit?tab=t.0#heading=h.2cl0wb8wji0o) (que describe las responsabilidades y procesos del equipo), un canal de Discord y una carpeta de Drive. Por lo general, se reúnen periódicamente de forma digital para coordinar su trabajo.
-- Lea el [Documento de incorporación de líder de equipo](https://docs.google.com/document/d/1obQTc4o3gSmTZ5WsvOWK9vG_7Ait6ZogDgrcj_ZKjPA/edit?tab=t.0#heading=h.1lwhibce68fa) para ver qué se espera de un líder de equipo.
-- Si desea unirse a un equipo, póngase en contacto con el líder del equipo.
+**Equipo Directivo** — El órgano de toma de decisiones para PauseAI Global, compuesto por personal de dirección remunerado. El Equipo Directivo establece la estrategia, asigna recursos y coordina la federación.
 
-## Proceso de incorporación {#onboarding-process}
+- **Director Ejecutivo** — Maxime Fournes. Se encarga de la estrategia organizativa, la gobernanza, las relaciones externas importantes, el presupuesto y las operaciones globales.
+- **Directora de Organización** — Irina Tavera. Se encarga de los sistemas de crecimiento de voluntarios, el apoyo a los capítulos, la ejecución de campañas y gestiona a los Directores Nacionales.
+- **Director de Comunicaciones** — Jonathan Moody. Se encarga de la estrategia de comunicación, la narrativa y el mensaje, las relaciones con los medios y la producción de contenido.
 
-1. Regístrese como _voluntario_ (en la [página de unirse](/join) o en Discord). Se envía un mensaje automático al equipo de incorporación.
-1. Alguien del equipo de incorporación se pone en contacto con el voluntario y lo invita a una llamada individual. Se les pide que tomen medidas en un grupo local existente, establezcan un grupo local o se unan a uno de los equipos.
+**Junta Directiva** — Proporciona supervisión de la gobernanza: aprobación de la estrategia, presupuesto anual y cambios estructurales importantes. La Junta Directiva no interviene en las operaciones diarias.
 
-## Recursos educativos {#educational-resources}
+### Capítulos {#chapters}
 
-- Los conceptos básicos de PauseAI: [Preguntas frecuentes](/faq), nuestra [propuesta](/proposal), [riesgos](/risgos), [riesgo existencial](/xrisk), [urgencia](/urgency), [capacidades peligrosas](/dangerous-capabilities), [mitigación de fallos de pausa](/mitigating-pause-failures)
-- [Distribución de folletos](/flyering): Cómo distribuir folletos de manera efectiva
+Los capítulos de PauseAI son organizaciones locales — nacionales, regionales o basadas en ciudades — que adaptan la estrategia global a su contexto y llevan a cabo campañas en el terreno. La mayoría de los capítulos son nacionales en la actualidad.
+
+**Directores de Capítulos** son remunerados por PauseAI Global y gestionan capítulos de importancia estratégica alta. **Líderes de Capítulos** son voluntarios o están empleados por su capítulo local. Todos los Directores y Líderes de Capítulos se coordinan a través de reuniones mensuales y controles regulares con la Directora de Organización.
+
+Los capítulos suelen tener su propia comunidad y pueden tener su propio sitio web, cuentas de redes sociales y entidad legal. Puede encontrar un capítulo cerca de usted en la [página de comunidades](/communities).
+
+### Voluntarios {#volunteers}
+
+Los voluntarios son el corazón del movimiento. En PauseAI Global, los voluntarios contribuyen a través de equipos operativos:
+
+| Equipo                | Enfoque                                                      |
+| ------------------- | ---------------------------------------------------------- |
+| **Equipo de Operaciones** | Sistemas internos, sitio web, herramientas, infraestructura técnica |
+| **Equipo de Incorporación** | Dar la bienvenida a nuevos voluntarios y ponerlos en acción           |
+| **Equipo de Comunicaciones** | Apoyo al contenido, redes sociales, boletín                  |
+
+Cada equipo está a cargo de un miembro del personal remunerado y puede ser liderado día a día por un voluntario dedicado.
+
+Si desea involucrarse localmente — en protestas, reuniones, cabildeo —, puede hacerlo a través de su [capítulo local](/communities).
+
+### Consejo Asesor {#advisory-council}
+
+El Consejo Asesor es un grupo de voluntarios experimentados y de alta contribución que asesoran al Equipo Directivo sobre la estrategia y plantean problemas en todo el movimiento. Se reúne mensualmente, es por invitación y opera bajo el principio de "disentir y comprometerse": los miembros pueden debatir y desafiar ideas, pero una vez que el Equipo Directivo toma una decisión, se respeta.
+
+## Cómo Trabajamos {#how-we-work}
+
+**Documentación de decisiones:** Seguimos el principio de "si no está escrito, no existe". Las decisiones importantes se registran con lo que se decidió, quién decidió, cuándo y por qué.
+
+**Comunicación:** [Discord](https://discord.gg/2XXWXvErfA) es nuestro espacio comunitario para la discusión y la coordinación. Las decisiones y la documentación se almacenan en nuestro sistema de gestión del conocimiento interno (Notion).
+
+**Campañas:** PauseAI lleva a cabo campañas coordinadas en toda la federación. Los temas de las campañas los establece el Equipo Directivo en consulta con los Directores y Líderes de Capítulos. Los capítulos adaptan las campañas a su contexto local.
+
+## Únete {#get-involved}
+
+- **[Únete a PauseAI](/join)** — Regístrate como voluntario. Alguien de nuestro equipo de incorporación se pondrá en contacto contigo para ayudarte a encontrar la mejor manera de contribuir.
+- **[Encuentra una comunidad cerca de ti](/communities)** — La mayoría de los grupos se comunican en nuestro [servidor de Discord](https://discord.gg/2XXWXvErfA), y algunos utilizan WhatsApp u otras herramientas.
+- **[Donar](/donate)** — Apoya el movimiento financieramente.
+- **[Subvenciones pequeñas](/microgrants)** — Solicita financiamiento para tu proyecto o evento relacionado con PauseAI.
+- **[Vacantes](/vacancies)** — Ver posiciones abiertas.
+- **[Calendario de Google](https://calendar.google.com/calendar/u/0?cid=Y19mNWE4YWYyMDZlNjM1ODc2NjVjNmU4MzAzOTgzZmVmYWYzYTBjNjE0NGRiMGFhNDljOTcwZWZhNTEwYTNkODY3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)** — Calendario de eventos de PauseAI.
+- **[Comentarios anónimos](https://pauseai.info/contact-us?tab=feedback)** — Comparte tus pensamientos con nosotros de manera anónima.
+
+## Recursos Educativos {#educational-resources}
+
+- [Conceptos básicos de PauseAI](/faq): Preguntas frecuentes, [nuestra propuesta](/proposal), [riesgos](/risks), [riesgo existencial](/xrisk), [urgencia](/urgency), [capacidades peligrosas](/dangerous-capabilities)
+- [Guía de distribución de folletos](/flyering): Cómo distribuir folletos de manera efectiva
 - [Contraargumentos](/counterarguments)
-- [Organización de una protesta](/organizing-a-protest)
-- [Aprender sobre seguridad de IA](/learn)
+- [Organizar una protesta](/organizing-a-protest)
+- [Aprende sobre la seguridad de la IA](/learn)
 - [PauseAI en los medios](/press)
 - [Constructor de correos electrónicos](/email-builder)
-- [Guía de lobby en EE. UU.](/us-lobby-guide)
+- [Guía de cabildeo de EE. UU.](/us-lobby-guide)
 - [Redacción de comunicados de prensa](/writing-press-releases)
 
 ## Estrategia {#strategy}
 
 - [Teoría del cambio](/theory-of-change)
-- [Estrategia de comunicación](/communication-strategy): cómo escribimos nuestros mensajes
-- [Hoja de ruta](/roadmap): planificación dependiente del presupuesto
-- [Valores](/values): valores fundamentales que deben guiar nuestras decisiones
+- [Estrategia de comunicación](/communication-strategy): Cómo escribimos nuestros mensajes
+- [Hoja de ruta](/roadmap): Planificación dependiente del presupuesto
+- [Valores](/values): Valores fundamentales que guían nuestras decisiones
 
-## Otros enlaces útiles {#other-useful-links}
+## Herramientas que Usamos {#tools-we-use}
 
-- [Libro gratuito sobre riesgo existencial de IA: Incontrolable](https://impactbooks.store/cart/47288196366640:1?discount=UNCON-P3SFRS)
-- [Enlace de calendario de Google](https://calendar.google.com/calendar/u/0?cid=Y19mNWE4YWYyMDZlNjM1ODc2NjVjNmU4MzAzOTgzZmVmYWYzYTBjNjE0NGRiMGFhNDljOTcwZWZhNTEwYTNkODY3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
-- [Formulario de comentarios anónimos](https://airtable.com/appWPTGqZmUcs3NWu/pagIvo9Sv6IDHaolu/form): Si desea compartir algunos pensamientos críticos con nosotros mientras permanece anónimo.
-- [Microsubvenciones](/microgrants): Si desea financiamiento para su proyecto o evento relacionado con PauseAI
+- [Discord](https://discord.gg/2XXWXvErfA) — Coordinación comunitaria y chat
+- [Gmail](https://gmail.com) — Direcciones de correo electrónico @pauseai.info
+- [Google Suite](https://drive.google.com) — Documentos, hojas de cálculo, archivos
+- [Notion](https://notion.so) — Gestión del conocimiento, wiki interna, gestión de proyectos
+- [Airtable](https://airtable.com) — Gestión de voluntarios y responsabilidades
 
-## Herramientas utilizadas {#tools-used}
+## Redes Sociales {#social-media}
 
-- [Discord](https://discord.gg/ZuX559xKwf) para coordinación interna/chats.
-- [Gmail](https://gmail.com) para direcciones de correo electrónico `@pauseai.info`.
-- [Google Suite](https://workspace.google.com/) para documentos, hojas de cálculo, archivos, carpetas.
-- [Trello](https://trello.com/) es utilizado por algunos equipos para seguimiento de problemas/ToDo. (nombre de la organización: `pauseaiinfo`)
-- [Figma](https://figma.com) para diseñar folletos y otros gráficos. ([plantilla aquí](https://www.figma.com/design/iQ4PHQTi1vAVmT9Lckazqt/PauseAI-designs---editable)
-- [Airtable](https://airtable.com/) para gestionar equipos, voluntarios y responsabilidades.
+Encuéntranos en [Discord](https://discord.gg/2XXWXvErfA), [Twitter/X](https://twitter.com/PauseAI), [Substack](https://pauseai.substack.com), [Facebook](https://www.facebook.com/PauseAI), [TikTok](https://www.tiktok.com/@pauseai), [LinkedIn](https://www.linkedin.com/company/pauseai), [YouTube](https://www.youtube.com/@PauseAI), [Instagram](https://www.instagram.com/pause_ai), [Reddit](https://www.reddit.com/r/PauseAI/), y [BlueSky](https://bsky.app/profile/pauseai.info).
 
-## Redes sociales {#social-media}
+[Contáctanos](/contact-us) para consultas.
 
-Puede encontrarnos en [Discord](https://discord.gg/ZuX559xKwf) (¡este es donde sucede la mayoría de la coordinación!), [Twitter](https://twitter.com/PauseAI), [Substack](https://substack.com/@pauseai), [Facebook](https://www.facebook.com/PauseAI), [TikTok](https://www.tiktok.com/@pauseai), [LinkedIn](https://www.linkedin.com/uas/login?session_redirect=/company/97035448/), [YouTube](https://www.youtube.com/@PauseAI), [Instagram](https://www.instagram.com/pause_ai) y [Reddit](https://www.reddit.com/r/PauseAI/).
-Puede enviarnos un correo electrónico o ponerse en contacto con nosotros en [joep@pauseai.info](mailto:joep@pauseai.info).
+## Recursos de Diseño {#design-resources}
 
-## Recursos de diseño (folletos, carteles, logotipo) {#design-resources-flyers-posters-logo}
+[Plantilla de comunidad de Figma](https://www.figma.com/design/iQ4PHQTi1vAVmT9Lckazqt/PauseAI-designs---editable) para crear materiales de PauseAI. Color de la marca: **#FF9416**. Fuentes: Saira Condensed (700), Montserrat Black, Roboto Slab (300, 700).
 
-- Plantilla de comunidad de Figma [aquí](https://www.figma.com/design/iQ4PHQTi1vAVmT9Lckazqt/PauseAI-designs---editable)
-- Si desea crear material relacionado con PauseAI, puede utilizar nuestro color de marca _#FF9416_ y las fuentes _Saira Condensed_ (700), _Montserrat Black_ y _Roboto Slab_ (300, 700).
-- [Carpeta de Google Drive de medios](https://drive.google.com/drive/folders/1bQ_MZ8giK-Mee4ABkO0BgcFInaXruNpa?usp=sharing)
+[Carpeta de Google Drive de medios](https://drive.google.com/drive/folders/1bQ_MZ8giK-Mee4ABkO0BgcFInaXruNpa?usp=sharing) para logotipos, folletos y pósters.
