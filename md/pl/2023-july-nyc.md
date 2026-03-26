@@ -1,10 +1,8 @@
 ---
-title: (Odwołany) Protest PauseAI @ Organizacja Narodów Zjednoczonych, Nowy Jork, 18 lipca
-description: Protest PauseAI, wzywający Radę Bezpieczeństwa ONZ do wprowadzenia globalnego moratorium na największe procesy szkolenia sztucznej inteligencji.
+title: (Odwołane) Protest PauseAI @ Narody Zjednoczone, NYC, 18 lipca
+description: Protest PauseAI, apelujący do Rady Bezpieczeństwa ONZ o wprowadzenie globalnej pauzy w największych pracach nad sztuczną inteligencją.
 ---
-<!-- end of frontmatter metadata, dashes above need to stay -->
-
-- Protest PauseAI, wzywający Radę Bezpieczeństwa ONZ do wprowadzenia globalnego moratorium na największe procesy szkolenia sztucznej inteligencji.
-- Miejsce: Siedziba główna ONZ, Nowy Jork
-- Termin: 18 lipca, 9:30 - 10:30
-- ODWOŁANY
+- Protest PauseAI, apelujący do Rady Bezpieczeństwa ONZ o wprowadzenie globalnej pauzy w największych pracach nad sztuczną inteligencją.
+- Gdzie: Siedziba Narodów Zjednoczonych, Nowy Jork
+- Kiedy: 18 lipca, godz. 9:30 - 10:30
+- ODWOŁANE
