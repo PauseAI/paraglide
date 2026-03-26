@@ -1,88 +1,85 @@
 ---
-title: 4 poziomy regulacji bezpieczeństwa AI
-description: Ramy dla myślenia o tym, jak ograniczyć ryzyka związane z potężnymi systemami AI
+title: 4 Poziomy Regulacji Bezpieczeństwa Sztucznej Inteligencji
+description: Ramy myślowe dotyczące sposobów łagodzenia ryzyka związanego z potężnymi systemami sztucznej inteligencji
 image: /4levels.png
 ---
+Podczas gdy zdolności sztucznej inteligencji rosną, rosną również [ryzyka](/risks), które te systemy stanowią dla ludzkości.
+Wielu naukowców już ostrzegało przed [ryzykiem wymarcia ludzkości](/xrisk).
 
-Wraz ze wzrostem możliwości AI rośnie również ryzyko, jakie te systemy stwarzają dla ludzkości.
-Wielu naukowców już ostrzegało o [ryzyku wyginięcia ludzkości](/xrisk).
+W tym artykule przyjrzymy się naszemu 4-poziomowemu modelowi regulacji bezpieczeństwa sztucznej inteligencji.
 
-W tym artykule przyjrzymy się naszemu 4-poziomowemu modelowi myślenia o tym, jak bezpieczeństwo AI może być regulowane.
+## Potok tworzenia sztucznej inteligencji jako ramy dla zarządzania bezpieczeństwem {#ai-pipeline-as-a-framework-for-safety-governance}
 
-## Rurociąg AI jako ramy dla zarządzania bezpieczeństwem {#ai-pipeline-as-a-framework-for-safety-governance}
+Potok tworzenia sztucznej inteligencji składa się z kilku etapów, z których każdy może być regulowany w różny sposób.
+Potok ten składa się z:
 
-Rurociąg tworzenia AI składa się z różnych etapów, z których każdy może być regulowany w inny sposób.
-Ten rurociąg składa się z:
+- **Sprzętu i algorytmów**, które są wykorzystywane do szkolenia modeli sztucznej inteligencji
+- **Procesów szkolenia**, podczas których sprzęt i algorytmy są wykorzystywane do utworzenia modelu
+- **Wdrożenia**, podczas którego wytrenowany model jest udostępniany publicznie
+- **Użycia**, podczas którego wdrożony model jest wykorzystywany przez osoby i firmy
 
-- **Sprzętu i algorytmów**, które są wykorzystywane do trenowania modeli AI
-- **Uruchomień trenowania**, gdzie sprzęt i algorytmy są wykorzystywane do stworzenia modelu
-- **Wdrożenia**, gdzie wytrenowany model jest udostępniany publicznie
-- **Użycia**, gdzie wdrożony model jest wykorzystywany przez osoby fizyczne i firmy
-
-Im później w rurociągu regulujemy, tym większe ryzyko podejmujemy.
-Jeśli chcemy osiągnąć wysoki poziom bezpieczeństwa, musimy regulować wcześniej w rurociągu.
-Dlatego, gdy wspinamy się po 4 poziomach regulacji AI, cofamy się w rurociągu tworzenia AI.
-
-![4 poziomy regulacji bezpieczeństwa AI](/4levels.png)
+Im później w potoku regulujemy, tym wyższe ryzyko ponosimy.
+Jeśli chcemy wysokiego poziomu bezpieczeństwa, musimy regulować wcześniej w potoku.
+Dlatego też, gdy wspinamy się po 4 poziomach regulacji sztucznej inteligencji, cofamy się w potoku tworzenia sztucznej inteligencji.
 
 ## Poziom 1: Regulacja użycia {#level-1-regulate-usage}
 
 Przykłady:
 
-- **Zakaz uruchamiania autonomicznych agentów** (takich jak AutoGPT)
-- **Zakaz niebezpiecznych instrukcji**
+- **Zakaz uruchamiania autonomicznych agentów** (jak AutoGPT)
+- **Zakaz wydawania niebezpiecznych poleceń**
 
-Te środki mają na celu zapobieżenie użytkownikom wykonywania niebezpiecznych lub szkodliwych działań z modelami AI.
+Te środki mają na celu zapobieganie użytkownikom podejmowania niebezpiecznych lub szkodliwych działań z modelami sztucznej inteligencji.
 Na tym poziomie odpowiedzialność spoczywa na użytkownikach modeli, a nie na twórcach.
-Polegamy na tym, że wszyscy użytkownicy będą przestrzegać regulacji, co może być trudne do osiągnięcia.
-To zapewnia tylko bardzo niski poziom ochrony przed niebezpieczeństwami AI.
+Zależymy od wszystkich (potencjalnie milionów) użytkowników, którzy przestrzegają przepisów.
+To daje nam bardzo niski poziom ochrony przed niebezpieczeństwami sztucznej inteligencji.
 
 ## Poziom 2: Regulacja wdrożenia {#level-2-regulate-deployment}
 
 Przykłady:
 
-- **Wymagania dotyczące testowania przez czerwony zespół**. Oznacza to, że przed wdrożeniem modelu AI jest on testowany przez czerwony zespół, aby sprawdzić, czy może być zhakowany (wyłamany) lub nadużyty.
+- **Wymagania dotyczące testowania przez zespół czerwony**. Oznacza to, że przed wdrożeniem modelu sztucznej inteligencji jest on testowany przez zespół czerwony, aby sprawdzić, czy może być zhakowany (ujęty) lub wykorzystany w sposób niebezpieczny.
 - **Zakaz wdrożenia i udostępniania** modeli z [niebezpiecznymi możliwościami](/dangerous-capabilities).
 
 Regulując wdrożenia, zapobiegamy udostępnianiu niebezpiecznych modeli.
-Oznacza to, że odpowiedzialność spoczywa na twórcach modeli.
-Jest to bezpieczniejsza sytuacja niż poziom 1, ponieważ teraz polegamy na mniejszej grupie ludzi, aby działali odpowiedzialnie.
+To oznacza, że odpowiedzialność spoczywa na twórcach modeli.
+To jest bezpieczniejsza sytuacja niż poziom 1, ponieważ zależymy teraz od mniejszej grupy osób, które muszą postępować odpowiedzialnie.
 
-Jednak nadal zezwalamy na niebezpieczne uruchomienia trenowania, więc wypadki w laboratoriach AI (w tym wycieki niebezpiecznych modeli AI lub stworzenie szkodliwego AI) nadal mogą się zdarzyć.
+Jednak nadal zezwalamy na niebezpieczne procesy szkolenia, więc wypadki w laboratoriach sztucznej inteligencji (w tym wycieki niebezpiecznych modeli sztucznej inteligencji lub tworzenie sztucznej inteligencji, która wymyka się spod kontroli) mogą nadal wystąpić.
 
-## Poziom 3: Regulacja uruchomień trenowania {#level-3-regulate-training-runs}
+## Poziom 3: Regulacja procesów szkolenia {#level-3-regulate-training-runs}
 
 Przykłady:
 
-- **Wymaganie dowodu bezpieczeństwa** przed udzieleniem pozwolenia na trenowanie określonego modelu. Może to obejmować formalny dowód zgodności. [Ten post opisuje niektóre z obecnych problemów z bezpieczeństwem](https://www.lesswrong.com/posts/mnoc3cKY3gXMrTybs/a-list-of-core-ai-safety-problems-and-how-i-hope-to-solve).
-- Ustawienie **pułapu skali dla trenowania nowych modeli** (np. maksymalna liczba flops użytych). Mogłoby to również obejmować proces fine-tuningu.
-- **Wymaganie licencji** na trenowanie modeli AI (powyżej określonego rozmiaru / z określonymi możliwościami).
-- **Zakaz trenowania na niebezpiecznych typach danych**. Niektóre typy danych trenowania mogą prowadzić do [niebezpiecznych możliwości](/dangerous-capabilities), takich jak hakowanie lub tworzenie broni biologicznej. Moglibyśmy zakazać trenowania na danych, które zawierają tego typu wiedzę.
-- **Zakaz trenowania na danych chronionych prawem autorskim**. Nie dotyczy to bezpośrednio niebezpiecznych danych, ale ogranicza ilość danych, które mogą być użyte, co oznacza, że daje nam czas na rozwiązanie problemu budowy bezpiecznych modeli AI.
+- **Wymaganie dowodu bezpieczeństwa** przed udzieleniem pozwolenia na szkolenie określonego modelu. Może to obejmować formalny dowód wyrównania. [Ten post szczegółowo opisuje niektóre z obecnych problemów związanych z bezpieczeństwem](https://www.lesswrong.com/posts/mnoc3cKY3gXMrTybs/a-list-of-core-ai-safety-problems-and-how-i-hope-to-solve).
+- Ustawienie **limitu skali** dla szkolenia nowych modeli (np. maksymalnej liczby operacji zmiennoprzecinkowych). Może to również obejmować proces dokształcania.
+- **Wymaganie licencji** na szkolenie modeli sztucznej inteligencji (powyżej określonego rozmiaru / z określonymi możliwościami).
+- **Zakaz szkolenia na niebezpiecznych typach danych**. Niektóre typy danych szkoleniowych mogą prowadzić do [niebezpiecznych możliwości](/dangerous-capabilities), takich jak hakowanie lub tworzenie broni biologicznych. Moglibyśmy zabronić szkolenia na danych, które zawierają tego typu wiedzę.
+- **Zakaz szkolenia na danych objętych prawem autorskim**. To nie dotyka bezpośrednio niebezpiecznych danych, ale ogranicza ilość danych, które można wykorzystać, co oznacza, że daje nam czas na znalezienie sposobu na budowanie bezpiecznych modeli sztucznej inteligencji.
 
-Regulując uruchomienia trenowania, zapobiegamy tworzeniu niebezpiecznych modeli.
-Zapobiega to wypadkom w laboratoriach AI, które przestrzegają regulacji.
+Regulując procesy szkolenia, zapobiegamy tworzeniu niebezpiecznych modeli od samego początku.
+To zapobiegnie wypadkom w laboratoriach sztucznej inteligencji, które przestrzegają przepisów.
 
-Jednak nadal zezwalamy na dystrybucję sprzętu i algorytmów, które mogą być użyte do trenowania niebezpiecznych modeli, więc nadal polegamy na twórcach tych modeli, aby działali odpowiedzialnie.
+Jednak nadal zezwalamy na dystrybucję sprzętu i algorytmów, które mogą być wykorzystywane do szkolenia niebezpiecznych modeli, więc nadal zależymy od twórców tych modeli, aby postępowali odpowiedzialnie.
 
 ## Poziom 4: Regulacja sprzętu i algorytmów {#level-4-regulate-hardware--algorithms}
 
 Przykłady:
 
-- **Ograniczenie dystrybucji sprzętu do trenowania**. Specjalistyczny sprzęt do trenowania modeli AI szybko staje się najważniejszym produktem producentów chipów. Łańcuch dostaw dla tego sprzętu jest bardzo scentralizowany, a sprzęt jest bardzo drogi. Oznacza to, że jest [relatywnie łatwy do regulacji](https://arxiv.org/abs/2303.11341) dystrybucja tego sprzętu.
-- **Zakaz publikowania nowych architektur trenowania**. Nowe architektury trenowania AI mogą prowadzić do dramatycznych wzrostów możliwości. Model Transformer, na przykład, umożliwił praktycznie wszystkie ostatnie postępy w AI. Moglibyśmy ograniczyć publikowanie takich architektur, aby zapobiec nagłym skokom możliwości.
+- **Ograniczenie dystrybucji sprzętu szkoleniowego**. Specjalistyczny sprzęt do szkolenia modeli sztucznej inteligencji staje się coraz bardziej istotnym produktem producentów chipów. Łańcuch dostaw tego sprzętu jest bardzo scentralizowany, a sprzęt jest bardzo drogi. To oznacza, że jest [relatywnie łatwo regulować](https://arxiv.org/abs/2303.11341) dystrybucję tego sprzętu.
+- **Zakaz publikacji nowych architektur szkoleniowych**. Nowe architektury szkoleniowe sztucznej inteligencji mogą prowadzić do dramatycznych wzrostów możliwości. Model Transformer, na przykład, umożliwił prawie wszystkie niedawne postępy w sztucznej inteligencji. Moglibyśmy ograniczyć publikację takich architektur, aby zapobiec nagłym skokom możliwości.
 
-Regulując również sprzęt i algorytmy, czynimy nie tylko nielegalnym, ale także bardzo trudnym trenowanie niebezpiecznych modeli.
-Daje nam to najlepszą ochronę przed ryzykami związanymi z AI.
+Regulując również sprzęt i algorytmy, robimy to nie tylko nielegalnym, ale także bardzo trudnym do szkolenia niebezpiecznych modeli.
+To daje nam najlepszą ochronę przed ryzykiem związanym z sztuczną inteligencją.
 
 ## Ograniczenia {#limitations}
 
-Należy zauważyć, że ten model nie jest doskonały i nie wszystkie możliwe rodzaje regulacji AI mieszczą się w jednym z wymienionych poziomów.
-Na przykład, odpowiedzialność prawna twórców modeli może być klasyfikowana jako regulacja typu "użycie" na poziomie 1, ponieważ jest egzekwowana po wdrożeniu, ale mogłaby być również klasyfikowana jako regulacja typu 2 lub 3, ponieważ może pomóc twórcom rozważyć, czy dany model powinien być wdrożony lub trenowany w pierwszej kolejności.
+Należy zauważyć, że ten model nie jest idealny, a nie wszystkie możliwe typy regulacji sztucznej inteligencji mieszczą się ładnie w jednym z wymienionych poziomów.
+Na przykład, odpowiedzialność prawna twórców modeli może być sklasyfikowana jako poziom 1 "użycie" typu regulacji, ponieważ jest egzekwowana po wdrożeniu, ale mogłaby być również sklasyfikowana jako poziom 2 lub 3 typu regulacji, ponieważ może pomóc twórcom rozważyć, czy dany model powinien być wdrożony lub szkoleniowy w pierwszej kolejności.
 
-## Wnioski {#conclusions}
+## Podsumowanie {#conclusions}
 
-W tym artykule przyjrzeliśmy się naszemu 4-poziomowemu modelowi myślenia o tym, jak bezpieczeństwo AI może być regulowane.
-Używając tego modelu, możemy łatwiej rozumować o skuteczności regulacji AI na różnych etapach rurociągu tworzenia AI.
-Możemy również zobaczyć, że pierwsze dwa poziomy nie oferują dużej ochrony przed (egzystencjalnymi) ryzykami związanymi z AI.
-Zapobieganie niebezpiecznym uruchomieniom trenowania i regulacja sprzętu i algorytmów są o wiele bardziej niezawodnymi sposobami zapewnienia bezpieczeństwa.
+W tym artykule przyjrzymy się naszemu 4-poziomowemu modelowi regulacji bezpieczeństwa sztucznej inteligencji.
+Wykorzystując ten model, możemy łatwiej rozważyć skuteczność regulacji sztucznej inteligencji na różnych etapach potoku tworzenia sztucznej inteligencji.
+Możemy również zobaczyć, że dwa pierwsze poziomy nie oferują zbyt dużej ochrony przed (egzystencjalnymi) ryzykami związanymi z sztuczną inteligencją.
+Zapobieganie niebezpiecznym procesom szkolenia i regulacja sprzętu i algorytmów są o wiele bardziej niezawodnymi sposobami zapewnienia bezpieczeństwa.
