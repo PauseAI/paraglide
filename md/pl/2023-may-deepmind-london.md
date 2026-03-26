@@ -1,7 +1,8 @@
 ---
-title: Protest PauseAI przed Google DeepMind - 19-22 maja
-description: Organizujemy protest przed Google DeepMind, aby zażądać szczytu w sprawie wstrzymania rozwoju sztucznej inteligencji.
+title: Protest PauseAI @ Google DeepMind - 19-22 maja
+description: Organizujemy protest pod Google DeepMind, aby domagać się zwołania szczytu w sprawie wstrzymania rozwoju sztucznej inteligencji.
 ---
+ <!-- end of frontmatter metadata, dashes above need to stay -->
 
 <script>
     import WidgetConsent from '$lib/components/widget-consent/WidgetConsent.svelte'
@@ -13,121 +14,121 @@ description: Organizujemy protest przed Google DeepMind, aby zażądać szczytu 
 </div>
 </WidgetConsent>
 
-Przed udziałem w tym proteście prosimy o zapoznanie się z Kodeksem postępowania protestujących PauseAI [tutaj](https://pauseai.info/protesters-code-of-conduct).
+Przed udziałem w tym proteście, prosimy o przeczytanie [kodu postępowania protestujących PauseAI](https://pauseai.info/protesters-code-of-conduct).
 
 Co:
 
-- Prawny protest przed Google DeepMind + podnoszenie świadomości i rekrutacja przed EAG London
+- Organizujemy legalny protest pod Google DeepMind oraz akcję zwiększania świadomości i rekrutacji podczas EAG London
 
 Kiedy i gdzie:
 
-- 12:00-14:00 pt 19 maja przed Google DeepMind
-- 12:00-14:00 sob 20 i niedz 21 maja przed EAG London
-- 17:00-20:00 pon 22 maja przed Google DeepMind
-- W przyszłości: regularny (cotygodniowy?) protest?
+- 12:00-14:00, piątek 19 maja, pod Google DeepMind
+- 12:00-14:00, sobota 20 i niedziela 21 maja, pod EAG London
+- 17:00-20:00, poniedziałek 22 maja, pod Google DeepMind
+- W przyszłości: planujemy regularne (cotygodniowe?) protesty
 
 Dokładne lokalizacje:
 
-- Google DeepMind w budynku [S2 Handyside](https://www.kingscross.co.uk/s2-handyside): [2 Canal Reach](https://goo.gl/maps/HEA1pvEQJRfmymiEA?coh=178571&entry=tt), King's Cross, Londyn, N1C 4DC
-- Effective Altruism Global London ([EAG London](https://www.effectivealtruism.org/ea-global/events/ea-global-london-2023)): [Tobacco Dock](https://goo.gl/maps/MfVJ6Exfv7B1NbcL6?coh=178571&entry=tt), Tobacco Quay, Wapping Lane, Wapping, Londyn, E1W 2SF
+- Google DeepMind w budynku [S2 Handyside](https://www.kingscross.co.uk/s2-handyside): [2 Canal Reach](https://goo.gl/maps/HEA1pvEQJRfmymiEA?coh=178571&entry=tt), King's Cross, London, N1C 4DC
+- Effective Altruism Global London ([EAG London](https://www.effectivealtruism.org/ea-global/events/ea-global-london-2023)): [Tobacco Dock](https://goo.gl/maps/MfVJ6Exfv7B1NbcL6?coh=178571&entry=tt), Tobacco Quay, Wapping Lane, Wapping, London, E1W 2SF
 
 Dlaczego:
 
-- Aby zażądać moratorium na rozwój AGI
-- Aby podnieść świadomość publiczną na temat zagrożenia stwarzanego przez rozwój AGI
-- Aby stworzyć i wykorzystać presję społeczną na Google DeepMind i inne firmy AI
-- Aby zbudować pęd dla ruchu społecznego, który domaga się lepszej bezpieczeństwa, zarządzania i etyki AI w ogóle
-- W szczególności, aby ustanowić precedens dla regularnego (cotygodniowego?) protestu
+- Chcemy wezwać do moratorium na rozwój AGI
+- Chcemy zwiększyć świadomość społeczną o zagrożeniach związanych z rozwojem AGI
+- Chcemy wywrzeć presję społeczną na Google DeepMind i inne firmy zajmujące się sztuczną inteligencją
+- Chcemy zbudować ruch społeczny, który będzie domagał się lepszych standardów bezpieczeństwa, zarządzania i etyki w dziedzinie sztucznej inteligencji
+- Chcemy ustanowić precedens dla regularnych (cotygodniowych?) protestów
 
 Jak:
 
-- Będziemy prawnie i pokojowo stać przed Google DeepMind z transparentami i banerem, ewentualnie rozdając ulotki, naklejki i przypinki pracownikom DeepMind i przechodniom
-- Będziemy mieć szacunkowe, współpracujące rozmowy
-- Możemy wygłosić przemówienia (bardziej prawdopodobne) i/lub śpiewać i/lub skandować (mniej prawdopodobne)
-- Możemy ubrać się w kostiumy zwracające uwagę
-- Nasz ton będzie informacyjny, włączający i nawet humorystyczny, a nie konfrontacyjny i zakłócający
-- Naszym celem jest zgromadzenie do 30 osób na tym pierwszym proteście
+- Będziemy protestować w sposób pokojowy i zgodny z prawem pod Google DeepMind z transparentami i banerem, rozdając ulotki, naklejki i odznaki dla pracowników DeepMind i przechodniów
+- Będziemy prowadzić szanujące i współpracujące rozmowy
+- Możliwe, że wygłosimy przemówienia, zaśpiewamy lub skandujemy
+- Możliwe, że będziemy nosić przyciągające uwagę kostiumy
+- Nasz ton będzie informacyjny, włączający i humorystyczny, a nie konfrontacyjny i burzycielski
+- Naszym celem jest przyciągnięcie do 30 osób na ten pierwszy protest
 
-Prawny:
+Prawne:
 
-- Jest to całkowicie prawny, zgodny z prawem i niezatrzymywalny protest
-- Będziemy stać na chodniku (przestrzeń publiczna), nie na prywatnym terenie
+- Jest to całkowicie legalny i niegrożący aresztem protest
+- Będziemy stać na chodniku (przestrzeni publicznej), a nie na terenie prywatnym
 
-Prasa/media/reklama:
+Prasa/mediów/publiczność:
 
-- Alistair napisze komunikat prasowy i podzieli się nim z gazetami itp.
-- Alistair opublikuje na forum EA, Alignment Forum i LessWrong
-- Proszę udostępnić jak najdalej w mediach społecznościowych, słowem itp.!
+- Alistair przygotuje komunikat prasowy i udostępni go gazetom itp.
+- Alistair opublikuje na EA Forum, Alignment Forum i LessWrong
+- Zachęcamy do udostępniania tego na mediach społecznościowych, słowem z ust do ust itd.!
 - Wydarzenie na Facebooku [tutaj](https://fb.me/e/Tc3BBimH)
 
 ## Komunikacja i narracja {#messaging--narrative}
 
 Problem:
 
-- Nie wiemy, jak działa AI
-- Nie rozwiązaliśmy problemu dostosowania
-- Rozwiąż problem dostosowania najpierw
-- Jak kontrolujemy sztuczną superinteligencję?
-- Bezpieczeństwo AI, a potem rozwój AI
-- AI stanowi egzystencjalne zagrożenie dla ludzkości
-- 30% szans na złe wyniki z ASI -- [badacze bezpieczeństwa AI](https://pauseai.info/xrisk)
-- Ryzyko zniszczenia planety jest większe niż 1% -- [badacze AI](https://twitter.com/liron/status/1656929936639430657?s=20)
-- Eksperci są zaniepokojeni
+- Nie rozumiemy, jak działa sztuczna inteligencja
+- Nie rozwiązaliśmy problemu wyrównania
+- Najpierw musimy rozwiązać problem wyrównania
+- Jak kontrolować sztuczną superinteligencję?
+- Bezpieczeństwo sztucznej inteligencji jest ważniejsze niż jej rozwój
+- Sztuczna inteligencja stanowi zagrożenie dla ludzkości
+- 30% szans na negatywne skutki rozwoju ASI — [badacze bezpieczeństwa sztucznej inteligencji](https://pauseai.info/xrisk)
+- Ryzyko zniszczenia planety jest większe niż 1% — [badacze sztucznej inteligencji](https://twitter.com/liron/status/1656929936639430657?s=20)
+- Ekspertów martwi to
 - Zobacz cytaty ekspertów PauseAI [tutaj](https://pauseai.info/xrisk)
-- Wstrzymaj wyścig na dno
-- Co jeśli nie możemy odłączyć?
-- Zabiliśmy neandertalczyków; czy AI nas zabije?
-- AI wymazująca ludzkość jest "nie do pomyślenia" -- Hinton
-- To zmieni wszystko
-- #niepatrzwgorę
-- Nie pozwól AI zdecydować o naszej przyszłości
-- Co jeśli AI stanie się nieposłuszna?
+- Wstrzymajmy wyścig na dno
+- Co, jeśli nie będziemy w stanie wyłączyć sztucznej inteligencji?
+- Wymordowaliśmy Neandertalczyków; czy sztuczna inteligencja nas wymorduje?
+- Sztuczna inteligencja, która wymorduje ludzkość, jest "niewyobrażalna" — Hinton
+- To wszystko zmieni
+- #dontlookup
+- Nie pozwólmy, aby sztuczna inteligencja decydowała o naszej przyszłości
+- Co, jeśli sztuczna inteligencja zboczy z drogi?
 
 Rozwiązanie:
 
-- Wstrzymaj AI
-- #wstrzymajAI
-- #po prostu patrz w górę
-- Nie buduj AGI
-- Zatrzymaj budowanie AGI
+- Wstrzymajmy rozwój sztucznej inteligencji
+- #pauseAI
+- #justlookup
+- Nie budujmy AGI
+- Przestańmy budować AGI
 - Moratorium na rozwój AGI, teraz
-- Globalny szczyt AI, teraz
-- Globalny traktat AI, teraz
-- Globalne referendum AI, teraz [bardziej kontrowersyjne]
+- Światowy szczyt sztucznej inteligencji, teraz
+- Światowy traktat sztucznej inteligencji, teraz
+- Światowe referendum sztucznej inteligencji, teraz [bardziej kontrowersyjne]
 
-Końcowy wynik:
+Efekt końcowy:
 
-- Bezpieczna, bezpieczna, dostosowana AI
-- Lato AI
-- Nie potrzebujemy AGI dla niesamowitej przyszłości
+- Bezpieczna, niezawodna, wyrównana sztuczna inteligencja
+- Lato sztucznej inteligencji
+- Nie potrzebujemy AGI, aby mieć wspaniałą przyszłość
 
 Więcej pomysłów na komunikację i narrację:
 
 - Strona internetowa PauseAI [tutaj](https://pauseai.info/risks)
-- Pomysły Kampanii na rzecz Bezpieczeństwa AI (CFAIS) na testowanie wiadomości [tutaj](https://docs.google.com/document/d/10D5WxU-vixiFe-klLWdSAJmYTB3Njtu3YXbz8qM2qZY/edit#heading=h.i7iryjlsib9y)
+- Pomysły Campaign for AI Safety (CFAIS) na testowanie komunikatu [tutaj](https://docs.google.com/document/d/10D5WxU-vixiFe-klLWdSAJmYTB3Njtu3YXbz8qM2qZY/edit#heading=h.i7iryjlsib9y)
 - Wyniki testowania narracji CFAIS [tutaj](https://www.campaignforaisafety.org/uncovering-effective-narratives-for-convincing-people-to-support-agi-moratorium/)
 
-## Wyposażenie {#equipment}
+## Sprzęt {#equipment}
 
 Baner
 
-- Alistair wydrukuje baner dla dwóch osób z logiem PauseAI [tutaj](https://twitter.com/Radlib4/status/1654262421794717696?s=20)
+- Alistair wydrukuje dwuosobowy baner z logo PauseAI na nim
 
 Transparenty
 
-- Z powodu braku czasu i niepewności co do optymalnych wiadomości na transparentach, Alistair nie planuje obecnie drukowania transparentów (przynajmniej w dużych ilościach)
-- Zachęcamy wszystkich do stworzenia i przyniesienia własnych transparentów (np. za pomocą kartonu i markera!)
-- Jeśli chcesz wydrukować transparenty i potrzebujesz finansowania, proszę porozmawiaj z Alistairem
+- Ze względu na brak czasu i niepewność co do optymalnych komunikatów na transparentach, Alistair nie planuje ich drukowania (przynajmniej na razie)
+- Zachęcamy wszystkich do stworzenia i przyniesienia własnych transparentów (np. z kartonu i markera)
+- Jeśli chcesz wydrukować transparenty i potrzebujesz dofinansowania, prosimy o kontakt z Alistairem
 
 Ulotki
 
-- Z powodu niepewności co do tego, co powinno znaleźć się na ulotkach, Alistair nie planuje obecnie drukowania ulotek
-- Alistair wydrukuje dużą ilość listów FLI (i ewentualnie artykułów Yudkowsky Time) do rozdania
-- Jeśli chcesz to zrobić i potrzebujesz finansowania, proszę porozmawiaj z Alistairem
+- Ze względu na niepewność co do tego, co powinno znaleźć się na ulotkach, Alistair nie planuje ich drukowania
+- Alistair wydrukuje listy FLI (i możliwe artykuły Yudkowsky Time) do rozdania
+- Jeśli chcesz to zrobić i potrzebujesz dofinansowania, prosimy o kontakt z Alistairem
 
-Naklejki i przypinki
+Naklejki i odznaki
 
-- Alistair spróbuje wydrukować naklejki i przypinki PauseAI
+- Alistair spróbuje wydrukować naklejki i odznaki PauseAI
 
 ## Kontakt {#contact}
 
