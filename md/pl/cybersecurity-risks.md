@@ -1,47 +1,74 @@
 ---
-title: Ryzyka bezpieczeństwa cybernetycznego związane z modelami AI nowej generacji
-description: Jak AI może być wykorzystana do zhakowania wszystkich urządzeń.
+title: Ryzyko cyberbezpieczeństwa związane z modelami AI na granicy możliwości
+description: Jak AI może być wykorzystywana do hakowania wszystkich urządzeń.
 ---
+ <!-- end of frontmatter metadata, dashes above need to stay -->
 
-Praktycznie wszystko, co robimy dzisiaj, jest w jakiś sposób zależne od komputerów. Płacimy za zakupy, planujemy nasze dni, kontaktujemy się z bliskimi i nawet prowadzimy samochody za pomocą komputerów. I praktycznie wszystkie te komputery są połączone ze sobą. To sprawia, że wszyscy jesteśmy podatni na ataki cybernetyczne.
+Prawie wszystko, co robimy dzisiaj, zależy w jakiś sposób od komputerów.
+Płacimy za nasze zakupy, planujemy nasz dzień, kontaktujemy się z naszymi bliskimi i nawet prowadzimy nasze samochody z użyciem komputerów.
+I prawie wszystkie z tych komputerów są połączone ze sobą, tworząc ogromną sieć.
+To sprawia, że wszyscy jesteśmy narażeni na ataki cybernetyczne.
 
-Bardzo potężne cyberbronie, złośliwe oprogramowanie i botnety (takie jak [Stuxnet](https://www.youtube.com/watch?v=nd1x0csO3hU), [Mirai](<https://pl.wikipedia.org/wiki/Mirai_(z%C5%82o%C5%9Bliwe_oprogramowanie)>) i [EMOTET](https://pl.wikipedia.org/wiki/Emotet)) zawsze były trudne do stworzenia. Na przykład [cyberbroń Pegasus](<https://pl.wikipedia.org/wiki/Pegasus_(oprogramowanie_szpiegowskie)>), kosztowała setki milionów dolarów do rozwoju. Znalezienie tzw. exploitów zero-day (podatności, które jeszcze nie zostały odkryte) wymaga wielu umiejętności i czasu - tylko wyspecjalizowani hakerzy mogą to zrobić. Jednak, gdy AI stanie się wystarczająco zaawansowana, nie będzie to już problem. Zamiast zatrudniać zespół wysoko wykwalifikowanych ekspertów ds. bezpieczeństwa/hakerów, aby znaleźć luki w zabezpieczeniach, każdy mógłby po prostu użyć znacznie tańszej AI.
+Bardzo potężne cyberbronie, malware i botnety (takie jak [Stuxnet](https://www.youtube.com/watch?v=nd1x0csO3hU), [Mirai](<https://en.wikipedia.org/wiki/Mirai_(malware)>) i [EMOTET](https://en.wikipedia.org/wiki/Emotet)) zawsze były trudne do stworzenia.
+Na przykład, broń cybernetyczna [Pegasus](<https://en.wikipedia.org/wiki/Pegasus_(spyware)>), kosztowała setki milionów dolarów, aby ją rozwinąć.
+Znajdowanie tzw. luk w zabezpieczeniach, które jeszcze nie zostały odkryte (zero-day exploitów), wymaga dużej umiejętności i dużo czasu - tylko bardzo wyspecjalizowani hakerzy mogą to zrobić.
+Jednakże, gdy AI stanie się wystarczająco zaawansowana, to już nie będzie takie.
+Zamiast musieć zatrudniać zespół wysoko wykwalifikowanych ekspertów ds. bezpieczeństwa/hakerów, aby znaleźć luki zero-day, każdy mógłby po prostu użyć znacznie tańszego AI.
 
-## Modele AI mogą samodzielnie znaleźć i wykorzystać luki w zabezpieczeniach {#ai-models-can-autonomously-find-and-exploit-vulnerabilities}
+## Modele AI mogą samodzielnie znajdować i wykorzystywać luki w zabezpieczeniach {#ai-models-can-autonomously-find-and-exploit-vulnerabilities}
 
-Najnowsze systemy AI mogą już analizować i pisać oprogramowanie. Mogą [znaleźć luki w zabezpieczeniach](https://betterprogramming.pub/i-used-gpt-3-to-find-213-security-vulnerabilities-in-a-single-codebase-cc3870ba9411) w oprogramowaniu i [mogą być użyte do ich wykorzystania](https://blog.checkpoint.com/2023/03/15/check-point-research-conducts-initial-security-analysis-of-chatgpt4-highlighting-potential-scenarios-for-accelerated-cybercrime/). GPT-4 może już [samodzielnie zhakować strony internetowe](https://arxiv.org/html/2402.06664v1), wykonując zadania tak złożone jak wydobycie schematu bazy danych i wstrzykiwanie kodu SQL bez informacji zwrotnych od człowieka, co zostało odkryte 18 miesięcy po zakończeniu szkolenia GPT-4. GPT-4 już [przewyższa 88%](https://arxiv.org/pdf/2402.11814.pdf) ludzkich hakerów w konkursie CTF. Może również [samodzielnie wykorzystać 87% testowanych luk w zabezpieczeniach](https://arxiv.org/abs/2404.08144), co jest ogromnym krokiem naprzód w porównaniu z GPT-3.5 lub modelami open-source, które wszystkie uzyskały 0%. Zespoły wielu LLM [działają jeszcze lepiej](https://arxiv.org/abs/2406.01637) - mogą wykorzystać rzeczywiste luki w zabezpieczeniach zero-day. W miarę wzrostu możliwości AI, wzrasta również liczba luk w zabezpieczeniach, które mogą wykryć i stworzyć. Nie są jeszcze tak dobrzy w tym, jak najlepsi ludzie, więc obecnie niebezpieczeństwo jest ograniczone. Jednak możliwości szybko rosną i mogą skoczyć dość nagle.
+Najnowsze systemy AI już mogą analizować i pisać oprogramowanie.
+Mogą [znajdować luki w zabezpieczeniach](https://betterprogramming.pub/i-used-gpt-3-to-find-213-security-vulnerabilities-in-a-single-codebase-cc3870ba9411) w oprogramowaniu i [mogą być wykorzystywane do ich wykorzystania](https://blog.checkpoint.com/2023/03/15/check-point-research-conducts-initial-security-analysis-of-chatgpt4-highlighting-potential-scenarios-for-accelerated-cybercrime/).
+GPT-4 już może [samodzielnie hakować strony internetowe](https://arxiv.org/html/2402.06664v1), wykonując zadania tak złożone, jak ekstrakcja schematu bazy danych i iniekcja SQL bez informacji zwrotnej od ludzi, co zostało odkryte 18 miesięcy po zakończeniu szkolenia GPT-4.
+GPT-4 już [przewyższa 88%](https://arxiv.org/pdf/2402.11814.pdf) ludzkich hakerów w konkursie CTF.
+Może również [samodzielnie wykorzystywać 87% przetestowanych luk w zabezpieczeniach](https://arxiv.org/abs/2404.08144), co jest ogromnym postępem w porównaniu z GPT-3.5 lub modelami open-source, które wszystkie uzyskały 0%.
+Zespoły składające się z wielu modeli językowych (LLM) mogą [działać jeszcze lepiej](https://arxiv.org/abs/2406.01637) - są w stanie wykorzystywać rzeczywiste luki zero-day.
+Im większe są możliwości AI, tym większe są luki w zabezpieczeniach, które mogą wykryć i exploity, które mogą stworzyć.
+Nie są jeszcze tak dobre w tym, jak najlepsi ludzie, więc na razie niebezpieczeństwo jest ograniczone.
+Jednakże, możliwości rosną bardzo szybko i mogą skoczyć do przodu w każdej chwili.
 
-Należy zauważyć, że AI umożliwia również zupełnie nowe rodzaje ataków. Na przykład AI może być użyta do [usłyszenia hasła, które wpisałeś podczas rozmowy online](https://beebom.com/ai-crack-password-listening-keyboard-sounds/), lub użyć [Wi-Fi, aby zobaczyć ludzi przez ściany](https://www.marktechpost.com/2023/02/15/cmu-researchers-create-an-ai-model-that-can-detect-the-pose-of-multiple-humans-in-a-room-using-only-the-signals-from-wifi/). AI może być również użyta do stworzenia [samomodyfikującego się złośliwego oprogramowania](https://www.hyas.com/blog/blackmamba-using-ai-to-generate-polymorphic-malware), co sprawia, że jest znacznie trudniejsze do wykrycia.
+Należy zauważyć, że AI umożliwia również całkowicie nowe rodzaje ataków.
+Na przykład, AI może być wykorzystywana do [słuchania hasła, które wpisujesz podczas połączenia online](https://beebom.com/ai-crack-password-listening-keyboard-sounds/)
+lub do [widzenia ludzi przez ściany za pomocą Wi-Fi](https://www.marktechpost.com/2023/02/15/cmu-researchers-create-an-ai-model-that-can-detect-the-pose-of-multiple-humans-in-a-room-using-only-the-signals-from-wifi/).
+AI może być również wykorzystywana do tworzenia [samomodyfikującego się oprogramowania złośliwego (malware)](https://www.hyas.com/blog/blackmamba-using-ai-to-generate-polymorphic-malware), co utrudnia jego wykrycie.
 
-Prawdopodobnie nadejdzie moment, w którym AI będzie lepsza w hakowaniu niż najlepsi ludzcy hakerzy. To może pójść źle na wiele sposobów.
+Prawdopodobnie nadejdzie moment, w którym AI będzie lepsza w hakowaniu niż najlepsi ludzcy hakerzy.
+To może pójść nie tak w wielu różnych sposobach.
 
-- **Infrastruktura**: Cyberbronie mogą być użyte do uzyskania dostępu lub wyłączenia krytycznej infrastruktury, takiej jak [rurociągi naftowe](https://pl.wikipedia.org/wiki/Atak_ransomware_na_Colonial_Pipeline) lub [sieci energetyczne](https://obr.uk/box/cyber-attacks-during-the-russian-invasion-of-ukraine/).
-- **Finanse**: Cyberbronie mogą być użyte do [kradzieży pieniędzy z banków](https://pl.wikipedia.org/wiki/Atak_hakerski_na_SWIFT_w_2015_i_2016_roku) lub do [manipulowania rynkiem akcji](https://pl.wikipedia.org/wiki/Flash_crash_w_2010_roku).
-- **Wojskowość**: Urządzenia takie jak broń i czujniki są coraz bardziej zależne od łączności bezprzewodowej i złożonego oprogramowania.
+- **Infrastruktura**: Cyberbronie mogą być wykorzystywane do uzyskania dostępu lub wyłączenia krytycznej infrastruktury, takiej jak [rurociągi naftowe](https://en.wikipedia.org/wiki/Colonial_Pipeline_ransomware_attack) lub [sieci energetyczne](https://obr.uk/box/cyber-attacks-during-the-russian-invasion-of-ukraine/).
+- **Finanse**: Cyberbronie mogą być wykorzystywane do [kradzieży pieniędzy z banków](https://en.wikipedia.org/wiki/2015%E2%80%932016_SWIFT_banking_hack) lub do [manipulowania rynkiem akcji](https://en.wikipedia.org/wiki/2010_flash_crash).
+- **Wojskowość**: Urządzenia takie jak broń i czujniki coraz bardziej zależą od połączeń bezprzewodowych i złożonego oprogramowania.
 
-## Duże ataki cybernetyczne {#large-scale-cyberattacks}
+## Ataki cybernetyczne na dużą skalę {#large-scale-cyberattacks}
 
-Możliwe jest, że tak potężna AI zostanie użyta do stworzenia wirusa, który wykorzystuje dużą liczbę luk w zabezpieczeniach zero-day. Wystarczająco zdolna AI mogłaby analizować i znaleźć luki w zabezpieczeniach w kodzie źródłowym wszystkich systemów operacyjnych i innych oprogramowań. Taki wirus mógłby zainfekować dowolny komputer, niezależnie od systemu operacyjnego, poprzez wiele kanałów, takich jak Wi-Fi, Bluetooth, UTP itp. To mogłoby dać pełną kontrolę nad tymi maszynami i pozwolić kontrolerowi na kradzież danych, użycie sprzętu do własnych obliczeń, zaszyfrowanie zawartości w celu okupu lub [całkowite wyłączenie maszyny](https://pl.wikipedia.org/wiki/Hardware_Trojan).
+Może być możliwe, że tak potężna AI będzie wykorzystywana do stworzenia wirusa, który wykorzystuje wiele luk zero-day.
+Wystarczająco wykwalifikowana AI mogłaby analizować i znajdować luki w zabezpieczeniach w kodzie źródłowym wszystkich systemów operacyjnych i innych programów.
+Taki wirus mógłby zainfekować każdy komputer, niezależnie od systemu operacyjnego, za pomocą wielu kanałów, takich jak Wi-Fi, Bluetooth, UTP itp.
+To mogłoby dać pełną kontrolę nad tymi maszynami i pozwolić kontrolerowi na kradzież danych, wykorzystanie sprzętu do własnych obliczeń, zaszyfrowanie zawartości w celu okupu lub [wyłączenie maszyny całkowicie](https://en.wikipedia.org/wiki/Hardware_Trojan).
 
-Wirus taki mógłby być stworzony jako narzędzie przez przestępców do kradzieży pieniędzy lub jako bardzo destrukcyjna broń cybernetyczna przez naród lub organizację terrorystyczną. Jednak w miarę jak AI staje się bardziej agentywna, mogłaby również być samodzielnie stworzona i rozmieszczona przez [źle ustawioną AI](/xrisk).
+Wirus taki mógłby być stworzony jako narzędzie przez przestępców do kradzieży pieniędzy lub jako bardzo destrukcyjna broń cybernetyczna przez naród lub organizację terrorystyczną.
+Jednakże, gdy AI staje się bardziej autonomiczna, może być również samodzielnie stworzona i wdrożona przez [niezgodną AI](/xrisk).
 
-Jeśli celem ataku cybernetycznego było wyłączenie urządzeń i infrastruktury, szkody mogłyby być ogromne. Nasze społeczeństwo jest coraz bardziej zależne od komputerów i Internetu. Płatności, transport, komunikacja, planowanie, łańcuchy dostaw, sieci energetyczne... Jeśli nasze urządzenia nie działają prawidłowo, wiele części naszego społeczeństwa również przestaje działać.
+Jeśli celem ataku cybernetycznego było wyłączenie urządzeń i infrastruktury, szkody mogłyby być ogromne.
+Nasze społeczeństwo coraz bardziej zależy od komputerów i internetu.
+Płatności, transport, komunikacja, planowanie, łańcuchy dostaw, sieci energetyczne...
+Jeśli nasze urządzenia przestaną działać prawidłowo, wiele części naszego społeczeństwa przestanie działać również.
 
-Ponad [93% ekspertów ds. bezpieczeństwa cybernetycznego](https://www.weforum.org/publications/global-cybersecurity-outlook-2023/) uważa, że „daleko idące, katastrofalne zdarzenie cybernetyczne jest prawdopodobne w ciągu najbliższych dwóch lat”.
+Ponad [93% ekspertów ds. cyberbezpieczeństwa](https://www.weforum.org/publications/global-cybersecurity-outlook-2023/) uważa, że „zdarzenie cybernetyczne o dużym zasięgu i katastrofalnych skutkach jest prawdopodobne w ciągu najbliższych dwóch lat”.
 
-## Zmniejszanie ryzyka bezpieczeństwa cybernetycznego AI {#mitigating-ai-cybersecurity-risks}
+## Zmniejszanie ryzyka cyberbezpieczeństwa AI {#mitigating-ai-cybersecurity-risks}
 
-Historia powyżej może się wydarzyć tylko wtedy, gdy:
+Historia powyżej może się zdarzyć tylko wtedy, gdy:
 
-1. **Możliwość znalezienia luk w zabezpieczeniach zero-day** pojawi się. Obecne modele mogą już odkrywać niektóre luki w zabezpieczeniach, ale prawdopodobnie ulegnie to poprawie wraz z nowszymi modelami.
-2. **Model trafia w ręce złych aktorów**. Może to się stać, jeśli wagi modelu zostaną wyciekłe, jeśli model zostanie udostępniony jako open-source lub jeśli zostanie opracowany przez złośliwego aktora.
-3. **Luki w zabezpieczeniach nie zostaną załatane** przed wdrożeniem takiej cyberbroni. Niestety, obrońcy są w niekorzystnej sytuacji, jeśli model jest szeroko rozpowszechniony z dwóch powodów:
-   1. Łatanie + wydanie + wdrożenie zajmuje znacznie więcej czasu niż atak. Okno podatności jest większe niż czas potrzebny do stworzenia ataku.
+1. **Możliwość znajdowania luk zero-day** się pojawi. Obecne modele już mogą odkryć niektóre luki w zabezpieczeniach, ale to prawdopodobnie poprawi się z nowymi modelami.
+2. **Model trafia w ręce złych aktorów**. To może się zdarzyć, jeśli wagi modelu są przecieka, jeśli model jest otwarty lub jeśli jest rozwijany przez złego aktora.
+3. **Luki w zabezpieczeniach nie są naprawione** przed wdrożeniem takiej broni cybernetycznej. Niestety, obrońcy są w niekorzystnej sytuacji, jeśli model jest szeroko rozpowszechniony z dwóch powodów:
+   1. Naprawa + wydanie + wdrożenie zajmuje znacznie więcej czasu niż atak. Okno podatności jest większe niż czas potrzebny do stworzenia ataku.
    2. Atakujący muszą znaleźć tylko jedną lukę w zabezpieczeniach, podczas gdy obrońcy muszą znaleźć wszystkie.
 
-Istnieją różne środki, które możemy wdrożyć, aby rozwiązać te problemy:
+Istnieją różne środki, które możemy zastosować, aby rozwiązać te problemy:
 
-- **Nie zezwalaj na szkolenie modeli, które mogą znaleźć luki w zabezpieczeniach zero-day**. Jest to najskuteczniejszy sposób, aby temu zapobiec. Jest to najbezpieczniejsza ścieżka i to, co [proponujemy](/proposal).
-- **Zezwalaj na wdrożenie lub udostępnienie modeli jako open-source tylko po przeprowadzeniu szczegółowych testów**. Jeśli mają niebezpieczne zdolności, nie udostępniaj ich.
-- **Nakładaj surowe przepisy dotyczące bezpieczeństwa cybernetycznego, aby zapobiec wyciekom wag modelu**. Jeśli zezwalasz na istnienie niebezpiecznych modeli, upewnij się, że nie trafią w złe ręce.
-- **Wymagaj od firm AI, aby używały AI do naprawiania luk w zabezpieczeniach**. Jeśli model jest wyszkolony, aby znaleźć nowe luki w zabezpieczeniach, użyj go, aby skontaktować się z osobami odpowiedzialnymi za oprogramowanie, aby załatać te luki. Daj procesowi łatania wystarczająco dużo czasu, zanim model zostanie udostępniony. Upewnij się, że wagi nie zostaną wyciekłe i chronij model tak, jakby był kodem startowym dla uderzenia nuklearnego. Jeśli to zostanie zrobione prawidłowo, AI może znacznie poprawić bezpieczeństwo cybernetyczne wszędzie.
+- **Nie pozwól na szkolenie modeli, które mogą znaleźć luki zero-day**. To jest najskuteczniejszy sposób, aby temu zapobiec. To jest najbezpieczniejsza ścieżka, i to jest to, co [proponujemy](/proposal).
+- **Pozwól na wdrożenie lub otwarcie modeli tylko po przeprowadzeniu szczegółowych testów**. Jeśli mają niebezpieczne możliwości, nie wydawaj ich.
+- **Wprowadź surowe przepisy dotyczące cyberbezpieczeństwa, aby zapobiec przeciekowi wag modelu**. Jeśli pozwolisz na istnienie niebezpiecznych modeli, upewnij się, że nie wpadną w niepowołane ręce.
+- **Wymagaj od firm AI, aby wykorzystywały AI do naprawy luk w zabezpieczeniach**. Jeśli model jest szkolony, aby mógł znaleźć nowe luki w zabezpieczeniach, wykorzystaj to, aby skontaktować się z utrzymującymi oprogramowanie, aby naprawić te luki w zabezpieczeniach. Dać procesowi naprawy wystarczająco dużo czasu przed wdrożeniem modelu. Upewnij się, że wagi nie są przecieka, i chronić model tak, jakby to był kod startowy dla uderzenia nuklearnego. Jeśli to jest zrobione prawidłowo, AI może dramatycznie poprawić cyberbezpieczeństwo wszędzie.
