@@ -1,44 +1,44 @@
 ---
-title: Protest PauseAI na Parliament Square - 8 czerwca
-description: Organizujemy protest na Parliament Square, aby zażądać zwołania szczytu w sprawie wstrzymania rozwoju sztucznej inteligencji.
+title: Protest PauseAI @ Parliament Square - 8 czerwca
+description: Organizujemy protest na Parliament Square, aby domagać się szczytu w sprawie wstrzymania rozwoju sztucznej inteligencji.
 ---
  <!-- end of frontmatter metadata, dashes above need to stay -->
 
-- Protest PauseAI, wzywający Rishiego Sunaka do wstrzymania rozwoju sztucznej inteligencji.
+- Protest PauseAI, wzywający Rishi Sunaka do wstrzymania rozwoju sztucznej inteligencji.
 - Gdzie: Parliament Square, Londyn
-- Kiedy: 8 czerwca, 16:00 - 18:00
+- Kiedy: 8 czerwca, godz. 16:00 - 18:00
 
 ## Komunikat prasowy {#press-release}
 
-W czwartek, 8 czerwca, wolontariusze z ruchu [PauseAI](http://pauseai.info) zgromadzą się na Parliament Square w Londynie, aby wezwać rząd brytyjski do podjęcia inicjatywy w sprawie wstrzymania rozwoju bardziej zaawansowanych i niebezpiecznych systemów sztucznej inteligencji.
+W czwartek, 8 czerwca, wolontariusze ruchu PauseAI zgromadzą się na Parliament Square w Londynie, aby wezwać rząd brytyjski do podjęcia działań w celu wstrzymania rozwoju coraz potężniejszych i bardziej niebezpiecznych systemów sztucznej inteligencji.
 
-Rosnąca liczba ekspertów ds. sztucznej inteligencji [podpisała oświadczenie](https://www.safe.ai/statement-on-ai-risk) w zeszłym tygodniu, w którym stwierdzają:
+Rosnąca liczba ekspertów od sztucznej inteligencji [podpisała oświadczenie](https://www.safe.ai/statement-on-ai-risk) w zeszłym tygodniu, które brzmi:
 
-> "Łagodzenie ryzyka wyginięcia ludzkości spowodowanego przez sztuczną inteligencję powinno być globalnym priorytetem, obok innych ryzyk na skalę społeczną, takich jak pandemie i wojna nuklearna."
+> "Zmniejszanie ryzyka zagłady ludzkości ze strony sztucznej inteligencji powinno być priorytetem na skalę globalną, obok innych ryzyk o skali społecznej, takich jak pandemie i wojna nuklearna."
 
-Dokument ten został podpisany przez praktycznie wszystkie wiodące laboratoria sztucznej inteligencji (OpenAI, Google DeepMind, Anthropic) i setki naukowców zajmujących się sztuczną inteligencją, w tym Geoffreya Hintona, zwanego "ojcem chrzestnym sztucznej inteligencji".
+Oświadczenie to zostało podpisane przez praktycznie wszystkie laboratoria sztucznej inteligencji (OpenAI, Google DeepMind, Anthropic) oraz setki naukowców zajmujących się sztuczną inteligencją, w tym Geoffreya Hintona, zwanego "ojcem sztucznej inteligencji".
 
-Badacze bezpieczeństwa sztucznej inteligencji nie osiągnęli konsensusu co do tego, jak duże jest ryzyko wyginięcia ludzkości.
-Wyniki [ankiet na temat ryzyka egzystencjalnego związanego z sztuczną inteligencją](https://forum.effectivealtruism.org/posts/8CM9vZ2nnQsWJNsHx/existential-risk-from-ai-survey-results) pokazują, że szacunki wahają się od 2% do 98%, ze średnią 30%.
+Badacze bezpieczeństwa sztucznej inteligencji nie osiągnęli jeszcze porozumienia co do tego, jak duże jest ryzyko zagłady ludzkości.
+Wyniki ankiety ["Ryzyko egzystencjalne ze strony sztucznej inteligencji"](https://forum.effectivealtruism.org/posts/8CM9vZ2nnQsWJNsHx/existential-risk-from-ai-survey-results) pokazują, że szacunki wahają się od 2% do 98%, z średnią na poziomie 30%.
 
-Rishi Sunak stwierdził, że ["rząd brytyjski bardzo uważnie przygląda się tej sprawie"](https://twitter.com/RishiSunak/status/1663838958558539776) i że ["Wielka Brytania jest dobrze przygotowana do objęcia przywództwa"](https://twitter.com/RishiSunak/status/1662369922234679297) w globalnej współpracy w dziedzinie bezpiecznego rozwoju sztucznej inteligencji.
-Wielka Brytania jest domem dla niektórych z wiodących na świecie laboratoriów sztucznej inteligencji, w tym Google DeepMind, i ma wysokie stężenie badaczy bezpieczeństwa sztucznej inteligencji.
-Wczoraj, 7 czerwca, rząd brytyjski [ogłosił](https://www.gov.uk/government/news/uk-to-host-first-global-summit-on-artificial-intelligence), że będzie gospodarzem pierwszego globalnego szczytu na temat sztucznej inteligencji jesienią.
+Rishi Sunak oświadczył, że ["Rząd bardzo starannie rozważa tę kwestię"](https://twitter.com/RishiSunak/status/1663838958558539776) i że ["Wielka Brytania jest dobrze przygotowana do podjęcia liderstwa"](https://twitter.com/RishiSunak/status/1662369922234679297) w globalnej współpracy na rzecz bezpiecznego rozwoju sztucznej inteligencji.
+Wielka Brytania jest siedzibą niektórych z najlepszych laboratoriów sztucznej inteligencji na świecie, w tym Google DeepMind, i ma wysoką koncentrację badaczy bezpieczeństwa sztucznej inteligencji.
+Wczoraj, 7 czerwca, rząd brytyjski [ogłosił](https://www.gov.uk/government/news/uk-to-host-first-global-summit-on-artificial-intelligence), że będzie gospodarzem pierwszego globalnego szczytu poświęconego sztucznej inteligencji tej jesieni.
 
-Protestujący wzywają Rishiego Sunaka do objęcia przywództwa w dziedzinie globalnego bezpieczeństwa sztucznej inteligencji i wstrzymania rozwoju bardziej niebezpiecznych systemów sztucznej inteligencji, jednocześnie prowadząc drogę do demokratycznej kontroli nad rozwojem sztucznej inteligencji.
-Proszą go o priorytetowe potraktowanie wstrzymania rozwoju sztucznej inteligencji na [szczycie](https://pauseai.info/summit).
-Wstrzymanie rozwoju sztucznej inteligencji jest innym podejściem niż to, które sugerują prezesi laboratoriów sztucznej inteligencji, z którymi rozmawiał Rishi Sunak.
-OpenAI uważa, że ["zatrzymanie rozwoju superinteligencji byłoby nieintuicyjnie ryzykowne i trudne"](https://openai.com/blog/governance-of-superintelligence), więc kontynuują prace nad rozwojem superinteligencji.
+Protestujący wzywają Rishi Sunaka do podjęcia liderstwa w sprawie globalnego bezpieczeństwa sztucznej inteligencji i wstrzymania rozwoju coraz bardziej niebezpiecznych systemów sztucznej inteligencji, jednocześnie prowadząc drogę do demokratycznego kontrolowania rozwoju sztucznej inteligencji.
+Wzywają go do priorytetowego traktowania wstrzymania [szczytu](https://pauseai.info/summit).
+Wstrzymanie rozwoju sztucznej inteligencji jest innym podejściem niż to, które sugerują dyrektorzy generalni laboratoriów sztucznej inteligencji, z którymi rozmawiał Rishi Sunak.
+OpenAI uważa, że ["wstrzymanie tworzenia superinteligencji byłoby niezwykle ryzykowne i trudne"](https://openai.com/blog/governance-of-superintelligence), dlatego też dążą do dalszego rozwoju w kierunku superinteligencji.
 
-> "Mamy wybór: czy ryzykujemy wszystko, aby zbudować superinteligencję, o której opinia publiczna nie została nigdy zapytana, czy zatrzymujemy się, dopóki jeszcze możemy?" - Protestujący z PauseAI
+> "Mamy wybór: czy ryzykujemy wszystko, aby zbudować superinteligencję, której społeczeństwo nie zostało skonsultowane, czy przestajemy, zanim będzie za późno?" - protestujący z PauseAI
 
-> "Firmy zajmujące się sztuczną inteligencją narażają wszystko na ryzyko; już teraz widzimy szkody, a będzie jeszcze gorzej. Rozwój technologiczny nie jest nieunikniony, a wstrzymanie powinno być uważane za wykonalną opcję. Nie możemy oddać przyszłości w ręce kilku prezesów, którzy przyznają, że są gotowi zaryzykować ludzkość dla swoich marzeń. Wszyscy zasługujemy na głos w sprawie naszej przyszłości, a globalne wstrzymanie daje nam tę szansę."
+> "Firmy zajmujące się sztuczną inteligencją narażają wszystko na ryzyko; już teraz widzimy szkody, i będzie to jeszcze gorzej. Rozwój technologii nie jest nieunikniony, a wstrzymanie powinno być brane pod uwagę jako opcja. Nie możemy pozostawić przyszłości kilku dyrektorom generalnym, którzy są gotowi ryzykować ludzkością dla swoich marzeń. Wszyscy zasługujemy na głos w sprawie naszej przyszłości, a globalne wstrzymanie daje nam tę szansę."
 
-> "Pomimo uznania niebezpieczeństw związanych z dalszym rozwojem sztucznej inteligencji, te firmy używają tego jako pretekstu do kontynuowania prac, a zdają się odmówić dobrowolnego zrezygnowania z tej niebezpiecznej władzy. W takich sytuacjach globalna współpraca w celu ograniczenia tego niebezpiecznego rozwoju jest kluczowa, aby upewnić się, że rozwój technologiczny działa dla wszystkich. Wielka Brytania jest dobrze przygotowana do objęcia przywództwa w tej sprawie, organizując globalny szczyt w celu wstrzymania rozwoju sztucznej inteligencji i podporządkowania go demokratycznej kontroli."
+> "Pomimo uznania niebezpieczeństw dalszego rozwoju sztucznej inteligencji, te firmy używają tego jako pretekstu do kontynuowania swoich działań i wydają się odmawiać dobrowolnego zrzeczenia się tego niebezpiecznego potencjału. W takich sytuacjach globalna współpraca w powstrzymaniu tego niebezpiecznego rozwoju jest kluczowa, aby upewnić się, że rozwój technologii działa na rzecz wszystkich. Wielka Brytania jest dobrze przygotowana do podjęcia liderstwa w tej sprawie, organizując globalny szczyt w celu wstrzymania sztucznej inteligencji i poddania rozwoju sztucznej inteligencji pod demokratyczną kontrolę."
 
-> "Może nie mamy luksusu czasu. Rozwój sztucznej inteligencji następuje w szalonym tempie, a musimy działać teraz, aby zapobiec najgorszym scenariuszom. Szczyt jesienią może być nawet za późno, aby zapobiec najgorszemu. Wzywamy Rishiego Sunaka do wstrzymania rozwoju sztucznej inteligencji przed szczytem. Nawet jeśli tylko Wielka Brytania i Stany Zjednoczone zgodzą się wstrzymać prace do czasu szczytu, zrobimy ogromny krok w kierunku zapobieżenia najgorszym scenariuszom."
+> "Możemy nie mieć luksusu czasu. Rozwój sztucznej inteligencji postępuje w szalonym tempie, i musimy działać teraz, aby zapobiec najgorszym scenariuszom. Szczyt w jesieni może być już za późno, aby zapobiec najgorszemu. Wzywamy Rishi Sunaka do wstrzymania rozwoju sztucznej inteligencji przed szczytem. Nawet jeśli tylko Wielka Brytania i Stany Zjednoczone zgodzą się na wstrzymanie do szczytu, zrobimy ogromny krok w kierunku zapobiegania najgorszym scenariuszom."
 
-Protestujący z PauseAI mają konkretne [propozycje programu](/summit) i [propozycje polityczne](/proposal) dla szczytu.
+Protestujący z PauseAI mają konkretny [sugestie dotyczące porządku obrad](/summit) i [propozycje polityczne](/proposal) dla szczytu.
 
 Więcej informacji można znaleźć na stronie [PauseAI.info](http://pauseai.info).
 
