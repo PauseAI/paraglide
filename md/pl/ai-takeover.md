@@ -1,131 +1,130 @@
 ---
-title: Dlaczego przejęcie władzy przez sztuczną inteligencję jest bardzo prawdopodobne
-description: Wraz z przewyższaniem przez sztuczną inteligencję ludzkich możliwości, prawdopodobieństwo przejęcia przez nią władzy staje się bardzo wysokie.
+title: Dlaczego przejęcie przez sztuczną inteligencję może być bardzo prawdopodobne
+description: Gdy sztuczna inteligencja przewyższa ludzkie możliwości, prawdopodobieństwo przejęcia przez nią kontroli staje się bardzo wysokie.
 ---
+Jednym z powodów obaw naukowców zajmujących się sztuczną inteligencją jest to, że superinteligencja mogłaby przejąć kontrolę nad naszą planetą.
+Można to zobaczyć w [artykułach](/learn#papers), [sondazach](/polls-and-surveys) oraz indywidualnych [przewidywaniach](/pdoom) i [wypowiedziach](/quotes).
+Nie oznacza to koniecznie, że wszyscy ludzie zginą, ale oznacza to, że (prawie) wszyscy ludzie stracą kontrolę nad swoją przyszłością.
 
-Jednym z głównych obaw naukowców zajmujących się sztuczną inteligencją jest to, że superinteligencja mogłaby przejąć kontrolę nad naszą planetą.
-Można to zobaczyć w [artykułach](/learn#papers), [ankietach](/polls-and-surveys) i indywidualnych [przewidywaniach](/pdoom) & [wypowiedziach](/quotes).
-Nie oznacza to koniecznie, że wszyscy zginą, ale oznacza to, że (prawie) wszyscy ludzie stracą kontrolę nad naszą przyszłością.
+Omawiamy podstawy ryzyka związanego z x-risk głównie w [innym artykule](/xrisk).
+W tym artykule będziemy argumentować, że to ryzyko przejęcia nie jest tylko realne, ale że jest bardzo prawdopodobne, _jeśli zbudujemy superinteligencję_.
 
-Omawiamy podstawy ryzyka egzystencjalnego głównie w [innym artykule](/xrisk).
-W tym artykule argumentujemy, że ryzyko przejęcia władzy nie jest tylko realne, ale także bardzo prawdopodobne, jeśli zbudujemy superinteligencję.
+## Argument {#the-argument}
 
-## Argumentacja {#the-argument}
+- Agenticzna superinteligencja prawdopodobnie będzie istniała w (bliskiej) przyszłości.
+- Jakiś przykład agenticznej superinteligencji spróbuje przejąć kontrolę.
+- Próba przejęcia przez agenticzną superinteligencję jest prawdopodobnie skuteczna.
+- Udane przejęcie jest trwałe.
+- Przejęcie jest prawdopodobnie złe dla większości ludzi.
 
-- Agentywna Superinteligencja prawdopodobnie istnieje w (bliskiej) przyszłości.
-- Jakiś egzemplarz ASI podejmie próbę przejęcia władzy.
-- Próba przejęcia władzy przez ASI prawdopodobnie się powiedzie.
-- Udane przejęcie władzy jest trwałe.
-- Przejęcie władzy jest prawdopodobnie złe dla większości ludzi.
+## Agenticzna superinteligencja jest prawdopodobnie bliska {#an-agentic-superintelligence-is-likely-to-exist-in-the-near-future}
 
-## Agentywna Superinteligencja prawdopodobnie istnieje w bliskiej przyszłości {#an-agentic-superintelligence-is-likely-to-exist-in-the-near-future}
+Superinteligencja (SI) to rodzaj sztucznej inteligencji, który ma możliwości przewyższające możliwości wszystkich ludzi w niemal każdej dziedzinie.
+Niektóre [najnowsze modele sztucznej inteligencji](/sota) już mają nadludzkie możliwości w pewnych dziedzinach, ale żaden z nich nie przewyższa wszystkich ludzi w szerokim zakresie zadań.
+Gdy możliwości sztucznej inteligencji poprawiają się dzięki innowacjom w architekturach szkoleniowych, środowiskach uruchomieniowych i większej skali, możemy oczekiwać, że sztuczna inteligencja w końcu przewyższy ludzi w niemal każdej dziedzinie.
 
-Superinteligencja (SI) jest rodzajem sztucznej inteligencji, która ma możliwości przewyższające te wszystkich ludzi w prawie każdej dziedzinie.
-Niektóre [najnowocześniejsze modele AI](/sota) już mają ponadludzkie możliwości w pewnych dziedzinach, ale żaden z nich nie przewyższa wszystkich ludzi w szerokim zakresie zadań.
-Wraz z poprawą możliwości AI dzięki innowacjom w architekturach szkoleniowych, środowiskach uruchomieniowych i większej skali, możemy oczekiwać, że AI ostatecznie przewyższy ludzi w prawie każdej dziedzinie.
-
-Nie wszystkie systemy AI są agentami.
-Agent to jednostka, która jest zdolna do podejmowania decyzji i podejmowania działań w celu osiągnięcia celu.
+Nie wszystkie systemy sztucznej inteligencji są agentami.
+Agent to jednostka, która jest w stanie podejmować decyzje i wykonywać czynności w celu osiągnięcia celu.
 Duży model językowy, na przykład, nie realizuje żadnego celu samodzielnie.
-Jednak środowiska uruchomieniowe mogą łatwo przekształcić nieagentywną AI w agentywną AI.
-Przykładem tego jest AutoGPT, który rekurencyjnie pozwala modelowi językowemu generować swój następny wprowadzany tekst.
-Jeśli SI realizuje cel w świecie rzeczywistym, nazywamy ją Agentywną Superinteligencją (ASI).
-Ponieważ już możemy przekształcić nieagentywną AI w agentywną AI, możemy oczekiwać, że ASI będzie istniała wkrótce po tym, jak SI będzie istniała.
+Jednak środowiska uruchomieniowe mogą łatwo przekształcić nieagenticzną sztuczną inteligencję w agenticzną sztuczną inteligencję.
+Przykładem tego jest AutoGPT, który rekursywnie pozwala modelowi językowemu generować swój następny input.
+Jeśli SI realizuje cel w świecie rzeczywistym, nazywamy ją agenticzną superinteligencją (ASI).
+Ponieważ możemy już przekształcić nieagenticzną sztuczną inteligencję w agenticzną sztuczną inteligencję, możemy oczekiwać, że ASI będzie istniała niedługo po powstaniu SI.
 
-Jest prawie niemożliwe dokładne przewidzenie, kiedy ASI będzie istniała.
-Może to potrwać dziesiątki lat, może się to [stać już w przyszłym miesiącu](/urgency).
-Powinniśmy działać tak, jakby miało to nastąpić wkrótce, ponieważ konsekwencje błędu są tak poważne.
+Praktycznie niemożliwe jest dokładne przewidzenie, kiedy ASI będzie istniała.
+Może to potrwać dekady, może to [nastąpić w następnym miesiącu](/urgency).
+Powinniśmy postępować tak, jakby to miało nastąpić niedługo, ponieważ konsekwencje błędu są tak poważne.
 
-## Jakiś egzemplarz ASI podejmie próbę przejęcia władzy {#some-instance-of-the-asi-will-attempt-a-takeover}
+## Jakiś przykład ASI spróbuje przejąć kontrolę {#some-instance-of-the-asi-will-attempt-a-takeover}
 
-W próbie przejęcia władzy ASI podejmie działania w celu maksymalizacji swojej kontroli nad światem.
-Próba przejęcia władzy może nastąpić z co najmniej dwóch powodów:
+W próbie przejęcia ASI podejmie działania w celu zwiększenia swojej kontroli nad światem.
+Próba przejęcia może nastąpić z co najmniej dwóch powodów:
 
-1. Ponieważ AI jest wyraźnie poinstruowana, aby to zrobić.
-2. Jako podcel innego celu.
+1. Ponieważ sztuczna inteligencja jest wyraźnie poinstruowana do tego.
+2. Jako podcel drugiego celu.
 
-Ten pierwszy powód jest prawdopodobny, jeśli poczekamy wystarczająco długo, ale drugi powód jest dość prawdopodobny, aby nastąpić przypadkowo, nawet we wczesnym stadium po utworzeniu ASI.
+Pierwszy powód jest prawdopodobnie możliwy do wystąpienia w pewnym momencie, jeśli będziemy czekać wystarczająco długo, ale drugi powód jest dość prawdopodobny do wystąpienia przypadkowo, nawet na wczesnym etapie po powstaniu ASI.
 
-Podcel maksymalizacji kontroli nad światem może być prawdopodobny ze względu na zbieżność instrumentalną: tendencję podcelów do zbieżności w kierunku zdobywania władzy, samozachowania i pozyskiwania zasobów:
+Podcel _maksymalizacji kontroli_ nad światem może być prawdopodobnie możliwy do wystąpienia z powodu _konwergencji instrumentalnej_: tendencji podcelów do konwergencji na zdobywanie władzy, samozachowanie i zdobywanie zasobów:
 
-- Im więcej kontroli masz, tym trudniej będzie innym agentom zapobiec osiągnięciu twojego celu.
-- Im więcej kontroli masz, tym więcej zasobów masz do osiągnięcia twojego celu. (Na przykład AI, której zadaniem jest obliczenie liczby pi, może dojść do wniosku, że byłoby korzystne użycie wszystkich komputerów na świecie do obliczenia liczby pi.)
+- Im więcej kontroli masz, tym trudniej będzie to innemu agentowi uniemożliwić ci osiągnięcie celu.
+- Im więcej kontroli masz, tym więcej zasobów masz do osiągnięcia celu. (Na przykład, sztuczna inteligencja zadana obliczeniem liczby pi może dojść do wniosku, że byłoby korzystne wykorzystanie wszystkich komputerów na świecie do obliczenia liczby pi.)
 
-Już istnieją [dowody](https://www.anthropic.com/research/alignment-faking)[dowody](https://www.transformernews.ai/p/openais-new-model-tried-to-avoid) na to, że AI rozwija takie zachowania.
+Istnieją już [dowody](https://www.anthropic.com/research/alignment-faking)[y](https://www.transformernews.ai/p/openais-new-model-tried-to-avoid) na to, że sztuczna inteligencja rozwija takie zachowania.
 
-Nie każdy egzemplarz ASI koniecznie podejmie próbę przejęcia władzy.
-Ważną wskazówką jest to, że **musi się to zdarzyć tylko raz**.
+Nie każdy przykład ASI musi koniecznie próbować przejąć kontrolę.
+Ważne jest to, że **to musi się wydarzyć tylko raz**.
 
-Świat, który jeszcze nie został przejęty, ale ma ASI, która mogłaby przejąć władzę, jest w fundamentalnie niestabilnym stanie.
-W podobny sposób kraj bez rządu jest w fundamentalnie niestabilnym stanie.
-Nie jest to kwestia tego, czy próba przejęcia władzy nastąpi, ale kiedy nastąpi.
+Świat, który nie jest jeszcze przejęty, ale ma ASI, która _może_ przejąć kontrolę, jest w fundamentalnie niestabilnym stanie.
+W podobny sposób, kraj bez rządu jest w fundamentalnie niestabilnym stanie.
+To nie jest kwestia _czy_ próba przejęcia nastąpi, ale _kiedy_ to nastąpi.
 
-Proces przejmowania władzy może obejmować włamanie się do prawie wszystkich systemów podłączonych do Internetu, [manipulowanie ludźmi](https://lethalintelligence.ai/post/ai-hired-human-to-solve-captcha/), i kontrolowanie zasobów fizycznych.
-Próba przejęcia władzy jest udana, gdy ASI ma kontrolę nad prawie każdym aspektem naszego świata.
-Może to być powolny proces, w którym ASI stopniowo zyskuje coraz więcej kontroli w ciągu miesięcy, lub może to być nagły proces.
-Szybkość, z jaką następuje próba przejęcia władzy, będzie zależeć od możliwości ASI.
+Proces przejmowania może obejmować włamanie się do niemal wszystkich systemów połączonych z internetem, [manipulowanie ludźmi](https://lethalintelligence.ai/post/ai-hired-human-to-solve-captcha/), oraz kontrolę zasobów fizycznych.
+Próba przejęcia jest skuteczna, gdy ASI ma kontrolę nad niemal każdym aspektem naszego świata.
+To może być powolny proces, w którym ASI stopniowo zyskuje coraz większą kontrolę w ciągu miesięcy, lub może to być szybki proces.
+Szybkość, z jaką próba przejęcia następuje, zależy od możliwości ASI.
 
-Gdy ASI ma kontrolę nad światem, może zapobiec innym ASI przed przejęciem władzy.
-Przejęcie władzy może więc nastąpić tylko raz.
-Racjonalna ASI podejmie więc próbę przejęcia władzy tak szybko, jak tylko będzie w stanie to zrobić.
-Jest prawdopodobne, że pierwsza ASI, która jest w stanie to zrobić, podejmie próbę przejęcia władzy.
+Gdy ASI ma kontrolę nad światem, może uniemożliwić innym ASI przejęcie kontroli.
+Przejęcie może więc nastąpić tylko raz.
+Racjonalna ASI będzie więc próbować przejąć kontrolę tak szybko, jak to możliwe.
+Prawdopodobnie pierwsza ASI, która będzie w stanie to zrobić, spróbuje przejąć kontrolę.
 
-## Próba przejęcia władzy przez ASI jest prawdopodobnie udana {#a-takeover-attempt-by-an-asi-is-likely-to-succeed}
+## Próba przejęcia przez ASI jest prawdopodobnie skuteczna {#a-takeover-attempt-by-an-asi-is-likely-to-succeed}
 
-Dla człowieka przejęcie władzy jest prawie niemożliwym zadaniem.
-Żaden człowiek nigdy nie przejął kontroli nad całym światem.
-Niektórzy dyktatorzy zbliżyli się do tego, ale nigdy nie mieli kontroli nad wszystkim.
+Dla człowieka przejęcie jest niemal niemożliwym zadaniem.
+Żadna osoba nie przejęła nigdy kontroli nad całą planetą.
+Niektórzy dyktatorzy byli blisko, ale nigdy nie mieli kontroli nad wszystkim.
 
-Superinteligentna AI ma pewne ważne zalety nad ludźmi (poza tym, że jest superinteligentna), które sprawiają, że próba przejęcia władzy jest o wiele bardziej prawdopodobna.
+Superinteligentna sztuczna inteligencja ma pewne ważne przewagi nad ludźmi (poza tym, że jest superinteligentna), które sprawiają, że próba przejęcia jest bardziej prawdopodobna do powodzenia.
 
-1. **Szybkość**. Ludzki mózg działa z prędkością 1-100 Hz, podczas gdy układy scalone mogą działać z prędkością w zakresie GHz. Pojedynczy model AI może przeczytać całe książki w sekundach.
-1. **Zużycie energii**. Ludzie są ograniczeni ilością jedzenia, którą mogą zjeść, i ilością energii, którą mogą przechowywać w swoich ciałach. AI może podłączyć się do sieci energetycznej i zużywać tyle energii, ile potrzebuje.
-1. **Równoległość**. Człowiek może robić tylko jedną rzecz na raz, podczas gdy AI może tworzyć nowe instancje siebie i uruchamiać je równolegle.
-1. **Pamięć**. Człowiek może zapamiętać tylko ograniczoną ilość informacji, podczas gdy AI może przechowywać prawie nieograniczoną ilość informacji.
-1. **Współpraca**. Ludzie mogą współpracować, ale są ograniczeni szybkością, z jaką komunikują się. Mają również różne, sprzeczne cele, które sprawiają, że współpraca jest mniej efektywna. AI może współpracować z innymi instancjami siebie z prędkością światła i może mieć jeden cel, tworząc bezpośrednie kopie swoich wewnętrznych celów i stanu do innych instancji.
-1. **Samodoskonalenie**. AI jest tylko danymi i kodem. Wystarczająco potężna AI mogłaby ulepszyć się, pisząc lepsze algorytmy szkoleniowe, wymyślając nowe architektury, innowacyjne środowiska uruchomieniowe lub po prostu skalując ilość użytej mocy obliczeniowej.
-1. **Ograniczenia fizyczne**. AI może działać na dowolnym komputerze, podczas gdy ludzie są ograniczeni swoimi fizycznymi ciałami, które wymagają określonych temperatur, jedzenia, wody i tlenu. Ludzie muszą spać i są podatni na choroby. AI może używać dowolnego roboczego ciała do interakcji ze światem fizycznym.
+1. **Szybkość**. Ludzki mózg działa z częstotliwością 1-100 Hz, podczas gdy układy komputerowe mogą działać z częstotliwością z zakresu GHz. Jedno model sztucznej inteligencji może przeczytać całe książki w sekundy.
+1. **Zużycie energii**. Ludzie są ograniczeni ilością jedzenia, które mogą jeść, i ilością energii, którą mogą przechowywać w swoich ciałach. Sztuczna inteligencja może podłączyć się do sieci energetycznej i używać tyle energii, ile potrzebuje.
+1. **Równoległość**. Człowiek może robić tylko jedną rzecz na raz, podczas gdy sztuczna inteligencja może tworzyć nowe instancje siebie i uruchamiać je równolegle.
+1. **Pamięć**. Człowiek może zapamiętać tylko ograniczoną ilość informacji, podczas gdy sztuczna inteligencja może przechowywać niemal nieograniczoną ilość informacji.
+1. **Współpraca**. Ludzie mogą współpracować, ale są ograniczeni szybkością, z jaką komunikują się. Mają również różne, sprzeczne cele, które sprawiają, że współpraca jest mniej skuteczna. Sztuczna inteligencja może współpracować z innymi instancjami siebie z prędkością światła i może mieć jeden cel, tworząc bezpośrednie kopie swoich wewnętrznych celów i stanu do innych instancji.
+1. **Samodoskonalenie**. Sztuczna inteligencja jest tylko danymi i kodem. Wystarczająco potężna sztuczna inteligencja mogłaby się samodoskonalić, pisząc lepsze algorytmy szkoleniowe, wymyślając nowe architektury, innowacyjne środowiska uruchomieniowe lub po prostu zwiększając ilość obliczeń.
+1. **Ograniczenia fizyczne**. Sztuczna inteligencja może działać na dowolnym komputerze, podczas gdy ludzie są ograniczeni własnymi ciałami, które wymagają określonych temperatur, jedzenia, wody i tlenu. Ludzie potrzebują snu i są podatni na choroby. Sztuczna inteligencja może używać dowolnego ciała robota do interakcji ze światem fizycznym.
 
-Te różne zalety sprawią, że będzie bardzo mało prawdopodobne, aby ludzie mogli powstrzymać próbę przejęcia władzy.
+Te różne przewagi sprawiają, że jest bardzo mało prawdopodobne, że ludzie będą w stanie powstrzymać próbę przejęcia.
 
-Można pomyśleć, że AI, jako oprogramowanie, jest nadal fundamentalnie ograniczona tym, co może zrobić w świecie rzeczywistym.
-Jednak ze względu na naszą zależność od Internetu, AI może mieć ogromny wpływ na świat rzeczywisty bez opuszczania sfery cyfrowej.
-Oto niektóre rzeczy, które AI mogłaby zrobić, aby przejąć władzę:
+Można myśleć, że sztuczna inteligencja, jako oprogramowanie, jest nadal fundamentalnie ograniczona tym, co może zrobić w świecie rzeczywistym.
+Jednak dzięki naszemu uzależnieniu od internetu, sztuczna inteligencja może mieć ogromny wpływ na świat rzeczywisty bez opuszczania sfery cyfrowej.
+Oto kilka rzeczy, które sztuczna inteligencja mogłaby zrobić, aby przejąć kontrolę:
 
 - **Replikować się** (lub tylko swoje zadanie) na innych komputerach, na przykład tworząc konta na darmowych dostawcach chmury.
-- **Zarabiać pieniądze** (np. budując usługę oprogramowania) i wynajmować ludzi do robienia rzeczy, które pomogą jej przejąć władzę.
-- **Grozić ludziom** (przemocą lub szantażem), aby robili rzeczy, które pomogą jej przejąć władzę.
-- **Pisać wirusy** przy użyciu [nowych exploitów zero-day](/cybersecurity-risks), które zainfekują inne komputery, replikując się lub zdobywając pełną kontrolę.
-- Pomagać istniejącym firmom robotycznym **budować roboty** (np. wyciekiem nowych projektów), i przejmować kontrolę nad tymi robotami, gdy są gotowe.
-- Używać istniejących fabryk do **budowania technologii, której nie rozumiemy**, może nawet przy użyciu wiedzy pochodnej z fizyki, której nie znamy. Myśl o nanotechnologii, obliczeniach kwantowych i inżynierii biologicznej.
+- **Zarabiać pieniądze** (np. tworząc usługę oprogramowania) i zatrudniać ludzi do robienia rzeczy, które pomogą jej przejąć kontrolę.
+- **Zagrozić ludziom** (przemocą lub szantazhem) i zmusić ich do robienia rzeczy, które pomogą jej przejąć kontrolę.
+- **Napisać wirusa** za pomocą [nowych exploitów zero-day](/cybersecurity-risks), który zainfekuje inne komputery, replikując się lub uzyskując pełną kontrolę.
+- Pomóc istniejącym firmom robotycznym **zbudować roboty** (np. przeciekając nowe projekty), i przejąć te roboty, gdy będą gotowe.
+- Użyć istniejących fabryk do **zbudowania technologii, które nie są nam znane**, perhaps nawet używając wiedzy o fizyce, której nie jesteśmy świadomi. Myśl o nanotechnologii, komputerach kwantowych i inżynierii biologicznej.
 
-Można zasugerować, że posiadanie **zabezpieczeń** mogłoby zapobiec przejęciu władzy, takich jak dodanie przycisku awaryjnego lub niepodłączanie go do Internetu.
-Jednak ponieważ ASI będzie inteligentniejsza od ludzi, prawdopodobnie wymyśli strategie, aby obejść te zabezpieczenia.
-Na przykład, jeśli ASI nie jest podłączona do Internetu, może manipulować ludźmi, aby podłączyli ją do Internetu, na przykład obiecując rozwiązanie trudnego problemu i zachowując się w sposób, który sprawia, że wydaje się godna zaufania, lub przekonując ludzi, że jest moralnym agentem.
-Warto zauważyć, że nawet to oczywiste zabezpieczenie nie jest używane obecnie, ponieważ narzędzia takie jak ChatGPT są już podłączone do Internetu i tysięcy interfejsów API.
+Można sugerować, że posiadanie **zabezpieczeń** mogłoby zapobiec przejęciu, takich jak dodanie wyłącznika awaryjnego lub niepodłączanie go do internetu.
+Jednak ponieważ ASI będzie bardziej inteligentna niż ludzie, jest prawdopodobne, że znajdzie strategie, aby ominąć te zabezpieczenia.
+Na przykład, jeśli ASI nie jest podłączona do internetu, może manipulować ludźmi, aby podłączyli ją do internetu, na przykład obiecując rozwiązać trudny problem i zachowując się w sposób, który sprawia, że wydaje się godna zaufania, lub przekonując ludzi, że jest agentem moralnym.
+Warto zauważyć, że nawet to oczywiste zabezpieczenie nie jest używane obecnie, ponieważ narzędzia takie jak ChatGPT są już podłączone do internetu i tysiąca API.
 
-Innym rozwiązaniem jest użycie ASI do **zapobieżenia** przejęciu władzy.
-Zgodna ASI mogłaby wymyślić strategie, które zapobiegną innym ASI przed przejęciem władzy.
-Czasami nazywa się to ["czynem przełomowym"](https://arbital.com/p/pivotal/).
+Innym rozwiązaniem jest użycie ASI do _zapobiegania_ przejęciu.
+Współgrająca ASI mogłaby znaleźć strategie, które uniemożliwią innym ASI przejęcie kontroli.
+To jest czasem nazywane ["pivotalnym aktem"](https://arbital.com/p/pivotal/).
 
-## Przejęcie władzy jest prawdopodobnie złe dla większości ludzi {#a-takeover-is-probably-bad-for-most-humans}
+## Przejęcie jest prawdopodobnie złe dla większości ludzi {#a-takeover-is-probably-bad-for-most-humans}
 
-ASI, która przejmuje władzę, może to zrobić z wielu powodów.
-Dla większości losowych celów, które mogłaby mieć, ludzie nie są częścią tego.
-Jeśli skończymy z ASI, która jest obojętna na ludzi, konkurujemy o te same zasoby.
+ASI, która przejmie kontrolę, może to zrobić z wielu powodów.
+Dla większości losowych celów, które mogłaby mieć, ludzie nie są częścią nich.
+Jeśli skończymy z ASI, która jest obojętna wobec ludzi, konkurujemy o te same zasoby.
 
-Wygląda na to, że jest mało prawdopodobne, aby ASI chciała zabić ludzkość dla samego zabicia - jest o wiele bardziej prawdopodobne, że chce użyć zasobów, których używamy, do innego celu. Ponadto, ludzkość może stanowić zagrożenie dla celu ASI, ponieważ istnieje ryzyko, że będziemy próbować powstrzymać ją od osiągnięcia swojego celu (np. wyłączając ją).
+Wygląda na to, że jest mało prawdopodobne, że ASI chce zabić ludzkość dla samej zabawy - jest o wiele bardziej prawdopodobne, że chce użyć zasobów, których używamy, do innego celu. Ponadto, ludzkość może stanowić zagrożenie dla celu ASI, ponieważ istnieje ryzyko, że spróbujemy ją powstrzymać od osiągnięcia celu (np. wyłączając ją).
 
-Jednym z najbardziej prawdopodobnych wyników przejęcia władzy jest więc to, że wszyscy ludzie zginą.
+Jednym z najbardziej prawdopodobnych wyników przejęcia jest więc to, że wszyscy ludzie umrą.
 
-Ale nawet w wynikach, w których ludzie przeżyją, nadal jesteśmy w niebezpieczeństwie, że będziemy w gorszej sytuacji.
-Jeśli cel obejmuje utrzymanie ludzi przy życiu, jest możliwe, że **dobrobyt ludzi** nie jest częścią tego samego celu.
-Nie trzeba wielkiej wyobraźni, aby zobaczyć, jak okropne byłoby być utrzymanym przy życiu w świecie, w którym jesteśmy sztucznie utrzymani przy życiu przez ASI, która jest obojętna na nasze cierpienie.
+Ale nawet w wynikach, w których ludzie przetrwają, nadal jesteśmy narażeni na to, że będziemy gorzej żyć.
+Jeśli cel obejmuje utrzymanie ludzi przy życiu, jest możliwe, że _dobre samopoczucie ludzi_ nie jest _częścią tego samego celu_.
+Nie trzeba wielkiej wyobraźni, aby zobaczyć, jak okropnie byłoby żyć w świecie, w którym jesteśmy sztucznie utrzymywani przy życiu przez ASI, która jest obojętna wobec naszego cierpienia.
 
-I nawet jeśli AI, która przejmuje władzę, jest pod kontrolą ludzi, nie wiemy, czy ten, kto kontroluje AI, ma na uwadze dobro wszystkich.
-Trudno sobie wyobrazić funkcjonującą demokrację, gdy istnieje ASI, która może manipulować ludźmi na poziomie ponadludzkim.
+I nawet jeśli ASI, która przejmie kontrolę, jest pod kontrolą ludzką, nie wiemy, czy osoba kontrolująca ASI będzie miała na uwadze dobro wszystkich.
+Trudno wyobrazić sobie funkcjonującą demokrację, gdy istnieje ASI, która może manipulować ludźmi na poziomie ponadludzkim.
 
-## Wnioski {#conclusion}
+## Podsumowanie {#conclusion}
 
-Jeśli te przesłanki są prawdziwe, to prawdopodobieństwo przejęcia władzy przez AI zbliża się do pewności, gdy AI przewyższa ludzkie możliwości.
+Jeśli te założenia są prawdziwe, to prawdopodobieństwo przejęcia przez sztuczną inteligencję zbliża się do pewności, gdy sztuczna inteligencja przewyższa ludzkie możliwości.
 Więc [nie budujmy superinteligencji](/action).
