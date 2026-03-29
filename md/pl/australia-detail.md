@@ -5,17 +5,17 @@ description: Więcej informacji o australijskim oddziale PauseAI
 ---
 ### Jakie ryzyko grozi Australii? {#what-risks-is-australia-facing}
 
-Sztuczna inteligencja rozwija się [w zastraszającym tempie](/urgency). Prezesi firm zajmujących się AI, tacy jak [Sam Altman](https://time.com/7205596/sam-altman-superintelligence-agi/), [Dario Amodei](https://arstechnica.com/ai/2025/01/anthropic-chief-says-ai-could-surpass-almost-all-humans-at-almost-everything-shortly-after-2027/), oraz naukowcy jak [Geoffrey Hinton](https://en.wikipedia.org/wiki/Artificial_general_intelligence) ostrzegają, że **AI może przewyższyć ludzką inteligencję w ciągu najbliższych pięciu lat**. Bez międzynarodowej współpracy może to skutkować chaosem gospodarczym, wojną, a nawet [zagładą ludzkości](/xrisk).
+Sztuczna inteligencja rozwija się [w zastraszającym tempie](/urgency). Dyrektorzy generalni firm zajmujących się AI, tacy jak [Sam Altman](https://time.com/7205596/sam-altman-superintelligence-agi/), [Dario Amodei](https://arstechnica.com/ai/2025/01/anthropic-chief-says-ai-could-surpass-almost-all-humans-at-almost-everything-shortly-after-2027/), oraz naukowcy jak [Geoffrey Hinton](https://en.wikipedia.org/wiki/Artificial_general_intelligence) ostrzegają, że **AI może przewyższyć ludzką inteligencję w ciągu najbliższych pięciu lat**. Bez międzynarodowej współpracy może to skutkować chaosem gospodarczym, wojną, a nawet [zagładą ludzkości](/xrisk).
 
-> "Im bardziej AI staje się zaawansowana, tym więcej dowodów na dodatkowe ryzyka stopniowo się pojawia. Ryzyka te obejmują skutki dla rynku pracy, ataki hakierskie lub biologiczne z użyciem AI, oraz utratę kontroli nad AI."
+> "Im bardziej ogólna sztuczna inteligencja staje się bardziej zaawansowana, tym więcej dowodów na dodatkowe ryzyka się pojawia. Ryzyka te obejmują wpływ na rynek pracy, ataki hakierskie lub biologiczne z użyciem AI, oraz utratę kontroli nad ogólną sztuczną inteligencją."
 >
 > – [Międzynarodowy raport o bezpieczeństwie AI (2025)](https://assets.publishing.service.gov.uk/media/679a0c48a77d250007d313ee/International_AI_Safety_Report_2025_accessible_f.pdf), współautorem którego są 96 ekspertów z 30 krajów, w tym z Australii.
 
 ### Czy nie chcemy korzyści z AI? {#dont-we-want-ais-benefits}
 
-Oczywiście, sztuczna inteligencja ma potencjał być bardzo przydatnym narzędziem. Jeśli AI pozostanie pod kontrolą, może być wykorzystana do leczenia chorób, przyczynienia się do przełomów naukowych oraz rozprzestrzeniania możliwości i dobrobytu. Jednak byłoby to tragiczne, gdybyśmy osiągnęli te postępy, by następnie [utrać kontrolę](/ai-takeover) i ponieść katastrofalne straty.
+Oczywiście, sztuczna inteligencja ma ogromny potencjał. Jeśli AI pozostanie pod kontrolą, może być wykorzystana do leczenia chorób, przyspieszania przełomów naukowych oraz promowania możliwości i dobrobytu. Jednak byłoby to tragiczne, gdybyśmy osiągnęli te postępy, by następnie [utrać kontrolę](/ai-takeover) i ponieść katastrofalne straty.
 
-> "Wygląda na to, że zakładamy, iż AI będzie pasowała ładnie do przyjaznego wzorca. To założenie jest słuszne tylko w takim stopniu, w jakim AI jest analogiczna do większości tego, co przyszło przed nią. W tej sytuacji byłoby mądrze, gdybyśmy ją bardziej gruntownie zbadali, zanim zdecydujemy się na nią, ponieważ istnieją powody, dla których można przypuszczać, że jest to inny gatunek, a historia jest słabym przewodnikiem."
+> "Wygląda na to, że zakładamy, iż AI będzie pasowała do przyjaznego wzorca. To założenie jest słuszne tylko w takim stopniu, w jakim AI jest analogiczna do większości tego, co przyszło przed nią. W tej sytuacji byłoby mądrze, gdybyśmy ją zbadali bardziej szczegółowo, zanim zdecydujemy się na nią, ponieważ istnieją dobre powody, by przypuszczać, że jest to inny gatunek, dla którego historia jest słabym przewodnikiem."
 >
 > – Waleed Aly
 >
@@ -23,11 +23,11 @@ Oczywiście, sztuczna inteligencja ma potencjał być bardzo przydatnym narzędz
 
 Nowe technologie zawsze przynosiły zmiany, ale ludzie potrzebują czasu, aby się do nich dostosować, zabezpieczyć i zaplanować przyszłość. W przypadku każdej innej technologii – czy to samolotów, wieżowców, czy nowych leków – wymagamy starannie zaprojektowanych środków bezpieczeństwa, zanim narażymy publiczność na ryzyko. Niestety, nie dzieje się tak w przypadku AI.
 
-Firmy zajmujące się AI są w wyścigu, napędzanym przez miliardy dolarów inwestycji, aby jako pierwsze zbudować nadludzką AI. Kiedy jedna z firm odniesie sukces, Twoje życie i życie Twoich bliskich staną się radykalnie inne, a Ty nie będziesz miał żadnego wpływu na to, jaka będzie ta przyszłość. To nie jest tylko kwestia techniki – wpłynie to na każdego.
+Firmy zajmujące się AI są w wyścigu, napędzanym miliardami dolarów inwestycji, aby jako pierwsze zbudować nadludzką AI. Kiedy jedna z firm odniesie sukces, Twoje życie i życie Twoich bliskich staną się radykalnie inne, a Ty nie będziesz miał żadnego wpływu na to, jaka będzie przyszłość. To nie jest tylko kwestia techniki – wpłynie na każdego.
 
 ### Co można zrobić? {#what-can-be-done}
 
-PauseAI [proponuje](/proposal) międzynarodowy traktat, aby wstrzymać rozwój AI bardziej zaawansowanej niż ludzka, dopóki nie będzie wiarygodnego planu, aby zagwarantować jej bezpieczeństwo. Jest to w interesie Australii, aby opowiedzieć się za tym.
+PauseAI [proponuje](/proposal) międzynarodowy traktat, aby wstrzymać rozwój AI bardziej zaawansowanej niż ludzka, dopóki nie będzie wiarygodnego planu, aby zapewnić jej bezpieczeństwo. Jest to w interesie Australii, aby opowiedzieć się za tym.
 
 > "Kto pokaże przywództwo w negocjacjach w sprawie traktatu o nierozprzestrzenianiu AI? Jest to zbiorowa odpowiedzialność i na pewno taka, do której Australia mogłaby się przyczynić."
 >
@@ -51,7 +51,7 @@ Jest [psychologicznie trudno](/psychology-of-x-risk) myśleć o potencjalnych ka
 
 ### Kampanie PauseAI Australia {#pauseai-australia-campaigns}
 
-#### Szczycy AI muszą poważnie traktować bezpieczeństwo {#ai-summits-need-to-take-safety-seriously-again}
+#### Szczycy AI muszą ponownie traktować bezpieczeństwo poważnie {#ai-summits-need-to-take-safety-seriously-again}
 
 W lutym 2026 roku PauseAI Australia dołączyła do 14 innych krajów, nakłaniając delegatów do Międzynarodowego Szczytu AI w Indiach do priorytetowego traktowania bezpieczeństwa AI. [Petycja kampanii](https://www.change.org/p/ai-summits-need-to-take-safety-seriously-again) zebrała 2 000 podpisów i wysłała 2 000 e-maili do decydentów, co skutkowało op-edem we francuskim tygodniku, podpisany przez pięciu australijskich ekspertów od AI.
 
@@ -66,11 +66,11 @@ Obejrzyj ten moment na townhall [na YouTube](https://youtu.be/SbqUEhJt5RU?si=CSV
 
 #### Petycja do Izby Reprezentantów {#petition-to-the-house-of-representatives}
 
-We wrześniu 2025 roku [e-petycja EN7777](https://www.aph.gov.au/e-petitions/petition/EN7777) do australijskiej Izby Reprezentantów była otwarta przez 30 dni i zebrała 168 podpisów. Petycja wnosiła o to, aby Izba ustawodawcza ustanowiła, że wszystkie przyszłe systemy AI muszą przejść rygorystyczne, niezależne oceny bezpieczeństwa, oraz aby Izba aktywnie opowiadała się za międzynarodowym traktatem w sprawie wstrzymania rozwoju AI do czasu ustanowienia globalnych mechanizmów bezpieczeństwa. Minister odpowiedział oficjalnie.
+We wrześniu 2025 roku [e-petycja EN7777](https://www.aph.gov.au/e-petitions/petition/EN7777) do australijskiej Izby Reprezentantów była otwarta przez 30 dni i zebrała 168 podpisów. Petycja wnosiła o to, aby Izba ustawodawcza ustanowiła, że wszystkie przyszłe systemy AI muszą przejść rygorystyczne, niezależne oceny bezpieczeństwa, oraz aby Izba aktywnie opowiadała się za międzynarodowym traktatem wstrzymującym rozwój AI, dopóki globalne mechanizmy bezpieczeństwa nie będą na miejscu. Minister odpowiedział oficjalnie.
 
 #### Wkład w sprawie komisji produktywności {#productivity-commission-submission}
 
-We wrześniu 2025 roku PauseAI Australia odpowiedziało na raport roboczy dotyczący _Wykorzystania danych i technologii cyfrowych_ [tym wkładem](https://drive.google.com/file/d/1Ea9I3jXCZAMdGAcN2D-UMRPyE2MzGB7k/view). Wolontariusze złożyli również indywidualne wnioski ([David](https://docs.google.com/document/d/1DenTOorlnqQ02PJEEdRvsceFmfvvfTXxGubozjfx-yE/edit?usp=sharing), [Peter](https://docs.google.com/document/d/1aQcC5DYq3feyWyHAPFGcEvwgrX0vXSbgMNDBEYWA61E/edit?tab=t.0#heading=h.4hsb6c6hjc5f), [Michael](https://drive.google.com/file/d/1lWdtIiLatF1DOPvdjQSaonO9dEqFCFSV/view?usp=drive_link)).
+We wrześniu 2025 roku PauseAI Australia odpowiedziało na raport tymczasowy dotyczący _Wykorzystania danych i technologii cyfrowych_ [tym wnioskiem](https://drive.google.com/file/d/1Ea9I3jXCZAMdGAcN2D-UMRPyE2MzGB7k/view). Wolontariusze złożyli również indywidualne wnioski ([David](https://docs.google.com/document/d/1DenTOorlnqQ02PJEEdRvsceFmfvvfTXxGubozjfx-yE/edit?usp=sharing), [Peter](https://docs.google.com/document/d/1aQcC5DYq3feyWyHAPFGcEvwgrX0vXSbgMNDBEYWA61E/edit?tab=t.0#heading=h.4hsb6c6hjc5f), [Michael](https://drive.google.com/file/d/1lWdtIiLatF1DOPvdjQSaonO9dEqFCFSV/view?usp=drive_link)).
 
 #### Zbadaj OpenAI {#investigate-openai}
 
@@ -78,4 +78,6 @@ We wrześniu 2025 roku PauseAI Australia odpowiedziało na raport roboczy dotycz
 
 #### Protest w Melbourne {#melbourne-protest}
 
-W lutym 2025 roku wolontariusze w Melbourne protestowali przeciwko przegapanej okazji Szczytu AI w Paryżu. Protest został [opublikowany](https://www.smh.com.au/technology/most-dangerous-technology-ever-protesters-urge-ai-pause-20250207-p5laaq.html) w gazetach Nine.
+W lutym 2025 roku wolontariusze w Melbourne protestowali przeciwko przegapionej okazji Szczytu AI w Paryżu. Protest został [opublikowany](https://www.smh.com.au/technology/most-dangerous-technology-ever-protesters-urge-ai-pause-20250207-p5laaq.html) w gazetach Nine.
+
+[Wróć do głównej strony Australii](/australia)
