@@ -2,21 +2,21 @@
 title: Informacje prawne
 description: Informacje wymagane przez prawo o PauseAI.
 ---
-<!-- end of frontmatter metadata, dashes above need to stay -->
+ <!-- end of frontmatter metadata, dashes above need to stay -->
 
-Ta strona internetowa jest zarządzana przez PauseAI Global.
-Dowiedz się więcej o wewnętrznych mechanizmach PauseAI na stronie [Organizacja](/organization).
+Ta strona internetowa jest prowadzona przez PauseAI Global.
+Dowiedz się więcej o działaniach PauseAI na stronie [Organizacja](/organization).
 
 ## PauseAI Global (Stichting PauseAI) {#pauseai-global-stichting-pauseai}
 
-Poniższe informacje dotyczą holenderskiej jednostki prawnej stojącej za PauseAI:
+Poniżej znajdują się informacje o holenderskiej jednostce prawnej za PauseAI:
 
 - Nazwa: "Stichting PauseAI"
 - Numer KVK: 92951031
 - RSIN: 866227696
 - Numer podatkowy/VAT: NL866227696B01
 - Konto bankowe: NL31BUNQ2109903155 ([przekaż darowiznę](/donate))
-- Cel: "Zmniejszenie najbardziej katastroficznych ryzyk związanych z AI."
+- Cel: "Zmniejszyć najbardziej katastrofalne ryzyka związane z AI."
 - Data założenia: 13-02-2024
 - Status ANBI: Tak, od 13-02-2024
 - Kontakt: [Joep Meindertsma](mailto:joep@pauseai.info)
@@ -24,47 +24,49 @@ Poniższe informacje dotyczą holenderskiej jednostki prawnej stojącej za Pause
 
 ### Status ANBI {#anbi-status}
 
-Status ANBI to holenderski status podatkowy dla organizacji charytatywnych.
-Umożliwia on przekazywanie darowizn bez podatku i odliczanie ich od podatku, a także inne korzyści dla organizacji i jej darczyńców.
-Stichting PauseAI jest zarejestrowaną organizacją ANBI od 13-02-2024. Sprawdź status [tutaj](https://www.belastingdienst.nl/wps/wcm/connect/nl/aftrek-en-kortingen/content/anbi-status-controleren) (strona w języku holenderskim).
+Status ANBI to holenderski status podatkowy dla organizacji charytatywnych, umożliwiający zwolnienie z podatku i odliczanie darowizn.
+Stichting PauseAI posiada status ANBI od 13-02-2024. Można to sprawdzić [tutaj](https://www.belastingdienst.nl/wps/wcm/connect/nl/aftrek-en-kortingen/content/anbi-status-controleren) (strona w języku niderlandzkim).
 
-Aby zakwalifikować się do statusu ANBI, organizacja charytatywna musi spełniać określone [wymagania](https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/belastingdienst/business/business-public-benefit-organisations/public_benefit_organisations/conditions_pbos/which_conditions_must_be_met_by_pbo):
+Aby otrzymać status ANBI, organizacja musi spełniać określone [wymagania](https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/belastingdienst/business/business-public-benefit-organisations/public_benefit_organisations/conditions_pbos/which_conditions_must_be_met_by_pbo):
 
-- Musi służyć interesowi publicznemu.
-- Nie może mieć motywu zysku, pieniądze muszą być wykorzystywane na cel organizacji.
-- Różne wymagania dotyczące publikacji (takie jak ta strona).
+- Działalność musi służyć interesowi publicznemu.
+- Organizacja nie może mieć na celu generowanie zysku; środki muszą być wykorzystywane wyłącznie do realizacji celów statutowych.
+- Organizacja musi spełniać określone wymagania dotyczące publikacji, w tym utworzenie strony internetowej z informacjami o działalności.
 
-### Plan działania 2026 ("Beleidsplan") {#policy-plan-2026-beleidsplan}
+### Plan polityczny 2026 ("Beleidsplan") {#policy-plan-2026-beleidsplan}
 
-Naszym celem jest zapobieżenie katastroficznym ryzykom związanym z AI. Chcemy osiągnąć to, podejmując następujące działania:
+Celem PauseAI jest zapobieganie katastrofalnym ryzykom związanym z AI.
+Aby to osiągnąć, planujemy:
 
-- Rozwijanie społeczności wolontariuszy, aby promować bezpieczeństwo AI.
-- Informowanie opinii publicznej poprzez media społecznościowe, pisząc artykuły, udział w [wywiadach/podcastach](/press) i organizowanie wydarzeń.
-- Ułatwianie wzrostu społeczności poprzez organizowanie wydarzeń towarzyskich.
-- Rozdzielanie [darowizn](/donate) na projekty, które są zgodne z naszymi celami.
+- Rozwijanie społeczności wolontariuszy, którzy będą promować bezpieczeństwo AI.
+- Edukowanie społeczeństwa poprzez media społecznościowe, artykuły, [wywiady i podcasty](/press) oraz organizowanie wydarzeń.
+- Wspieranie rozwoju społeczności poprzez organizowanie spotkań i wydarzeń towarzyskich.
+- Przekazywanie [darowizn](/donate) organizacjom i projektom, które wspierają nasze cele.
 - Organizowanie [protestów](/protests) i innych form aktywizmu, aby zwiększyć świadomość o ryzykach związanych z AI.
-- Edukowanie [wolontariuszy](/join) na temat tego, jak stać się bardziej skutecznymi orędownikami.
-- Badanie środków politycznych i aktualizowanie [naszego wniosku](/proposal) w związku z tym.
+- Szkolenie [wolontariuszy](/join) w zakresie skutecznej promocji bezpieczeństwa AI.
+- Analiza środków politycznych i aktualizowanie [naszego wniosku](/proposal) odpowiednio.
 
-#### Odpowiedzialność finansowa ("Financiële paragraaf") {#financial-accountability-financiële-paragraaf}
+#### Finansowa odpowiedzialność ("Financiële paragraaf") {#financial-accountability-financiële-paragraaf}
 
-Zbieramy fundusze na wsparcie naszych działań poprzez [darowizny](/donate), sprzedaż towarów (poprzez [sklep](https://pauseai-shop.fourthwall.com/)) i ubieganie się o dotacje.
+Pobieramy fundusze poprzez [darowizny](/donate), sprzedaż towarów w [sklepie](https://pauseai-shop.fourthwall.com/) oraz wnioski o dotacje.
+Fundusze te są wykorzystywane do pokrycia kosztów naszych działań, w tym zatrudniania personelu, wydatków na podróże, materiałów na wydarzenia, kosztów marketingowych i innych wydatków związanych z naszą misją.
+Planujemy również przyznawać dotacje ("PauseAI MicroGrants") wolontariuszom, którzy chcą zorganizować wydarzenia, stworzyć treści lub w inny sposób przyczynić się do naszej misji.
 
-Fundusze będą wykorzystywane do pokrycia kosztów naszych działań, takich jak zatrudnianie pracowników lub freelancerów (z wyłączeniem zarządu), wydatki na podróże, materiały na wydarzenia, wydatki na marketing i inne koszty związane z naszą misją.
-Oczekujemy również, że będziemy przyznawać dotacje ("PauseAI MicroGrants") wolontariuszom, którzy chcą organizować wydarzenia, tworzyć treści lub w inny sposób przyczyniać się do naszej misji.
+Nasz pierwszy rok księgowy trwa od daty założenia (13-02-2024) do 31-12-2025.
+Po tym okresie opublikujemy sprawozdanie roczne w ciągu 6 miesięcy.
 
-Nasz pierwszy rok księgowy jest dłuższy niż jeden rok - rozpoczyna się od daty naszego założenia (13-02-2024) i kończy się 31-12-2025, po czym opublikujemy raport roczny w ciągu 6 miesięcy.
-
-Otrzymane fundusze są zarządzane przez zarząd i są wykorzystywane do pokrycia kosztów naszych działań. Fundacja nie posiada więcej kapitału niż jest to rozsądnie niezbędne dla ciągłości planowanych działań. Jakikolwiek nadmiar jest zarezerwowany wyłącznie na wsparcie przyszłych działań non-profit.
+Otrzymane fundusze są zarządzane przez zarząd i wykorzystywane do pokrycia kosztów naszych działań.
+Fundacja nie gromadzi więcej środków, niż jest to konieczne do realizacji planowanych działań.
+Ewentualne nadwyżki są zarezerwowane wyłącznie do wspierania przyszłych działań non-profit.
 
 Członkowie zarządu nie otrzymują wynagrodzenia za swoją pracę.
-Mają oni prawo do zwrotu kosztów poniesionych przez nich w związku z wykonywaniem swoich obowiązków.
+Mogą jednak otrzymać zwrot kosztów poniesionych w związku z pełnieniem swoich obowiązków.
 
-### Raport z działalności {#report-of-activities}
+### Sprawozdanie z działań {#report-of-activities}
 
-Lista [wystąpień w mediach](/press) i [zorganizowanych protestów](/protests) można znaleźć na odpowiednich stronach.
-Posty w mediach społecznościowych można znaleźć głównie na [X](https://x.com/PauseAI).
-Nasz [serwer Discord](https://discord.gg/HWcPt5ccJN) jest zdecydowanie naszą najbardziej aktywną społecznością, z średnią 100 wiadomości dziennie.
+Lista [pojawów w mediach](/press) i [zorganizowanych protestów](/protests) jest dostępna na odpowiednich stronach.
+Posty na mediach społecznościowych można znaleźć głównie na [X](https://x.com/PauseAI).
+Nasza społeczność na [serwerze Discord](https://discord.gg/HWcPt5ccJN) jest najbardziej aktywna, z średnio 100 wiadomościami dziennie.
 
 ### Członkowie zarządu {#board-members}
 
