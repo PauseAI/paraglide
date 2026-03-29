@@ -1,31 +1,28 @@
 ---
 title: Protest PauseAI w Amsterdamie, grudzień 2025
 slug: amsterdam-protest-2025-grudzien
-description: Protest w Amsterdamie wzywający rząd holenderski i firmę ASML do zaprzestania wspierania firm rozwijających sztuczną superinteligencję.
-image: /banner-all.jpeg
+description: Protest w Amsterdamie, aby nakłonić rząd holenderski oraz firmę ASML z siedzibą w Holandii do wstrzymania dostaw dla firm rozwijających sztuczną superinteligencję.
+image: /banner-all-cropped.jpeg
 ---
-<!-- end of frontmatter metadata, dashes above need to stay -->
+ 
+13 grudnia 2025 roku zorganizowaliśmy protest w Amsterdamie, aby wezwać zarówno rząd holenderski, jak i firmę ASML z siedzibą w Holandii do wstrzymania dostaw dla firm pracujących nad sztuczną superinteligencją.
 
-13 grudnia 2025 roku zorganizowaliśmy protest w Amsterdamie, aby wezwać rząd holenderski i firmę ASML do zaprzestania wspierania firm rozwijających sztuczną superinteligencję.
-
-![Protestujący PauseAI w Amsterdamie](/banner-all.jpeg "Protestujący PauseAI w Amsterdamie")
-
-Około 25 osób wzięło udział w proteście, aby wyrazić swoje niezadowolenie z wyścigu w celu zbudowania superinteligencji i poparcie dla międzynarodowych regulacji, które mogą ją powstrzymać.
+Około 25 osób wzięło udział, aby wyrazić swoją opozycję wobec wyścigu w rozwoju superinteligencji oraz poprzeć międzynarodową regulację, która mogłaby ją powstrzymać.
 
 ## **Dlaczego Holandia? Dlaczego ASML? Dlaczego teraz?** {#why-the-netherlands-why-asml-why-now}
 
-ASML jest jedynym producentem maszyn do litografii ultrafioletowej (EUV), które umożliwiają produkcję najnowocześniejszych układów scalonych dla sztucznej inteligencji. Bez technologii ASML nie ma szybkiej ścieżki do superinteligencji. Żadna inna firma nie może obecnie powtórzyć tego, co robi ASML.
+Firma ASML produkuje jedynie na świecie maszyny litografii ekstremalnego ultrafioletu (EUV), które umożliwiają wytwarzanie najnowocześniejszych chipów AI. Bez technologii ASML nie ma szybkiej drogi do osiągnięcia superinteligencji. Żadna inna firma nie jest w stanie odtworzyć ich osiągnięć.
 
-ASML już ogranicza dostęp do swoich technologii ze względów bezpieczeństwa narodowego, blokując eksport do Chin i Rosji. Firma zainstalowała nawet zdalne możliwości wyłączania w swoich maszynach.
+ASML już wprowadziła ograniczenia dostępu ze względów bezpieczeństwa narodowego, blokując eksport do Chin i Rosji. Posiadają również zdalne możliwości wyłączania swoich maszyn.
 
-### **Żądanie PauseAI do rządu holenderskiego i ASML:** {#pauseais-demand-to-the-dutch-government-and-asml}
+### **Wymóg PauseAI wobec rządu holenderskiego i ASML:** {#pauseais-demand-to-the-dutch-government-and-asml}
 
-Wymagamy, aby ASML dostarczała swoje produkty tylko klientom, którzy:
+Domagamy się, aby ASML dostarczał swoje produkty tylko tym klientom, którzy:
 
-- Zobowiążą się do przestrzegania moratorium na superinteligencję poprzez wiążące umowy
-- Poddadzą się weryfikacji przez niezależną komisję regulacyjną
-- Wymagają tego samego od swoich klientów biznesowych
+- Zobowiążą się do przestrzegania moratorium na rozwój superinteligencji poprzez wiążące umowy
+- Będą poddawani weryfikacji przez niezależną komisję regulacyjną
+- Wymagają tego samego od swoich partnerów biznesowych
 
-To pozwoli zachować korzyści płynące z sztucznej inteligencji, w tym w dziedzinie badań medycznych, modelowania klimatu i odkryć naukowych, jednocześnie zapobiegając niekontrolowanemu wyścigowi w kierunku superinteligencji.
+To pozwoli na zachowanie korzystnych zastosowań AI, takich jak badania medyczne, modelowanie klimatu czy odkrycia naukowe, jednocześnie powstrzymując niekontrolowany wyścig w kierunku superinteligencji.
 
-Aby dowiedzieć się więcej o łańcuchu dostaw układów scalonych i unikalnej pozycji ASML, zobacz naszą stronę [Budowanie przycisku pauzy](https://pauseai.info/building-the-pause-button).
+Aby dowiedzieć się więcej o łańcuchu dostaw chipów i unikalnej pozycji ASML, zobacz naszą stronę [Budowanie przycisku pauzy](https://pauseai.info/building-the-pause-button).
