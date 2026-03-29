@@ -1,46 +1,45 @@
 ---
-title: Jak oceny bezpieczeństwa AI i testy porównawcze mogą pomóc w zarządzaniu AI
-description: Czym są oceny bezpieczeństwa AI i jak mogą przyczynić się do zapobieżenia katastrofalnym ryzykom?
+title: Jak oceny i punkty odniesienia bezpieczeństwa AI mogą przyczynić się do skutecznego zarządzania AI
+description: Czym są oceny bezpieczeństwa AI i jak mogą one pomóc w zapobieganiu katastrofalnym ryzykom?
 ---
+## Co to są oceny bezpieczeństwa AI {#what-are-ai-safety-evaluations}
 
-## Czym są oceny bezpieczeństwa AI {#what-are-ai-safety-evaluations}
+"Ewaluacje" to testy, które mierzą zachowania modeli AI i ich rosnącą potęgę. 
+W dziedzinie bezpieczeństwa AI, ewaluacje są często projektowane w celu pomiaru [niebezpiecznych możliwości](/dangerous-capabilities), takich jak zdolności cyberbezpieczeństwa, samoreplikacji i prowadzenia autonomicznych badań AI.
 
-Oceny bezpieczeństwa, zwane również "ewaluacjami", to testy, które mierzą, jak zachowują się modele AI i jak stają się coraz potężniejsze.
-W dziedzinie bezpieczeństwa AI, ewaluacje są często projektowane do pomiaru [niebezpiecznych zdolności](/dangerous-capabilities), takich jak zdolności związane z cyberbezpieczeństwem, samoreplikacja i autonomiczne badania AI.
+Co ważne, ewaluacje mogą pomóc określić, czy AI jest zbyt niebezpieczna do wdrożenia. 
+Istnieją pewne _granice bezpieczeństwa_, których żaden model AI nie powinien przekroczyć, na przykład gdy może...
 
-Co ważne, ewaluacje mogą określić, czy AI jest zbyt niebezpieczna, aby ją wdrożyć.
-Istnieją pewne _granice bezpieczeństwa_, których żaden model AI nie powinien przekroczyć, na przykład, gdy może...
+- **sam się replikować**. (Na przykład [RepliBench](https://arxiv.org/abs/2504.18565)). Samoreplikujący się AI mógłby uciec spod kontroli i rozprzestrzenić się na inne maszyny.
+- **tworzyć potężniejsze modele AI**. Na przykład [RE-bench](https://metr.org/AI_R_D_Evaluation_Report.pdf). Samodoskonalący się AI mógłby szybko stać się potężniejszy niż ludzie.
 
-- **samoreplikować się**. (Np. [RepliBench](https://arxiv.org/abs/2504.18565)). Samoreplikująca się AI mogłaby uciec z laboratorium i rozprzestrzenić się na inne maszyny.
-- **tworzyć bardziej potężne modele AI**. Np. [RE-bench](https://metr.org/AI_R_D_Evaluation_Report.pdf). Samoudoskonalająca się AI mogłaby szybko stać się bardziej potężna niż ludzie.
+## Zapobieganie wdrożeniu to nie wszystko {#preventing-deployment-is-not-enough}
 
-## Zapobieżenie wdrożeniu nie wystarczy {#preventing-deployment-is-not-enough}
+Ryzyko wystąpienia niepożądanych zdarzeń istnieje _nawet przed wdrożeniem_.
+Samoreplikacja i samodoskonalenie mogą nastąpić w laboratorium AI, zanim model będzie dostępny publicznie.
 
-Rzeczy mogą pójść źle _nawet przed wdrożeniem_.
-Samoreplikacja i samoudoskonalenie mogą nastąpić w laboratorium AI, zanim model zostanie udostępniony publicznie.
-
-Dlatego **potrzebujemy mechanizmu awaryjnego**.
-Musimy globalnie wstrzymać rozwój coraz potężniejszych modeli AI, zanim te niebezpieczne zdolności zostaną w pełni rozwinięte.
-Ten mechanizm awaryjny powinien być aktywowany, gdy ewaluacje pokazują, że wkraczamy w strefę niebezpieczeństwa.
+Dlatego **potrzebujemy [Przycisku Pauzy](/building-the-pause-button)**.
+Potrzebujemy globalnie zatrzymać rozwój coraz potężniejszych modeli AI, zanim te niebezpieczne możliwości będą w pełni rozwinięte.
+Przycisk Pauzy powinien być wciśnięty, gdy ewaluacje wskażą, że zbliżamy się do _granicy bezpieczeństwa_.
 
 ## Co robią firmy AI {#what-ai-companies-are-doing}
 
-Większość firm AI z pierwszej linii przeprowadza oceny bezpieczeństwa swoich modeli przed ich wdrożeniem i uwzględnia wyniki tych ocen w tzw. "Kartach systemowych".
-Większość z nich (z wyjątkiem Meta i Apple) podpisała [Unijny kodeks postępowania w dziedzinie AI](https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai), który wspomina o "najnowocześniejszych ocenach modeli" (Środek 3.2).
+Większość firm AI z pierwszej linii prowadzi ewaluacje bezpieczeństwa swoich modeli przed ich wdrożeniem i uwzględnia wyniki tych ewaluacji w tzw. "Kartach Systemowych".
+Większość z nich (poza Meta i Apple) podpisała [Kodeks Dobrej Praktyki AI UE](https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai), który wymienia "ewaluacje modeli na poziomie stanu techniki" (Punkt 3.2).
 
-Oznacza to również, że niektóre z tych firm nie przeprowadzają _żadnych_ ocen bezpieczeństwa, a te, które są przeprowadzane, _nie są jeszcze wymagane_ i _nie są ustandaryzowane_.
-Innymi słowy, **pilnie potrzebujemy przepisów, które wymagają ustandaryzowanych ocen bezpieczeństwa**.
+To oznacza również, że niektóre z tych firm nie prowadzą _żadnych_ ewaluacji bezpieczeństwa, a te, które są prowadzone, _nie są jeszcze obligatoryjne_ i _nie są standaryzowane_.
+Innymi słowy, **pilnie potrzebujemy regulacji, które wymagają standaryzowanych ewaluacji bezpieczeństwa**.
 
 ## Co robią kraje {#what-countries-are-doing}
 
-Wiele rządów poważnie inwestuje w oceny AI/testy porównawcze, aby zmierzyć niebezpieczne zdolności:
+Kilka rządów inwestuje teraz poważnie w ewaluacje/benchmarks AI, aby zmierzyć niebezpieczne możliwości:
 
-- UK AISI stworzył [ramę Inspect](https://github.com/UKGovernmentBEIS/inspect_ai), napisał [Replibench](https://arxiv.org/abs/2504.18565), obecnie inwestuje [15 mln GBP w oceny i granty na badania nad wyrównaniem](https://alignmentproject.aisi.gov.uk/)
-- Komisja Europejska ogłasza [przetarg o wartości 10 mln EUR](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/76f9edf2-d9e2-4db2-931e-a72c5ab356d2-CN) oraz [duży grant w ramach programu Horyzont](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2025-04-DIGITAL-EMERGING-04). Uruchomiła również [Ogólny kodeks postępowania w dziedzinie AI](https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai), który obejmuje wymóg przeprowadzania "najnowocześniejszych ocen modeli" (Środek 3.2).
-- [Plan działania w dziedzinie AI w USA](https://www.whitehouse.gov/articles/2025/07/white-house-unveils-americas-ai-action-plan/) wspomina o ocenach i kontrolach sprzętowych
-- Chiny (Concordia AI + Shanghai AI Lab) właśnie [opublikowały raport z wieloma ocenami](https://substack.com/home/post/p-169741512)
-- Inne rządy również pracują nad ocenami
+- UK AISI zbudował [ramę Inspect](https://github.com/UKGovernmentBEIS/inspect_ai), napisał [Replibench](https://arxiv.org/abs/2504.18565), inwestuje teraz [15M GBP w granty na badania ewaluacji i wyrównania](https://alignmentproject.aisi.gov.uk/)
+- Komisja Europejska uruchamia [przetarg na 10M EUR](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/76f9edf2-d9e2-4db2-931e-a72c5ab356d2-CN), oraz [duży grant w ramach programu Horizon](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2025-04-DIGITAL-EMERGING-04). Uruchomiła również [Kodeks Dobrej Praktyki Ogólnego Przeznaczenia AI](https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai), który zawiera wymóg przeprowadzania "ewaluacji modeli na poziomie stanu techniki" (Punkt 3.2).
+- [Plan Działania AI USA](https://www.whitehouse.gov/articles/2025/07/white-house-unveils-americas-ai-action-plan/) wymienia ewaluacje i kontrolę sprzętu
+- Chiny (concordia AI + Shanghai AI lab) właśnie [opublikowały raport z wieloma ewaluacjami](https://substack.com/home/post/p-169741512)
+- Inne rządy pracują również nad ewaluacjami
 
-_Fakt, że tak wiele krajów pracuje nad ocenami, stwarza bardzo ważną okazję dla nas_.
-Gdyby te kraje i instytucje **używały tych samych testów porównawczych** i miały pewne wspólne **granice bezpieczeństwa**, byłoby to ważne krokiem w kierunku globalnego traktatu.
-Ponadto powinniśmy wyraźnie zakomunikować politykom, że gdy przekroczona zostanie granica bezpieczeństwa, nadszedł czas, aby [zatrzymać dalszy rozwój](/proposal).
+_Fakt, że tak wiele krajów pracuje nad ewaluacjami, stwarza bardzo ważną okazję dla nas_.
+Jeśli te kraje i instytucje **będą używać tych samych benchmarków** i będą miały pewne wspólne _granice bezpieczeństwa_, to będzie to ważny krok w kierunku globalnego traktatu.
+Ponadto powinniśmy jasno komunikować politykom, że gdy zostanie przekroczona _granica bezpieczeństwa_, jest czas, aby [zatrzymać dalszy rozwój](/proposal).
