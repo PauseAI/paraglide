@@ -1,68 +1,52 @@
 ---
-title: Równowaga między atakiem a obroną w bezpieczeństwie AI
-description: Jak myśleć o równowadze między atakiem a obroną w bezpieczeństwie sztucznej inteligencji
+title: Równowaga ofensywy i obrony w bezpieczeństwie sztucznej inteligencji
+description: Jak myśleć o równowadze między ofensywą a obroną w bezpieczeństwie sztucznej inteligencji
 ---
  <!-- end of frontmatter metadata, dashes above need to stay -->
 
-Równowaga między atakiem a obroną odnosi się do względnych sił i słabości strategii ofensywnych i defensywnych, zwykle w kontekście konfliktu zbrojnego lub zawodów sportowych.
+Równowaga ofensywy i obrony odnosi się do względnej siły i słabości strategii ofensywnych i defensywnych, zwykle w kontekście konfliktów zbrojnych lub zawodów sportowych. W przypadku sztucznej inteligencji ta równowaga jest szczególnie istotna.
 
-Ponieważ sztuczna inteligencja jest technologią o podwójnym zastosowaniu, możemy zaobserwować te równowagi między atakiem a obroną w różnych problemach bezpieczeństwa AI:
+Ponieważ sztuczna inteligencja jest technologią o podwójnym zastosowaniu, możemy zaobserwować te równowagi ofensywy i obrony w różnych problemach związanych z bezpieczeństwem sztucznej inteligencji:
 
 - Generowanie fałszywych mediów, wykrywanie fałszywych mediów
-- Ataki na cyberbezpieczeństwo, obrona cyberbezpieczeństwa
-- Przejęcie przez AI, obrona przed przejęciem przez AI
+- Ataki cybernetyczne, obrona cybernetyczna
+- Przejęcie kontroli przez sztuczną inteligencję, obrona przed przejęciem kontroli przez sztuczną inteligencję
 
-Jak rozegra się równowaga między atakiem a obroną w bezpieczeństwie AI?
+Jak będzie wyglądać równowaga ofensywy i obrony w bezpieczeństwie sztucznej inteligencji?
 
 ## Fałszywe media {#fake-media}
 
-Nowoczesne duże modele językowe mogą tworzyć teksty w różnych stylach, a inne modele mogą tworzyć obrazy, dźwięk i nawet filmy.
-Wiele modeli tworzy niewiarygodne fałszerstwa, ale jakość szybko się poprawia.
+Współczesne duże modele językowe mogą tworzyć tekst w różnych stylach, a inne modele mogą tworzyć obrazy, dźwięk i nawet filmy. Wiele modeli tworzy niewiarygodne fałszywki, ale jakość poprawia się gwałtownie.
 
-Najnowocześniejsze modele tekstu, dźwięku i obrazu są już na tyle dobre, że mogą oszukać większość ludzi.
-W 2022 roku pierwszy obraz wygenerowany przez AI wygrał konkurs artystyczny.
-Kilka miesięcy później konkurs fotograficzny został wygrany przy użyciu obrazu wygenerowanego przez AI.
+Modele tekstu, dźwięku i obrazu są już wystarczająco dobre, aby oszukać większość ludzi. W 2022 roku pierwszy obraz wygenerowany przez sztuczną inteligencję wygrał konkurs artystyczny. Kilka miesięcy później konkurs fotograficzny został wygrany za pomocą obrazu wygenerowanego przez sztuczną inteligencję.
 
-Mamy również AI, które mogą wykrywać deepfakes.
-To prowadzi do gry w kotka i myszkę między fałszerzami a detektorami.
+Mamy również sztuczną inteligencję, która może wykrywać głębokie fałszywki. Wynikiem jest gra w kotka i myszkę między fałszerzami a wykrywaczami.
 
-W przypadku tekstu atak wydaje się mieć przewagę.
-OpenAI [zrezygnowało](https://news.ycombinator.com/item?id=36862850) ze swojego klasyfikatora AI z powodu niskiej dokładności.
+W przypadku tekstu ofensywa zdaje się wygrywać. OpenAI [zaniechał](https://news.ycombinator.com/item?id=36862850) swojego klasyfikatora sztucznej inteligencji ze względu na niską dokładność.
 
-Na szczęście istnieją środki, takie jak [znakowanie wodne](https://arxiv.org/abs/2303.07205) i podpisy cyfrowe, które mogą być używane do wykrywania fałszerstw.
-Wymaganie podpisów dla wszystkich mediów, które konsumujemy, może być skutecznym rozwiązaniem.
+Na szczęście możemy stosować środki takie jak [znakowanie wodne](https://arxiv.org/abs/2303.07205) i podpisy cyfrowe, aby wykrywać fałszywki. Wymaganie podpisów dla wszystkich mediów, które konsumujemy, może być odpowiednim rozwiązaniem.
 
-## Ataki na cyberbezpieczeństwo a obrona {#cybersecurity-attacks-vs-defenses}
+## Ataki cybernetyczne a obrona {#cybersecurity-attacks-vs-defenses}
 
-Nowoczesne duże modele językowe mogą być używane do znajdowania luk w oprogramowaniu.
-Gdy znajdziesz lukę, możesz ją naprawić (obrona) lub wykorzystać (atak).
-I na szczęście, zdecydowana większość ludzi jest po stronie obrony.
+Współczesne duże modele językowe mogą być wykorzystywane do wyszukiwania luk w zabezpieczeniach oprogramowania. Gdy odkryjesz lukę, możesz ją naprawić (obrona) lub wykorzystać (ofensywa). Na szczęście, ogromna większość ludzi jest po stronie obrony.
 
-Jednak atakujący mają pewne przewagi nad obrońcami:
+Jednakże, atakujący mają pewne przewagi nad obrońcami:
 
-- **Atakujący muszą znaleźć tylko jedną lukę, podczas gdy obrońcy muszą znaleźć wszystkie.** Obrońcy nie będą wiedzieli, którą lukę atakujący znajdą, więc muszą bronić się przed wszystkimi.
-- **Wdrażanie poprawek trwa dłużej niż atak.** "Okno podatności" to czas, który upływa od odkrycia luki do momentu, gdy zostanie ona załatana. Obrońcy muszą naprawić błąd, ponownie skompilować aplikację lub opublikować zaktualizowane biblioteki, a następnie wszyscy użytkownicy muszą zaktualizować swoje oprogramowanie. To może trwać miesiące, a w międzyczasie luka może być wykorzystana.
+- **Atakujący muszą znaleźć tylko jedną lukę, podczas gdy obrońcy muszą znaleźć wszystkie**. Obrońcy nie wiedzą, którą lukę atakujący znajdą, więc muszą bronić się przed wszystkimi.
+- **Wdrożenie poprawek zajmuje więcej czasu niż atak**. "Okno luk" to czas od odkrycia eksploatacji do momentu, gdy jest ona naprawiona. Obrońcy muszą naprawić błąd, ponownie skompilować aplikację lub opublikować zaktualizowane biblioteki, a następnie wszyscy użytkownicy muszą zaktualizować swoje oprogramowanie. Może to potrwać miesiące, a tymczasem luka może być wykorzystana.
 
-## Zagrożenia biologiczne i obrona biologiczna {#biohazards-and-biodefense}
+## Zagrożenia biologiczne i biobrona {#biohazards-and-biodefense}
 
-AI może być używana do projektowania nowych czynników biologicznych lub pomocy w procesie inżynierii pandemii.
-Grupa studentów była w stanie użyć chatbota do [wygenerowania wszystkich kroków niezbędnych do stworzenia nowej pandemii](https://arxiv.org/abs/2306.03809).
-Jednak może być również używana do tworzenia nowych szczepionek, leków lub obrony przed czynnikami biologicznymi.
+Sztuczna inteligencja może być wykorzystywana do projektowania nowych czynników biologicznych lub wspomagania procesu inżynierii pandemii. Grupa studentów była w stanie wykorzystać czatbota do [wytworzenia wszystkich kroków niezbędnych do stworzenia nowej pandemii](https://arxiv.org/abs/2306.03809). Może być również wykorzystywana do tworzenia nowych szczepionek, leków lub obrony przed czynnikami biologicznymi.
 
-- **Wirusy rozprzestrzeniają się szybciej niż szczepionki**. Wirus jest dosłownie samoreplikującą się maszyną. Szczepienie z drugiej strony wymaga dużo wysiłku, aby je wyprodukować i rozprowadzić.
+- **Wirusy rozprzestrzeniają się szybciej niż szczepionki**. Wirus jest literalnie samopowielającą się maszyną. Szczepionka wymaga natomiast dużo wysiłku, aby ją wyprodukować i rozdystrybuować.
 
-## Nieznana technologia i ryzyka {#unknown-technology-and-risks}
+## Nieznana technologia i ryzyko {#unknown-technology-and-risks}
 
-AI znacznie inteligentniejsza od ludzi może być w stanie użyć swojego lepszego zrozumienia rzeczywistości do tworzenia nowych technologii.
-Może to być na przykład samoreplikujące nanoboty, które mogą przekształcić całą materię w kopie samej siebie, lub małe maszyny, które mogą wpływać na mózgi ludzi.
-Przewidywanie, jaka dokładnie będzie ta technologia, jest niemożliwe (musielibyśmy być przynajmniej tak inteligentni jak AI), ale możemy nadal rozumować o równowadze między atakiem a obroną.
-Wnioskiem nie jest tak trudno: nie mamy pojęcia, co nadchodzi, i nie mamy pojęcia, jak się bronić.
-Jesteśmy w niekorzystnej sytuacji.
+Sztuczna inteligencja znacznie inteligentniejsza od ludzi może wykorzystać swoje lepsze zrozumienie rzeczywistości do stworzenia nowych technologii. Być może jakieś samopowielające się nanoroboty, które mogą przekształcić całą materię w kopie siebie, lub małe maszyny, które mogą wpływać na mózgi ludzi. Przewidywanie, jaka dokładnie będzie ta technologia, jest niemożliwe (musielibyśmy być przynajmniej tak inteligentni jak sztuczna inteligencja), ale możemy nadal rozważać równowagę ofensywy i obrony. Wnioskowanie nie jest trudne: nie mamy pojęcia, co nadchodzi, i nie mamy pojęcia, jak się bronić. Jesteśmy w niekorzystnej sytuacji.
 
-## Wnioski {#conclusion}
+## Podsumowanie {#conclusion}
 
-Wiele ryzyk związanych z AI ma równowagę między atakiem a obroną.
-W przypadku fałszywych mediów moglibyśmy używać podpisów cyfrowych do wykrywania fałszerstw, przesuwając równowagę w stronę obrony.
-W przypadku ataków na cyberbezpieczeństwo, zagrożeń biologicznych i nieznanej technologii atak wydaje się mieć przewagę.
+Wiele ryzyk związanych z sztuczną inteligencją ma równowagę ofensywy i obrony. W przypadku fałszywych mediów możemy wykorzystać podpisy cyfrowe, aby wykrywać fałszywki, przesuwając równowagę na stronę obrony. W przypadku ataków cybernetycznych, zagrożeń biologicznych i nieznanej technologii ofensywa zdaje się mieć przewagę.
 
-Ważnym wnioskiem politycznym z tego jest: [nie budujmy tej technologii w pierwszej kolejności](/proposal).
+Ważne implikacje polityczne to: [nie budujmy tej technologii w pierwszej kolejności](/proposal).
