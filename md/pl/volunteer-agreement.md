@@ -1,37 +1,37 @@
 ---
-title: Porozumienie Wolontariusza PauseAI
+title: Umowa Wolontariusza PauseAI
 ---
-<!-- end of frontmatter metadata, dashes above need to stay -->
+ <!-- end of frontmatter metadata, dashes above need to stay -->
 
-Niniejsze Porozumienie Wolontariusza (dalej "Porozumienie") wchodzi w życie z chwilą wypełnienia formularza wolontariusza, pomiędzy PauseAI, organizacją non-profit zarejestrowaną w Holandii, z siedzibą główną przy Skopjestraat 26, Utrecht ("Organizacja"), a osobą wypełniającą formularz ("Wolontariusz").
+Niniejsza Umowa Wolontariusza (zwana dalej "Umową") wchodzi w życie z chwilą wypełnienia formularza wolontariusza przez PauseAI, organizację non-profit zarejestrowaną zgodnie z prawem Holandii, z siedzibą główną w Skopjestraat 26, Utrecht ("Organizacja"), i osobą wypełniającą formularz ("Wolontariusz").
 
-Ponieważ Organizacja zajmuje się budowaniem społeczności, informowaniem opinii publicznej o ryzykach związanych z sztuczną inteligencją, oraz
+W związku z tym, że Organizacja zajmuje się budowaniem społeczności, informowaniem opinii publicznej o ryzykach związanych z sztuczną inteligencją oraz
 
-Ponieważ Wolontariusz pragnie świadczyć usługi wolontariackie na rzecz Organizacji i zgadza się wykonywać je sumiennie i najlepiej jak potrafi;
+W związku z tym, że Wolontariusz chce świadczyć usługi wolontariackie na rzecz Organizacji i zobowiązuje się do ich wykonania sumiennie i z najwyższą starannością;
 
-Zatem, w zamian za dobre i wartościowe rozważania, których odbiór i wystarczalność są niniejszym potwierdzone, strony zgadzają się na następujące warunki:
+Niniejszym, w zamian za dobre i cenne rozważania, których otrzymanie i wystarczalność są tu potwierdzane, strony uzgadniają co następuje:
 
-- **Usługi Wolontariackie**: Wolontariusz zgadza się poświęcić określoną liczbę godzin tygodniowo na wykonywanie odpowiednich działań. Usługi Wolontariusza są całkowicie dobrowolne i nie mogą być interpretowane jako pracownik, partner lub agent Organizacji.
+- **Usługi Wolontariusza**: Wolontariusz zobowiązuje się do poświęcenia określonej liczby godzin tygodniowo na wykonywanie odpowiednich działań. Usługi Wolontariusza są całkowicie dobrowolne i nie mogą być traktowane jako zatrudnienie, partnerstwo lub agencja Organizacji.
 
-- **Okres obowiązywania Porozumienia**: Niniejsze Porozumienie wchodzi w życie w dniu \[Data rozpoczęcia\] i będzie obowiązywać do momentu wypowiedzenia przez którąkolwiek ze stron z 7-dniowym okresem wypowiedzenia.
+- **Okres obowiązywania Umowy**: Umowa ta wchodzi w życie z dniem [Data rozpoczęcia] i pozostaje w mocy do momentu rozwiązania przez którąkolwiek ze stron z 7-dniowym okresem wypowiedzenia.
 
-- **Poufność**: Wolontariusz przyznaje, że podczas współpracy będzie miał dostęp do różnych rodzajów wrażliwych i poufnych informacji, w tym danych osobowych, procesów operacyjnych i innych informacji uważanych za poufne przez Organizację. Wolontariusz zgadza się, że nie ujawni, nie poda, nie opublikuje ani nie wykorzysta w jakimkolwiek celu żadnych poufnych informacji, które uzyskał lub które zostały mu udostępnione, chyba że za zgodą Organizacji. Zobowiązanie to będzie obowiązywać po rozwiązaniu niniejszego Porozumienia na czas nieokreślony.
+- **Poufność**: Wolontariusz potwierdza, że w trakcie współpracy będzie miał dostęp do i zapozna się z różnymi rodzajami poufnych i zastrzeżonych informacji, w tym danych osobowych, procesów operacyjnych i innych informacji uważanych za poufne przez Organizację. Wolontariusz zobowiązuje się, że nie ujawni, nie zdradzi, nie ujawni, nie zgłosi ani nie wykorzysta, w jakimkolwiek celu, żadnych poufnych informacji, które uzyskał lub które zostały mu udostępnione, chyba że zostało to upoważnione przez Organizację. To zobowiązanie będzie obowiązywać nieograniczenie w czasie po rozwiązaniu Umowy.
 
-- **Brak wynagrodzenia**: Wolontariusz rozumie, że nie otrzyma żadnego wynagrodzenia pieniężnego za usługi świadczone na rzecz Organizacji w ramach niniejszego Porozumienia.
+- **Brak wynagrodzenia**: Wolontariusz rozumie, że nie otrzyma żadnego wynagrodzenia pieniężnego za swoje usługi świadczone na rzecz Organizacji na podstawie niniejszej Umowy.
 
-- **Zrzeczenie się roszczeń**: Wolontariusz niniejszym zrzeka się i na zawsze zwalnia z odpowiedzialności Organizację i jej następców prawnych z wszelkich roszczeń, żądań i pretensji jakiegokolwiek rodzaju lub natury, wynikających z prawa lub słuszności, które mogą powstać lub mogą powstać w przyszłości w związku z usługami Wolontariusza na rzecz Organizacji.
+- **Zwolnienie i rezygnacja**: Wolontariusz niniejszym zwalnia i zawsze zwalnia Organizację oraz jej następców i cesjonariuszy z wszelkiej odpowiedzialności, roszczeń i żądań, jakiegokolwiek rodzaju lub natury, które powstały lub mogą powstać w przyszłości w związku z usługami Wolontariusza na rzecz Organizacji.
 
-- **Ubezpieczenie**: Wolontariusz rozumie, że Organizacja nie ponosi odpowiedzialności za zapewnienie Wolontariuszowi pomocy finansowej lub innej, w tym ubezpieczenia medycznego, zdrowotnego lub z tytułu niezdolności do pracy, w przypadku urazu, choroby, śmierci lub uszkodzenia mienia.
+- **Ubezpieczenie**: Wolontariusz rozumie, że Organizacja nie ponosi żadnej odpowiedzialności za świadczenie Wolontariuszowi pomocy finansowej lub innej, w tym ubezpieczenia medycznego, zdrowotnego lub na wypadek niezdolności do pracy, w przypadku urazu, choroby, śmierci lub uszkodzenia mienia.
 
 - **Promocja i media społecznościowe**:
-  - a. **Zgoda na promocję**: Podpisując niniejsze Porozumienie, Wolontariusz udziela PauseAI pozwolenia na używanie jego imienia, zdjęcia i wkładu wolontariackiego do celów promocyjnych na stronie internetowej Organizacji, w biuletynach i innych materiałach.
-  - b. **Dzielenie się w mediach społecznościowych**: Wolontariusze są zachęcani do dzielenia się swoimi doświadczeniami i rolą w PauseAI w osobistych mediach społecznościowych, przestrzegając zobowiązań dotyczących poufności i reprezentując PauseAI w pozytywny sposób.
-  - c. **Przegląd treści**: PauseAI może zażądać usunięcia wszelkich treści związanych z Organizacją, które zostaną uznane za nieodpowiednie lub szkodliwe.
+  - a. **Zgoda na promocję**: Poprzez podpisanie niniejszej Umowy, Wolontariusz udziela PauseAI pozwolenia na wykorzystanie jego imienia, fotografii i wkładu wolontariackiego do celów promocyjnych na stronie internetowej Organizacji, biuletynach i innych materiałach.
+  - b. **Udostępnianie w mediach społecznościowych**: Wolontariusze są zachęcani do udostępniania swoich doświadczeń i roli w PauseAI na swoich mediach społecznościowych, przestrzegając zobowiązań dotyczących poufności i przedstawiając PauseAI w pozytywnym świetle.
+  - c. **Przegląd treści**: PauseAI może żądać usunięcia jakiejkolwiek treści związanej z Organizacją, która jest uważana za niewłaściwą lub szkodliwą.
 
-- **Różne**: Niniejsze Porozumienie może być zmienione tylko za pisemną zgodą obu stron. Niniejsze Porozumienie jest wiążące dla stron i ich następców prawnych.
+- **Pozostałe postanowienia**: Niniejsza Umowa może być zmieniona jedynie za pisemną zgodą obu stron. Umowa ta jest wiążąca dla stron i ich odpowiednich następców i cesjonariuszy.
 
-- **Wykorzystanie danych**: Wolontariusz rozumie, że dane wprowadzone przez niego w formularzu wolontariusza będą wykorzystywane do celów administracyjnych.
+- **Wykorzystanie danych**: Wolontariusz rozumie, że dane, które wprowadzi do formularza wolontariusza, będą wykorzystywane do celów administracyjnych.
 
-- **Niezastosowanie przemocy**: PauseAI jest pokojowym ruchem, który opiera się na zasadzie niezastosowania przemocy. Wolontariusz zgadza się nigdy nie propagować, promować ani proponować działań przemocowych w jakimkolwiek kontekście, werbalnym lub pisemnym, i rozumie, że takie działanie spowoduje natychmiastowe rozwiązanie Porozumienia.
+- **Zasada nieagresji**: PauseAI jest ruchem pokojowym, w którym nieagresja jest niepodważalną wartością podstawową. Wolontariusz zobowiązuje się, że nigdy nie będzie propagować, promować ani proponować działań agresywnych w jakimkolwiek kontekście, werbalnym lub pisemnym, i rozumie, że działanie takie spowoduje natychmiastowe rozwiązanie Umowy.
 
-- **Kodeks postępowania**: Wolontariusz rozumie i zgadza się z publicznym [Kodeksem postępowania protestujących](https://pauseai.info/protesters-code-of-conduct)
+- **Kodeks postępowania**: Wolontariusz rozumie i zgadza się z publicznym [Kodeksem postępowania](/code-of-conduct) i [Kodeksem postępowania protestujących](/protesters-code-of-conduct)
