@@ -1,10 +1,11 @@
 ---
 title: Witaj w społeczności PauseAI!
-description: Dziękujemy za dołączenie i prosimy o sprawdzenie skrzynki odbiorczej
+description: Dziękujemy za dołączenie i porady dotyczące sprawdzania poczty
 ---
+ <!-- end of frontmatter metadata, dashes above need to stay -->
 
-Dziękujemy bardzo za wypełnienie formularza i zaangażowanie się w naszą społeczność!
+Dziękujemy bardzo za przesłanie formularza i zaangażowanie się w naszą inicjatywę!
 
-**Prosimy sprawdź swoją skrzynkę odbiorczą (a także folder spamu, na wszelki wypadek!)**, aby znaleźć e-mail od nas. Będziesz musiał kliknąć link weryfikacyjny w tym e-mailu, aby potwierdzić swój adres e-mail.
+**Proszę sprawdzić pocztę (oraz folder ze spamem, na wszelki wypadek!)** w poszukiwaniu wiadomości od nas. Aby potwierdzić adres e-mail, należy kliknąć link weryfikacyjny w tej wiadomości.
 
-Po weryfikacji adresu e-mail będziemy mogli informować Cię o aktualnościach, wydarzeniach i możliwościach współpracy.
+Gdy Twój adres e-mail zostanie zweryfikowany, będziemy mogli informować Cię o najnowszych wydarzeniach, aktualnościach i możliwościach współpracy.
