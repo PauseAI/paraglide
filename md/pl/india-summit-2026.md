@@ -1,29 +1,35 @@
 ---
-title: Szczyt w sprawie wpływu sztucznej inteligencji w Indiach 2026 - Zostań wysłuchany
+title: Szczyt AI w Indiach 2026 - Zgłoś swój głos
 slug: india-summit-2026
-description: Przywódcy światowi spotykają się w Indiach w dniach 16-20 lutego, aby ukształtować przyszłość zarządzania sztuczną inteligencją. Działaj już teraz - podpisz petycję i wyślij e-mail do swoich decydentów.
+description: Liderzy światowi spotykają się w Indiach w dniach 16-20 lutego, aby ukształtować przyszłość zarządzania sztuczną inteligencją. Podjęcie działania jest możliwe już teraz - podpisz petycję i wyślij e-mail do swoich polityków.
 date: 2026-02-11T12:00:00.000Z
 image: /india-summit-logo.png
+showImage: false
 news: true
 ---
+**Liderzy światowi spotykają się w Indiach w dniach 16-20 lutego, aby ukształtować przyszłość zarządzania sztuczną inteligencją. Upewnij się, że Twojego głosu nie zabraknie.**
 
-**Przywódcy światowi spotykają się w Indiach w dniach 16-20 lutego, aby ukształtować przyszłość zarządzania sztuczną inteligencją. Upewnij się, że Twoje zdanie zostanie usłyszane, zanim oni podejmą decyzje.**
+<div style="max-width: 500px">
 
-## Działaj {#take-action}
+![Szczyt AI w Indiach 2026](/india-summit-logo.png)
 
-Istnieją dwie rzeczy, które możesz zrobić, a obie zajmują około minuty.
+</div>
+
+## Weź udział w działaniach {#take-action}
+
+Istnieją dwie proste rzeczy, które możesz zrobić, a każda z nich zajmie tylko minutę.
 
 ### Podpisz petycję {#sign-the-petition}
 
-Wzywamy przywódców światowych, aby poważnie potraktowali kwestię bezpieczeństwa sztucznej inteligencji na tym szczycie i w przyszłości.
+Wzywamy liderów światowych do traktowania bezpieczeństwa sztucznej inteligencji poważnie na tym szczycie i w przyszłości.
 
 👉 **[Podpisz międzynarodową petycję](https://www.change.org/p/ai-summits-need-to-take-safety-seriously-again-05bc73f4-918b-4b81-b261-5c136ad18bc9)**
 
-Petycja jest również dostępna w innych językach - poszukaj flag na górze strony petycji i podpisz wersję dla Twojego kraju, jeśli jest dostępna.
+Petycja jest również dostępna w innych językach - szukaj flagi swojego kraju na górze strony petycji i podpisz wersję w swoim języku, jeśli jest dostępna.
 
-### Wyślij e-mail do decydentów Twojego kraju {#email-your-countrys-policymakers}
+### Wyślij e-mail do polityków swojego kraju {#email-your-countrys-policymakers}
 
-Korzystając z naszego narzędzia kampanii, możesz wysłać spersonalizowany e-mail do osób, które wpływają na stanowisko Twojego kraju w sprawie zarządzania sztuczną inteligencją - bezpośrednio z Twojego adresu e-mail. Odpowiedz na kilka pytań, przejrzyj sporządzoną wiadomość i wyślij. To zajmuje około minuty.
+Korzystając z naszego narzędzia kampanijnego, możesz wysłać spersonalizowany e-mail do osób, które wpływają na stanowisko Twojego kraju w sprawie zarządzania sztuczną inteligencją - bezpośrednio z Twojego adresu e-mail. Odpowiesz na kilka pytań, przejrzysz przygotowaną wiadomość i wyślesz. Całość zajmie około minutę.
 
 **Wybierz swój kraj:**
 
@@ -40,38 +46,38 @@ Korzystając z naszego narzędzia kampanii, możesz wysłać spersonalizowany e-
 - 🇦🇺 [Australia](https://app.activoice.org/campaign/aus-ai-summit-india/)
 - 🇨🇦 [Kanada](https://app.activoice.org/campaign/make-your-voice-heard-at-the-india-ai-summit-pauseai-canada)
 - 🇳🇬 [Nigeria](https://app.activoice.org/campaign/india-ai-action-summit-call-for-a-binding-international-ai-safety-treaty/)
-- 🇩🇪 Niemcy - kampania w budowie, wkrótce!
+- 🇩🇪 Niemcy - kampania w przygotowaniu, wkrótce!
 
-Nie widzisz swojego kraju? Jeśli mówisz językiem jednego z krajów wymienionych powyżej, nadal możesz uczestniczyć. A jeśli chcesz zorganizować kampanię dla swojego kraju, [skontaktuj się z nami](mailto:info@pauseai.info).
+Nie widzisz swojego kraju? Jeśli znasz język jednego z wymienionych krajów, możesz wziąć udział. A jeśli chcesz zorganizować kampanię dla swojego kraju, [skontaktuj się z nami](mailto:info@pauseai.info).
 
-### Zrobiłeś to? Udostępnij tę kampanię! {#done-those-share-this-campaign}
+### Zrób to i udostępnij {#done-those-share-this-campaign}
 
-Najbardziej wartościową rzeczą, którą możesz zrobić po podpisaniu i wysłaniu, jest **udostępnienie tej strony**. Wyślij ją do przyjaciół, opublikuj na mediach społecznościowych, prześlij do grupowych czatów. Każda dodatkowa osoba, która uczestniczy, sprawia, że ta kampania jest trudniejsza do zignorowania.
+Najważniejsze, co możesz zrobić po podpisaniu i wysłaniu, to **udostępnić tę stronę**. Wyślij ją do przyjaciół, opublikuj na mediach społecznościowych, prześlij do grupowych czatów. Każda dodatkowa osoba, która wzięła udział, sprawia, że ta kampania staje się trudniejsza do zignorowania.
 
 ---
 
 ## Dlaczego to jest ważne {#why-this-matters}
 
-W dniach 19-20 lutego 2026 r. przywódcy światowi, dyrektorzy generalni firm technologicznych i decydenci spotykają się w Nowym Delhi na **Szczyt w sprawie wpływu sztucznej inteligencji** - trzeci ważny międzynarodowy szczyt w sprawie sztucznej inteligencji, po Bletchley Park (2023) i Paryżu (2025).
+W dniach 19-20 lutego 2026 roku liderzy światowi, dyrektorzy generalni firm technologicznych i politycy spotykają się w New Delhi na **Szczycie AI Impact** - trzecim dużym międzynarodowym szczycie AI, po Bletchley Park (2023) i Paryżu (2025).
 
-W Bletchley Park rządy uznały "potencjał poważnej, a nawet katastrofalnej szkody" ze strony sztucznej inteligencji. W Paryżu bezpieczeństwo było już pomijane na rzecz innowacji i konkurencji gospodarczej. W Indiach istnieje realne ryzyko, że bezpieczeństwo zniknie z agendy całkowicie.
+W Bletchley Park rządy uznały "potencjał poważnej, a nawet katastrofalnej szkody" wynikającej z AI. W Paryżu bezpieczeństwo było już odsuwane na bok na rzecz innowacji i konkurencji gospodarczej. W Indiach istnieje realne ryzyko, że bezpieczeństwo zniknie z porządku obrad całkowicie.
 
-Najpotężniejsze systemy sztucznej inteligencji są rozwijane szybciej, niż ktokolwiek może zweryfikować, czy są bezpieczne. Wiodący naukowcy zajmujący się sztuczną inteligencją - w tym laureaci Nagrody Turinga Geoffrey Hinton i Yoshua Bengio - ostrzegli, że pędzimy naprzód bez odpowiednich zabezpieczeń.
+Najpotężniejsze systemy AI są rozwijane szybciej, niż ktokolwiek może potwierdzić, że są one bezpieczne. Czołowi naukowcy AI - w tym laureaci Nagrody Turinga Geoffrey Hinton i Yoshua Bengio - ostrzegli, że wyścigujemy się bez odpowiednich zabezpieczeń.
 
-Międzynarodowe szczyty w sprawie sztucznej inteligencji są jednym z niewielu miejsc, w których mogą powstać wiążące globalne porozumienia. Ale do tej pory zobowiązania były dobrowolne, niejasne i niewykonalne. Bez presji ze strony obywateli rządy domyślnie chronią swoje narodowe przemysły sztucznej inteligencji, zamiast koordynować wspólne standardy bezpieczeństwa.
+Międzynarodowe szczyty AI są jednym z nielicznych miejsc, w których mogą powstać wiążące umowy globalne. Ale dotąd zobowiązania były dobrowolne, niejasne i niewykonalne. Bez presji ze strony obywateli rządy ulegają ochronie swoich krajowych przemysłów AI zamiast koordynować wspólne standardy bezpieczeństwa.
 
-## Czego żąda Pause AI? {#what-is-pause-ai-asking-for}
+## O co prosi Pause AI? {#what-is-pause-ai-asking-for}
 
-Wzywamy delegatów szczytu i krajowych decydentów do poparcia:
+Wzywamy delegatów szczytu i krajowych polityków do poparcia:
 
-- **Obowiązkowych, niezależnych ocen bezpieczeństwa** dla najpotężniejszych systemów sztucznej inteligencji przed ich wdrożeniem
-- **Międzynarodowych mechanizmów nadzoru** z realną władzą egzekucyjną - nie tylko dobrowolnych zobowiązań
-- **Wiążących międzynarodowych zobowiązań**, które zapobiegają wyścigowi na dno w zakresie regulacji
+- **Obowiązkowych, niezależnych ocen bezpieczeństwa** dla najpotężniejszych systemów AI przed ich wdrożeniem
+- **Międzynarodowych mechanizmów nadzoru** z realnymi uprawnieniami egzekwowania - a nie tylko dobrowolnymi deklaracjami
+- **Wiążących międzynarodowych zobowiązań**, które uniemożliwiają wyścig na dno w zakresie regulacji
 
-Bezpieczeństwo sztucznej inteligencji jest globalnym problemem koordynacyjnym. Każdy kraj obawia się pozostania w tyle, ale wszystkie kraje korzystają ze wspólnych reguł. Tak jak mamy międzynarodowe standardy bezpieczeństwa lotniczego, zatwierdzania leków i materiałów nuklearnych, potrzebujemy egzekwowalnych standardów dla najpotężniejszych systemów sztucznej inteligencji.
+Bezpieczeństwo AI jest problemem koordynacji globalnej. Każdy kraj obawia się pozostania w tyle, ale wszystkie kraje korzystają na wspólnych regułach. Tak jak mamy międzynarodowe standardy bezpieczeństwa lotniczego, zatwierdzenia leków i materiałów jądrowych, potrzebujemy egzekwowalnych standardów dla najpotężniejszych systemów AI.
 
 ## Co się stanie po szczycie? {#what-happens-after-the-summit}
 
-Opublikujemy wyniki tej kampanii: ile osób wzięło udział, ile krajów było reprezentowanych, ile decydentów zostało skontaktowanych. Jeśli szczyt przyniesie znaczące zobowiązania w zakresie bezpieczeństwa, uznamy to. Jeśli nie, wyjaśnimy, że rządy zostały ostrzeżone - przez swoich obywateli i przez społeczność naukową - i zdecydowały się nie działać.
+Opublikujemy wyniki tej kampanii: ilu ludzi wzięło udział, ilu krajów było reprezentowanych, ilu polityków zostało skontaktowanych. Jeśli szczyt wyprodukuje znaczące zobowiązania dotyczące bezpieczeństwa, uznamy to. Jeśli nie, wyjaśnimy, że rządy zostały ostrzeżone - przez swoich obywateli i przez społeczność naukową - i zdecydowały się nie działać.
 
-Kiedy setki obywateli z kilkunastu krajów kontaktują się ze swoimi przedstawicielami przed szczytem, jest to fakt polityczny. Sygnalizuje to decydentom, że istnieje zorganizowana, międzynarodowa społeczność, która dba o bezpieczeństwo sztucznej inteligencji - i która będzie obserwować, co wyniknie ze szczytu.
+Kiedy setki obywateli z kilkunastu krajów kontaktują się z przedstawicielami przed szczytami, jest to fakt polityczny. Sygnalizuje to politykom, że istnieje zorganizowana, międzynarodowa grupa, która dba o bezpieczeństwo AI - i która będzie obserwować, co wyniknie ze szczytu.
