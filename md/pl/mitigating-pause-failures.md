@@ -1,146 +1,149 @@
 ---
-title: Wstrzymanie rozwoju sztucznej inteligencji może się nie powieść. Jak zminimalizować ryzyko?
-description: Ten artykuł omawia niektóre z ryzyk związanych z wstrzymaniem rozwoju sztucznej inteligencji i sposoby ich zminimalizowania.
+title: Zawieszenie rozwoju sztucznej inteligencji może się nie powieść. Jak zminimalizować ryzyko?
+description: W tym artykule omawiamy niektóre z ryzyk związanych z zawieszeniem rozwoju sztucznej inteligencji i sposoby ich minimalizowania.
 ---
+<!-- end of frontmatter metadata, dashes above need to stay -->
 
-Dążymy do wstrzymania rozwoju dużych, ogólnych modeli sztucznej inteligencji.
-Zobacz naszą [propozycję](/proposal), aby dowiedzieć się więcej.
+Naciskamy na zawieszenie rozwoju dużych, ogólnych modeli sztucznej inteligencji.
+Zobacz nasz [projekt](/proposal) dla więcej szczegółów.
 
-Ten środek nie jest pozbawiony ryzyka.
-W tym artykule omówimy niektóre z tych ryzyk i sposoby ich zminimalizowania.
+To środowanie nie jest pozbawione ryzyka.
+W tym artykule omówimy niektóre z tych ryzyk i sposoby ich minimalizowania.
 
-## Wstrzymanie zbyt wcześnie {#pausing-too-early}
+## Zawieszenie zbyt wcześnie {#pausing-too-early}
 
-Jeśli wstrzymanie rozwoju sztucznej inteligencji nastąpi zbyt wcześnie, możemy stracić korzyści, które może nam przynieść.
-Ostatecznie musimy zrównoważyć ryzyka z kosztami wstrzymania.
+Jeśli zawieszenie sztucznej inteligencji nastąpi przedwcześnie, możemy przegapić korzyści z jej rozwoju.
+Ostatecznie musimy znaleźć balans między ryzykiem a kosztami zawieszenia.
 
-Naszym zdaniem szansa, że sztuczna inteligencja spowoduje katastrofalne ryzyka [wkrótce](/urgency), jest już wystarczająco duża, aby uzasadnić wstrzymanie w tym momencie.
-Jak stwierdził Stuart Russell, gdy mamy do czynienia z niepewnym terminem, należy podjąć działanie, które byłoby optymalne przy najkrótszym terminie.
+W naszej opinii, szansa, że sztuczna inteligencja spowoduje katastrofalne ryzyko [wkrótce](/urgency) jest już wystarczająco duża, aby uzasadnić zawieszenie na tym etapie.
+Jak stwierdził Stuart Russell, gdy mamy do czynienia z niepewnym terminem, powinniśmy podjąć działanie, które byłoby optymalne przy najkrótszym ograniczeniu czasowym.
 
-Im dłużej czekamy, tym więcej ludzi będzie myśleć, że wstrzymanie nie jest możliwe, a tym więcej niektórzy ludzie będą fantazjować i inwestować w teoretycznie możliwe aplikacje sztucznej inteligencji.
-Więc tym więcej pieniędzy zostanie przeznaczonych na lobbing przeciwko ludziom takim jak my.
+Im dłużej czekamy, tym więcej ludzi będzie uważało, że zawieszenie nie jest możliwe, a tym więcej osób będzie fantazjować i inwestować w teoretycznie możliwe aplikacje sztucznej inteligencji.
+Więc tym więcej pieniędzy zostanie wydanych na lobbing przeciwko ludziom jak my.
 
-Ponadto, od protestów i lobbingu do przekonywania ludzi o władzy, aby zawrzeć traktat, który mógłby wejść w życie, mogą upłynąć wiele lat. Nie wspominając o tym, że nawet jeśli tak nie jest, wstrzymanie wcześnie daje nam przestrzeń do oddychania, aby źli aktorzy i przełomowe algorytmy nie spowodowali, że wpadniemy w przepaść.
+Ponadto, od protestów i lobbingu do przekonywania ludzi na stanowiskach władzy, aby podjęli traktat, mogą minąć lata. Nie wspominając, że nawet gdyby tak nie było, zawieszenie wcześnie daje nam czas, aby uniknąć niebezpiecznych sytuacji i przełomów algorytmicznych, które mogą nas zaprowadzić w przepaść.
 
-## Wstrzymanie na zbyt krótki okres / tylko na 6 miesięcy {#pausing-for-too-short--only-for-6-months}
+## Zawieszenie na zbyt krótki czas / tylko na 6 miesięcy {#pausing-for-too-short--only-for-6-months}
 
-Wstrzymanie, które proponujemy, ma nieokreśloną długość. Nie powinniśmy wznawiać rozwoju sztucznej inteligencji, dopóki nie będzie szerokiego konsensusu, że wiemy, jak rozwijać bezpieczną sztuczną inteligencję. Technicznie i demokratycznie rzecz biorąc.
+Zawieszenie, które proponujemy, ma nieokreśloną długość. Nie powinniśmy wznowić rozwoju, dopóki nie będziemy mieli pewności, że wiemy, jak rozwijać sztuczną inteligencję w sposób bezpieczny. Zarówno pod względem technicznym, jak i demokratycznym.
 Nasza propozycja nie jest "przynajmniej na 6 miesięcy" jak [otwarty list opublikowany przez Future of Life Institute](https://futureoflife.org/open-letter/pause-giant-ai-experiments/).
 
-## Wstrzymanie na zbyt długi okres {#pausing-for-too-long}
+## Zawieszenie na zbyt długi czas {#pausing-for-too-long}
 
-Nick Bostrom, jeden z wczesnych głosów ostrzegających o ryzykach sztucznej inteligencji, martwi się, że [w pewnym momencie możemy zbyt wiele martwić się o ryzykach sztucznej inteligencji](https://twitter.com/jachaseyoung/status/1723325057056010680), chociaż ten moment jeszcze nie nadszedł.
-Jeśli obawy o sztuczną inteligencję będą rosły, a my uzyskamy wstrzymanie, może to doprowadzić do sytuacji, w której cały rozwój sztucznej inteligencji stanie się tabu lub nielegalny.
-Jeśli tak się stanie, nigdy nie będziemy mogli czerpać korzyści ze sztucznej inteligencji, a w międzyczasie możemy napotkać inne ryzyka egzystencjalne, których moglibyśmy uniknąć dzięki pomocy sztucznej inteligencji.
+Nick Bostrom, jeden z pierwszych głosów, które podniosły alarm w sprawie sztucznej inteligencji, obawia się, że [w pewnym momencie możemy zacząć się zbyt martwić o ryzyko sztucznej inteligencji](https://twitter.com/jachaseyoung/status/1723325057056010680), chociaż ten moment jeszcze nie nadszedł.
+Jeśli obawa o sztuczną inteligencję będzie rosła, a uzyskamy zawieszenie, może to doprowadzić do sytuacji, w której cały rozwój sztucznej inteligencji stanie się tabu lub nielegalny.
+Jeśli do tego dojdzie, nigdy nie będziemy mogli skorzystać z korzyści sztucznej inteligencji, a tymczasem możemy napotkać inne ryzyka egzystencjalne, których moglibyśmy uniknąć dzięki sztucznej inteligencji.
 
-Możemy zminimalizować to ryzyko, wyraźnie stwierdzając, pod jakimi warunkami rozwój sztucznej inteligencji powinien zostać wznowiony.
-Jak powiedzieliśmy, sugerujemy, że rozwój sztucznej inteligencji powinien zostać wznowiony, gdy stanie się możliwe budowanie bezpiecznej sztucznej inteligencji.
-Ponadto, proponujemy tylko zakazanie rozwoju bardzo specyficznych rodzajów modeli: największych, ogólnych modeli.
+Możemy zmniejszyć to ryzyko, wyraźnie określając, pod jakimi warunkami rozwój sztucznej inteligencji powinien zostać wznowiony.
+Jak już powiedzieliśmy, sugerujemy, że rozwój sztucznej inteligencji powinien zostać wznowiony, gdy będzie możliwe zbudowanie sztucznej inteligencji w sposób bezpieczny.
+Ponadto, proponujemy zakazać rozwoju tylko bardzo konkretnych rodzajów modeli: największych, ogólnych modeli.
 
-## Centralizacja sztucznej inteligencji może zwiększyć ryzyko przejęcia {#centralization-of-ai-might-make-takeover-risks-worse}
+## Centralizacja sztucznej inteligencji może pogorszyć ryzyko przejęcia {#centralization-of-ai-might-make-takeover-risks-worse}
 
-Nie proponujemy centralizacji rozwoju sztucznej inteligencji w jednej organizacji. To uczyniłoby rozwój sztucznej inteligencji bardziej kontrolowalnym, ale także stworzyłoby jeden punkt awarii, z którego ludzka chciwość i głupota mogą skorzystać.
-Decyzja, czy projekt typu CERN/Apollo/Manhattan byłby dobry, czy nie, powinna być omówiona wielostronnie, gdy już współpracujemy w wstrzymaniu i jesteśmy poza wyścigiem.
+Nie proponujemy centralizacji rozwoju sztucznej inteligencji w jednej organizacji. To mogłoby uczynić rozwój sztucznej inteligencji bardziej kontrolowanym, ale również stworzyłoby pojedynczy punkt awarii, z którego mogliby skorzystać ludzka chciwość i głupota.
+Decyzja, czy projekt typu CERN/Apollo/Manhattan byłby dobry, czy nie, powinna być dyskutowana wielostronnie, gdy już będziemy współpracować w ramach zawieszenia i znajdziemy się poza wyścigiem.
 
 ## Decentralizacja spowoduje, że mniej bezpieczni aktorzy będą prowadzić wyścig {#decentralization-will-cause-less-safety-minded-actors-to-lead-the-race}
 
-Jeśli zagłębisz się w historię OpenAI, DeepMind i Anthropic, odkryjesz, że wszystkie one zostały założone przez ludzi, którzy są bardzo zaniepokojeni ryzykami sztucznej inteligencji.
-W pewnym sensie mamy szczęście, że największe firmy sztucznej inteligencji mają obecnie bezpieczeństwo sztucznej inteligencji jako część swojej kultury.
-Może wstrzymanie da dużej liczbie firm czas na dogonienie, co mogłoby doprowadzić do dużej grupy firm, które są mniej zorientowane na bezpieczeństwo.
+Jeśli sięgniemy do historii OpenAI, DeepMind i Anthropic, okaże się, że wszystkie one zostały założone przez ludzi, którzy są bardzo zaniepokojeni ryzykiem sztucznej inteligencji.
+W pewien sposób mamy szczęście, że największe firmy sztucznej inteligencji obecnie mają bezpieczeństwo sztucznej inteligencji jako część swojej kultury.
+Może zawieszenie da wielu firmom czas, aby nadrobić zaległości, co mogłoby doprowadzić do dużej grupy firm, które są mniej zorientowane na bezpieczeństwo.
 
-Gdybyśmy prosili o wstrzymanie oparte na czasie, byłoby to uzasadnione obawy.
-Ale to, o co prosimy, to wstrzymanie _aż będziemy mogli udowodnić, że sztuczna inteligencja może być budowana bezpiecznie_, więc nie powinniśmy kończyć z organizacjami budującymi niebezpieczną sztuczną inteligencję po wznowieniu.
+Jeśli prosilibyśmy o czasowe zawieszenie, byłby to uzasadniony powód do obaw.
+Ale to, o co prosimy, to zawieszenie _do momentu, gdy będziemy w stanie udowodnić, że sztuczną inteligencję można zbudować w sposób bezpieczny_, więc nie powinniśmy skończyć z organizacjami, które budują niebezpieczną sztuczną inteligencję po wznowieniu zawieszenia.
 
-## Krajowe / lokalne wstrzymania mogą zawieść {#national-local-pauses-might-fail}
+## Zawieszenie na poziomie krajowym/lokalnym może nie powieść {#national-local-pauses-might-fail}
 
-Jeśli jeden kraj wstrzyma rozwój sztucznej inteligencji, inne kraje będą kontynuować rozwój sztucznej inteligencji.
-Możemy znaleźć się w świecie, w którym pierwsza sztuczna inteligencja ogólna zostanie opracowana przez niekooperatywnego aktora, co jest prawdopodobnie złym wynikiem.
-Zachęty do wstrzymania indywidualnie są słabe, ponieważ korzyści z rozwoju sztucznej inteligencji są duże, a ryzyka rozwoju sztucznej inteligencji są globalne.
-Jest to klasyczna [sytuacja dylematu więźnia](https://pl.wikipedia.org/wiki/Dylemat_więźnia).
+Jeśli jeden kraj zawiesi rozwój sztucznej inteligencji, inne kraje będą nadal ją rozwijać.
+Możemy skończyć w świecie, w którym pierwszy AGI zostanie opracowany przez niekooperatywnego aktora, co prawdopodobnie będzie złym wynikiem.
+Zachęty do zawieszenia indywidualnego są słabe, ponieważ korzyści z rozwoju sztucznej inteligencji są duże, a ryzyko rozwoju sztucznej inteligencji jest globalne.
+To jest klasyczna sytuacja [dylematu więźnia](https://pl.wikipedia.org/wiki/Dylemat_wi%C4%99%C5%BAnia).
 
-Rozwiązaniem tego problemu jest uczynienie wstrzymania międzynarodowym poprzez traktat, co jest tym, co proponujemy.
+Rozwiązaniem jest uczynienie zawieszenia międzynarodowym poprzez traktat, co jest tym, co proponujemy.
 To również wymaga silnego mechanizmu egzekwowania.
 Kraje, które nie przestrzegają traktatu, powinny być ukarane.
 Sankcje gospodarcze mogą być wystarczające, ale interwencja wojskowa może być konieczna w skrajnych przypadkach.
 
-Jeden aktor w szczególności, o którym niektórzy ludzie uważają, że nie wstrzyma rozwoju sztucznej inteligencji, to Chiny.
+Jednym z aktorów, o którym niektórzy ludzie uważają, że nie zawiesi rozwoju sztucznej inteligencji, jest Chiny.
 Nie zgadzamy się z tą oceną i możesz przeczytać o tym [tutaj](/faq#if-we-pause-what-about-china).
 
-## Rozwój sztucznej inteligencji może przenieść się do podziemia {#ai-development-might-go-underground}
+## Rozwój sztucznej inteligencji może iść podziemiami {#ai-development-might-go-underground}
 
-Jeśli rozwój sztucznej inteligencji (powyżej pewnego progu) zostanie zakazany, może przenieść się do podziemia.
-Potencjalne korzyści są tak duże, że niekooperatywny aktor (państwowy) może zdecydować się na rozwój sztucznej inteligencji w tajemnicy.
-To oznacza, że pierwszy, kto osiągnie superinteligencję, będzie niekooperatywnym aktorem, co jest prawdopodobnie złym wynikiem.
+Jeśli rozwój sztucznej inteligencji (ponad pewnym progiem) zostanie zabroniony, może on iść podziemiami.
+Potencjalne korzyści są tak duże, że aktor (państwowy) może zdecydować się na rozwój sztucznej inteligencji w tajemnicy.
+To oznacza, że pierwszy, który osiągnie superinteligencję, będzie niekooperatywnym aktorem, co prawdopodobnie będzie złym wynikiem.
 
-Poprzez śledzenie sprzedaży GPU, możemy wykryć rozwój sztucznej inteligencji na dużą skalę.
-Ponieważ klastry GPU modeli pionierskich wymagają ogromnych ilości energii i specjalistycznych budynków, infrastruktura fizyczna wymagana do trenowania dużego modelu jest trudna do ukrycia.
+Poprzez śledzenie sprzedaży kart graficznych, możemy wykryć dużej skali rozwój sztucznej inteligencji.
+Ponieważ klastry kart graficznych dla modeli na granicy możliwości wymagają ogromnych ilości energii i specjalnych budynków, infrastruktura fizyczna wymagana do szkolenia dużego modelu jest trudna do ukrycia.
 
-Zachodnie mocarstwa (USA, Holandia i Tajwan) kontrolują łańcuch dostaw GPU wystarczająco silnie, aby zapobiec niekooperatywnym państwom uzyskaniu GPU.
-Niepaństwowe podmioty prawdopodobnie nie będą w stanie zgromadzić wystarczających zasobów w tajemnicy, aby trenować sztuczną inteligencję ogólną przez co najmniej dekadę po tym, jak stanie się to możliwe dla dużych firm technologicznych.
-Ponadto, fakt, że nie ma już _zachęty biznesowej_, pomoże zmniejszyć ilość podziemnego rozwoju sztucznej inteligencji.
+Zachodnie potęgi (USA, Holandia i Tajwan) kontrolują łańcuch dostaw kart graficznych na tyle silnie, aby uniemożliwić niekooperatywnym państwom uzyskanie kart graficznych.
+Aktory niepaństwowe są mało prawdopodobne, aby mogły zgromadzić wystarczające zasoby w tajemnicy, aby szkolić AGI przez co najmniej dekadę po tym, jak AGI stanie się możliwa dla dużych firm technologicznych.
+Ponadto, fakt, że nie ma już _biznesowego bodźca_ pomoże zmniejszyć ilość podziemnego rozwoju sztucznej inteligencji.
 
-## Nadmiar sprzętu może spowodować szybkie rozpoczęcie {#hardware-overhang-could-cause-a-fast-takeoff}
+## Przewaga sprzętowa może spowodować szybki wzrost {#hardware-overhang-could-cause-a-fast-takeoff}
 
-> Jeśli nie uwzględnimy badań i rozwoju sprzętu w wstrzymaniu, cena-wydajność GPU będzie nadal podwajać się co 2,5 roku, jak to miało miejsce w latach 2006-2021.
-> Oznacza to, że systemy sztucznej inteligencji staną się co najmniej 16 razy szybsze po dziesięciu latach i 256 razy szybsze po dwudziestu latach, po prostu dzięki lepszemu sprzętowi.
-> Jeśli wstrzymanie zostanie zniesione za jednym razem, te ulepszenia sprzętowe będą natychmiast dostępne do trenowania bardziej potężnych modeli w sposób bardziej ekonomiczny — nadmiar sprzętu.
-> Spowodowałoby to szybki i dość nieciągły wzrost zdolności sztucznej inteligencji, potencjalnie prowadząc do scenariusza szybkiego rozpoczęcia i wszystkich związanych z nim ryzyk.
+> Jeśli nie włączymy badań nad sprzętem do zawieszenia, cena-wydajność kart graficznych będzie nadal podwajać się co 2,5 roku, tak jak to miało miejsce między 2006 a 2021 rokiem.
+> To oznacza, że systemy sztucznej inteligencji staną się co najmniej 16-krotnie szybsze po dziesięciu latach i 256-krotnie szybsze po dwudziestu latach, tylko dzięki lepszemu sprzętowi.
+> Jeśli zawieszenie zostanie zniesione jednocześnie, te ulepszenia sprzętowe staną się natychmiast dostępne do szkolenia bardziej zaawansowanych modeli taniej - przewaga sprzętowa.
+> To spowoduje szybki i dość nieciągły wzrost możliwości sztucznej inteligencji, potencjalnie prowadzący do szybkiego wzrostu i wszystkich ryzyk z nim związanych.
 
-[_Autor: Nora Belrose_](https://bounded-regret.ghost.io/ai-pause-will-likely-backfire-by-nora/)
+[_Przez Norę Belrose_](https://bounded-regret.ghost.io/ai-pause-will-likely-backfire-by-nora/)
 
-Jest to poważna obawa, chociaż istnieją silne argumenty, że [nadmiar jest mało prawdopodobny](https://blog.aiimpacts.org/p/are-there-examples-of-overhang-for).
+To jest poważna obawa, chociaż istnieją silne argumenty, które przemawiają za tym, że [przewaga sprzętowa jest mało prawdopodobna](https://blog.aiimpacts.org/p/are-there-examples-of-overhang-for).
 
-PauseAI popiera wstrzymanie na odpowiednie ulepszenia obliczeniowe.
-Ponadto, jak powiedzieliśmy, przycisk "play" nie powinien być wciśnięty, jeśli nadal nie wiemy, jak budować bezpieczną sztuczną inteligencję.
-I to obejmuje trenowanie i wdrażanie modeli z bardziej zaawansowanym sprzętem.
+PauseAI popiera zawieszenie ulepszeń sprzętowych.
+Ponadto, jak już powiedzieliśmy, przycisk "odtwarzania" nie powinien być wciśnięty, jeśli nadal nie wiemy, jak zbudować sztuczną inteligencję w sposób bezpieczny.
+To obejmuje również szkolenie i wdrożenie modeli z bardziej zaawansowanym sprzętem.
 
-## Rozwój sztucznej inteligencji jest niezbędny do nauki, jak zrobić sztuczną inteligencję bezpieczną {#ai-development-is-necessary-for-learning-how-to-make-ais-safe}
+## Rozwój sztucznej inteligencji jest konieczny do nauki, jak tworzyć bezpieczną sztuczną inteligencję {#ai-development-is-necessary-for-learning-how-to-make-ais-safe}
 
-Większość ludzi uważa, że pewien poziom przyziemnego / przyrostowego wyrównania jest niezbędny, więc jeśli zostanie wdrożone pełne wstrzymanie bez wyjątków, nie zostanie wykonane wystarczające postępy w wyrównaniu, a ostatecznie aktorzy, którzy nie dbają o bezpieczeństwo i wstrzymanie, opracują niezrównaną potężną sztuczną inteligencję.
+Większość ludzi uważa, że pewien poziom prozaicznego/inkrementalnego wyrównania jest konieczny, więc jeśli pełne zawieszenie bez wyjątków zostanie wprowadzone, nie zostanie dokonany wystarczający postęp w wyrównaniu.
+Ostatecznie aktorzy, którzy nie dbają o bezpieczeństwo i zawieszenie, mogą rozwinąć niezgodną potężną sztuczną inteligencję.
 
-To jeden z powodów, dla których proponujemy posiadanie sposobu zatwierdzania pewnych przebiegów treningowych. To pozwoliłoby nam uczyć się od większych systemów, jeśli możemy zapewnić ich bezpieczeństwo.
-Jednak w najgorszym przypadku, w którym nie możemy zapewnić ich bezpieczeństwa i postępować wystarczająco w wyrównaniu, nadal mamy opcję próby zwiększenia naszej inteligencji za pomocą innych technologii.
+To jest jeden z powodów, dla których proponujemy sposób zatwierdzania pewnych przebiegów szkolenia.
+To pozwoli nam nauczyć się z większych systemów, jeśli będziemy w stanie zagwarantować ich bezpieczeństwo.
+Jednak w najgorszym przypadku, gdy nie będziemy w stanie zagwarantować ich bezpieczeństwa i postępu w wyrównaniu, mamy jeszcze opcję próby wzmocnienia naszej inteligencji za pomocą innych technologii.
 
-## Ulepszenia algorytmiczne lub w czasie wykonywania mogą sprawić, że mniejsze modele staną się niebezpieczne {#algorithmic-or-runtime-improvements-may-make-smaller-models-dangerous-too}
+## Ulepszenia algorytmiczne lub czasowe mogą uczynić mniejsze modele niebezpiecznymi {#algorithmic-or-runtime-improvements-may-make-smaller-models-dangerous-too}
 
-Widzieliśmy, że zmiany w danych treningowych, algorytmach treningowych lub użyciu w czasie wykonywania mogą prowadzić do dużych ulepszeń w wydajności modelu.
-Dlatego nie skupiamy się tylko na rozmiarze modelu.
-Proponujemy [wstrzymanie](/proposal) rozwoju dużych, ogólnych modeli sztucznej inteligencji, które są albo 1) większe niż 10^12 parametrów, 2) mają więcej niż 10^25 FLOPs użytych do treningu lub 3) mają zdolności, które przekraczają GPT-4.
-Ten trzeci warunek jest dodany, aby również uwzględnić mniejsze modele, które mogą być niebezpieczne.
-Wprowadzenie limitu zdolności jest trudne, ponieważ trudno przewidzieć zdolności modelu przed jego przeszkoleniem.
+Zobaczyliśmy, że zmiany w danych szkoleniowych, algorytmach szkolenia lub użyciu czasowym mogą prowadzić do dużych ulepszeń wydajności modelu.
+Dlatego nie koncentrujemy się tylko na rozmiarze modelu.
+Proponujemy [zawieszenie](/proposal) rozwoju dużych, ogólnych modeli sztucznej inteligencji, które są albo 1) większe niż 10^12 parametrów, 2) mają więcej niż 10^25 operacji zmiennoprzecinkowych użytych do szkolenia lub 3) mają możliwości, które przekraczają GPT-4.
+Trzeci warunek jest dodany, aby objąć mniejsze modele, które mogą być niebezpieczne.
+Wprowadzenie limitu na możliwości jest trudne, ponieważ trudno przewidzieć możliwości modelu przed jego szkoleniem.
 
-Ponieważ stawki są tak wysokie, powinniśmy być ostrożni, więc również popieramy wstrzymanie odpowiednich ulepszeń algorytmicznych i w czasie wykonywania.
-Jednak egzekwowanie tego będzie trudniejsze niż egzekwowanie przepisów dotyczących obliczeń, ponieważ sprzęt jest łatwiejszy do śledzenia niż oprogramowanie.
+Ponieważ stawki są tak wysokie, powinniśmy być ostrożni, więc popieramy również zawieszenie istotnych ulepszeń algorytmicznych i czasowych.
+Jednak egzekwowanie tego będzie trudniejsze niż egzekwowanie regulacji dotyczących sprzętu, ponieważ sprzęt jest łatwiejszy do śledzenia niż oprogramowanie.
 
-## Jeśli zakazujemy tylko ogólnych modeli sztucznej inteligencji, nadal możemy uzyskać sztuczną inteligencję ogólną poprzez wąskie modele {#if-we-only-ban-general-ai-models-we-might-still-get-agi-through-narrow-models}
+## Jeśli zabronimy tylko ogólnych modeli sztucznej inteligencji, możemy nadal dostać AGI przez wąskie modele {#if-we-only-ban-general-ai-models-we-might-still-get-agi-through-narrow-models}
 
-Chcemy ograniczyć niebezpieczne modele, które mają [niebezpieczne zdolności](/dangerous-capabilities) takie jak manipulowanie ludźmi, planowanie strategiczne i pisanie kodu.
-Nie chcemy ograniczać bardzo wąskich modeli sztucznej inteligencji, takich jak klasyfikatory obrazów używane w samochodach autonomicznych lub diagnostyce medycznej.
-Na szczęście, prawie wszystkie te wąskie modele mieszczą się poza naszymi [proponowanymi](/proposal) ograniczeniami, ponieważ te modele są stosunkowo małe.
+Chcemy ograniczyć niebezpieczne modele, które mają [niebezpieczne możliwości](/dangerous-capabilities) takie jak manipulowanie ludźmi, planowanie strategiczne i pisanie kodu.
+Nie chcemy ograniczać bardzo wąskich modeli sztucznej inteligencji, takich jak klasyfikatory obrazów używane w samochodach autonomicznych lub diagnozie medycznej.
+Na szczęście, prawie wszystkie z tych wąskich modeli znajdują się poza naszymi [proponowanymi](/proposal) ograniczeniami, ponieważ modele te tendencję mają być stosunkowo małe.
 
-Wystarczająco potężny wąski model (przeszkolony na danych ze świata rzeczywistego) może być w stanie uogólnić niebezpieczne zdolności.
-Na przykład, bardzo potężny model generujący obrazy może być w stanie tworzyć obrazy funkcjonalnego kodu, lub bardzo potężny model wideo może być w stanie generować film o sztucznej inteligencji planującej udany przejęcie.
-Wąskie modele często stają się lepsze w swoim wąskim zadaniu poprzez uogólnienie.
-W pewnym stopniu to właśnie sprawia, że LLM-y takie jak ChatGPT są tak udane: są przeszkolone tylko do "przewidywania następnego słowa", ale aby być naprawdę dobrym w tym, muszą się wiele nauczyć o świecie.
+Bardzo potężny wąski model (wytrenowany na danych z rzeczywistości) może być w stanie uogólnić do niebezpiecznych możliwości.
+Na przykład, bardzo potężny generator obrazów może być w stanie wygenerować obrazy funkcjonalnego kodu, lub bardzo potężny model wideo może być w stanie wygenerować film o sztucznej inteligencji planującej udany przejęcie.
+Wąskie modele często stają się lepsze w swoim wąskim zadaniu przez uogólnianie.
+To częściowo to, co sprawia, że modele językowe jak ChatGPT są tak udane: są wytrenowane tylko do "przewidywania następnego słowa", ale aby było to naprawdę dobre, musi nauczyć się wiele o świecie.
 
-Dlatego nie zdefiniowaliśmy "wąskich" lub "ogólnych" modeli sztucznej inteligencji w naszej propozycji, ale zamiast tego używamy trzech warunków związanych z rozmiarem modelu, obliczeniami używanymi i zdolnościami.
+Dlatego nie zdefiniowaliśmy "wąskiej" lub "ogólnej" sztucznej inteligencji w naszej propozycji, ale zamiast tego używamy trzech warunków związanych z rozmiarem modelu, użyciem obliczeniowym i możliwościami.
 
-## Jeśli wstrzymanie zostanie wprowadzone, powinniśmy oczekiwać kompromisu politycznego {#if-a-pause-is-implemented-we-should-expect-a-political-compromise}
+## Jeśli zawieszenie zostanie wprowadzone, powinniśmy oczekiwać kompromisu politycznego {#if-a-pause-is-implemented-we-should-expect-a-political-compromise}
 
-Mamy [konkretną propozycję](/proposal), którą uważamy za optymalną.
-Jednak nie powinniśmy oczekiwać, że nasza propozycja zostanie wprowadzona dokładnie tak, jak chcemy.
-Polityka jest chaotyczna i nieprzewidywalna, więc powinniśmy oczekiwać, że nasze wysiłki lobbingowe będą miały ogólny wpływ, a nie precyzyjny.
-Jeśli uzyskamy jakąś formę wstrzymania, ale nie będzie to dokładnie to, czego chcemy, może to być gorsze niż nie mieć wstrzymania w ogóle.
+Mamy [konkretną propozycję](/proposal), o którą myślimy, że jest optymalna.
+Jednak nie powinniśmy oczekiwać, że nasza propozycja zostanie wprowadzona dokładnie tak, jak ją chcemy.
+Polityka jest nieprzewidywalna, więc powinniśmy oczekiwać, że nasze starania lobbingowe będą miały słabo ukierunkowane skutki, a nie precyzyjne skutki.
+Jeśli uzyskamy jakąś formę zawieszenia, ale nie jest to dokładnie to, czego chcemy, może to okazać się gorsze niż brak zawieszenia w ogóle.
 Na przykład:
 
-- Krajowe wstrzymanie, które pozwoliłoby potencjalnie gorszym aktorom dotrzeć do sztucznej inteligencji ogólnej jako pierwszym
-- Międzynarodowe wstrzymanie, które nie jest właściwie egzekwowane, prowadząc do podobnego wyniku
+- Zawieszenie krajowe, które pozwoli potencjalnie gorszym aktorom dostać się do AGI jako pierwszym
+- Międzynarodowe zawieszenie, które nie jest egzekwowane właściwie, prowadzące do podobnego wyniku
 
-Możemy zminimalizować to ryzyko, będąc konsekwentnymi i wyraźnymi w naszych komunikatach o tym, czego chcemy.
+Możemy złagodzić to, będąc konsekwentnymi i wyraźnymi w naszych komunikatach na temat tego, czego chcemy.
 
-## Wstrzymanie zbyt późno {#pausing-too-late}
+## Zawieszenie zbyt późno {#pausing-too-late}
 
-To jest najbardziej oczywiste i najbardziej prawdopodobne ryzyko niepowodzenia: jeśli wstrzymamy zbyt późno, prawdopodobnie napotkamy katastrofalne ryzyka.
-I to może się stać wkrótce, jak wyjaśniamy na naszej stronie [pilności](/urgency).
+To jest najbardziej oczywiste i najbardziej prawdopodobne ryzyko niepowodzenia: jeśli zawiesimy zbyt późno, możemy napotkać katastrofalne ryzyko.
+I to może się stać już wkrótce, jak wyjaśniamy na naszej [stronie pilności](/urgency).
 
-Dlatego potrzebujemy Twojej pomocy w naciskaniu na [wstrzymanie właśnie teraz](/action).
+Dlatego potrzebujemy Twojej pomocy, aby naciskać na [zawieszenie teraz](/action).
