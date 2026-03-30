@@ -1,47 +1,48 @@
 ---
-title: Konkretne scenariusze ryzyka katastroficznego związanego ze sztuczną inteligencją
-description: Jak superinteligentna sztuczna inteligencja mogłaby doprowadzić do wyginięcia ludzkości.
+title: Konkretne scenariusze katastrofalnych ryzyk związanych z AI
+description: Jak nadinteligentna sztuczna inteligencja może spowodować wymarcie ludzkości.
 ---
- 
-Naukowcy ostrzegają przed ryzykiem związanym z superinteligentną sztuczną inteligencją, ale ich argumenty często są zbyt abstrakcyjne, aby przekonać do podjęcia działań.
-W tym artykule przyjrzymy się kilku konkretnym scenariuszom, które pokazują, jak superinteligentna sztuczna inteligencja mogłaby powodować katastroficzne ryzyko.
-Zwróć uwagę, że te scenariusze mogą wyglądać jak science fiction, ponieważ takimi są.
+ <!-- end of frontmatter metadata, dashes above need to stay -->
 
-Te scenariusze są otwarte, co oznacza, że możesz je swobodnie wykorzystywać we własnej pracy i możesz do nich przyczynić się.
-Jeśli uważasz, że coś jest niekompletne, scenariusz ma niewiarygodne założenia lub masz lepszy pomysł, prosimy o sugerowanie zmian za pomocą przycisku "edytuj" poniżej.
+Naukowcy ostrzegają przed ryzykami związanymi z nadinteligentną sztuczną inteligencją, ale ich argumenty są często zbyt abstrakcyjne, aby były przekonywujące.
+W tym artykule przyjrzymy się konkretnym scenariuszom, w których nadinteligentna sztuczna inteligencja może spowodować katastrofalne ryzyko.
+Należy zauważyć, że te scenariusze mogą wydawać się jak science fiction, ponieważ opierają się na hipotetycznych sytuacjach.
+
+Te scenariusze są dostępne na zasadach open source, co oznacza, że możesz ich używać w swojej własnej pracy i przyczyniać się do ich rozwoju.
+Jeśli uważasz, że coś brakuje, jakiś scenariusz opiera się na nierzeczywistych założeniach lub masz lepszy pomysł, prosimy o sugestie zmian za pomocą przycisku "edytuj" poniżej.
 
 ## Cyberterroryzm {#cyberterrorism}
 
-Zespół naukowców wprowadza nowy paradygmat szkolenia sztucznej inteligencji, zaprojektowany dla cyberbezpieczeństwa.
-Ta architektura przeciwnika tworzy fragmenty kodu, a następnie próbuje wykorzystać luki w zabezpieczeniach.
-Wynikiem jest zaskakująco lekki, a jednocześnie niezwykle zdolny wąski AI, który jest dobry tylko w cyberbezpieczeństwie.
-Nie jest to superinteligencja, ale naukowcy wiedzą, jak niebezpieczna może być ta technologia w niewłaściwych rękach.
-Wprowadzają plan, aby zminimalizować ryzyko wykorzystania ich badań do celów złośliwych: używają swojego AI do skanowania wszystkich istniejących baz kodu i tworzenia poprawek dla wszystkich znanych luk w zabezpieczeniach.
-Wysyłają sugerowane poprawki do tysięcy deweloperów oprogramowania, z których wielu szybko je wdraża.
+Zespół naukowców wprowadza nowy paradygmat szkolenia sztucznej inteligencji, zaprojektowany z myślą o bezpieczeństwie cybernetycznym.
+Ta architektura przeciwna tworzy fragmenty kodu, a następnie próbuje wykorzystać luki w zabezpieczeniach.
+W efekcie powstaje niezwykle lekka, a zarazem niezwykle zdolna wąska sztuczna inteligencja, która jest dobrze przystosowana tylko do bezpieczeństwa cybernetycznego.
+Nie jest to nadinteligencja, ale naukowcy wiedzą, jak niebezpieczna może być ta technologia w niewłaściwych rękach.
+Wprowadzają plan, aby zminimalizować ryzyko, że ich badania będą wykorzystywane do celów związanych z terroryzmem: używają swojej sztucznej inteligencji do skanowania wszystkich istniejących baz kodu i tworzenia poprawek dla wszystkich znanych luk w zabezpieczeniach.
+Wysyłają proponowane poprawki do tysięcy programistów, z których wielu szybko wdraża te poprawki.
 
-Niestety, zaledwie tydzień po rozpoczęciu kontaktowania się z deweloperami, wagi modelu są wyciekiem na stronie torrentowej.
-Nie jest jasne, czy był to celowy akt, czy wagi zostały skradzione przez hakera.
-Model AI jest teraz "na zewnątrz".
-Ostrzeżenia są szybko wydawane przez ekspertów ds. bezpieczeństwa.
-Wszyscy utrzymujący oprogramowanie muszą jak najszybciej wdrożyć te poprawki.
+Niestety, zaledwie tydzień po rozpoczęciu kontaktów z programistami, wagi modelu są udostępnione na stronie z torrentem.
+Nie jest jasne, czy było to celowe działanie, czy też wagi zostały skradzione przez hakera.
+Model sztucznej inteligencji jest teraz dostępny publicznie.
+Szybko wydawane są ostrzeżenia przez ekspertów ds. bezpieczeństwa.
+Wszyscy odpowiedzialni za utrzymanie oprogramowania muszą wdrożyć te poprawki jak najszybciej.
 Wszystkie odpowiednie biblioteki muszą być zaktualizowane.
-Wszystkie oprogramowanie, które korzysta z tych bibliotek, musi być zaktualizowane.
-Zaktualizowane oprogramowanie musi być wdrożone na wszystkich urządzeniach.
-Wielu inżynierów oprogramowania działa szybko, ale nie każdy kawałek krytycznego oprogramowania jest aktualizowany na czas.
+Wszystkie programy, które używają tych bibliotek, muszą być zaktualizowane.
+Zaktualizowane programy muszą być wdrożone na wszystkich urządzeniach.
+Wielu inżynierów oprogramowania działa szybko, ale nie każdy krytyczny program jest zaktualizowany na czas.
 
-Jedna osoba pobrała wyciekłe wagi modelu.
-Ta osoba uważa, że ludzkość jest zagrożeniem dla planety i że należy ją ograniczyć, aby uratować planetę.
-Uruchamiają AI na swoim komputerze i skanują wszystkie otwarte jądra, systemy operacyjne i inne krytyczne oprogramowanie w poszukiwaniu luk, które można wykorzystać.
-Wynikiem jest najbardziej zdolny wirus komputerowy, jaki kiedykolwiek istniał.
+Jedna osoba ściąga wagi modelu, które zostały udostępnione.
+Uważa, że ludzkość jest zagrożeniem dla planety i że trzeba ją zmniejszyć, aby ją uratować.
+Uruchamia sztuczną inteligencję na swoim komputerze i skanuje wszystkie otwarte źródła jądra, systemów operacyjnych i innych krytycznych programów w poszukiwaniu luk, które można wykorzystać.
+W efekcie powstaje najbardziej zaawansowany wirus komputerowy, jaki kiedykolwiek istniał.
 
-Wykorzystuje ponad 1000 różnych exploitów zero-day, aby zainfekować praktycznie każde urządzenie na planecie.
+Wirus ten wykorzystuje ponad 1000 różnych luk zero-day, aby zainfekować praktycznie każde urządzenie na planecie.
 Rozprzestrzenia się przez Wi-Fi, Bluetooth, USB i TCP-IP.
-Wirus jest zaprojektowany tak, aby był jak najbardziej skryty, zanim zostanie aktywowany.
+Wirus jest zaprojektowany, aby być jak najbardziej niezauważalnym, zanim zostanie aktywowany.
 W ciągu kilku minut zainfekował 80% wszystkich urządzeń na planecie.
-Gdy jest aktywowany, blokuje każde urządzenie, które zainfekował.
+Gdy zostaje aktywowany, niszczy każde urządzenie, które zainfekował.
 
-Tymczasem w sklepach spożywczych na całym świecie ludzie nagle nie mogą płacić kartami ani telefonami - wszystkie ekrany są czarne.
-Ciężarówki dostawcze nie wiedzą, gdzie dostarczyć swoje produkty, ponieważ ich systemy nawigacyjne są niewrażliwe.
+Tymczasem w sklepach spożywczych na całym świecie ludzie nagle nie mogą już płacić kartą lub telefonem - wszystkie ekrany są czarne.
+Samochody dostawcze nie wiedzą, gdzie dostarczyć żywność, ponieważ ich systemy nawigacyjne są nieaktywne.
 Rolnicy nie wiedzą, komu mogą sprzedać swoje plony.
-Bez internetu, płatności i telefonów nasze społeczeństwo upada jak domek z kart.
-Nie trwa to długo, zanim zapanuje panika, ludzie zaczynają grabić, a kolejki samochodów wypełnionych podstawowymi artykułami blokują autostrady, gdy mieszkańcy miast decydują, że nadszedł czas, aby opuścić swoje coraz bardziej chaotyczne miasta.
+Bez internetu, płatności i telefonów nasze społeczeństwo rozpada się jak domek z kart.
+Nie upływa dużo czasu, zanim ludzie zaczynają panikować, rabować i tworzyć kolejki samochodów wypełnionych artykułami pierwszej potrzeby, blokując autostrady, gdy mieszkańcy miast decydują się opuścić coraz bardziej chaotyczne miasta.
