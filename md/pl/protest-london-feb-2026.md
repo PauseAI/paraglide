@@ -1,55 +1,56 @@
 ---
-title: PauseAI organizuje największy w historii protest dotyczący bezpieczeństwa AI w Londynie
-slug: protest-london-feb-2026
-description: Około 300 osób przeszło przez Londyn, żądając od CEO firm AI publicznego poparcia dla wstrzymania rozwoju systemów AI nowej generacji, w największym proteście w historii, który koncentrował się specjalnie na bezpieczeństwie AI.
-date: '2026-02-28'
-image: /protest-london-feb-2026.jpg
+title: PauseAI organizuje największy protest na rzecz bezpieczeństwa sztucznej inteligencji w Londynie
+slug: protest-londyn-luty-2026
+description: Około 500 osób wzięło udział w marszu przez Londyn, domagając się, aby dyrektorzy generalni firm zajmujących się sztuczną inteligencją publicznie poparli wstrzymanie rozwoju systemów sztucznej inteligencji na granicy możliwości, co stanowi największy dotąd protest skupiony specjalnie na bezpieczeństwie sztucznej inteligencji.
+image: /protest-londyn-luty-2026.jpg
+date: 2026-02-28
 news: true
 ---
+ <!-- end of frontmatter metadata, dashes above need to stay -->
 
-_PauseAI UK dołączyła do innych organizacji w sobotę, aby zażądać od CEO publicznego poparcia dla wstrzymania rozwoju systemów AI nowej generacji_
+_PauseAI UK dołączyło do innych organizacji w sobotę, aby wezwać do publicznego poparcia wstrzymania rozwoju systemów sztucznej inteligencji na granicy możliwości_
 
 **Komunikat prasowy** — Londyn, 28 lutego 2026
 
 ---
 
-Około 300 osób przeszło dziś przez Londyn – od biura OpenAI w Londynie przez obszar King's Cross do biur Google i Meta – aby zażądać od CEO wiodących firm AI publicznego poparcia dla wstrzymania rozwoju zaawansowanej AI. To byłby pierwszy krok w kierunku stworzenia wiążących międzynarodowych regulacji.
+Około 500 osób wzięło udział w marszu przez Londyn, który rozpoczął się pod londyńskim biurem OpenAI, a zakończył pod biurami Google i Meta. Uczestnicy domagali się, aby dyrektorzy generalni wiodących firm zajmujących się sztuczną inteligencją publicznie poparli wstrzymanie rozwoju zaawansowanej sztucznej inteligencji, co byłoby pierwszym krokiem w kierunku wiążącej regulacji międzynarodowej.
 
-Protest, zorganizowany przez [PauseAI UK](https://pauseai.uk/), [Pull the Plug](https://pulltheplug.uk/) i inne organizacje społeczne, był największym w historii protestem koncentrującym się specjalnie na AI, w związku z rosnącymi obawami o nową technologię.
+Protest, zorganizowany przez [PauseAI UK](https://pauseai.uk/), [Pull the Plug](https://pulltheplug.uk/) i inne organizacje grassroots, był największym dotąd protestem skupionym specjalnie na sztucznej inteligencji, gdy rosną obawy dotyczące nowej technologii.
 
-Dyrektor PauseAI UK, Joseph Miller, powiedział: "Uważamy, że to jest najważniejsza kwestia naszych czasów. Każdy kolejny protest, który organizujemy, jest większy niż poprzedni; bezpieczeństwo AI staje się coraz bardziej priorytetem dla opinii publicznej."
+Dyrektor PauseAI UK, Joseph Miller, powiedział: "Uważamy, że jest to najważniejsza kwestia naszych czasów. Każdy protest, który organizujemy, przyciąga coraz większą uwagę; bezpieczeństwo sztucznej inteligencji staje się coraz bardziej istotnym tematem dla społeczeństwa."
 
-Na początku tego tygodnia PauseAI spotkała się ze Stuartem Russellem, profesorem informatyki na UC Berkeley i autorem podręcznika używanego do nauczania praktycznie każdego badacza AI na świecie. ["Jesteśmy na trajektorii prowadzącej do utraty kontroli,"](https://pauseai.substack.com/p/eu-parliamentarians-acknowledge-the) powiedział.
+Wcześniej tego tygodnia PauseAI spotkało się ze Stuartem Russellem, profesorem informatyki na UC Berkeley i autorem podręcznika używanego do nauczania niemal każdego badacza sztucznej inteligencji na świecie. ["Jesteśmy na trajektorii ku utracie kontroli,"](https://pauseai.substack.com/p/eu-parliamentarians-acknowledge-the) powiedział.
 
-"Jeśli firmy AI zdołają zbudować superinteligencję, większość ekspertów uważa, że szansa na wyginięcie ludzkości wynosi gdzieś między 10 a 50 procent: to jest równoznaczne z grą w rosyjską ruletkę z udziałem wszystkich ludzi na planecie. Pozwalamy na to," dodał.
+"Jeśli firmy zajmujące się sztuczną inteligencją zdołają zbudować superinteligencję, większość ekspertów uważa, że szansa na wymarcie ludzkości wynosi gdzieś między 10 a 50 procent. To jest równoznaczne z grą w rosyjską ruletkę z całym światem. Pozwalamy, aby to się stało," dodał.
 
-## Wstrzymanie jest bardziej prawdopodobne, niż mogłoby się wydawać {#a-pause-is-more-likely-than-you-might-think}
+## Wstrzymanie jest bardziej prawdopodobne, niż się wydaje {#a-pause-is-more-likely-than-you-might-think}
 
-Demis Hassabis, CEO Google DeepMind, już [stwierdził](https://x.com/emilychangtv/status/2013726877706313798), że popiera wstrzymanie w zasadzie. Dziś protestujący wezwali innych CEO – w tym tych z OpenAI i Anthropic – do zrobienia tego samego.
+Demis Hassabis, dyrektor generalny Google DeepMind, już oświadczył, że [poprze wstrzymanie zasadniczo](https://x.com/emilychangtv/status/2013726877706313798). Uczestnicy marszu wezwali innych dyrektorów generalnych — w tym tych z OpenAI i Anthropic — do zrobienia tego samego.
 
-CEO OpenAI, Anthropic i Google DeepMind podpisali oświadczenie ostrzegające, że AI stanowi poważne zagrożenie dla ludzkości.
+Dyrektorzy generalni OpenAI, Anthropic i Google DeepMind podpisali oświadczenie, w którym ostrzegają, że sztuczna inteligencja stanowi poważne zagrożenie dla ludzkości.
 
-"Jeśli firmy stojące za najbardziej zaawansowanymi systemami AI nie wiedzą, jak uczynić tę technologię bezpieczną, to wstrzymanie jest jedyną sensowną opcją," wyjaśnił Miller.
+"Jeśli firmy stojące za najbardziej zaawansowanymi systemami sztucznej inteligencji nie wiedzą, jak uczynić tę technologię bezpieczną, to wstrzymanie jest jedyną rozsądną opcją," wyjaśnił Miller.
 
-"Istnieje naukowy konsensus, że superinteligentne systemy, które firmy AI starają się zbudować, mogą mieć katastrofalne konsekwencje: to nie jest przesada," dodał.
+"Istnieje konsensus naukowy, że superinteligentne systemy, których budowę przyśpieszają firmy zajmujące się sztuczną inteligencją, mogą mieć katastrofalne konsekwencje. To nie jest przesada," dodał.
 
-Protestujący wzywali również rząd brytyjski do podjęcia większych działań w celu ochrony obywateli.
+Protestujący domagali się również, aby rząd Wielkiej Brytanii zrobił więcej, aby chronić obywateli.
 
-"Słyszeliśmy obietnice rządu brytyjskiego, że bezpieczeństwo AI będzie priorytetem, ale nie było żadnych nowych przepisów, nawet konsultacji. Mamy nadzieję, że nie będzie potrzebna duża katastrofa, aby rząd potraktował to poważnie."
+"Słyszeliśmy obietnice od rządu Wielkiej Brytanii, że bezpieczeństwo sztucznej inteligencji będzie priorytetem, ale nie było nowych przepisów, nawet konsultacji. Mamy nadzieję, że nie będzie wymagało dużego katastrofy, aby rząd poważnie potraktował tę kwestię."
 
-## Organizacje społeczne łączą siły {#grassroots-organisations-join-forces}
+## Organizacje grassroots łączą siły {#grassroots-organisations-join-forces}
 
-PauseAI zorganizowała marsz we współpracy z [Pull the Plug](https://pulltheplug.uk/) i innymi organizacjami koncentrującymi się na istniejących szkodach społecznych.
+PauseAI zorganizowało marsz we współpracy z [Pull the Plug](https://pulltheplug.uk/) i innymi organizacjami skupionymi na istniejących szkodach społecznych.
 
-Wydarzenie obejmowało przemówienia i świadectwa osób dotkniętych systemami AI, a następnie zgromadzenie w stylu zgromadzenia obywatelskiego, aby omówić, jak powinien wyglądać odpowiedzialny rozwój AI.
+Wydarzenie obejmowało przemówienia i świadectwa ludzi dotkniętych systemami sztucznej inteligencji, a także spotkanie w stylu zgromadzenia obywateli, aby omówić, jak powinien wyglądać odpowiedzialny rozwój sztucznej inteligencji.
 
-Rzecznik Pull the Plug powiedział: "AI jest już używana w każdym aspekcie brytyjskiego życia. Czasami wykonuje nudne zadania za nas i pomaga nam w codziennych sprawach. Ale politycy dają jej moc, aby zmieniać nasze życie i krzywdzić dzieci, a my nie mieliśmy w tym żadnego głosu."
+Przedstawiciel Pull the Plug powiedział: "Sztuczna inteligencja jest już używana w każdym aspekcie życia w Wielkiej Brytanii. Czasem wykonuje nudne zadania za nas i pomaga nam w naszej codziennej administracji. Ale politycy dają jej władzę, aby zmienić nasze życie i skrzywdzić dzieci, a my nie mieliśmy nic do powiedzenia w tej sprawie."
 
 ## O koalicji {#about-the-coalition}
 
-- [PauseAI UK](http://pauseai.uk/) opowiada się za silniejszymi zabezpieczeniami w rozwoju zaawansowanej AI i konkretnie wzywa do globalnego wstrzymania badań nad nową generacją AI, dopóki nie dowiemy się, jak zbudować potężną AI w sposób bezpieczny.
-- [Pull the Plug](http://pulltheplug.uk/) jest nową organizacją koncentrującą się na powstrzymaniu szkód społecznych wynikających z obecnych produktów AI i wspieraniu demokratycznej kontroli nad nimi.
-- [Assemble](https://timetoassemble.org/) promuje przyjęcie zgromadzeń obywatelskich jako środka zapewniającego demokratyczną reprezentację.
+- [PauseAI UK](http://pauseai.uk/) opowiada się za silniejszymi zabezpieczeniami w rozwoju zaawansowanej sztucznej inteligencji i konkretnie wzywa do globalnego wstrzymania badań na granicy możliwości, dopóki nie będziemy wiedzieć, jak zbudować potężną sztuczną inteligencję w sposób bezpieczny.
+- [Pull the Plug](http://pulltheplug.uk/) to nowa organizacja skupiona na zatrzymaniu szkód społecznych spowodowanych przez obecne produkty sztucznej inteligencji i wspieraniu demokratycznej kontroli nad nimi.
+- [Assemble](https://timetoassemble.org/) opowiada się za przyjęciem zgromadzeń obywateli jako środka, aby zapewnić demokratyczną reprezentację.
 
 ## Zdjęcia i filmy {#photos-and-videos}
 
@@ -57,4 +58,4 @@ Materiały z protestu można znaleźć [tutaj](https://drive.google.com/drive/fo
 
 ---
 
-_[PauseAI](https://pauseai.info/) jest organizacją non-profit, aktywną w ponad 14 krajach. Pracujemy nad tym, aby rozwój najpotężniejszych systemów AI był bezpieczny i demokratycznie kontrolowany. Robimy to, informując opinię publiczną, angażując się z decydentami i organizując kampanie i wydarzenia na całym świecie._
+_[PauseAI](https://pauseai.info/) to organizacja non-profit, aktywna w ponad 14 krajach. Pracujemy, aby zapewnić, że rozwój najpotężniejszych systemów sztucznej inteligencji będzie bezpieczny i demokratycznie kontrolowany. Robimy to, informując społeczeństwo, angażując się w politykę i organizując kampanie i wydarzenia na całym świecie._
