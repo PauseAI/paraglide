@@ -1,77 +1,82 @@
 ---
-title: Pisanie komunikatów prasowych dla protestów
-description: Jak skutecznie napisać komunikat prasowy, aby opisać protest.
+title: Tworzenie komunikatów prasowych na potrzeby protestów
+description: Jak skutecznie tworzyć komunikaty prasowe, aby relacjonować protesty.
 ---
-
-Podczas organizowania protestu chcesz uzyskać jak największe zainteresowanie mediów. Komunikat prasowy to sprawdzony sposób na dostarczenie historii do Twoich docelowych dziennikarzy w najbardziej przejrzysty, szybki i użyteczny sposób.
+ 
+Podczas protestu chcesz uzyskać jak największą ekspozycję. 
+Komunikat prasowy jest sprawdzonym sposobem, aby umieścić historię w mediach przed Twoimi docelowymi dziennikarzami w najjaśniejszy, najszybszy i najbardziej użyteczny sposób.
 
 ## Jak zacząć {#how-to-start}
 
-Komunikaty prasowe są pisane w trzeciej osobie, jak "ogłoszenie". Muszą być oparte wyłącznie na faktach. Twoja opinia nie jest wiadomością. Możesz dodać swoje opinie, koloryt i zabawę do komunikatu prasowego poprzez (własne) cytaty.
+Komunikaty prasowe są pisane w trzeciej osobie, jak "ogłoszenie". 
+Muszą być oparte wyłącznie na faktach. Twoja opinia nie jest wiadomością. Możesz dodać opinię, kolor i zabawę do swojego komunikatu prasowego za pomocą (własnych) cytowań.
 
-Weź gazetę, aby zobaczyć strukturę historii wizualnie. Zobacz, jak wąskie są te kolumny? Zobacz, jak mało słów mają większość historii? Zobacz, jak krótkie są zdania? Musisz pisać w ten sposób.
+Weź gazety, ponieważ jest to najjaśniejszy sposób, aby zobaczyć strukturę historii wizualnie. Zobacz, jak wąskie są te kolumny? Zobacz, jak mało słów mają większość historii? Zobacz, jak krótkie są zdania? Należy pisać w ten sposób.
 
 ## Idealna struktura komunikatu prasowego {#the-ideal-structure-of-a-press-release}
 
-Data: Zawsze umieszczaj datę wydania na górze, w pogrubieniu. Niektórzy ludzie mówią "do natychmiastowej publikacji". Lepiej tego unikać. Jeśli Twój komunikat prasowy nie jest przeznaczony do natychmiastowej publikacji, nie wysyłaj go, dopóki nie będzie gotowy do publikacji. To jest komunikat prasowy, a nie planer.
+Data: Zawsze umieszczaj datę wydania na górze, pogrubioną. Niektórzy mówią "do natychmiastowego wydania". Nie rób tego. Jeśli Twój komunikat prasowy nie jest przeznaczony do natychmiastowego wydania, nie wysyłaj go, dopóki element nie będzie gotowy do wydania. To jest komunikat prasowy, a nie planista.
 
-Nagłówek: Na jednej linii, w pogrubieniu. Idealnie nie więcej niż 10 słów. To jest haczyk dla Twojej historii i powinien całkowicie wyjaśniać, o co chodzi w historii. Pomyśl, ile razy nie klikasz w nagłówek online, ale nadal wiesz, o co chodzi w wiadomości. To jest to, czego chcesz.
+Nagłówek: W jednej linii, pogrubiony. Idealnie nie więcej niż 10 słów. To jest haka dla Twojej historii i powinna ona zupełnie mieć sens, co do tego, o czym jest historia. Pomyśl, ile razy nie klikasz przez nagłówek online, ale wciąż wiesz, co to za wiadomości. To jest to, czego chcesz.
 
-Pierwszy akapit: Co to jest historia, w nie więcej niż dwóch krótkich zdaniach. Nie musi zawierać nazwisk osób lub organizacji, chyba że są one kluczowe dla wiadomości. (Zgadnij co? Twoja organizacja prawdopodobnie nie jest kluczowa dla historii). Przeczytaj kilka pierwszych akapitów historii w gazecie, o której mówiłem wcześniej. To pomoże Ci napisać pierwsze akapity poprawnie. Spójrz! Czy nie są one krótkie?
+Pierwszy akapit: Co to jest historia, w nie więcej niż dwóch krótkich zdaniach. Nie musi zawierać nazwisk osób lub organizacji, chyba że są one niezbędne do historii. (Zgadnij, co? Twoja organizacja nie jest prawdopodobnie niezbędna do historii). 
+Przeczytaj pierwsze akapity kilku historii w gazecie, o której mowa na górze. To pomoże Ci uzyskać pierwsze akapity prawidłowo. Popatrz! Są krótkie, prawda?
 
-Jeśli piszesz dla małego lokalnego wydawnictwa, wówczas napisanie nazwy miasta w pierwszym akapicie naprawdę zwiększy zainteresowanie lokalnymi wiadomościami. Ale tylko wtedy, gdy tak jest. Na przykład, wersja krajowa byłaby "człowiek został aresztowany za...", a wersja lokalna byłaby "człowiek z Bedford został aresztowany za...".
+Jeśli piszesz dla małej lokalnej publikacji, to wpisanie nazwy miasta w pierwszym akapicie naprawdę zwiększy zainteresowanie lokalnymi wiadomościami. Ale tylko wtedy, gdy jest to przypadkiem. Na przykład, wersja krajowa brzmiałaby "został aresztowany mężczyzna...", a wersja lokalna to "został aresztowany mężczyzna z Bedford...".
 
-Używaj powszechnie rozpoznawalnych terminów, takich jak mężczyzna/kobieta/zespół. Używaj słowa "rebel" tylko w cudzysłowie. To jest nasz termin, a nie powszechnie rozpoznawalny opis. Drugi akapit. Rozszerzenie pierwszego akapitu, z nowymi informacjami. Możesz umieścić nazwisko w tym miejscu, jeśli jest ważne.
+Używaj powszechnie uznanych terminów, takich jak mężczyzna/kobieta/zespół. Używaj słowa "buntownik" tylko w cytatach. To jest nasz termin, a nie powszechnie uznany opis. 
 
-Trzeci akapit: To jest świetne miejsce na naprawdę soczysty cytat. Zgadnij co? Idealnie nie więcej niż dwa zdania. Nie używaj skomplikowanych sposobów wprowadzania cytatu. Umieść nazwisko, wiek (jeśli to możliwe) i tytuł pracy lub odpowiedni opis, a następnie "...powiedział [CYTAT TUTAJ]". Nie umieszczaj cytatu w treści innego akapitu. Pozwól mu stać samodzielnie.
+Drugi akapit: Rozszerzenie pierwszego akapitu z nowymi informacjami. Możesz umieścić nazwisko, jeśli jest ważne.
 
-Czwarty akapit: Wszystko inne, co musi być uwzględnione, ale historia mogłaby całkowicie dobrze się czytać bez tego.
+Trzeci akapit: To jest idealne miejsce na bardzo interesującą cytację. Zgadnij, co? Idealnie nie więcej niż dwa zdania. Nie używaj skomplikowanych sposobów wprowadzania cytacji. Umieść nazwisko, wiek (jeśli to możliwe) i stanowisko lub odpowiedni opis, a następnie "...powiedział [CYTAT TUTAJ]". Nie umieszczaj cytacji w treści innego akapitu. Pozwól jej samodzielnie się prezentować.
 
-Notatki dla redaktorów: Umieść swoje nazwisko i dane kontaktowe jako pierwszy element w notatkach dla redaktorów. Inne informacje, takie jak adresy stron internetowych, mogą być umieszczone tutaj.
+Czwarty akapit: Cokolwiek innego, co musi być umieszczone, ale co historia mogłaby zupełnie czytać bez.
 
-## Co zrobić dalej {#what-to-do-next}
+Uwagi dla redaktorów: Umieść swoje nazwisko i dane kontaktowe jako pierwszy punkt w uwagach dla redaktorów. Inne informacje, takie jak adresy stron internetowych, mogą być umieszczone tutaj.
 
-Dowiedz się, komu chcesz wysłać komunikat prasowy i wyślij go bezpośrednio, najlepiej do **konkretnego adresata**.
-Zrób trochę badań w swoich docelowych mediach, aby dowiedzieć się, kto jest redaktorem, kto pracuje na biurku wiadomości, jaki adres e-mail preferują do otrzymywania komunikatów prasowych.
-Umieść nagłówek lub podobny opis historii w temacie wiadomości e-mail. Dziennikarz musi wiedzieć, o co chodzi w historii, bez otwierania wiadomości e-mail.
+## Co dalej {#what-to-do-next}
 
-Skopiuj i wklej komunikat prasowy do treści wiadomości e-mail. Jest on łatwiej dostępny i nie zużywa tyle danych do wysłania.
+Dowiedz się, komu chcesz wysłać komunikat i wyślij go bezpośrednio, najlepiej do **wskazanej osoby**.
+Przeprowadź badania w celu poznania Twoich mediów docelowych, aby wiedzieć, kto jest redaktorem, kto pracuje przy biurku informacji, jaki adres e-mail preferują do otrzymywania komunikatów prasowych.
+Umieść nagłówek lub podobny opis historii w linii tematu. Dziennikarz musi wiedzieć, jaka to historia, bez otwierania wiadomości e-mail.
 
-Zrób telefon do podsumowania. Byłbyś zaskoczony, jak wielu ludzi spędza dużo czasu na tworzeniu idealnego komunikatu prasowego, wysyła go, a potem po prostu zostawia go. Zadzwoń. Zacznij od pytania, czy Twój komunikat prasowy dotarł bez problemów? Nie mogę policzyć, ile razy dziennikarz nie otworzył go jeszcze w tym momencie, a otwiera go, gdy jesteśmy na telefonie, zachęcony przez telefon. Możemy wtedy upewnić się, że mają wszystkie informacje, których potrzebują.
+Skopiuj i wklej swój komunikat do treści wiadomości e-mail. Jest to łatwiejsze w dostępie i nie używa tyle danych do wysłania.
 
-Wysyłaj komunikaty prasowe tylko wtedy, gdy jesteś pewien, że istnieje prawdopodobieństwo, że docelowy odbiorca uzna to za dobrą historię. Nie wysyłaj słabych historii. Nie wysyłaj wielu komunikatów prasowych. Pomyśl o wszystkich wiadomościach e-mail od "pewnych ludzi" lub organizacji, których po prostu nie otwierasz już, ponieważ ciągle wysyłali rzeczy, którymi nie byłeś zainteresowany. Nie bądź tą osobą.
+Zadzwoń w celu potwierdzenia. Byłoby Ci zaskoczeniem, ile osób spędza dużo czasu na tworzeniu idealnego komunikatu, wysyła go, a potem po prostu go zostawia. Zadzwoń. Zacznij od zapytania, czy komunikat dotarł OK? Nie mogę policzyć, ile razy dziennikarz nie otworzył go jeszcze w tym momencie i nie zapisał go, podczas gdy rozmawiamy przez telefon, zainspirowany przez telefon. Możemy upewnić się, że mają wszystkie niezbędne informacje.
 
-Jeśli wysłałeś dwa lub trzy komunikaty prasowe do wydawnictwa, którego naprawdę chcesz uzyskać relację, a żaden z nich nie skutkuje historią, wówczas zadzwoń, aby zapytać, dlaczego. Może być coś prostego, co możesz zrobić, aby uzyskać historie odpowiednie dla tego dziennikarza. Nie ciągle produkuj komunikaty prasowe i zapominaj o nich, gdy tylko je wyślesz.
+Wysyłaj komunikaty prasowe tylko wtedy, gdy jesteś pewien, że docelowy odbiorca uzna to za dobrą historię. Nie wysyłaj słabych historii. Nie wysyłaj wielu komunikatów. Pomyśl o wszystkich e-mailach od "pewnych osób" lub organizacji, które po prostu nie otwierasz już, ponieważ ciągle wysyłali rzeczy, którymi nie byłeś zainteresowany. Nie bądź tą osobą.
 
-## Pomocna lista wskazówek dotyczących komunikatów prasowych {#a-helpful-list-of-pressrelease-dos-and-donts}
+Jeśli wysłałeś dwa lub trzy komunikaty prasowe do redakcji, w której bardzo chcesz uzyskać relację, i żadna z nich nie skutkuje historią, to zadzwoń i zapytaj, dlaczego. Może być coś prostego, co możesz zrobić, aby uzyskać historie odpowiednie dla tego dziennikarza. Nie wytwarzaj komunikatów i nie zapomnij o nich, jak tylko naciśniesz przycisk wysłania.
 
-### Zrób {#do}
+## Przydatna lista wskazówek dotyczących komunikatów prasowych {#a-helpful-list-of-pressrelease-dos-and-donts}
 
-- Wyślij komunikat prasowy na jeden dzień przed protestem.
-- Zrób zdjęcia i filmy i dodaj najlepsze z nich do strony komunikatu prasowego jako część Twojego zestawu prasowego.
-- Zachowaj jedną stronę, idealnie, i dwie maksymalnie.
-- Upewnij się, że tytuł mówi czytelnikowi, o co chodzi w historii.
-- Zachowaj pierwszy akapit do jednego zdania i dwóch maksymalnie.
-- Postępuj zgodnie z modelem "odwróconej piramidy", z najważniejszymi informacjami na górze i szczegółami później.
-- Dołącz krótkie cytaty w jednym zdaniu.
+### Rób {#do}
+
+- Wysyłaj komunikat prasowy jeden dzień przed protestem.
+- Zrób zdjęcia i filmy, a dodaj najlepsze z nich do strony komunikatu prasowego jako część Twojego pakietu prasowego.
+- Staraj się ograniczyć do jednej strony, a maksymalnie dwóch.
+- Upewnij się, że tytuł mówi czytelnikowi, jaka to historia.
+- Zachowaj swój pierwszy akapit do jednego zdania i maksymalnie dwóch.
+- Postępuj zgodnie z modelem "odwróconej piramidy", z najważniejszymi informacjami na górze, a szczegółami poniżej.
+- Dołączaj krótkie cytaty jednego zdania.
 - Upewnij się, że osoby, które cytujesz, są dostępne do wywiadów.
-- Skopiuj komunikat prasowy do treści wiadomości e-mail, aby go wysłać. Unikaj załączników i grafik, które zajmują czas na załadowanie/otwarcie i zatykają skrzynki odbiorcze.
-- Wyślij jasne informacje o historii w temacie wiadomości e-mail.
+- Skopiuj komunikat do treści wiadomości e-mail. Unikaj załączników i grafik, które zajmują czas do załadowania/otwarcia i zacinają skrzynki odbiorcze.
+- Wysyłaj jasne informacje o historii w linii tematu wiadomości e-mail.
 - Używaj krótkich zdań.
 - Używaj prostego, dostępnego języka.
-- Umieść dodatkowe informacje w 'Notatkach dla redaktorów'.
+- Umieść dodatkowe informacje w 'Uwagach dla redaktorów'.
 - Umieść datę na górze komunikatu prasowego.
 - Dodaj dane kontaktowe i upewnij się, że są dostępne!
-- Dostosuj swój komunikat prasowy do różnych docelowych odbiorców. Na przykład, zlokalizuj go dla lokalnej prasy.
-- Używaj zwykłego tekstu w treści komunikatu prasowego, a nie kursywy, podkreśleń lub pogrubień.
+- Dostosuj swój komunikat do różnych redakcji docelowych. Na przykład, zlokalizuj go dla prasy lokalnej.
+- Używaj zwykłego tekstu w treści Twojego komunikatu, a nie kursywy, podkreśleń lub pogrubień.
 
 ### Nie rób {#dont}
 
-- Nie zalewaj dziennikarzy i redaktorów komunikatami prasowymi, ponieważ przestaną je czytać. Kimkolwiek jesteś, nie masz tylu wiadomości. To jest powszechny błąd, który prowadzi do zagłuszenia prawdziwych wiadomości.
-- Nie umieszczaj najważniejszych informacji dalej w komunikacie prasowym. Większość dziennikarzy będzie tylko skanować pierwsze kilka linii, więc pomyśl o tym, co to jest historia i umieść ją na górze.
-- Nie próbuj pisać zabawnych/sprytnych nagłówków "gazetowych". Opowiedz historię i pozwól redaktorowi napisać żarty.
-- Nie bądź niedostępny, aby odebrać telefon i odpowiedzieć na zapytania, gdy już wyślesz komunikat prasowy.
-- Nie używaj żargonu. Pisz dla ludzi, którzy nic nie wiedzą o Twoim temacie.
-- Nie używaj skomplikowanego języka. Zachowaj prosty, jasny język.
-- Nie używaj subiektywnego języka. Opieraj się na faktach i "wspaniały nowy projekt" nie jest faktem. Dziennikarz zdecyduje, czy jest "wspaniały", "ważny", "genialny", "ekscytujący" itd. Używaj tych opisów tylko wtedy, gdy bezpośrednio cytujesz kogoś.
-- Nie pisz więcej niż dwóch stron. Jeśli nie mieści się w dwóch stronach, kontynuuj, aż się zmieści.
+- Zalewaj dziennikarzy i redaktorów komunikatami prasowymi, ponieważ przestaną je czytać. Niezależnie od tego, kim jesteś, nie masz tyle wiadomości. To jest powszechny błąd, który prowadzi do zagłuszenia prawdziwych wiadomości.
+- Umieść najważniejsze informacje dalej w komunikacie. Większość dziennikarzy przeczyta tylko pierwsze kilka linii, więc pomyśl, jaka to historia i umieść ją na górze.
+- Staraj się napisać zabawny/inteligentny nagłówek "gazetowy". Opowiedz historię i pozostaw subredaktorowi pisanie dowcipów.
+- Nie bądź dostępny, aby odebrać telefon i odpowiedzieć na zapytania, jak tylko wyślesz komunikat.
+- Używaj języka fachowego. Pisz dla ludzi, którzy nie wiedzą nic o Twoim temacie.
+- Używaj skomplikowanego języka. Zachowaj prosty, klarowny język.
+- Używaj subiektywnego języka. Oparty na faktach jest najlepszy, a "świetny nowy projekt" nie jest faktem. Dziennikarz zdecyduje, czy jest to "świetny", "ważny", "genialny", "ekscytujący" itp. Używaj tych opisów tylko w przypadku bezpośrednich cytowań kogoś.
+- Pisz więcej niż 2 strony. Jeśli nie uda Ci się to ująć w 2 strony, kontynuuj, aż Ci się to uda.
