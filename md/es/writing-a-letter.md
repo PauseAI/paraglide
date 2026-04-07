@@ -1,53 +1,55 @@
 ---
-title: Cómo escribir una carta o correo electrónico a alguien con influencia
-description: Una guía sobre cómo escribir una carta de lobby efectiva
+title: Cómo escribir una carta o correo electrónico a alguien con poder
+description: Una guía sobre cómo redactar una carta de lobby
 ---
-_Also available as a [video](https://www.youtube.com/watch?v=Mjq4NFiKKd0) and a [slideshow](https://tiny.cc/emaillobby) for workshops_
+ <!-- end of frontmatter metadata, dashes above need to stay -->
 
-En última instancia, nuestro objetivo es influir en las decisiones de las personas con poder.
-Enviar un correo electrónico o escribir una carta puede ser una de las formas más directas y efectivas de llamar la atención de alguien con influencia.
-Sin embargo, es fundamental hacerlo de manera correcta.
-Las personas influyentes reciben una gran cantidad de correspondencia y no tienen tiempo de leer o responder a cada mensaje que reciben.
-En esta guía, exploraremos qué puedes hacer para que tu mensaje destaque y tenga un impacto real.
+_También disponible como [video](https://www.youtube.com/watch?v=Mjq4NFiKKd0) y [presentación](https://tiny.cc/emaillobby) para talleres_
 
-Crear un mensaje personalizado desde cero siguiendo los consejos a continuación puede ser extremadamente efectivo, pero también puedes probar nuestro [Constructor de correos electrónicos](/email-builder).
+En última instancia, nuestro objetivo es influir en las decisiones de las personas que tienen poder.
+Enviar un correo electrónico o escribir una carta puede ser una de las formas más directas y efectivas de llamar la atención de alguien con poder.
+Sin embargo, es fundamental hacerlo de manera adecuada.
+Las personas importantes reciben una gran cantidad de correspondencia, y no tienen tiempo para leer o responder a cada mensaje que reciben.
+En esta guía, exploraremos qué puedes hacer para que tu mensaje sea destacado y tenga impacto.
+
+Crear un mensaje personalizado desde cero siguiendo los consejos a continuación puede ser muy efectivo, pero también puedes probar nuestro [Constructor de correos electrónicos](/email-builder).
 
 ## Encontrar a la persona adecuada {#finding-the-right-person}
 
-- ¿Quién es la persona adecuada para contactar? ¿Quién tiene la capacidad de tomar decisiones? ¿Quién prepara las reuniones? ¿Quién es el más probable que lea tu mensaje?
+- ¿Quién es la persona más indicada para contactar? ¿Quién tiene el poder de decisión? ¿Quién prepara las reuniones? ¿Quién es más probable que lea tu mensaje?
 
 ## Preparar tu mensaje {#preparing-your-message}
 
-- ¿Qué quieres que hagan? Sé específico y claro.
-- Investiga a la persona a la que estás escribiendo. ¿Cuáles son sus intereses y prioridades? ¿Cuáles son sus valores y preocupaciones? ¿Han trabajado con inteligencia artificial? ¿Qué representa su partido o organización?
+- ¿Qué objetivo específico quieres que logren? Sé claro y conciso.
+- Investiga a la persona a la que estás escribiendo. ¿Cuáles son sus intereses y prioridades? ¿Qué valores defiende? ¿Qué ha trabajado en relación con la inteligencia artificial? ¿Qué postura tiene su partido sobre este tema? ¿Qué proyectos tiene en su portfolio?
 
 ## Estructura del mensaje {#structure-of-the-message}
 
-- **Saludo**. Puede ser formal o informal, dependiendo del contexto.
-- **Cumplido adecuado**. Hazlo personal y relevante.
-- **Preséntate**. De nuevo, hazlo personal y explica por qué estás escribiendo.
-- **Explica el problema**. Proporciona enlaces a fuentes creíbles y utiliza estadísticas y nombres relevantes (por ejemplo, ganadores del Premio Turing como Hinton y Bengio).
-- **Presenta la solución**. La pausa. ¿Qué significa y qué impacto tiene? Explica por qué es necesaria y por qué la carta abierta no logró conseguirla (dinámicas del mercado, necesidad de regulación internacional).
-- **Destaca la urgencia**. ¿Por qué es importante actuar ahora? Explica cómo la velocidad de los avances en IA ha sorprendido a muchos expertos y por qué no podemos permitirnos esperar.
-- **Pide acción**. ¿Qué quieres que hagan? Haz una petición clara y concreta. Por ejemplo, pide que se discuta la pausa en la próxima reunión o que se te mantenga informado sobre su progreso.
+- **Saludo**. Puede ser formal o informal, dependiendo del contexto. Si no estás seguro, es mejor optar por un saludo formal.
+- **Cumplido personalizado**. Asegúrate de que sea relevante y específico.
+- **Presentación**. Haz que sea personal y auténtica. Explica por qué estás escribiendo y por qué deberían considerar tu mensaje.
+- **Análisis del problema**. Proporciona enlaces a fuentes confiables y autorizadas (por ejemplo, ganadores del Premio Turing como Hinton y Bengio) y estadísticas relevantes (como el 14% de riesgo promedio de extinción asociado a la inteligencia artificial).
+- **Propuesta de solución**. La pausa en el desarrollo de la inteligencia artificial. ¿Qué implica? ¿Qué impacto tendría? Discute por qué es necesaria una pausa y por qué la carta abierta no logró conseguir el objetivo deseado (debido a la dinámica del mercado y la necesidad de regulación internacional). Aborda algunas de las críticas comunes y objeciones.
+- **Urgencia**. ¿Por qué es fundamental actuar ahora? Discute cómo los investigadores de inteligencia artificial se sorprendieron por la velocidad de los avances recientes y cómo se están sumando más recursos y personal. La pausa no puede esperar hasta la próxima cumbre; no podemos arriesgarnos a equivocarnos nuevamente en nuestras predicciones. Es crucial actuar con precaución.
+- **Petición**. ¿Qué acción específica quieres que tomen? Haz que tu petición sea clara y concreta. Por ejemplo, pide que se discuta la pausa en la próxima reunión y que se considere con otras personas con poder. Pide una respuesta y que te mantengan informado sobre el progreso. Incluso, pide una reunión y ofrece un horario específico para ello.
 
 ## Consejos {#tips}
 
-- Sé conciso y claro
-- Sé educado y respetuoso
-- Enlaza a fuentes relevantes
+- Sé conciso y directo
+- Sé respetuoso y educado
+- Incluye enlaces a contenido relevante
 - Revisa la ortografía y la gramática
 - Envía desde un dominio personalizado
-- Comparte tus credenciales y experiencia
+- Comparte tus credenciales y experiencia relevante
 
-## Obtén firmas {#get-signatures}
+## Obtener firmas {#get-signatures}
 
-- Una carta sola es agradable, pero una carta con muchas firmas es aún más efectiva. Esto puede requerir un gran esfuerzo
+- Una carta sola es valiosa, pero una carta con varias firmas es aún más impactante. Esto puede requerir esfuerzo y dedicación.
 
 ## Ejemplo de carta {#example-letter}
 
-[Ejemplo de carta](https://docs.google.com/document/d/1M3Wc7JMNn8UUZmOfuxOW7a6GtTCckY7fkpd-pmv3Fr8/edit)
+[Carta de ejemplo](https://docs.google.com/document/d/1M3Wc7JMNn8UUZmOfuxOW7a6GtTCckY7fkpd-pmv3Fr8/edit)
 
-## ¿Necesitas más ayuda o retroalimentación? {#need-more-help--feedback}
+## Necesitas más ayuda o retroalimentación {#need-more-help--feedback}
 
-[Únete al Discord](https://discord.gg/2XXWXvErfA) para hacer cualquier pregunta sobre enviar un correo electrónico o para compartir tu borrador y obtener retroalimentación.
+[Únete a Discord](https://discord.gg/2XXWXvErfA) para hacer cualquier pregunta sobre el envío de un correo electrónico o para compartir tu borrador y recibir retroalimentación.
