@@ -1,10 +1,9 @@
 ---
-title: (Cancelada) Protesta de PauseAI en la ONU, Nueva York, 18 de julio
-description: Protesta de PauseAI para instar al Consejo de Seguridad de las Naciones Unidas a establecer una moratoria global en los entrenamientos de inteligencia artificial a gran escala.
+title: (Cancelado) Protesta PauseAI @ Naciones Unidas, NYC, 18 de julio
+description: Protesta de PauseAI, que urge al Consejo de Seguridad de las Naciones Unidas a 
+  implementar una pausa mundial en las corridas de entrenamiento de IA de mayor escala.
 ---
-<!-- end of frontmatter metadata, dashes above need to stay -->
-
-- Protesta de PauseAI para instar al Consejo de Seguridad de las Naciones Unidas a establecer una moratoria global en los entrenamientos de inteligencia artificial a gran escala.
-- Lugar: Sede de la ONU, Nueva York
+- Protesta de PauseAI, que urge al Consejo de Seguridad de las Naciones Unidas a implementar una pausa mundial en las corridas de entrenamiento de IA de mayor escala.
+- Lugar: Sede de las Naciones Unidas, Nueva York
 - Fecha y hora: 18 de julio, 9:30 - 10:30 am
-- CANCELADA
+- CANCELADO
