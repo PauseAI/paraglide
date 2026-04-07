@@ -1,5 +1,5 @@
 ---
-title: Protesta PauseAI en Google DeepMind - 19 al 22 de mayo
+title: Protesta PauseAI @ Google DeepMind - 19 al 22 de mayo
 description: Estamos organizando una protesta en Google DeepMind para exigir una cumbre que detenga el desarrollo de la inteligencia artificial.
 ---
  <!-- end of frontmatter metadata, dashes above need to stay -->
@@ -16,43 +16,43 @@ description: Estamos organizando una protesta en Google DeepMind para exigir una
 
 Por favor, lea el Código de Conducta de los manifestantes de PauseAI [aquí](https://pauseai.info/protesters-code-of-conduct) antes de asistir a esta protesta.
 
-¿Qué hacer?
+¿Qué pasa?
 
-- Protesta pacífica y legal fuera de Google DeepMind + campaña de concienciación y reclutamiento fuera de EAG Londres
+- Protesta pacífica y legal fuera de Google DeepMind, y concienciación y reclutamiento fuera de EAG Londres
 
 ¿Cuándo y dónde?
 
 - 12:00-14:00 del viernes 19 de mayo fuera de Google DeepMind
 - 12:00-14:00 del sábado 20 y domingo 21 de mayo fuera de EAG Londres
 - 17:00-20:00 del lunes 22 de mayo fuera de Google DeepMind
-- En el futuro: protestas regulares (posiblemente semanales)
+- En el futuro: protesta regular (semanal!)
 
 Ubicaciones exactas:
 
 - Google DeepMind en el edificio [S2 Handyside](https://www.kingscross.co.uk/s2-handyside): [2 Canal Reach](https://goo.gl/maps/HEA1pvEQJRfmymiEA?coh=178571&entry=tt), King's Cross, Londres, N1C 4DC
-- Effective Altruism Global Londres ([EAG Londres](https://www.effectivealtruism.org/ea-global/events/ea-global-london-2023)): [Tobacco Dock](https://goo.gl/maps/MfVJ6Exfv7B1NbcL6?coh=178571&entry=tt), Tobacco Quay, Wapping Lane, Wapping, Londres, E1W 2SF
+- Altruismo Efectivo Global Londres ([EAG Londres](https://www.effectivealtruism.org/ea-global/events/ea-global-london-2023)): [Tobacco Dock](https://goo.gl/maps/MfVJ6Exfv7B1NbcL6?coh=178571&entry=tt), Tobacco Quay, Wapping Lane, Wapping, Londres, E1W 2SF
 
 ¿Por qué?
 
-- Para exigir una moratoria en el desarrollo de sistemas de inteligencia artificial más potentes que GPT-4
-- Para concienciar al público sobre los riesgos asociados con el desarrollo de la inteligencia artificial general
-- Para generar presión social sobre Google DeepMind y otras empresas de inteligencia artificial
-- Para impulsar un movimiento social que promueva una mayor seguridad, gobernanza y ética en la inteligencia artificial
-- En particular, para sentar un precedente para protestas regulares
+- Para pedir una moratoria en el desarrollo de la inteligencia artificial general
+- Para concienciar al público sobre el riesgo que plantea el desarrollo de la inteligencia artificial general
+- Para crear y aprovechar la presión social sobre Google DeepMind y otras empresas de inteligencia artificial
+- Para generar impulso para un movimiento social que exija una mejor seguridad, gobernanza y ética en la inteligencia artificial en general
+- En particular, para sentar un precedente para una protesta regular (semanal?)
 
 ¿Cómo?
 
-- Nos manifestaremos de manera pacífica y legal fuera de Google DeepMind con pancartas y un estandarte, y posiblemente repartiremos folletos, calcomanías o insignias a los empleados de DeepMind y a los transeúntes
-- Mantendremos conversaciones respetuosas y cooperativas
+- Nos manifestaremos de manera pacífica y legal fuera de Google DeepMind con pancartas y un estandarte, posiblemente repartiendo folletos, calcomanías o insignias a los empleados de DeepMind y a los transeúntes
+- Tendremos conversaciones respetuosas y cooperativas
 - Podríamos dar discursos o cantar y corear (aunque esto es menos probable)
 - Podríamos disfrazarnos con trajes llamativos
 - Nuestro tono será informativo, inclusivo y divertido, en lugar de confrontativo y disruptivo
-- Nosotros apuntamos a reunir hasta 30 personas en esta primera protesta
+- Nosotros apuntamos a reunir a hasta 30 personas en esta primera protesta
 
 Aspectos legales:
 
 - Esta es una protesta completamente legal y no arrestable
-- Nos manifestaremos en la acera (espacio público), no en terreno privado
+- Nos manifestaremos en la acera (espacio público), no en tierra privada
 
 Prensa, medios y publicidad:
 
@@ -67,15 +67,17 @@ El problema:
 
 - No sabemos cómo funciona la inteligencia artificial
 - No hemos resuelto el problema de la alineación
+- La alineación es lo primero
+- ¿Cómo controlamos una superinteligencia artificial?
 - La seguridad de la inteligencia artificial es prioritaria
 - La inteligencia artificial plantea un riesgo existencial para la humanidad
-- 30% de posibilidades de resultados negativos de la superinteligencia artificial -- [investigadores de seguridad de la inteligencia artificial](https://pauseai.info/xrisk)
+- 30% de probabilidad de resultados negativos de la superinteligencia artificial -- [investigadores de seguridad de la inteligencia artificial](https://pauseai.info/xrisk)
 - El riesgo de destruir el planeta es más del 1% -- [investigadores de inteligencia artificial](https://twitter.com/liron/status/1656929936639430657?s=20)
 - Los expertos están preocupados
 - Ver citas de expertos de PauseAI [aquí](https://pauseai.info/xrisk)
-- La carrera hacia el desarrollo de la inteligencia artificial general es un riesgo para la humanidad
-- ¿Qué pasa si no podemos controlar la superinteligencia artificial?
-- La humanidad ya ha causado la extinción de especies; ¿la inteligencia artificial nos causará la nuestra?
+- Detén la carrera hacia el abismo
+- ¿Qué pasa si no podemos detenerla?
+- La humanidad ya ha causado la extinción de los neandertales; ¿la inteligencia artificial nos matará a nosotros?
 - La posibilidad de que la inteligencia artificial elimine a la humanidad no es inconcebible -- Hinton
 - Esto cambiará todo
 - #dontlookup
@@ -84,10 +86,11 @@ El problema:
 
 La solución:
 
-- Detener el desarrollo de la inteligencia artificial general
+- Pausa la inteligencia artificial
 - #pauseAI
 - #justlookup
 - No desarrollar la inteligencia artificial general
+- Detén el desarrollo de la inteligencia artificial general
 - Moratoria en el desarrollo de la inteligencia artificial general, ahora
 - Cumbre global de inteligencia artificial, ahora
 - Tratado global de inteligencia artificial, ahora
@@ -97,7 +100,7 @@ El resultado final:
 
 - Inteligencia artificial segura, segura y alineada
 - Verano de la inteligencia artificial
-- No necesitamos la inteligencia artificial general para un futuro próspero
+- No necesitamos la inteligencia artificial general para un futuro increíble
 
 Más ideas de mensaje y narrativa:
 
@@ -120,12 +123,12 @@ Pancartas
 Folletos
 
 - Debido a la incertidumbre sobre qué debe ir en los folletos, Alistair no planea imprimir folletos
-- Alistair imprimirá una gran cantidad de cartas de la FLI (y posiblemente artículos de Yudkowsky Time) para repartir
+- Alistair imprimirá una carga de cartas de la FLI (y posiblemente artículos de Yudkowsky Time) para repartir
 - Si desea hacer esto y necesita financiamiento, por favor hable con Alistair
 
-Calcomanías e insignias
+Calcomanías y insignias
 
-- Alistair intentará imprimir calcomanías e insignias de PauseAI
+- Alistair intentará imprimir calcomanías y insignias de PauseAI
 
 ## Contacto {#contact}
 
