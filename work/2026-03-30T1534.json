@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"created": "2026-03-30T15:34:17.291Z",
+	"branch": "l10n-pl",
+	"model": "meta-llama/llama-3.3-70b-instruct",
+	"items": [
+		{
+			"source": "src/posts/4-levels-of-ai-regulation.md",
+			"locale": "pl",
+			"reason": "outdated",
+			"estimatedCost": 0.0014852,
+			"contentWords": 943
+		},
+		{
+			"source": "src/posts/amsterdam-protest-2025-december.md",
+			"locale": "pl",
+			"reason": "outdated",
+			"estimatedCost": 0.0005728,
+			"contentWords": 252
+		},
+		{
+			"source": "src/posts/australia-detail.md",
+			"locale": "pl",
+			"reason": "outdated",
+			"estimatedCost": 0.001964,
+			"contentWords": 1306
+		}
+	]
+}

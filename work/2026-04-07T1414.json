@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"created": "2026-04-07T14:14:54.058Z",
+	"branch": "l10n-pl",
+	"model": "meta-llama/llama-3.3-70b-instruct:nitro",
+	"items": [
+		{
+			"source": "src/posts/2023-july-london-18th.md",
+			"locale": "pl",
+			"reason": "forced",
+			"estimatedCost": 0.001164,
+			"contentWords": 700
+		}
+	]
+}
