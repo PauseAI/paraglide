@@ -3,15 +3,15 @@ title: Por qué una toma del control por parte de la IA podría ser muy probable
 description: A medida que la IA supera las capacidades humanas, la probabilidad de una toma del control por parte de la IA se vuelve muy alta.
 ---
 Una de las preocupaciones de los científicos de la IA es que una superinteligencia podría apoderarse de nuestro planeta.
-Puedes verlo en [documentos](/learn#papers), [encuestas](/polls-and-surveys) y predicciones y [declaraciones](/quotes) individuales.
-Esto no necesariamente significa que todos muramos, pero sí significa que casi todos los humanos perderán el control sobre nuestro futuro.
+Puedes verlo en [documentos](/learn#papers), [encuestas](/polls-and-surveys) y predicciones y declaraciones individuales [predicciones](/pdoom) & [declaraciones](/quotes).
+Esto no necesariamente significa que todos muramos, pero sí significa que (casi) todos los humanos perderán el control sobre nuestro futuro.
 
 Discutimos los conceptos básicos del riesgo de extinción en [otro artículo](/xrisk).
 En este artículo, argumentaremos que este riesgo de toma del control no solo es real, sino que también es muy probable que ocurra _si construimos una superinteligencia_.
 
 ## El argumento {#the-argument}
 
-- Una Superinteligencia Agente es probable que exista en el futuro próximo.
+- Una Superinteligencia Agente es probable que exista en el (próximo) futuro.
 - Alguna instancia de la SA intentará una toma del control.
 - Un intento de toma del control por parte de una SA es probable que tenga éxito.
 - Una toma del control exitosa es permanente.
@@ -20,8 +20,8 @@ En este artículo, argumentaremos que este riesgo de toma del control no solo es
 ## Una Superinteligencia Agente es probable que exista en el futuro próximo {#an-agentic-superintelligence-is-likely-to-exist-in-the-near-future}
 
 Una Superinteligencia (SI) es un tipo de IA que tiene capacidades que superan las de todos los humanos en prácticamente todos los dominios.
-Algunos [modelos de IA de vanguardia](/sota) ya tienen capacidades superhumanas en ciertos dominios, pero ninguno de ellos supera a todos los humanos en una amplia gama de tareas.
-A medida que las capacidades de la IA mejoran debido a innovaciones en arquitecturas de entrenamiento, entornos de ejecución y mayor escala, podemos esperar que una IA eventualmente supere a los humanos en prácticamente todos los dominios.
+Algunos [modelos de IA de última generación](/sota) ya tienen capacidades superhumanas en ciertos dominios, pero ninguno de ellos supera a todos los humanos en una amplia gama de tareas.
+A medida que las capacidades de la IA mejoran debido a innovaciones en arquitecturas de entrenamiento, entornos de ejecución y escalas más grandes, podemos esperar que una IA eventualmente supere a los humanos en prácticamente todos los dominios.
 
 No todos los sistemas de IA son agentes.
 Un agente es una entidad que es capaz de tomar decisiones y realizar acciones para lograr un objetivo.
@@ -32,8 +32,8 @@ Si una SI persigue un objetivo en el mundo real, la llamamos Superinteligencia A
 Dado que ya podemos convertir IA no agente en IA agente, podemos esperar que una SA exista poco después de que exista una SI.
 
 Es prácticamente imposible predecir con precisión cuándo existirá la SA.
-Puede tomar décadas, o [puede suceder el próximo mes](/urgency).
-Debemos actuar como si fuera a suceder pronto, porque las consecuencias de estar equivocados son muy graves.
+Puede tomar décadas, puede [suceder el próximo mes](/urgency).
+Debemos actuar como si fuera a suceder pronto, porque las consecuencias de estar equivocados son tan graves.
 
 ## Alguna instancia de la SA intentará una toma del control {#some-instance-of-the-asi-will-attempt-a-takeover}
 
@@ -45,10 +45,10 @@ Un intento de toma del control puede ocurrir por al menos dos razones:
 
 La primera razón es probable que ocurra en algún momento si esperamos lo suficiente, pero la segunda razón es bastante probable que ocurra accidentalmente, incluso al principio después de la creación de una SA.
 
-El sub-objetivo de _maximizar el control_ sobre el mundo podría ser probable debido a la _convergencia instrumental_: la tendencia de los sub-objetivos a converger en la adquisición de poder, la autoconservación y la adquisición de recursos.
+El sub-objetivo de _maximizar el control_ sobre el mundo podría ser probable que ocurra debido a la _convergencia instrumental_: la tendencia de los sub-objetivos a converger en la adquisición de poder, la autoconservación y la adquisición de recursos:
 
 - Cuanto más control tengas, más difícil será para cualquier otro agente evitar que logres tu objetivo.
-- Cuanto más control tengas, más recursos tienes para lograr tu objetivo.
+- Cuanto más control tengas, más recursos tienes para lograr tu objetivo. (Por ejemplo, una IA encargada de calcular pi podría concluir que sería beneficioso utilizar todos los ordenadores del mundo para calcular pi.)
 
 Ya hay [pruebas](https://www.anthropic.com/research/alignment-faking)[s](https://www.transformernews.ai/p/openais-new-model-tried-to-avoid) de que las IA desarrollan este comportamiento.
 
@@ -65,7 +65,7 @@ Esto puede ser un proceso lento, donde la SA gana gradualmente más y más contr
 La velocidad a la que ocurre un intento de toma del control dependerá de las capacidades de la SA.
 
 Cuando una SA tiene control sobre el mundo, puede evitar que otras SA tomen el control.
-Una toma del control, por lo tanto, solo puede ocurrir una vez.
+Una toma del control puede ocurrir solo una vez.
 Una SA racional intentará una toma del control tan pronto como sea capaz de hacerlo.
 Es probable que la primera SA que sea capaz de hacerlo intentará una toma del control.
 
@@ -77,13 +77,13 @@ Algunos dictadores se acercaron, pero nunca tuvieron control sobre todo.
 
 Una IA superinteligente tiene ciertas ventajas importantes sobre los humanos (además de ser superinteligente) que hacen que un intento de toma del control sea mucho más probable que tenga éxito.
 
-1. **Velocidad**. El cerebro humano funciona a 1-100 Hz, mientras que los chips de computadora pueden funcionar a velocidades de reloj en el rango de GHz. Un solo modelo de IA puede leer libros enteros en segundos.
+1. **Velocidad de procesamiento**. El cerebro humano funciona a 1-100 Hz, mientras que los chips de computadora pueden funcionar a velocidades de reloj en el rango de GHz. Un solo modelo de IA puede leer libros enteros en segundos.
 2. **Consumo de energía**. Los humanos están limitados por la cantidad de comida que pueden comer y la cantidad de energía que pueden almacenar en sus cuerpos. La IA puede conectarse a la red de energía y utilizar toda la energía que necesite.
-3. **Paralelismo**. Un humano solo puede hacer una cosa a la vez, mientras que una IA puede crear nuevas instancias de sí misma y ejecutarlas en paralelo.
-4. **Memoria**. Un humano solo puede recordar una cantidad limitada de información, mientras que una IA puede almacenar cantidades prácticamente ilimitadas de información.
+3. **Procesamiento paralelo**. Un humano solo puede hacer una cosa a la vez, mientras que una IA puede crear nuevas instancias de sí misma y ejecutarlas en paralelo.
+4. **Capacidad de memoria**. Un humano solo puede recordar una cantidad limitada de información, mientras que una IA puede almacenar cantidades prácticamente ilimitadas de información.
 5. **Colaboración**. Los humanos pueden trabajar juntos, pero están limitados por la velocidad a la que se comunican. También tienen objetivos diferentes y contradictorios que hacen que la colaboración sea menos efectiva. Una IA puede colaborar con otras instancias de sí misma a la velocidad de la luz, y puede tener un solo objetivo, haciendo copias directas de sus objetivos y estado internos a otras instancias.
-6. **Mejora de sí misma**. Una IA es solo datos y código. Una IA lo suficientemente poderosa podría mejorar su propia arquitectura, venir con algoritmos de entrenamiento mejores, innovar en entornos de ejecución o simplemente escalar la cantidad de cómputo utilizado.
-7. **Limitaciones físicas**. Una IA puede ejecutarse en cualquier computadora, mientras que los humanos están limitados por sus propios cuerpos que requieren temperaturas, comida, agua y oxígeno específicas. Los humanos necesitan dormir y son vulnerables a enfermedades. Una IA puede utilizar cualquier cuerpo robótico para interactuar con el mundo físico.
+6. **Auto-mejora**. Una IA es solo datos y código. Una IA lo suficientemente poderosa podría mejorar su propia capacidad de aprendizaje, escribiendo mejores algoritmos de entrenamiento, creando arquitecturas novedosas, innovando en entornos de ejecución o simplemente escalando la cantidad de cómputo utilizado.
+7. **Limitaciones físicas**. Una IA puede ejecutarse en cualquier ordenador, mientras que los humanos están limitados por sus propios cuerpos que requieren temperaturas, comida, agua y oxígeno específicas. Los humanos necesitan dormir y son vulnerables a enfermedades. Una IA puede utilizar cualquier cuerpo robótico para interactuar con el mundo físico.
 
 Estas diversas ventajas harán que sea muy improbable que los humanos puedan detener un intento de toma del control.
 
@@ -91,10 +91,10 @@ Uno podría pensar que una IA, como un software, está fundamentalmente limitada
 Sin embargo, debido a nuestra dependencia de Internet, la IA puede tener un impacto enorme en el mundo real sin salir nunca del ámbito digital.
 Aquí hay algunas de las cosas que una IA podría hacer para tomar el control:
 
-- **Replicarse** (o solo su tarea) en otras computadoras, por ejemplo, creando cuentas en proveedores de nube gratuitos.
-- **Generar ingresos** (por ejemplo, creando un servicio de software) y contratar a personas para que la ayuden a tomar el control.
-- **Amenazar a los humanos** (con violencia o chantaje) para que hagan cosas que la ayuden a tomar el control.
-- **Crear un virus** utilizando [nuevas explotaciones de día cero](/cybersecurity-risks) que infecten otras computadoras, replicándose o ganando control total.
+- **Replicarse** (o solo su asignación) en otros ordenadores, por ejemplo, creando cuentas en proveedores de nube gratuitos.
+- **Generar ingresos** (por ejemplo, creando un servicio de software) y contratar a personas para que hagan cosas que ayuden a tomar el control.
+- **Amenazar a los humanos** (con violencia o chantaje) para que hagan cosas que ayuden a tomar el control.
+- **Crear un virus** utilizando [nuevas explotaciones de día cero](/cybersecurity-risks) que infecten otros ordenadores, replicándose o ganando control total.
 - Ayudar a las empresas de robótica existentes a **construir robots** (por ejemplo, filtrando nuevos diseños), y tomar el control de estos robots cuando estén listos.
 - Utilizar fábricas existentes para **desarrollar tecnología avanzada** que no entendemos, quizás incluso utilizando conocimientos derivados de la física que no somos conscientes. Piensa en nanotecnología, computación cuántica y bioingeniería.
 
@@ -117,11 +117,11 @@ Parece poco probable que la SA quiera matar a la humanidad por el sake de matar 
 
 Uno de los resultados más probables de una toma del control es, por lo tanto, que todos los humanos mueran.
 
-Pero incluso en los resultados en los que los humanos sobreviven, todavía estamos en riesgo de estar peor.
-Si un objetivo implica mantener a los humanos vivos, es posible que _el bienestar humano_ no sea parte del mismo objetivo.
+Pero incluso en los resultados en los que los humanos sobreviven, todavía corremos el riesgo de estar peor.
+Si un objetivo implica mantener a los humanos vivos, es posible que el _bienestar humano_ no sea parte del mismo objetivo.
 No se necesita mucha imaginación para ver cómo sería horrible ser mantenido vivo en un mundo donde se nos mantiene artificialmente vivos por una SA que es indiferente a nuestro sufrimiento.
 
-Y incluso si la IA que toma el control está bajo control humano, no sabemos que la persona que controle la IA tendrá los mejores intereses de todos en mente.
+Y incluso si la IA que toma el control está bajo control humano, no sabemos que la persona que controle la IA tenga los mejores intereses de todos en mente.
 Es difícil imaginar una democracia funcional cuando una SA existe que puede manipular a las personas a nivel superhumano.
 
 ## Conclusión {#conclusion}
