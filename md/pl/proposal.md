@@ -1,82 +1,74 @@
 ---
 title: Propozycja PauseAI
-description: Wprowadzenie tymczasowego wstrzymania szkolenia najpotężniejszych ogólnych systemów sztucznej inteligencji.
+description: Wprowadźcie czasowe wstrzymanie szkolenia najpotężniejszych ogólnych systemów sztucznej inteligencji.
 ---
+**Wprowadźcie czasowe wstrzymanie szkolenia najpotężniejszych ogólnych systemów sztucznej inteligencji**, dopóki nie będziemy wiedzieć, jak je bezpiecznie budować i utrzymywać pod demokratyczną kontrolą. Wiele naukowców i liderów przemysłu [uznaje, że wstrzymanie jest konieczne](https://futureoflife.org/open-letter/pause-giant-ai-experiments/), a także amerykańska opinia publiczna silnie popiera wstrzymanie ([64%](https://www.campaignforaisafety.org/usa-ai-x-risk-perception-tracker/)–[69%](https://today.yougov.com/topics/technology/survey-results/daily/2023/04/03/ad825/2)).
 
-**Wprowadźmy tymczasowe wstrzymanie szkolenia najpotężniejszych ogólnych systemów sztucznej inteligencji**, aż do czasu, gdy będziemy wiedzieć, jak je budować bezpiecznie i utrzymać pod demokratyczną kontrolą.
+_Wersja: 5 kwietnia 2026_
 
-_Wersja: 4 lutego 2025 r._
+Nie oczekujemy, że kraje lub firmy zrezygnują ze swojej przewagi konkurencyjnej, wstrzymując szkolenie systemów AI na długi czas, jeśli inne kraje lub firmy nie zrobią tego samego. Dlatego potrzebujemy **globalnego porozumienia**.
 
-Poszczególne kraje mogą i powinny wprowadzić tę środek _już teraz_.
-Szczególnie Stany Zjednoczone (lub Kalifornia, w szczególności) powinny wprowadzić wstrzymanie, ponieważ jest to siedziba praktycznie wszystkich wiodących firm zajmujących się sztuczną inteligencją.
-Wielu naukowców i liderów branży [zgadza się, że wstrzymanie jest konieczne](https://futureoflife.org/open-letter/pause-giant-ai-experiments/), a opinia publiczna w USA również silnie popiera wstrzymanie ([64%](https://www.campaignforaisafety.org/usa-ai-x-risk-perception-tracker/) - [69%](https://today.yougov.com/topics/technology/survey-results/daily/2023/04/03/ad825/2)).
-
-Jednak nie możemy oczekiwać, że kraje lub firmy zaryzykują swoją przewagę konkurencyjną, wstrzymując szkolenie sztucznej inteligencji na długi czas, jeśli inne kraje lub firmy nie zrobią tego samego.
-Dlatego potrzebujemy **globalnego wstrzymania**.
-
-Zobaczmy, co jest potrzebne, aby do tego dojść.
+Wprowadzenie wstrzymania _może_ nie powieść się, jeśli nie zostanie wykonane właściwie, ale uważamy, że nasza propozycja [zminimalizuje najpoważniejsze negatywne skutki](https://pauseai.info/mitigating-pause-failures). Przejdźmy do tego, co jest potrzebne, aby to osiągnąć.
 
 ## Droga do traktatu {#getting-to-a-treaty}
 
-Międzynarodowe porozumienie jest zazwyczaj ustanawiane poprzez szczyt, na którym spotykają się przywódcy krajów, aby omówić problem i podjąć decyzję.
-Mieliśmy już [trzy szczyty dotyczące bezpieczeństwa sztucznej inteligencji](/summit).
+Międzynarodowe porozumienia są zwykle ustalane na szczycie, gdzie przywódcy krajów spotykają się, aby omówić problem i podjąć decyzję. Do tej pory mieliśmy [cztery szczyty AI](/summit).
 
-Głównym celem tych szczytów powinien być **traktat**.
-Jednak do tej pory szczyty nie były skuteczne w produkcji czegoś prawnie wiążącego.
-A budowanie traktatu jest powolne i podatne na weta.
-Możemy [nie mieć czasu](/urgency), aby czekać na tradycyjne procesy tworzenia traktatów.
+Głównym celem tych szczytów powinien być **traktat międzynarodowy**. Do tej pory szczyty nie były skuteczne w tworzeniu czegoś prawnie wiążącego. Proces tworzenia traktatu jest zwykle powolny i narażony na weta, ale [może nie mamy czasu](/urgency) na długotrwały proces tworzenia traktatu.
 
-Dlatego potrzebujemy nowego **procesu tworzenia traktatów**:
+Niezbędne składniki udanego **procesu tworzenia traktatu**:
 
-- Udział zarówno **USA, jak i Chin** jest kluczowy.
-- Musi być **odporny na weta** ze strony jakiegokolwiek kraju.
-- Musi być **szybki**. Normalne procesy tworzenia traktatów trwają lata, a my [możemy nie mieć tego czasu](/urgency).
-- Skala tego procesu tworzenia traktatów jest bezprecedensowa i wymaga poparcia ze strony wszystkich krajów.
+- Udział zarówno **USA**, jak i **Chin**.
+- **Szybkość**. Zwykłe procesy tworzenia traktatu trwają lata, a [może będziemy budować nadludzką sztuczną inteligencję już wkrótce](/urgency).
+- Główni gracze (szczególnie USA i Chiny) muszą zrozumieć **zagrożenie**.
 
-Sam traktat powinien zawierać następujące **środki**:
+Sam traktat powinien zawierać następujące **postanowienia**:
 
-### Środki traktatu {#treaty-measures}
+## Postanowienia traktatu {#treaty-measures}
 
-- **Utwórz międzynarodową agencję bezpieczeństwa sztucznej inteligencji**, podobną do MAEA. Agencja ta będzie odpowiedzialna za:
-  - Udzielanie zgody na _wdrożenia_. Będzie to obejmować testy penetracyjne / [oceny modeli](/evaluations).
-  - Udzielanie zgody na _nowe szkolenia_ modeli sztucznej inteligencji powyżej określonego rozmiaru (np. 1 miliard parametrów).
-  - Okresowe spotkania w celu omówienia postępów w badaniach nad bezpieczeństwem sztucznej inteligencji.
+### Utwórz międzynarodową Agencję Bezpieczeństwa AI (AISA). {#set-up-an-international-ai-safety-agency-aisa}
 
-- **Zezwalaj na szkolenie ogólnych systemów sztucznej inteligencji tylko wtedy, gdy ich bezpieczeństwo może być zagwarantowane**.
-  - Przez ogólne modele sztucznej inteligencji rozumiemy modele, które są albo 1) większe niż 10^12 parametrów, 2) mają więcej niż 10^25 FLOPs użytych do szkolenia lub 3) mają zdolności, które przekraczają wynik 86% w teście MMLU. Należy zauważyć, że nie dotyczy to _wąskich_ systemów sztucznej inteligencji, takich jak rozpoznawanie obrazów stosowane w diagnostyce raka.
-  - Możliwe jest, że problem dostosowania sztucznej inteligencji _nigdy nie zostanie rozwiązany_ - może być nierozwiązywalny. W takim przypadku nigdy nie powinniśmy zezwalać na szkolenie takich systemów.
-  - **Weryfikuj**, że te niebezpieczne szkolenia nie mają miejsca. Można to zrobić na [wiele sposobów](https://arxiv.org/abs/2408.16074): [śledzenie kart graficznych](https://arxiv.org/abs/2303.11341), zachęcanie sygnalistów, monitorowanie energii, inspekcje centrów danych, wywiad finansowy, inspekcje zakładów produkcyjnych półprzewodników, inspekcje deweloperów sztucznej inteligencji, śledzenie lokalizacji chipów i raportowanie oparte na chipach. [Łańcuch dostaw chipów sztucznej inteligencji](https://www.governance.ai/post/computing-power-and-the-governance-of-ai) jest wysoce scentralizowany, co umożliwia globalny nadzór.
-  - Wymagaj [nadzoru podczas szkoleń](https://www.alignmentforum.org/posts/Zfk6faYvcf5Ht7xDx/compute-thresholds-proposed-rules-to-mitigate-risk-of-a-lab).
-  - Nawet jeśli możemy zbudować kontrolowaną, bezpieczną sztuczną inteligencję, buduj i wdrażaj taką technologię tylko z **silną demokratyczną kontrolą**. Superinteligencja jest zbyt potężna, aby być kontrolowana przez jedną firmę lub kraj.
+Zainspirowana Międzynarodową Agencją Energii Atomowej (MAEA), agencja ta będzie odpowiedzialna za:
 
-- **Zezwalaj na wdrożenie modeli dopiero po stwierdzeniu, że nie mają [niebezpiecznych zdolności](/dangerous-capabilities)**. (Ocena przedwdrożeniowa)
-  - Będziemy potrzebować standardów i niezależnych testów penetracyjnych, aby określić, czy model ma niebezpieczne zdolności.
-  - Lista niebezpiecznych zdolności może zmieniać się w czasie, wraz z rozwojem zdolności sztucznej inteligencji.
-  - Należy zauważyć, że całkowite poleganie na ocenach modeli [nie jest wystarczające](/4-levels-of-ai-regulation).
+1. Udzielanie zgody na główne **wdrożenia** i **szkolenia** systemów AI, które nie stanowią zagrożenia dla ludzkości. Będzie to obejmowało testy penetracyjne i [oceny modeli](/evaluations).
+2. Udzielanie zgody na tworzenie jeszcze potężniejszych systemów AI **po wystarczającym postępie** w technicznych problemach bezpieczeństwa i kontroli AI.
+3. Określanie wymagań dotyczących **nadzoru szkoleń systemów AI**.
+4. **Weryfikacja** tego, czy decyzje agencji są respektowane. Może to być zrobione na [wiele sposobów](https://arxiv.org/abs/2408.16074): [śledzenie GPU](https://arxiv.org/abs/2303.11341), zachęcanie sygnalistów, monitorowanie energii, inspekcje centrów danych, wywiad finansowy, inspekcje zakładów produkujących półprzewodniki, inspekcje deweloperów AI, śledzenie lokalizacji chipów i raportowanie oparte na chipach. Aby uzyskać więcej informacji na temat tego, jak bardzo scentralizowany [łańcuch dostaw chipów AI](https://www.governance.ai/analysis/computing-power-and-the-governance-of-ai) może być wykorzystany do globalnego nadzoru nad rozwojem AI, przeczytaj [Budowanie przycisku pauzy](https://pauseai.info/building-the-pause-button).
 
-Wprowadzenie wstrzymania _może_ się nie powieść, jeśli nie zostanie wykonane prawidłowo.
-Przeczytaj więcej o [tym, jak można zminimalizować te ryzyka](/mitigating-pause-failures).
+Taka agencja musiałaby zebrać ekspertów, aby podjąć świadome i ostrożne decyzje. Może być znaczne niezgodność między ekspertami, a agencja musiałaby syntetyzować różne punkty widzenia i podjąć decyzję o odpowiednim poziomie ostrożności.
 
-Aby uzyskać więcej informacji na temat tego, jak łańcuch dostaw chipów sztucznej inteligencji może być wykorzystany do globalnego nadzoru, przeczytaj [Budowanie przycisku wstrzymania](/building-the-pause-button).
+### Kraje sygnatariusze mają dodatkowe prawa weta w sprawie wdrożenia bezpiecznej nadludzkiej AI. {#signatory-countries-have-additional-veto-powers-over-the-deployment-of-safe-superhuman-ai}
 
-## Inne środki, które skutecznie spowalniają {#other-measures-that-effectively-slow-down}
+1. **Wystarczająco duża koalicja** krajów sprzeciwiających się może wetać jakiekolwiek wdrożenie bezpiecznego systemu nadludzkiej AI. Obejmuje to sprzeciw wobec szczegółów wdrożenia, takich jak instrukcje podane systemowi lub wartości w nim wpajane.
+2. **Do czasu uzgodnienia wdrożenia**, wagi i dostęp do AI muszą być ściśle **pod opieką AISA**. Agencja może wykorzystywać AI do egzekwowania traktatu przeciwko krajom agresywnym, ale nie do żadnego innego celu.
 
-- **Zakaz szkolenia systemów sztucznej inteligencji na materiałach chronionych prawem autorskim**. Pomaga to w kwestiach praw autorskich, spowalnia rosnącą nierówność i spowalnia postęp w kierunku superinteligencji.
-- **Pociągaj twórców modeli sztucznej inteligencji do odpowiedzialności** za przestępstwa popełnione przy użyciu ich systemów sztucznej inteligencji. Daje to twórcom modeli więcej motywacji, aby upewnić się, że ich modele są bezpieczne.
+Jeśli możemy zbudować kontrolowaną, bezpieczną AI, musimy się upewnić, że korzyści z niej płynące będą przypadać całej ludzkości. **Żadna firma ani kraj nie powinny być w stanie zmonopolizować całości nadwyżki generowanej przez AI**. Jeśli AI stworzy bezprecedensowy dobrobyt, żadna osoba nie powinna pozostać w biedzie.
+
+Jeśli grupa krajów uważa, że zostaną wykluczone z korzyści AI, powinny mieć silną pozycję negocjacyjną, aby domagać się swojej sprawiedliwej części. Podobnie, jeśli grupa demokratycznych krajów uważa, że kraj autorytarny wdroży AI, aby uciskać swoich obywateli, powinny być w stanie popierać wdrożenie, które umożliwi wszystkim obywatelom we wszystkich krajach.
+
+## Skutki traktatu {#effects-of-a-treaty}
+
+Najbardziej niebezpieczne modele będą to **ogólne** modele AI, które mogą zrozumieć język i wykonywać szeroki zakres zadań w wielu różnych dziedzinach. Najbardziej ogólne modele, które istnieją dzisiaj, to duże modele językowe, takie jak ChatGPT i systemy agentyczne, zbudowane na ich podstawie. Ale ten traktat zwykle **nie wpłynie na _wąskie_ systemy AI**, takie jak systemy rozpoznawania obrazów wykorzystywane do diagnozowania raka.
+
+Może się okazać, że problem wyrównania AI jest bardzo trudny i _nie zostanie rozwiązany przez długi czas_. W takim przypadku traktat uniemożliwi stworzenie nadludzkiej AI przez długi czas. To jedyny sposób, aby zapewnić bezpieczeństwo ludzkości.
+
+**Egzekwowanie** traktatu wymaga, aby USA i Chiny poparły go swoją potęgą gospodarczą i militarną. Jeśli przywódcy obu narodów zrozumieją powagę ryzyka AI, zobaczą, że powodzenie traktatu leży w ich własnym interesie. Jeśli zostanie stworzona bezpieczna nadludzka AI, sama AI będzie wykorzystywana przez AISA do egzekwowania traktatu.
+
+## Inne środki, które skutecznie spowalniają AI {#other-measures-that-effectively-slow-down-ai}
+
+- **Zakaz szkolenia systemów AI na materiałach objętych prawem autorskim**. Pomaga to w kwestiach praw autorskich, spowalnia rosnącą nierówność i spowalnia postęp w kierunku nadludzkiej AI.
+- **Uczynienie twórców modeli AI odpowiedzialnymi** za przestępstwa popełnione przy użyciu ich systemów AI. Daje to twórcom modeli więcej motywacji, aby upewnić się, że ich modele są bezpieczne.
 
 ## Długoterminowa polityka {#long-term-policy}
 
-W chwili pisania, szkolenie modelu o rozmiarze GPT-3 kosztuje miliony dolarów.
-To sprawia, że bardzo trudno jest szkolić takie modele, a to ułatwia egzekwowanie kontroli nad szkoleniem przy użyciu śledzenia kart graficznych.
-Jednak koszt szkolenia modelu maleje wykładniczo dzięki ulepszeniom sprzętu i nowym algorytmom szkolenia.
+W momencie pisania tego tekstu szkolenie modelu na poziomie GPT-5 kosztuje wiele milionów dolarów. To sprawia, że szkolenie takich modeli jest bardzo trudne i ułatwia egzekwowanie kontroli nad szkoleniem przy użyciu śledzenia GPU. Jednak koszt szkolenia modelu maleje wykładniczo ze względu na ulepszenia sprzętu i nowe algorytmy szkolenia.
 
-Nadejdzie moment, w którym potencjalnie superinteligentne modele sztucznej inteligencji będą mogły być szkolone za kilka tysięcy dolarów lub mniej, być może nawet na sprzęcie konsumenckim.
-Musimy być przygotowani na to.
-Powinniśmy rozważyć następujące polityki:
+Może nadejść moment, w którym potencjalnie nadludzkie modele AI mogą być szkolone za kilka tysięcy dolarów lub mniej, może nawet na sprzęcie konsumentów.
+Powinniśmy być przygotowani na to i rozważyć następujące dodatkowe zabezpieczenia:
 
-- **Ogranicz publikację algorytmów szkolenia / ulepszeń środowiska uruchomieniowego**. Czasami publikowany jest nowy algorytm, który sprawia, że szkolenie jest znacznie bardziej efektywne. Architektura Transformer, na przykład, umożliwiła praktycznie wszystkie ostatnie postępy w sztucznej inteligencji. Takie skoki zdolności mogą wystąpić w dowolnym momencie, a powinniśmy rozważyć ograniczenie publikacji takich algorytmów, aby zminimalizować ryzyko nagłego skoku zdolności. Istnieją również innowacje, które umożliwiają [decentralizowane szkolenia](https://www.primeintellect.ai/blog/opendiloco). Podobnie, niektóre innowacje środowiska uruchomieniowego mogą drastycznie zmienić to, co można zrobić z istniejącymi modelami. Zakaz publikacji takich algorytmów może być wprowadzony przy użyciu podobnych środków, jakimi zakazujemy innych form informacji, takich jak nielegalne media pornograficzne.
-- **Ogranicz postęp zdolności zasobów obliczeniowych**. Jeśli szkolenie superinteligencji stanie się możliwe na sprzęcie konsumenckim, jesteśmy w kłopotach. Powinniśmy rozważyć ograniczenie postępu zdolności sprzętu (np. poprzez ograniczenia litografii, projektowania chipów i nowych paradygmatów obliczeniowych, takich jak chipy fotoniczne i obliczenia kwantowe).
+- **Ogranicz publikację algorytmów szkolenia / ulepszeń czasowych**. Czasami nowy algorytm jest publikowany, który znacznie zwiększa wydajność szkolenia. Na przykład architektura Transformer umożliwiła prawie wszystki postęp w AI. Tego typu skoki możliwości mogą nastąpić w każdej chwili, a my powinniśmy rozważyć ograniczenie publikacji takich algorytmów, aby zminimalizować ryzyko nagłego skoku możliwości. Ograniczanie publikacji niebezpiecznych badań było skutecznie stosowane w innych dziedzinach, takich jak biobezpieczeństwo, gdzie metody wzmacniania patogenów są ściśle kontrolowane.
+- **Ogranicz postęp możliwości zasobów obliczeniowych**. Powinniśmy rozważyć ograniczenie postępu możliwości sprzętu (np. poprzez ograniczenia litografii, projektowania chipów i nowych paradygmatów obliczeniowych, takich jak chipy fotoniczne i komputery kwantowe).
 
 ## Pomóż nam osiągnąć to {#help-us-achieve-this}
 
-[Dołącz](/join) do ruchu, aby współpracować lub [działać](/action) samodzielnie!
+[Dołącz](/join) do ruchu, aby współpracować lub [podejmij działanie](/action) samodzielnie!
