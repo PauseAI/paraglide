@@ -5,23 +5,23 @@ description: australijski oddział PauseAI
 ---
  <!-- end of frontmatter metadata, dashes above need to stay -->
 
-W ciągu dekady sztuczna inteligencja może przewyższyć ludzi w niemal wszystkich dziedzinach — i będzie w stanie doskonalić się bez nadzoru człowieka. Jeśli do tego dojdzie bez wdrożenia skutecznych środków bezpieczeństwa na poziomie globalnym, konsekwencje mogą być katastrofalne.
+W ciągu dekady sztuczna inteligencja może przewyższyć ludzi pod względem inteligencji w niemal wszystkich dziedzinach — i będzie w stanie samodzielnie się udoskonalać bez kontroli człowieka. Jeśli do tego dojdzie bez wdrożenia skutecznych środków bezpieczeństwa na poziomie globalnym, konsekwencje mogą być katastrofalne.
 
-Australia powinna wesprzeć starania mające na celu zapobieżenie takiemu scenariuszowi. [Dowiedz się, jak](/australia-detail). [Zobacz, co udało nam się osiągnąć](/australia-wins)!
+Australia powinna wesprzeć starania, aby temu zapobiec. [Dowiedz się, jak możesz pomóc](/australia-detail). [Zobacz, jakie są nasze postępy](/australia-progress)!
 
-## Dołącz do nas {#get-involved}
+## Zaangażuj się {#get-involved}
 
-Jeśli mieszkasz w Australii, możesz wnieść swój wkład:
+Jeśli mieszkasz w Australii, możesz wziąć udział w naszych działaniach:
 
 - [Dołącz do naszej społeczności](/join)
 - [Weź udział w wydarzeniu](https://lu.ma/PauseAIAustralia)
-- [Skontaktuj się z australijskimi parlamentarzystami](https://www.australiansforaisafety.com.au/advocacy/contact-politicians?utm_source=pauseai-australia)
+- [Skontaktuj się z australijskimi politykami](https://www.australiansforaisafety.com.au/advocacy/contact-politicians?utm_source=pauseai-australia)
 - Porozmawiaj z przyjaciółmi i rodziną o ryzyku związanym z rozwojem sztucznej inteligencji
-- Wspieraj naszą działalność poprzez **PayID 85692218938**
+- Przekaż darowiznę na naszą działalność za pośrednictwem **PayID 85692218938**
 
 ## Połącz się z PauseAI Australia {#connect-with-pauseai-australia}
 
-- [australia@pauseai.info](mailto:australia@pauseai.info)
+- [australia@pauseai.info](mailto:australia@pauseai.info?subject=Hello%20From%20The%20Homepage)
 - [Facebook](https://www.facebook.com/groups/571590459293618)
 - [YouTube](https://www.youtube.com/channel/UCjjMieiOlSFf7jud0yhHQSg)
 - [LinkedIn](https://www.linkedin.com/company/pauseai-australia)
@@ -33,13 +33,13 @@ Jeśli mieszkasz w Australii, możesz wnieść swój wkład:
 
 Jesteśmy australijskim oddziałem międzynarodowego ruchu PauseAI.
 
-Wolontariusze z całej Australii pracują nad:
+Nasi wolontariusze z całej Australii pracują nad:
 
 - Zwiększaniem świadomości społecznej na temat ryzyka związanego z rozwojem sztucznej inteligencji
-- Wpływaniem na decyzje polityczne i legislacyjne
-- Wspieraniem międzynarodowej współpracy na rzecz bezpieczeństwa sztucznej inteligencji
-- Rozwojem i umacnianiem globalnego ruchu PauseAI
+- Wspieraniem polityków i decydentów w kwestiach związanych z bezpieczeństwem AI
+- Współpracą z organizacjami międzynarodowymi w celu zapewnienia bezpieczeństwa AI
+- Rozwojem i wzmacnianiem globalnego ruchu PauseAI
 
 PauseAI Australia Ltd jest zarejestrowaną organizacją non-profit.
 
-[Dowiedz się więcej o naszych działaniach w Australii](/australia-detail), i [zobacz, co udało nam się osiągnąć w poszczególnych miesiącach](/australia-wins)!
+[Dowiedz się więcej o naszych kampaniach w Australii](/australia-detail), i [zobacz, jakie są nasze bieżące działania](/australia-progress)!
