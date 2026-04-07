@@ -1,5 +1,5 @@
 ---
-title: Finansowanie PauseAI & Darczyńcy
+title: ZatrzymajAI - Finansowanie i darczyńcy
 description: Lista naszych największych darczyńców.
 date: ''
 ---
@@ -7,28 +7,28 @@ date: ''
 
 _Ostatnia aktualizacja: 2025-12-02_
 
-Dotychczas PauseAI otrzymało darowizny o wartości około 715 tys. euro.
+Od momentu uruchomienia w 2023 roku, ZatrzymajAI otrzymało dotychczas 715 tys. euro w formie darowizn.
 
 ## Najwięksi darczyńcy {#largest-donors}
 
-- 422 961 (Future of Life Institute)
+- 422 961 (Instytut Przyszłości Życia, 2025)
 - 95 000 (Greg Colbourn)
 - 83 000 ([Conjointly](https://conjointly.com/))
-- 36 952 (anonimowy darczyńca)
-- 27 528 (Lightspeed, za pośrednictwem Grega Colbourna)
+- 36 952 (osoba anonimowa)
+- 27 528 (Lightspeed, za pośrednictwem Grega Colbourn)
 - 18 410 ([Lightspeed](https://lightspeedgrants.org/))
-- 9 463 (Fundacja Przetrwania i Rozkwitu)
+- 9 463 (Fundusz Przetrwania i Rozwoju)
 - 8 221 ([Manifund](https://manifund.org/projects/pauseai-local-communities---volunteer-stipends), różni darczyńcy)
-- 7 542 (anonimowy darczyńca)
-- 5 000 (anonimowy darczyńca)
+- 7 542 (osoba anonimowa)
+- 5 000 (osoba anonimowa)
 - 2 100 (Adam Dingle)
-- 1 000 (anonimowy darczyńca)
-- 1 000 (anonimowy darczyńca)
+- 1 000 (osoba anonimowa)
+- 1 000 (osoba anonimowa)
 
-_Kwoty podane są w euro. W przypadku wielokrotnych darowizn od tego samego darczyńcy, są one łączone i wyświetlane jako jedna kwota._
+_Kwoty są wyrażone w euro. W przypadku gdy ta sama osoba dokonała kilku darowizn, kwoty te zostały zsumowane._
 
-## Powiązane {#related}
+## Pokrewne {#related}
 
-- [Mapa drogowa](/roadmap) naszych planów
-- [Wesprzyj nas](/donate)
+- [Plan działania](/roadmap) naszych planów
+- [Wsparcie finansowe](/donate), aby nas wesprzeć
 - [Informacje prawne](/legal)
