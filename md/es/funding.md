@@ -1,17 +1,17 @@
 ---
-title: Financiación y donantes de PauseAI
-description: Lista de nuestros principales donantes.
+title: Financiación de PauseAI y donantes
+description: Lista de nuestros donantes más destacados.
 date: ''
 ---
  <!-- end of frontmatter metadata, dashes above need to stay -->
 
 _Última actualización: 2025-12-02_
 
-PauseAI ha recibido aproximadamente 715.000 euros en donaciones hasta la fecha.
+Desde su lanzamiento en 2023, PauseAI ha recibido 715.000 euros en donaciones.
 
-## Principales donantes {#largest-donors}
+## Donantes más destacados {#largest-donors}
 
-- 422.961 (Instituto del Futuro de la Vida)
+- 422.961 (Instituto del Futuro de la Vida, 2025)
 - 95.000 (Greg Colbourn)
 - 83.000 ([Conjointly](https://conjointly.com/))
 - 36.952 (individuo anónimo)
@@ -25,10 +25,10 @@ PauseAI ha recibido aproximadamente 715.000 euros en donaciones hasta la fecha.
 - 1.000 (individuo anónimo)
 - 1.000 (individuo anónimo)
 
-_Las cantidades se expresan en euros. Si un mismo individuo ha realizado varias donaciones, se muestran como una sola y se suman._
+_Las cantidades se expresan en euros. Si un mismo individuo realizó varias donaciones, se consolidan en una sola entrada._
 
 ## Información relacionada {#related}
 
-- [Hoja de ruta](/roadmap) para nuestros planes
-- [Donaciones](/donate) para apoyarnos
+- [Plan de trabajo](/roadmap) para nuestros objetivos
+- [Donaciones](/donate) para apoyar nuestra causa
 - [Información legal](/legal)
