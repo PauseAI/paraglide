@@ -2,18 +2,18 @@
 title: Protesta PauseAI en Ámsterdam, diciembre 2025
 slug: amsterdam-protest-2025-december
 description: Protesta en Ámsterdam para instar al gobierno neerlandés y a la empresa neerlandesa ASML a dejar de suministrar a empresas que desarrollan superinteligencia artificial.
-image: /banner-all.jpeg
+image: /banner-all-cropped.jpeg
 ---
 
-El 13 de diciembre de 2025, organizamos una protesta en Ámsterdam para urgir al gobierno neerlandés y a la empresa ASML a que dejen de suministrar a empresas que desarrollan superinteligencia artificial.
+El 13 de diciembre de 2025, organizamos una protesta en Ámsterdam para urgir al gobierno neerlandés y a la empresa ASML, con sede en los Países Bajos, a que dejen de suministrar a empresas que están desarrollando superinteligencia artificial.
 
 Unas 25 personas se unieron a la protesta para expresar su oposición a la carrera por desarrollar superinteligencia y mostrar su apoyo a la regulación internacional para frenarla.
 
 ## **¿Por qué los Países Bajos? ¿Por qué ASML? ¿Por qué ahora?** {#why-the-netherlands-why-asml-why-now}
 
-ASML es el único fabricante de máquinas de litografía de ultravioleta extremo (EUV) capaces de producir chips de inteligencia artificial de última generación. Sin la tecnología de ASML, no hay una vía rápida para desarrollar superinteligencia. Actualmente, ninguna otra empresa puede replicar lo que ASML hace.
+ASML es el único fabricante de máquinas de litografía de ultravioleta extrema (EUV) capaces de producir chips de inteligencia artificial de última generación. Sin la tecnología de ASML, no hay una vía rápida para desarrollar superinteligencia. Actualmente, ninguna otra empresa puede replicar lo que ASML hace.
 
-ASML ya limita el acceso a su tecnología por razones de seguridad nacional, bloqueando las exportaciones a China y Rusia. Incluso ha incorporado capacidades de apagado remoto en sus máquinas.
+ASML ya limita el acceso a su tecnología por razones de seguridad nacional, bloqueando las exportaciones a China y Rusia. Incluso han incorporado capacidades de apagado remoto en sus máquinas.
 
 ### **Exigencia de PauseAI al gobierno neerlandés y ASML:** {#pauseais-demand-to-the-dutch-government-and-asml}
 
