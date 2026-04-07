@@ -1,47 +1,45 @@
 ---
-title: Wakat na stanowisku dyrektora ds. organizacji
+title: Oferta pracy: Dyrektor Organizacyjny
 slug: 2025-organizing-director
-description: Wakat na stanowisku dyrektora ds. organizacji w PauseAI Global
+description: Oferta pracy: Dyrektor Organizacyjny w PauseAI Global
 date: 2025-11-03T14:26:00.000+01:00
 ---
 <!-- end of frontmatter metadata, dashes above need to stay -->
 
-# Dyrektor ds. organizacji (wakat) {#organizing-director-vacancy}
-
-Aktualizacja: Ten wakat jest już zamknięty.
+Aktualizacja: Niniejsza oferta pracy jest już nieaktualna.
 
 ## **Opis stanowiska** {#role-description}
 
-Jako dyrektor ds. organizacji w PauseAI Global będziesz odpowiedzialny za międzynarodową implementację strategii, w tym za projektowanie i wdrażanie planów rozwoju i utrzymania wolontariuszy, budowanie międzynarodowych kampanii oraz rozwój i mentoring liderów krajowych.
+Jako Dyrektor Organizacyjny PauseAI Global, będziesz odpowiedzialny za wdrożenie strategii organizacji na poziomie międzynarodowym, w tym za projektowanie i wdrażanie planów rozwoju i utrzymania wolontariuszy, tworzenie międzynarodowych kampanii oraz rozwijanie i mentoring liderów krajowych (wolontariuszy i pracowników).
 
-Będziesz kierować zespołem liderów PauseAI Global i zwoływać spotkania liderów krajowych.
+Będziesz przewodniczyć zespołowi kierownictwa PauseAI Global i zwoływać spotkania liderów krajowych.
 
-Będziesz odpowiedzialny przed dyrektorem generalnym PauseAI Global.
+Będziesz odpowiedzialny przed Dyrektorem Generalnym PauseAI Global.
 
 ### Zadania i odpowiedzialność {#tasks--responsibilities}
 
-- Międzynarodowe przywództwo: Pełnienie roli głównego koordynatora i punktu kontaktowego dla międzynarodowych działań PauseAI.
-- Koordynacja kampanii i zarządzanie projektami: Planowanie i realizacja międzynarodowych kampanii, demonstracji i działań lobbingowych.
-- Rozwój oddziałów: Zakładanie, wspieranie i zarządzanie krajowymi grupami PauseAI.
-- Partnerstwa strategiczne: Budowanie produktywnych i współpracujących relacji z innymi organizacjami zajmującymi się bezpieczeństwem AI, instytucjami akademickimi i grupami politycznymi.
-- Zbieranie funduszy: Pozyskiwanie dotacji i darowizn na dalsze wspieranie pracy PauseAI Global.
-- Projektowanie i tworzenie zasobów: Projektowanie materiałów szkoleniowych i organizacyjnych dla wolontariuszy, w tym tych niezbędnych do podejmowania działań zbiorowych.
-- Mentoring, ułatwianie i szkolenie: Szkolenie i mentoring liderów wolontariuszy i liderów krajowych. Organizacja wydarzeń szkoleniowych, takich jak PauseCons, a także szkoleń online.
+- Przywództwo międzynarodowe: Pełnij rolę głównego koordynatora i punktu kontaktowego dla międzynarodowych działań PauseAI.
+- Koordynacja kampanii i zarządzanie projektami: Planuj i wykonuj międzynarodowe kampanie, demonstracje i działania lobbingowe.
+- Rozwój struktur krajowych: Utwórz, wspieraj i zarządzaj krajowymi grupami PauseAI.
+- Partnerstwa strategiczne: Buduj produktywne i współpracujące relacje z innymi organizacjami zajmującymi się bezpieczeństwem sztucznej inteligencji, instytucjami akademickimi i grupami politycznymi.
+- Pozyskiwanie funduszy: Zabezpieczaj granty i darowizny w celu dalszego wspierania pracy PauseAI Global.
+- Tworzenie i udostępnianie zasobów: Projektuj materiały szkoleniowe i organizuj zasoby dla wolontariuszy, w tym te niezbędne do podjęcia zbiorowych działań.
+- Mentorowanie, ułatwianie i szkolenie: Szkol i mentoruj liderów wolontariuszy i liderów krajowych. Ułatwiaj szkolenia, takie jak PauseCons, oraz szkolenia online.
 
-### Umiejętności i atrybuty {#skills--attributes}
+### Umiejętności i wymagania {#skills--attributes}
 
-- Udowodnione doświadczenie i przywództwo w organizacji społeczności, aktywizmie lub budowaniu społeczności wirtualnej.
-- Doskonałe umiejętności komunikacyjne, zarówno werbalne, jak i pisemne, oraz doświadczenie w ułatwianiu komunikacji.
-- Poparcie dla idei wstrzymania AI, ale otwartość na różne perspektywy i podejścia.
-- Proaktywność i przedsiębiorczość. Strategiczne myślenie i umiejętność budowania elastycznych, ale wykonalnych planów.
-- Preferowane miejsce zamieszkania w Holandii, Wielkiej Brytanii lub Francji, ale możliwa jest również praca zdalna.
-- Zrozumienie bezpieczeństwa AI; nie jest wymagana wiedza specjalistyczna, ale trzeba być szybkim uczniem. Trzeba popierać międzynarodowe rozwiązanie w postaci traktatu o wstrzymaniu AI.
-- Wiedza o prawie i zarządzaniu AI jest dodatkowym atutem.
-- Umiejętności zarządzania projektami z doświadczeniem w koordynacji zespołów, zwłaszcza wolontariuszy.
+- Doświadczenie i umiejętności przywódcze w organizowaniu społeczności, aktywizmie lub budowaniu społeczności wirtualnej.
+- Doskonałe umiejętności komunikacyjne, zarówno werbalne, jak i pisemne, doświadczenie w pracy przed kamerą i umiejętności ułatwiania.
+- Poparcie dla idei wstrzymania rozwoju sztucznej inteligencji, ale także otwartość na różne perspektywy (takie jak modele zagrożeń lub polityki).
+- Proaktywność i przedsiębiorczość. Umiejętność myślenia strategicznego i budowania elastycznych, ale skutecznych planów.
+- Preferowany jest adres w Holandii, Wielkiej Brytanii lub Francji, ale praca zdalna jest również możliwa.
+- Zrozumienie bezpieczeństwa sztucznej inteligencji; ekspertyza nie jest wymagana, ale musi być szybko uczący się. Musi popierać międzynarodowe rozwiązanie traktatu wstrzymania.
+- Wiedza na temat prawa i zarządzania sztuczną inteligencją jest dodatkowym atutem.
+- Umiejętności zarządzania projektami z doświadczeniem w koordynowaniu zespołów, szczególnie wolontariuszy.
 
-### Warunki {#conditions}
+### Warunki zatrudnienia {#conditions}
 
-- Praca zdalna. Możliwe, że w przyszłości biuro w Londynie lub Paryżu.
+- Praca zdalna. Może w przyszłości biuro w Londynie lub Paryżu.
 - Pełny etat, 32 godziny tygodniowo do negocjacji.
 - Zakres wynagrodzenia: 40 000 - 60 000 EUR rocznie, w zależności od doświadczenia.
-- Premia za polecenie: 500 EUR za udane zatrudnienie!
+- Premia za polecenie: 500 EUR za udany werbunek!
